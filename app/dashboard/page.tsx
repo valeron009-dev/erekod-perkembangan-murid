@@ -57,7 +57,7 @@ export default function DashboardPage() {
 
       // Calculate stats
       const totalClasses = subjects.length;
-      const totalStudents = subjects.reduce((acc, cs) => acc + (cs.studentCount || 0), 0);
+      const totalStudents = subjects.reduce((acc: number, cs: any) => acc + (cs.studentCount || 0), 0);
       
       // Fetch total records count
       const recordsSnap = await getDocs(collection(db, "users", uid, "progressRecords"));
