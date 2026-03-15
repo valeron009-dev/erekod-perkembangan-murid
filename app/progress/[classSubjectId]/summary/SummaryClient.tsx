@@ -189,26 +189,31 @@ export default function SummaryClient() {
 
       <main className="mx-auto max-w-[1600px] px-4 py-6 sm:py-8 sm:px-6 lg:px-8">
         {/* Action Bar - Hidden on Print */}
-        <div className="mb-6 flex flex-wrap items-center justify-between no-print gap-4">
-          <Button variant="outline" size="sm" onClick={() => router.back()} className="h-9 rounded-lg px-3 shrink-0">
+        <div className="mb-6 no-print">
+          <Button variant="outline" size="sm" onClick={() => router.back()} className="h-9 rounded-lg px-3">
             <ArrowLeft size={16} className="mr-2" />
             Kembali
           </Button>
-          <div className="flex gap-2 shrink-0">
-            <Button variant="outline" size="sm" onClick={() => window.print()} className="flex h-9 rounded-lg px-3 shrink-0">
-              <Printer size={16} className="mr-2" />
-              Cetak
-            </Button>
-          </div>
         </div>
 
         {/* Header - Title and Class Info (Visible on Print) */}
         <header className="mb-8 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
-          <div className="space-y-2">
-            <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">Ringkasan TP Murid</h1>
-            <p className="text-sm sm:text-base text-slate-500 font-medium">
-              {classData?.className || classSubject?.className} &bull; {classSubject?.subjectId} &bull; Tahun {classSubject?.year}
-            </p>
+          <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+            <div className="space-y-2">
+              <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">Ringkasan TP Murid</h1>
+              <p className="text-sm sm:text-base text-slate-500 font-medium">
+                {classData?.className || classSubject?.className} &bull; {classSubject?.subjectId} &bull; Tahun {classSubject?.year}
+              </p>
+            </div>
+            <Button 
+              variant="outline" 
+              size="sm" 
+              onClick={() => window.print()} 
+              className="no-print h-10 rounded-xl px-4 font-bold border-emerald-200 text-emerald-700 hover:bg-emerald-50 sm:mt-1"
+            >
+              <Printer size={18} className="mr-2" />
+              Cetak
+            </Button>
           </div>
           
           {/* Search Bar - Hidden on Print */}

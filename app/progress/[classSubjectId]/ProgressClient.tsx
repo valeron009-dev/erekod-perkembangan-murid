@@ -15,7 +15,6 @@ import {
   AlertCircle,
   FileText,
   UserPlus,
-  Edit2,
   UserMinus,
   UserCheck,
   MoreVertical
@@ -29,7 +28,6 @@ import {
   getClassById,
   getUserData,
   addStudent,
-  updateStudent,
   toggleStudentStatus,
   db
 } from "@/lib/firestore-helpers";
@@ -71,7 +69,6 @@ export default function ProgressClient() {
   const [visibleCount, setVisibleCount] = useState(20);
   const [isStudentModalOpen, setIsStudentModalOpen] = useState(false);
   const [studentModalMode, setStudentModalMode] = useState<"add" | "edit">("add");
-  const [selectedStudentForEdit, setSelectedStudentForEdit] = useState<any>(null);
   const [showInactiveStudents, setShowInactiveStudents] = useState(false);
 
   const fetchData = useCallback(async (uid: string) => {
@@ -215,12 +212,6 @@ export default function ProgressClient() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, [filteredStudents.length]);
 
-  const onEditStudent = useCallback((student: any) => {
-    setSelectedStudentForEdit(student);
-    setStudentModalMode("edit");
-    setIsStudentModalOpen(true);
-  }, []);
-
   const handleTPChange = async (studentId: string, standardId: string, tp: string) => {
     if (userData?.isReadOnly) return;
     
@@ -259,17 +250,32 @@ export default function ProgressClient() {
         className: classData?.className || classSubject.className,
         sessionId: classSubject.sessionId
       }, fullName);
-    } else if (selectedStudentForEdit) {
-      await updateStudent(user.uid, selectedStudentForEdit.id, fullName);
     }
     
     await fetchData(user.uid);
   };
 
+  const [isConfirmModalOpen, setIsConfirmModalOpen] = useState(false);
+  const [studentToToggle, setStudentToToggle] = useState<{id: string, currentStatus: boolean} | null>(null);
+
   const handleToggleStatus = async (studentId: string, currentStatus: boolean) => {
     if (!user || !classSubject) return;
-    await toggleStudentStatus(user.uid, studentId, classSubject.classId, !currentStatus);
+    
+    if (currentStatus) { // Marking as inactive (Tandakan Pindah)
+      setStudentToToggle({ id: studentId, currentStatus });
+      setIsConfirmModalOpen(true);
+    } else { // Re-activating
+      await toggleStudentStatus(user.uid, studentId, classSubject.classId, true);
+      await fetchData(user.uid);
+    }
+  };
+
+  const confirmToggleStatus = async () => {
+    if (!user || !classSubject || !studentToToggle) return;
+    await toggleStudentStatus(user.uid, studentToToggle.id, classSubject.classId, false);
     await fetchData(user.uid);
+    setIsConfirmModalOpen(false);
+    setStudentToToggle(null);
   };
 
   if (loading) {
@@ -412,7 +418,6 @@ export default function ProgressClient() {
                 setSelectedRecordForEvidence(data);
                 setIsEvidenceModalOpen(true);
               }}
-              onEditStudent={onEditStudent}
               onToggleStatus={handleToggleStatus}
             />
           ))}
@@ -477,7 +482,6 @@ export default function ProgressClient() {
                       setSelectedRecordForEvidence(data);
                       setIsEvidenceModalOpen(true);
                     }}
-                    onEditStudent={onEditStudent}
                     onToggleStatus={handleToggleStatus}
                   />
                 ))}
@@ -531,12 +535,46 @@ export default function ProgressClient() {
         isOpen={isStudentModalOpen}
         onClose={() => {
           setIsStudentModalOpen(false);
-          setSelectedStudentForEdit(null);
         }}
         onSave={handleStudentSave}
-        initialName={selectedStudentForEdit?.fullName}
         mode={studentModalMode}
       />
+
+      {/* Confirmation Modal for Tandakan Pindah */}
+      {isConfirmModalOpen && (
+        <div className="fixed inset-0 z-[10001] flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+          <div className="w-full max-w-md bg-white rounded-2xl shadow-2xl overflow-hidden animate-in zoom-in-95 duration-200">
+            <div className="p-6">
+              <div className="flex items-center gap-3 mb-4 text-amber-600">
+                <AlertCircle size={24} />
+                <h3 className="text-lg font-bold text-slate-900">Tandakan murid sebagai berpindah?</h3>
+              </div>
+              <p className="text-sm text-slate-600 leading-relaxed mb-6">
+                Murid ini akan disembunyikan daripada senarai murid aktif, tetapi rekod dan data pentaksiran tidak akan dipadam. Data masih disimpan dalam sistem.
+              </p>
+              <div className="flex gap-3">
+                <Button 
+                  variant="outline" 
+                  className="flex-1" 
+                  onClick={() => {
+                    setIsConfirmModalOpen(false);
+                    setStudentToToggle(null);
+                  }}
+                >
+                  Batal
+                </Button>
+                <Button 
+                  variant="primary" 
+                  className="flex-1 bg-red-600 hover:bg-red-700 text-white border-none font-bold"
+                  onClick={confirmToggleStatus}
+                >
+                  Ya, Tandakan Pindah
+                </Button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
@@ -582,7 +620,6 @@ const StudentCard = memo(({
   user, 
   handleTPChange,
   onOpenEvidence,
-  onEditStudent,
   onToggleStatus
 }: any) => {
   return (
@@ -620,10 +657,6 @@ const StudentCard = memo(({
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent align="end">
-                <DropdownMenuItem onClick={() => onEditStudent(student)} className="gap-2">
-                  <Edit2 size={14} />
-                  Kemaskini Nama
-                </DropdownMenuItem>
                 <DropdownMenuItem 
                   onClick={() => onToggleStatus(student.id, student.isActive)} 
                   className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}
@@ -711,7 +744,6 @@ const StudentRow = memo(({
   user, 
   handleTPChange,
   onOpenEvidence,
-  onEditStudent,
   onToggleStatus
 }: any) => {
   return (
@@ -746,10 +778,6 @@ const StudentRow = memo(({
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent align="start">
-                <DropdownMenuItem onClick={() => onEditStudent(student)} className="gap-2">
-                  <Edit2 size={14} />
-                  Kemaskini Nama
-                </DropdownMenuItem>
                 <DropdownMenuItem 
                   onClick={() => onToggleStatus(student.id, student.isActive)} 
                   className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}
