@@ -47,6 +47,7 @@ export default function SummaryClient() {
   const [standards, setStandards] = useState<any[]>([]);
   const [records, setRecords] = useState<Record<string, any[]>>({});
   const [loading, setLoading] = useState(true);
+  const [recordsLoading, setRecordsLoading] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(20);
 
@@ -56,11 +57,8 @@ export default function SummaryClient() {
     try {
       setLoading(true);
       
-      // Start loading records and classSubjectDoc in parallel
-      const [csDoc, recordList] = await Promise.all([
-        getDoc(doc(db, "users", uid, "classSubjects", classSubjectId)),
-        getProgressRecordsByClassSubject(uid, classSubjectId)
-      ]);
+      // STAGE 1: Load essential class info and student list first
+      const csDoc = await getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
       
       if (!csDoc.exists()) {
         console.error("ClassSubject document not found:", classSubjectId);
@@ -81,20 +79,29 @@ export default function SummaryClient() {
 
       setStudents(studentList.filter(s => s.isActive).sort((a, b) => a.fullName.localeCompare(b.fullName)));
       setStandards(lsList);
-      
-      // Group records by studentId and groupName for fast lookup
-      const recordsMap: Record<string, any[]> = {};
-      recordList.forEach((r: any) => {
-        const key = `${r.studentId}_${r.groupName}`;
-        if (!recordsMap[key]) recordsMap[key] = [];
-        recordsMap[key].push(r);
-      });
-      setRecords(recordsMap);
-      
       setClassData(classInfo);
+      
+      // Show names immediately
+      setLoading(false);
+
+      // STAGE 2: Load heavy progress records in the background
+      setRecordsLoading(true);
+      getProgressRecordsByClassSubject(uid, classSubjectId).then(recordList => {
+        const recordsMap: Record<string, any[]> = {};
+        recordList.forEach((r: any) => {
+          const key = `${r.studentId}_${r.groupName}`;
+          if (!recordsMap[key]) recordsMap[key] = [];
+          recordsMap[key].push(r);
+        });
+        setRecords(recordsMap);
+        setRecordsLoading(false);
+      }).catch(err => {
+        console.error("Error loading records", err);
+        setRecordsLoading(false);
+      });
+
     } catch (error) {
       console.error("Error fetching data", error);
-    } finally {
       setLoading(false);
     }
   }, [classSubjectId, router]);
@@ -186,12 +193,20 @@ export default function SummaryClient() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, [filteredData.length]);
 
-  if (loading) {
+  if (!classSubject) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-slate-50">
-        <div className="flex flex-col items-center gap-4">
-          <div className="h-10 w-10 animate-spin rounded-full border-4 border-emerald-600 border-t-transparent" />
-          <p className="text-sm font-medium text-slate-600">Menjana ringkasan...</p>
+      <div className="min-h-screen bg-slate-50">
+        <Navbar user={user} userData={userData} />
+        <div className="mx-auto max-w-[1600px] px-4 py-8 sm:px-6 lg:px-8">
+          <div className="mb-8 space-y-4">
+            <div className="h-10 w-64 animate-pulse rounded-lg bg-slate-200" />
+            <div className="h-4 w-48 animate-pulse rounded-lg bg-slate-200" />
+          </div>
+          <div className="space-y-4">
+            {[1, 2, 3, 4, 5].map(i => (
+              <div key={i} className="h-20 w-full animate-pulse rounded-2xl bg-white shadow-sm" />
+            ))}
+          </div>
         </div>
       </div>
     );
@@ -262,11 +277,11 @@ export default function SummaryClient() {
                   <td className="border border-slate-300 px-3 py-2 text-[11px] font-bold text-slate-900">{student.name}</td>
                   {groupNames.map(group => (
                     <td key={group} className="border border-slate-300 px-2 py-2 text-center text-[11px] font-bold whitespace-nowrap">
-                      {student.groupTps[group]}
+                      {recordsLoading ? "..." : student.groupTps[group]}
                     </td>
                   ))}
                   <td className="border border-slate-300 px-2 py-2 text-center text-[11px] font-bold bg-slate-50 whitespace-nowrap">
-                    {student.overallTp}
+                    {recordsLoading ? "..." : student.overallTp}
                   </td>
                 </tr>
               ))}
@@ -304,6 +319,7 @@ export default function SummaryClient() {
                       key={student.id} 
                       student={student} 
                       groupNames={groupNames} 
+                      recordsLoading={recordsLoading}
                     />
                   ))}
                   {filteredData.length > visibleCount && (
@@ -334,6 +350,7 @@ export default function SummaryClient() {
                 key={student.id} 
                 student={student} 
                 groupNames={groupNames} 
+                recordsLoading={recordsLoading}
               />
             ))}
             {filteredData.length > visibleCount && (
@@ -435,7 +452,7 @@ export default function SummaryClient() {
 }
 
 // Memoized Summary Row
-const SummaryRow = memo(({ student, groupNames }: any) => {
+const SummaryRow = memo(({ student, groupNames, recordsLoading }: any) => {
   return (
     <tr className="hover:bg-slate-50/50 transition-colors">
       <td className="sticky left-0 z-10 border-r border-slate-200 bg-white px-6 py-4 text-sm font-bold text-slate-900 student-name-cell">
@@ -445,15 +462,15 @@ const SummaryRow = memo(({ student, groupNames }: any) => {
         const tp = student.groupTps[group];
         return (
           <td key={group} className="border-r border-slate-100 p-2 text-center">
-            <span className={`inline-flex items-center justify-center h-8 w-14 rounded-lg text-[11px] font-black shadow-sm ${TP_COLORS[tp] || TP_COLORS["-"]}`}>
-              {tp}
+            <span className={`inline-flex items-center justify-center h-8 w-14 rounded-lg text-[11px] font-black shadow-sm ${recordsLoading ? "animate-pulse opacity-50 bg-slate-100 text-slate-400" : (TP_COLORS[tp] || TP_COLORS["-"])}`}>
+              {recordsLoading ? "..." : tp}
             </span>
           </td>
         );
       })}
       <td className="p-2 text-center bg-slate-50/30">
-        <span className={`inline-flex items-center justify-center h-8 w-16 rounded-lg text-xs font-black shadow-md ${TP_COLORS[student.overallTp] || TP_COLORS["-"]}`}>
-          {student.overallTp}
+        <span className={`inline-flex items-center justify-center h-8 w-16 rounded-lg text-xs font-black shadow-md ${recordsLoading ? "animate-pulse opacity-50 bg-slate-100 text-slate-400" : (TP_COLORS[student.overallTp] || TP_COLORS["-"])}`}>
+          {recordsLoading ? "..." : student.overallTp}
         </span>
       </td>
     </tr>
@@ -463,13 +480,13 @@ const SummaryRow = memo(({ student, groupNames }: any) => {
 SummaryRow.displayName = "SummaryRow";
 
 // Memoized Summary Card
-const SummaryCard = memo(({ student, groupNames }: any) => {
+const SummaryCard = memo(({ student, groupNames, recordsLoading }: any) => {
   return (
     <Card className="overflow-hidden border-slate-200 shadow-md rounded-2xl bg-white">
       <div className="bg-slate-50 px-5 py-3 border-b border-slate-100 flex justify-between items-center">
         <h3 className="font-bold text-slate-900 truncate pr-2">{student.name}</h3>
-        <div className={`shrink-0 inline-flex items-center justify-center h-8 w-16 rounded-lg text-xs font-black shadow-md ${TP_COLORS[student.overallTp] || TP_COLORS["-"]}`}>
-          {student.overallTp}
+        <div className={`shrink-0 inline-flex items-center justify-center h-8 w-16 rounded-lg text-xs font-black shadow-md ${recordsLoading ? "animate-pulse opacity-50 bg-slate-100 text-slate-400" : (TP_COLORS[student.overallTp] || TP_COLORS["-"])}`}>
+          {recordsLoading ? "..." : student.overallTp}
         </div>
       </div>
       <CardContent className="p-5">
@@ -479,8 +496,8 @@ const SummaryCard = memo(({ student, groupNames }: any) => {
             return (
               <div key={group} className="space-y-1">
                 <p className="text-[10px] font-bold text-slate-400 uppercase tracking-wider truncate">{group}</p>
-                <div className={`inline-flex items-center justify-center h-8 w-full rounded-lg text-[11px] font-black shadow-sm ${TP_COLORS[tp] || TP_COLORS["-"]}`}>
-                  {tp}
+                <div className={`inline-flex items-center justify-center h-8 w-full rounded-lg text-[11px] font-black shadow-sm ${recordsLoading ? "animate-pulse opacity-50 bg-slate-100 text-slate-400" : (TP_COLORS[tp] || TP_COLORS["-"])}`}>
+                  {recordsLoading ? "..." : tp}
                 </div>
               </div>
             );

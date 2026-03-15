@@ -61,6 +61,7 @@ export default function ProgressClient() {
   const [standards, setStandards] = useState<any[]>([]);
   const [records, setRecords] = useState<Record<string, any>>({});
   const [loading, setLoading] = useState(true);
+  const [recordsLoading, setRecordsLoading] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedGroupName, setSelectedGroupName] = useState<string>("");
   const [isImportModalOpen, setIsImportModalOpen] = useState(false);
@@ -71,17 +72,21 @@ export default function ProgressClient() {
   const [studentModalMode, setStudentModalMode] = useState<"add" | "edit">("add");
   const [showInactiveStudents, setShowInactiveStudents] = useState(false);
 
+  // Prefetch summary page
+  useEffect(() => {
+    if (classSubjectId) {
+      router.prefetch(`/progress/${classSubjectId}/summary`);
+    }
+  }, [classSubjectId, router]);
+
   const fetchData = useCallback(async (uid: string) => {
     if (!uid || !classSubjectId) return;
     
     try {
       setLoading(true);
       
-      // Start loading records and classSubjectDoc in parallel
-      const [csDoc, recordList] = await Promise.all([
-        getDoc(doc(db, "users", uid, "classSubjects", classSubjectId)),
-        getProgressRecordsByClassSubject(uid, classSubjectId)
-      ]);
+      // STAGE 1: Load essential class info and student list first
+      const csDoc = await getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
       
       if (!csDoc.exists()) {
         console.error("ClassSubject document not found:", classSubjectId);
@@ -92,7 +97,7 @@ export default function ProgressClient() {
       const csData = csDoc.data();
       setClassSubject({ id: csDoc.id, ...csData });
 
-      // Load remaining data in parallel
+      // Load students and standards in parallel to show the grid structure as fast as possible
       const [studentList, lsList, classInfo] = await Promise.all([
         getStudentsByClass(uid, csData.classId),
         getLearningStandardsBySubject(csData.subjectId, csData.year),
@@ -103,18 +108,29 @@ export default function ProgressClient() {
       setStandards(lsList);
       setClassData(classInfo);
 
-      const recordMap: Record<string, any> = {};
-      recordList.forEach((r: any) => {
-        recordMap[`${r.studentId}_${r.learningStandardId}`] = r;
-      });
-      setRecords(recordMap);
-
       if (lsList.length > 0) {
         setSelectedGroupName(prev => prev || lsList[0].groupName);
       }
+
+      // SET LOADING FALSE HERE so student names appear immediately
+      setLoading(false);
+
+      // STAGE 2: Load heavy progress records in the background (Non-blocking)
+      setRecordsLoading(true);
+      getProgressRecordsByClassSubject(uid, classSubjectId).then(recordList => {
+        const recordMap: Record<string, any> = {};
+        recordList.forEach((r: any) => {
+          recordMap[`${r.studentId}_${r.learningStandardId}`] = r;
+        });
+        setRecords(recordMap);
+        setRecordsLoading(false);
+      }).catch(err => {
+        console.error("Error loading records", err);
+        setRecordsLoading(false);
+      });
+
     } catch (error) {
       console.error("Error fetching data", error);
-    } finally {
       setLoading(false);
     }
   }, [classSubjectId]);
@@ -285,12 +301,25 @@ export default function ProgressClient() {
     setStudentToToggle(null);
   };
 
-  if (loading) {
+  if (!classSubject) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-slate-50">
-        <div className="flex flex-col items-center gap-4">
-          <div className="h-10 w-10 animate-spin rounded-full border-4 border-emerald-600 border-t-transparent" />
-          <p className="text-sm font-medium text-slate-600">Memuatkan rekod...</p>
+      <div className="min-h-screen bg-slate-50">
+        <Navbar user={user} userData={userData} />
+        <div className="mx-auto max-w-[1600px] px-4 py-8 sm:px-6 lg:px-8">
+          <div className="mb-8 space-y-4">
+            <div className="h-10 w-64 animate-pulse rounded-lg bg-slate-200" />
+            <div className="h-4 w-48 animate-pulse rounded-lg bg-slate-200" />
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+            {[1, 2, 3].map(i => (
+              <div key={i} className="h-24 animate-pulse rounded-2xl bg-white shadow-sm" />
+            ))}
+          </div>
+          <div className="space-y-4">
+            {[1, 2, 3, 4, 5].map(i => (
+              <div key={i} className="h-20 w-full animate-pulse rounded-2xl bg-white shadow-sm" />
+            ))}
+          </div>
         </div>
       </div>
     );
@@ -416,6 +445,7 @@ export default function ProgressClient() {
               student={student}
               filteredStandards={filteredStandards}
               records={records}
+              recordsLoading={recordsLoading}
               userData={userData}
               studentSummaries={studentSummaries}
               classSubject={classSubject}
@@ -480,6 +510,7 @@ export default function ProgressClient() {
                     student={student}
                     filteredStandards={filteredStandards}
                     records={records}
+                    recordsLoading={recordsLoading}
                     userData={userData}
                     studentSummaries={studentSummaries}
                     classSubject={classSubject}
@@ -587,11 +618,14 @@ export default function ProgressClient() {
 }
 
 // Tap-based TP Picker Component
-const TPPicker = ({ value, onChange, disabled }: { value: string, onChange: (val: string) => void, disabled?: boolean }) => {
+const TPPicker = ({ value, onChange, disabled, loading }: { value: string, onChange: (val: string) => void, disabled?: boolean, loading?: boolean }) => {
   const options = ["TP1", "TP2", "TP3", "TP4", "TP5", "TP6"];
   
   return (
-    <div className="flex flex-wrap gap-1 items-center justify-center max-w-[140px]">
+    <div className={cn(
+      "flex flex-wrap gap-1 items-center justify-center max-w-[140px]",
+      loading && "animate-pulse opacity-50 pointer-events-none"
+    )}>
       {options.map((tp) => {
         const isActive = value === tp;
         return (
@@ -621,6 +655,7 @@ const StudentCard = memo(({
   student, 
   filteredStandards, 
   records, 
+  recordsLoading,
   userData, 
   studentSummaries, 
   classSubject, 
@@ -645,7 +680,9 @@ const StudentCard = memo(({
           <div className="flex items-center gap-2">
             <div className="text-right mr-2">
               <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">TP Akhir</p>
-              <p className="text-lg font-black text-emerald-600 leading-none mt-1">{studentSummaries[student.id]?.finalTp}</p>
+              <p className="text-lg font-black text-emerald-600 leading-none mt-1">
+                {recordsLoading ? <span className="animate-pulse opacity-50">...</span> : studentSummaries[student.id]?.finalTp}
+              </p>
             </div>
             
             <Button 
@@ -703,6 +740,7 @@ const StudentCard = memo(({
                       value={record?.tp || ""}
                       onChange={(val) => handleTPChange(student.id, s.id, val)}
                       disabled={userData?.isReadOnly}
+                      loading={recordsLoading}
                     />
                   </div>
                 </div>
@@ -745,6 +783,7 @@ const StudentRow = memo(({
   student, 
   filteredStandards, 
   records, 
+  recordsLoading,
   userData, 
   studentSummaries, 
   classSubject, 
@@ -817,6 +856,7 @@ const StudentRow = memo(({
                 value={record?.tp || ""}
                 onChange={(val) => handleTPChange(student.id, s.id, val)}
                 disabled={userData?.isReadOnly}
+                loading={recordsLoading}
               />
               <Button
                 variant="outline"
@@ -847,7 +887,7 @@ const StudentRow = memo(({
       })}
       <td className="px-4 py-4 text-center">
         <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-600 text-sm font-black text-white shadow-sm">
-          {studentSummaries[student.id]?.finalTp}
+          {recordsLoading ? <span className="animate-pulse opacity-50">...</span> : studentSummaries[student.id]?.finalTp}
         </span>
       </td>
     </tr>

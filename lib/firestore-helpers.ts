@@ -87,8 +87,13 @@ export const checkAllowedTeacher = async (email: string) => {
 
 // Classes
 export const getClassById = async (uid: string, classId: string) => {
+  const cacheKey = `class_${uid}_${classId}`;
+  if (cache[cacheKey]) return cache[cacheKey];
+  
   const classDoc = await getDoc(doc(db, "users", uid, "classes", classId));
-  return classDoc.exists() ? { id: classDoc.id, ...classDoc.data() } as any : null;
+  const data = classDoc.exists() ? { id: classDoc.id, ...classDoc.data() } as any : null;
+  if (data) cache[cacheKey] = data;
+  return data;
 };
 
 export const createClass = async (uid: string, data: {
@@ -160,21 +165,31 @@ export const getClassesByTeacher = async (uid: string, sessionId: string) => {
 // Class Subjects
 export const getClassSubjectsByTeacher = async (uid: string, sessionId: string) => {
   const safeSessionId = sessionId ?? "2026";
+  const cacheKey = `classSubjects_${uid}_${safeSessionId}`;
+  if (cache[cacheKey]) return cache[cacheKey];
+  
   const classSubjectsRef = collection(db, "users", uid, "classSubjects");
   const q = query(
     classSubjectsRef, 
     where("sessionId", "==", safeSessionId)
   );
   const querySnapshot = await getDocs(q);
-  return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  cache[cacheKey] = data;
+  return data;
 };
 
 // Students
 export const getStudentsByClass = async (uid: string, classId: string) => {
+  const cacheKey = `students_${uid}_${classId}`;
+  if (cache[cacheKey]) return cache[cacheKey];
+  
   const studentsRef = collection(db, "users", uid, "students");
   const q = query(studentsRef, where("classId", "==", classId));
   const querySnapshot = await getDocs(q);
-  return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  cache[cacheKey] = data;
+  return data;
 };
 
 export const syncStudents = async (
