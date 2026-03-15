@@ -183,16 +183,18 @@ export default function SummaryClient() {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      <Navbar user={user} userData={userData} />
+      <div className="no-print">
+        <Navbar user={user} userData={userData} />
+      </div>
 
       <main className="mx-auto max-w-[1600px] px-4 py-6 sm:py-8 sm:px-6 lg:px-8">
-        <div className="mb-6 flex items-center justify-between">
-          <Button variant="outline" size="sm" onClick={() => router.back()} className="h-9 rounded-lg px-3">
+        <div className="mb-6 flex flex-wrap items-center justify-between no-print gap-4">
+          <Button variant="outline" size="sm" onClick={() => router.back()} className="h-9 rounded-lg px-3 shrink-0">
             <ArrowLeft size={16} className="mr-2" />
             Kembali
           </Button>
-          <div className="flex gap-2">
-            <Button variant="outline" size="sm" onClick={() => window.print()} className="flex h-9 rounded-lg px-3">
+          <div className="flex gap-2 shrink-0">
+            <Button variant="outline" size="sm" onClick={() => window.print()} className="flex h-9 rounded-lg px-3 shrink-0">
               <Printer size={16} className="mr-2" />
               Cetak
             </Button>
@@ -207,7 +209,7 @@ export default function SummaryClient() {
             </p>
           </div>
           
-          <div className="relative w-full lg:w-80">
+          <div className="relative w-full lg:w-80 no-print">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
             <Input
               placeholder="Cari nama murid..."
@@ -218,8 +220,38 @@ export default function SummaryClient() {
           </div>
         </header>
 
+        {/* Print-only Table (Hidden on screen, visible on print) */}
+        <div className="hidden print:block">
+          <table className="w-full border-collapse border border-slate-300">
+            <thead>
+              <tr className="bg-slate-50">
+                <th className="border border-slate-300 px-2 py-2 text-left text-[10px] font-bold uppercase text-slate-700">Nama Murid</th>
+                {groupNames.map(group => (
+                  <th key={group} className="border border-slate-300 px-1 py-2 text-center text-[10px] font-bold uppercase text-slate-700">{group}</th>
+                ))}
+                <th className="border border-slate-300 px-1 py-2 text-center text-[10px] font-bold uppercase text-slate-700">Purata</th>
+              </tr>
+            </thead>
+            <tbody>
+              {filteredData.map(student => (
+                <tr key={student.id}>
+                  <td className="border border-slate-300 px-2 py-1.5 text-[10px] font-bold text-slate-900">{student.name}</td>
+                  {groupNames.map(group => (
+                    <td key={group} className="border border-slate-300 px-1 py-1.5 text-center text-[10px] font-bold">
+                      {student.groupTps[group]}
+                    </td>
+                  ))}
+                  <td className="border border-slate-300 px-1 py-1.5 text-center text-[10px] font-bold bg-slate-50">
+                    {student.overallTp}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
         {/* Desktop View Table */}
-        <Card className="hidden lg:block overflow-hidden border-slate-200 shadow-xl print:shadow-none print:border-none rounded-2xl">
+        <Card className="hidden lg:block print:hidden overflow-hidden border-slate-200 shadow-xl rounded-2xl">
           <div className="overflow-x-auto">
             <table className="w-full border-separate border-spacing-0">
               <thead>
@@ -270,7 +302,7 @@ export default function SummaryClient() {
         </Card>
 
         {/* Mobile/Tablet View Cards */}
-        <div className="lg:hidden space-y-4">
+        <div className="lg:hidden print:hidden space-y-4">
           {visibleData.map((student) => (
             <SummaryCard 
               key={student.id} 
@@ -334,43 +366,31 @@ export default function SummaryClient() {
           body {
             background-color: white !important;
             color: black !important;
+            margin: 0 !important;
+            padding: 0 !important;
           }
           main {
             padding: 0 !important;
+            margin: 0 !important;
             max-width: none !important;
           }
+          header {
+            margin-bottom: 20px !important;
+          }
           table {
-            font-size: 9px !important;
-            border-collapse: collapse !important;
             width: 100% !important;
+            border-collapse: collapse !important;
+            table-layout: auto !important;
           }
           th, td {
-            border: 1px solid #e2e8f0 !important;
-            padding: 4px !important;
-          }
-          .student-name-cell {
-            width: 150px !important;
-            min-width: 150px !important;
-            max-width: 150px !important;
-            font-size: 8px !important;
-            line-height: 1.1 !important;
-            padding: 4px 6px !important;
-            white-space: normal !important;
-            overflow: hidden !important;
-            display: -webkit-box !important;
-            -webkit-line-clamp: 2 !important;
-            -webkit-box-orient: vertical !important;
-            height: auto !important;
-          }
-          .sticky {
-            position: static !important;
-          }
-          .shadow-sm, .shadow-md, .shadow-xl {
-            shadow: none !important;
-            box-shadow: none !important;
+            border: 1px solid #cbd5e1 !important;
           }
           tr {
             page-break-inside: avoid !important;
+          }
+          @page {
+            margin: 1.5cm;
+            size: auto;
           }
         }
       `}</style>
