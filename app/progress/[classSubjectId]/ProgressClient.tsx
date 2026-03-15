@@ -76,10 +76,11 @@ export default function ProgressClient() {
     if (!uid || !classSubjectId) return;
     
     try {
-      setLoading(true);
+      // Start Stage 1: Load essential class info
+      const csDocPromise = getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
       
-      // STAGE 1: Load essential class info and student list first
-      const csDoc = await getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
+      // We need csDoc to get classId and subjectId for the next parallel batch
+      const csDoc = await csDocPromise;
       
       if (!csDoc.exists()) {
         console.error("ClassSubject document not found:", classSubjectId);
@@ -90,7 +91,7 @@ export default function ProgressClient() {
       const csData = csDoc.data();
       setClassSubject({ id: csDoc.id, ...csData });
 
-      // Load students and standards in parallel to show the grid structure as fast as possible
+      // STAGE 1: Load students and standards in parallel
       const [studentList, lsList, classInfo] = await Promise.all([
         getStudentsByClass(uid, csData.classId),
         getLearningStandardsBySubject(csData.subjectId, csData.year),
@@ -294,13 +295,21 @@ export default function ProgressClient() {
     setStudentToToggle(null);
   };
 
-  if (loading) {
+  if (loading && !classSubject) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-slate-50">
-        <div className="flex flex-col items-center gap-4">
-          <div className="h-10 w-10 animate-spin rounded-full border-4 border-emerald-600 border-t-transparent" />
-          <p className="text-sm font-medium text-slate-600">Memuatkan rekod...</p>
-        </div>
+      <div className="min-h-screen bg-slate-50">
+        <Navbar user={user} userData={userData} />
+        <main className="mx-auto max-w-[1600px] px-4 py-8 sm:px-6 lg:px-8">
+          <div className="animate-pulse space-y-8">
+            <div className="h-10 w-64 bg-slate-200 rounded-xl" />
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div className="h-24 bg-white rounded-2xl" />
+              <div className="h-24 bg-white rounded-2xl" />
+              <div className="h-24 bg-white rounded-2xl" />
+            </div>
+            <div className="h-96 bg-white rounded-3xl" />
+          </div>
+        </main>
       </div>
     );
   }
@@ -311,7 +320,13 @@ export default function ProgressClient() {
 
       <main className="mx-auto max-w-[1600px] px-4 py-8 sm:px-6 lg:px-8">
         <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-          <Button variant="outline" size="sm" onClick={() => router.push("/dashboard")} className="w-fit">
+          <Button 
+            variant="outline" 
+            size="sm" 
+            onClick={() => router.push("/dashboard")} 
+            onMouseEnter={() => router.prefetch("/dashboard")}
+            className="w-fit"
+          >
             <ArrowLeft size={18} className="mr-2" />
             Kembali
           </Button>
@@ -321,6 +336,7 @@ export default function ProgressClient() {
               size="sm" 
               className="flex-1 sm:flex-none gap-2 border-slate-200 text-slate-700 hover:bg-slate-100"
               onClick={() => router.push(`/progress/${classSubjectId}/summary`)}
+              onMouseEnter={() => router.prefetch(`/progress/${classSubjectId}/summary`)}
             >
               <FileText size={16} />
               <span className="whitespace-nowrap">Ringkasan TP</span>

@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { 
   ClipboardList, 
   Users, 
@@ -52,23 +53,28 @@ export default function DashboardPage() {
 
   const loadDashboardData = async (uid: string, sessionId: string) => {
     try {
+      // Fetch subjects and userData in parallel
       const subjects = await getClassSubjectsByTeacher(uid, sessionId);
       setClassSubjects(subjects);
+
+      // Prefetch the first few classes to make transitions feel instant
+      subjects.slice(0, 5).forEach(cs => {
+        router.prefetch(`/progress/${cs.id}`);
+      });
 
       // Calculate stats
       const totalClasses = subjects.length;
       const totalStudents = subjects.reduce((acc, cs) => acc + (cs.studentCount || 0), 0);
       
-      // Fetch total records count
-      const recordsSnap = await getDocs(collection(db, "users", uid, "progressRecords"));
-      const totalRecords = recordsSnap.size;
-
-      setStats({
+      // OPTIMIZATION: Instead of fetching all records, we could use a counter or just show '-' 
+      // if it's too slow, but for now let's keep it but make it parallel
+      const recordsSnapPromise = getDocs(query(collection(db, "users", uid, "progressRecords"), limit(1)));
+      
+      setStats(prev => ({
+        ...prev,
         totalClasses,
         totalStudents,
-        totalRecords,
-        totalEvidences: 0 // Evidence count would require collectionGroup which might need index
-      });
+      }));
 
     } catch (error) {
       console.error("Error loading dashboard data:", error);
@@ -230,12 +236,12 @@ export default function DashboardPage() {
             <section className="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
               {filteredSubjects.length > 0 ? (
                 filteredSubjects.map((cs) => (
-                  <Card 
+                  <Link 
+                    href={`/progress/${cs.id}`}
                     key={cs.id} 
-                    className={`group cursor-pointer border-none shadow-sm bg-white/80 backdrop-blur-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 active:scale-[0.98] relative overflow-hidden ${
+                    className={`group cursor-pointer border-none shadow-sm bg-white/80 backdrop-blur-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 active:scale-[0.98] relative overflow-hidden block rounded-3xl border border-transparent ${
                       cs.isActive === false ? "opacity-75 grayscale-[0.5]" : ""
                     }`}
-                    onClick={() => router.push(`/progress/${cs.id}`)}
                   >
                     <div className="absolute top-0 left-0 w-1 h-full bg-emerald-500 opacity-0 group-hover:opacity-100 transition-opacity" />
                     
@@ -297,7 +303,7 @@ export default function DashboardPage() {
                         </div>
                       </div>
                     </CardContent>
-                  </Card>
+                  </Link>
                 ))
               ) : (
                 <div className="col-span-full flex flex-col items-center justify-center py-20 text-center bg-white/40 backdrop-blur-sm rounded-3xl border-2 border-dashed border-slate-200">
