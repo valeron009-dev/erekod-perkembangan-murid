@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "main": "rekod-perkembangan-murid-8fa67"
+  },
+  "targets": {
+    "rekod-perkembangan-murid-8fa67": {
+      "hosting": {
+        "main": [
+          "rekod-perkembangan-murid"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

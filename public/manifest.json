@@ -1,0 +1,21 @@
+{
+  "name": "eRekod Perkembangan Murid",
+  "short_name": "eRekod",
+  "description": "Sistem Pengurusan Pentaksiran Bilik Darjah (PBD)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://iili.io/q1EYLYJ.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://iili.io/q1EYLYJ.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

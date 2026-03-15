@@ -1,0 +1,492 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+PENDIDIKAN KESIHATAN SK,PK-SK,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Mengetahui anggota tubuh lelaki dan perempuan.  Kepala; Rambut; Mata; Telinga; Hidung; Mulut; Bibir; Gigi  Badan; Payu dara; Dada; Bahu; Punggung  Tangan  Paha  Kaki  Kuku  Organ genital; Zakar; Faraj  Dubur,1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Memahami kepentingan menjaga kebersihan fizikal.,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,"Mengaplikasikan cara menjaga kebersihan fizikal, pakaian dan alatan keperluan diri.",1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Menilai kesan sekiranya tidak menjaga kebersihan fizikal dan berkongsi alatan keperluan diri.,1010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.1,"Mengetahui sentuhan selamat, sentuhan tidak selamat dan sentuhan tidak selesa.",2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.2,"Memahami sebab anggota tubuh dan organ genital hanya boleh disentuh oleh ibu atau doktor untuk tujuan kebersihan, kesihatan dan keselamatan.",2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.4,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,2010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,3.0 Penyalahgunaan Bahan,3.1.1,Mengetahui ubat dan kegunaannya.,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,3.0 Penyalahgunaan Bahan,3.1.2,Memahami kepentingan ubat dan mematuhi preskripsi doktor.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,3.0 Penyalahgunaan Bahan,3.1.3,Memahami bahaya pengambilan ubat selepas tarikh luput.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,3.0 Penyalahgunaan Bahan,3.1.4,Memahami bahaya pengambilan ubat orang lain.,3010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,3.0 Penyalahgunaan Bahan,3.1.5,Menilai kepentingan menyimpan ubat di tempat yang betul dan selamat.,3010500,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,4.0 Pengurusan Mental Dan Emosi,4.1.1,"Mengetahui pelbagai emosi iaitu gembira, sedih, takut, marah dan malu.",4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,4.0 Pengurusan Mental Dan Emosi,4.1.2,Memahami kepentingan meluahkan emosi yang sesuai mengikut situasi.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,4.0 Pengurusan Mental Dan Emosi,4.1.3,Memahami maksud keperluan dan kehendak dalam kehidupan.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,4.0 Pengurusan Mental Dan Emosi,4.1.4,Menganalisis cara mengurus emosi secara berkesan untuk memenuhi keperluan dan kehendak dalam kehidupan.,4010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,5.0 Kekeluargaan,5.1.1,Mengetahui peranan ahli keluarga dan penjaga.,5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,5.0 Kekeluargaan,5.1.2,"Mengetahui keistimewaan diri, ahli keluarga dan penjaga.",5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,5.0 Kekeluargaan,5.1.3,"Mengaplikasi cara menghormati diri, ahli keluarga dan penjaga.",5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,5.0 Kekeluargaan,5.1.4,Menganalisis cara berkomunikasi yang berkesan dengan ahli keluarga dan penjaga.,5010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,6.0 Perhubungan,6.1.1,"Mengetahui cara menjalin hubungan yang sihat dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,6.0 Perhubungan,6.1.2,"Memahami kepentingan menjalin hubungan yang sihat dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,6.0 Perhubungan,6.1.3,"Mengaplikasi etiket perhubungan antara diri dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,6.0 Perhubungan,6.1.4,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa dalam perhubungan.,6010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,7.0 Penyakit,7.1.1,Mengetahui maksud kuman dan cara kuman merebak.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,7.0 Penyakit,7.1.2,Mengetahui penyakit bawaan kuman.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,7.0 Penyakit,7.1.3,Memahami kepentingan menjaga kebersihan diri untuk mencegah kuman daripada merebak.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,7.0 Penyakit,7.1.4,Mengaplikasi cara menjaga kebersihan diri untuk mencegah penyakit.,7010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,7.0 Penyakit,7.1.5,Menilai akibat jika kebersihan diri diabaikan.,7010500,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,8.0 Keselamatan,8.1.1,"Mengetahui situasi tidak selamat di rumah, sekolah, taman permainan dan tempat awam",8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,8.0 Keselamatan,8.1.2,"Mengetahui cara menjaga keselamatan diri daripada situasi tidak selamat di rumah, sekolah, taman permainan dan tempat awam.",8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,8.0 Keselamatan,8.1.3,"Memahami maksud buli, pembuli dan mangsa buli serta kesan perbuatan buli.",8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,8.0 Keselamatan,8.1.4,Mengaplikasi kemahiran berkata TIDAK dan mengelak diri daripada membuli dan dibuli.,8010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,9.0 Pemakanan,9.1.1,Mengetahui jenis makanan yang berkhasiat.,9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,9.0 Pemakanan,9.1.2,Memahami kepentingan pengambilan makanan yang berkhasiat,9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,9.0 Pemakanan,9.1.3,Mengaplikasi cara menyimpan makanan dan minuman supaya bersih serta selamat.,9010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,9.0 Pemakanan,9.1.4,"Menganalisis kepentingan pengambilan sarapan, makan tengah hari, dan makan malam yang berkhasiat kepada kesihatan diri.",9010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,10.0 Pertolongan Cemas,10.1.1,Mengetahui situasi kecemasan.,10010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,10.0 Pertolongan Cemas,10.1.2,Memahami tindakan yang perlu diambil sewaktu berlaku kecemasan.,10010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,1,10.0 Pertolongan Cemas,10.1.3,Mengaplikasikan kemahiran meminta bantuan apabila berlaku kecemasan.,10010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,"Menyatakan maksud postur, rehat dan tidur.",1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasi postur yang betul untuk pertumbuhan dan perkembangan fizikal yang sihat.,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,"Menjana idea kepentingan postur yang betul, rehat dan tidur yang mencukupi untuk pertumbuhan serta perkembangan fizikal yang sihat.",1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Menyatakan situasi sentuhan tidak selamat dan sentuhan tidak selesa.,1020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran berkata TIDAK kepada individu yang melakukan sentuhan tidak selamat dan sentuhan tidak selesa.,1020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,1020300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,2.0 Penyalahgunaan Bahan,2.1.1,"Menyatakan bahan ketagihan iaitu tembakau, alkohol dan dadah.",2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,2.0 Penyalahgunaan Bahan,2.1.2,"Menjelaskan bahaya pengambilan tembakau, alkohol dan dadah terhadap kesihatan diri serta orang lain.",2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,2.0 Penyalahgunaan Bahan,2.1.3,"Menilai kepentingan kemahiran berkata TIDAK kepada bahan ketagihan iaitu tembakau, alkohol dan dadah.",2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menyatakan perasaan bimbang dan cemburu.,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasi cara mengurus perasaan bimbang dan cemburu apabila berlaku perubahan dalam kalangan ahli keluarga serta rakan sebaya.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menilai kesan kepada diri sekiranya tidak mengurus perasaan bimbang dan cemburu apabila berlaku perubahan dalam kalangan ahli keluarga serta rakan sebaya.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,4.0 Kekeluargaan,4.1.1,Menyatakan keistimewaan diri sebagai lelaki atau perempuan dalam keluarga.,4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,4.0 Kekeluargaan,4.1.2,Mengaplikasi cara menghargai diri dan sesama ahli keluarga tanpa mengira jantina.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,4.0 Kekeluargaan,4.1.3,Menilai kepentingan menghargai diri dan sesama ahli keluarga tanpa mengira jantina.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,5.0 Perhubungan,5.1.1,"Mengetahui cara menzahirkan kasih sayang kepada Tuhan, diri, ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,5.0 Perhubungan,5.1.2,"Mengaplikasi cara bersyukur kepada Tuhan dan berterima kasih kepada ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,5.0 Perhubungan,5.1.3,"Menilai kepentingan menzahirkan kasih sayang kepada Tuhan, diri, ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,6.0 Penyakit,6.1.1,"Menjelaskan penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,6.0 Penyakit,6.1.2,"Mengaplikasi cara menjaga kebersihan diri untuk mencegah penyakit penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,6.0 Penyakit,6.1.3,"Mereka cipta bahan maklumat mencegah penyakit penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,7.0 Keselamatan,7.1.1,Menyatakan cara menjaga keselamatan diri daripada orang yang dikenali dan orang yang tidak dikenali.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,7.0 Keselamatan,7.1.2,Mengaplikasi kemahiran berkata TIDAK untuk menjaga keselamatan diri daripada orang yang dikenali dan orang yang tidak dikenali berdasarkan situasi.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,7.0 Keselamatan,7.1.3,Menilai akibat jika menerima pelawaan daripada orang yang tidak dikenali.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,8.0 Pemakanan,8.1.1,Menyatakan tabiat makan dan minum yang sihat. Waktu makan dan minum yang betul; Kuantiti makanan dan minuman mengikut keperluan harian,8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,8.0 Pemakanan,8.1.2,Menganalisis makanan dan minuman yang boleh menyebabkan berat badan berlebihan serta obesiti.,8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,8.0 Pemakanan,8.1.3,Menilai pengaruh rakan dan media dalam pengambilan makanan serta minuman.,8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,9.0 Pertolongan Cemas,9.1.1,"Menyatakan jenis kemalangan dan kecederaan yang boleh berlaku di rumah, sekolah serta tempat awam.",9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,9.0 Pertolongan Cemas,9.1.2,"Mengaplikasi kemahiran meminta bantuan ketika berlaku kemalangan dan kecederaan di rumah, sekolah serta tempat awam.",9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,2,9.0 Pertolongan Cemas,9.1.3,"Menilai tindakan yang boleh diambil ketika berlaku kemalangan dan kecederaan di rumah, sekolah serta tempat awam.",9010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menyatakan anggota seksual; Bibir; Payu dara; Punggung; Zakar; Faraj; Dubur,1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasikan kemahiran menjaga kehormatan anggota seksual.,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Menilai kesan sekiranya tidak menjaga kehormatan anggota seksual.,1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Memahami batas sentuhan pada anggota seksual.,1020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Menganalisis sentuhan tidak selamat pada anggota seksual mengikut situasi.,1020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menjana idea cara melapor kepada orang yang dipercayai sekiranya berlaku sentuhan tidak selamat pada anggota seksual.,1020300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,2.0 Penyalahgunaan Bahan,2.1.1,Mengaplikasikan kemahiran berkata TIDAK kepada pelawaan merokok.,2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,2.0 Penyalahgunaan Bahan,2.1.2,Menganalisis bahaya merokok terhadap kesihatan diri dan persekitaran.,2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,2.0 Penyalahgunaan Bahan,2.1.3,Menjana idea cara mengelakkan diri daripada menjadi perokok pasif.,2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menjelaskan maksud keyakinan diri.,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasikan cara meningkatkan keyakinan diri dalam kehidupan harian.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara meningkatkan keyakinan diri melalui amalan positif.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,4.0 Kekeluargaan,4.1.1,Memahami batas sentuhan dalam perhubungan kekeluargaan.,4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,4.0 Kekeluargaan,4.1.2,Mengaplikasikan kemahiran berkata TIDAK kepada sentuhan tidak selamat dalam perhubungan kekeluargaan.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,4.0 Kekeluargaan,4.1.3,Menjana idea kesan tidak menjaga batas sentuhan dalam perhubungan kekeluargaan.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.1.1,Menyatakan persediaan diri dan kesesuaian pakaian mengikut jenis aktiviti yang dijalankan.,5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.1.2,Menentukan ruang yang selamat dalam aktiviti fizikal.,5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.1.3,Mengenal pasti alatan yang selamat digunakan.,5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.1.4,Menggunakan alatan mengikut fungsi alatan dengan betul.,5010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.1.5,Mematuhi peraturan keselamatan di tempat aktiviti.,5010500,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.2.1,Melibatkan diri dan mengambil bahagian secara aktif.,5020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.2.2,Menerima cabaran dan seronok semasa melakukan aktiviti.,5020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.2.3,Menerima kemenangan dan kekalahan dalam permainan.,5020300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.3.1,"Berkomunikasi dengan rakan, guru dan ahli kumpulan semasa melakukan aktiviti fizikal.",5030100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.4.1,Memilih sendiri rakan untuk membentuk kumpulan.,5040100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.4.2,Melakukan aktiviti secara berpasangan dan berkumpulan.,5040200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,5.0 Kesukanan ( Domain Afektif ),5.4.3,Bekerjasama dalam kumpulan.,5040300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,6.0 Penyakit,6.1.1,Menjelaskan tentang penyakit bawaan nyamuk; Demam denggi; Demam malaria,6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,6.0 Penyakit,6.1.2,Mengaplikasikan pengetahuan mengenai cara mencegah pembiakan nyamuk.,6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,6.0 Penyakit,6.1.3,Mereka cipta bahan maklumat mencegah demam denggi dan demam malaria.,6010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,7.0 Keselamatan,7.1.1,Menyatakan maksud ancaman sekeliling.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,7.0 Keselamatan,7.1.2,Membincangkan persekitaran yang boleh mengancam keselamatan diri.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,7.0 Keselamatan,7.1.3,Mengaplikasikan langkah-langkah mengelakkan situasi yang boleh mengancam keselamatan diri.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,7.0 Keselamatan,7.1.4,Menjana idea cara mengelakkan diri daripada situasi yang boleh mengancam keselamatan diri.,7010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,8.0 Pemakanan,8.1.1,Menyatakan jenis snek berkhasiat.,8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,8.0 Pemakanan,8.1.2,Memahami kepentingan snek berkhasiat.,8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,8.0 Pemakanan,8.1.3,Mengaplikasikan kemahiran memilih snek berkhasiat.,8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,8.0 Pemakanan,8.1.4,"Menilai kesesuaian pengambilan snek berkhasiat dengan mengurangkan kandungan gula, garam dan lemak.",8010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,9.0 Pertolongan Cemas,9.1.1,Menyatakan jenis-jenis kecederaan ringan.,9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,9.0 Pertolongan Cemas,9.1.2,Membincangkan jenisjenis kecederaan ringan.,9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,9.0 Pertolongan Cemas,9.1.3,Membincangkan cara memberi bantu mula untuk kecederaan ringan.,9010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,3,9.0 Pertolongan Cemas,9.1.4,Mengaplikasi kemahiran bantu mula untuk kecederaan ringan.,9010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menyatakan maksud akil baligh,1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Membincangkan dan memerihal perubahan fizikal lelalki serta perempuan apabila akil baligh,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Menyatakan contoh simptom yang mungkin dialami ketika haid,1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Membincangkan dan memerihal mitos berkaitan haid serta ihtilam,1010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.5,Menilai amalan terbaik pengurusan diri apabila akil baligh,1010500,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Membincangkan cara menghargai dan menghormati perubahan fizikal diri sendiri,1020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Membincangkan cara menghargai dan menghormati perubahan fizikal orang lain,1020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui maksud alkohol.,2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,2.0 Penyalahgunaan Bahan,2.1.2,Menganalisis kesan pengambilan alkohol.,2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan cara mengelakkan diri daripada pengambilan alkohol dalam makanan dan minuman.,2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menyatakan maksud konflik dan stres.,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengenal pasti punca konflik dan stres dalam diri sendiri.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menilai kesan konflik dan stres terhadap diri sendiri.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,3.0 Pengurusan Mental Dan Emosi,3.1.4,Menjana idea dan mengamalkan cara menguru,3010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,4.0 Kekeluargaan,4.1.1,Menjelaskan contoh gejala sosial.,4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,4.0 Kekeluargaan,4.1.2,Membincangkan peranan dan tanggungjawab ahli keluarga dalam menangani gejala sosial.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,4.0 Kekeluargaan,4.1.3,Menilai kepentingan sokongan ahli keluarga dalam menangani gejala sosial.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,5.0 Perhubungan,5.1.1,Menyatakan kepentingan menyayangi diri sendiri dan orang lain,5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,5.0 Perhubungan,5.1.2,Menunjuk cara meluahkan perasaan kasih sayang kepada orang lain.,5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,5.0 Perhubungan,5.1.3,Mengesyorkan cara meluahkan perasaan yang sesuai dalam kehidupan harian.,5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,6.0 Penyakit,6.1.1,Menyatakan contoh penyakit tidak berjangkit.,6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,6.0 Penyakit,6.1.2,Menghubungkait punca dan kesan penyakit tidak berjangkit.,6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,6.0 Penyakit,6.1.3,Berkomunikasi mengenai cara pencegahan penyakit tidak berjangkit.,6010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,7.0 Keselamatan,7.1.1,Menyatakan maksud pengantunan kanak- kanak.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,7.0 Keselamatan,7.1.2,Memberi contoh situasi pengantunan kanak- kanak.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,7.0 Keselamatan,7.1.3,Mengaplikasikan cara mengelak daripada pengantunan kanak- kanak.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,7.0 Keselamatan,7.1.4,Berkomunikasi dengan berkesan cara mengelak daripada situasi pengantunan kanak-kanak.,7010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,8.0 Pemakanan,8.1.1,Mengenal pasti jenis makanan mengikut aras Piramid Makanan Malaysia.,8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,8.0 Pemakanan,8.1.2,Membincangkan fungsi setiap aras Piramid Makanan Malaysia.,8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,8.0 Pemakanan,8.1.3,Menjelaskan dengan contoh kepentingan memilih dan mengambil pelbagai jenis makanan sihat berdasarkan Piramid Makanan Malaysia.,8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,9.0 Pertolongan Cemas,9.1.1,Menyatakan punca kecederaan lebam dan terseliuh.,9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,9.0 Pertolongan Cemas,9.1.2,Membincangkan cara memberi bantu mula untuk kecederaan lebam dan terseliuh.,9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,4,9.0 Pertolongan Cemas,9.1.3,Mengaplikasikan kemahiran bantu mula untuk kecederaan lebam dan terseliuh.,9010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Mengetahui sistem reproduktif lelaki dan perempuan,1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Memahami kaitan sistem reproduktif lelaki dan perempuan dengan asas kejadian manusia.,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Mengaplikasikan kemahiran mengira kitaran haid.,1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Menjana idea kepentingan mengira kitaran haid.,1010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Mengetahui peraturan tingkah laku dalam aspek seksualiti sebagai lelaki atau perempuan.,1020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran peraturan tingkah laku dalam kehidupan harian,1020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menilai kepentingan menjaga kehormatan anggota seksual diri dan orang lain.,1020300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui pelbagai jenis bahan inhalan.,2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,2.0 Penyalahgunaan Bahan,2.1.2,Menjelaskan kesan penyalahgunaan bahan inhalan kepada kesihatan diri.,2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada penyalahgunaan bahan inhalan.,2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,2.0 Penyalahgunaan Bahan,2.1.4,Menjana idea cara menangani penyalahgunaan bahan inhalan.,2010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,3.0 Pengurusan Mental Dan Emosi,3.1.1,Mengenal pasti situasi konflik dan stres dalam kalangan ahli keluarga,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,3.0 Pengurusan Mental Dan Emosi,3.1.2,Menjelaskan kesan konflik dan stres terhadap keluarga.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara mengurus konflik dan stres dalam mengekalkan ikatan kekeluargaan.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,4.0 Kekeluargaan,4.1.1,Memahami kepentingan menangani penderaan dalam keluarga.,4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,4.0 Kekeluargaan,4.1.2,Mengaplikasikan kemahiran berkata TIDAK kepada penderaan dalam keluarga.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,4.0 Kekeluargaan,4.1.3,Menjana idea cara meminta bantuan untuk menangani penderaan dalam keluarga.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,5.0 Perhubungan,5.1.1,Memahami ciri-ciri persahabatan yang sihat.,5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,5.0 Perhubungan,5.1.2,Mengaplikasikan kemahiran kecekapan psikososial dalam menjalin persahabatan yang sihat.,5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,5.0 Perhubungan,5.1.3,Menilai persahabatan yang sihat.,5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,6.0 Penyakit,6.1.1,"Mengetahui simptom demam campak, rubella, cacar air dan beguk.",6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,6.0 Penyakit,6.1.2,"Berkomunikasi mengenai cara mencegah demam campak, rubella, cacar air dan beguk daripada merebak.",6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,7.0 Keselamatan,7.1.1,Mengetahui pengaruh rakan sebaya dalam kehidupan harian.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,7.0 Keselamatan,7.1.2,Menilai pengaruh rakan sebaya dalam kehidupan harian.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,7.0 Keselamatan,7.1.3,Menjana idea cara menangani pengaruh negatif rakan sebaya.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,8.0 Pemakanan,8.1.1,Menyatakan kepentingan pengambilan nutrien daripada pelbagai jenis makanan.,8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,8.0 Pemakanan,8.1.2,Menjelaskan kepentingan membaca maklumat nutrien pada label makanan.,8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,8.0 Pemakanan,8.1.3,Menganalisis maklumat nutrien yang terdapat pada label makanan.,8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,9.0 Pertolongan Cemas,9.1.1,Menyatakan punca melecet dan melecur,9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,9.0 Pertolongan Cemas,9.1.2,Membincangkan langkah-langkah bantuan awal melecet dan melecur.,9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,5,9.0 Pertolongan Cemas,9.1.3,Menilai kesan melecet dan melecur sekiranya tidak diberi rawatan segera.,9010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,1.1,Menyatakan agama atau kepercayaan diri. Memberi contoh perlakuan patuh kepada ajaran agama dalam keluarga. Menyenaraikan pelbagai perayaan di Malaysia. Memberikan contoh amalan agama atau kepercayaan yang dianuti oleh jiran. Menjelaskan ciri masyarakat. Menjelaskan maksud Kepercayaan kepada Tuhan dalam prinsip Rukun Negara.,1010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menjelaskan perubahan fizikal lelaki dan perempuan apabila memasuki alam remaja,1010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasikan cara menghargai perubahan fizikal sebagai remaja lelaki dan perempuan.,1010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Membuat penilaian terhadap perubahan diri sebagai remaja lelaki dan perempuan untuk diterima serta dihargai.,1010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,1.2,Menghuraikan kepentingan mempunyai agama atau kepercayaan. Menghuraikan tujuan patuh kepada ajaran agama dalam keluarga. Menjelaskan amalan pelbagai perayaan yang disambut oleh warga sekolah. Memerihalkan amalan ajaran agama atau kepercayaan yang dapat mengeratkan hubungan sesama jiran. Mengenal pasti amalan ajaran agama atau kepercayaan dalam membentuk masyarakat harmoni. Memerihalkan cara mengamalkan kepercayaan kepada Tuhan demi kesejahteraan negara.,1020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Memahami situasi yang mendorong kepada tingkah laku seksual.,1020100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran asertif dalam menangani tingkah laku seksual.,1020200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menganalisis risiko tingkah laku seksual.,1020300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.4,Menilai kesan tingkahlaku seksual terhadapdiri dan keluarga.,1020400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,1.3,"Mengenal pasti ciptaan Tuhan. Menjelaskan kaitan antara patuh dalam ajaran agama dan taat kepada keluarga. Menilai kepentingan menerima, menghormati dan mengurus kepelbagaian perayaan yang disambut oleh warga sekolah. Menghuraikan kepentingan menghormati amalan ajaran agama atau kepercayaan jiran. Menghuraikan kepentingan amalan ajaran agama atau kepercayaan dalam membentuk masyarakat harmoni. Menghuraikan kepentingan amalan kepercayaan kepada Tuhan demi kesejahteraan negara.",1030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,1.4,"Melahirkan rasa syukur terhadap ciptaan Tuhan. Melahirkan perasaan apabila patuh kepada ajaran agama. Mengekspresikan perasaan apabila dapat menerima, menghormati dan mengurus kepelbagaian perayaan warga sekolah. Mengekspresikan perasaan berkaitan dengan amalan ajaran agama atau kepercayaan jiran. Mengekspresikan perasaan berkaitan dengan amalan ajaran agama atau kepercayaan dalam membentuk masyarakat harmoni. Mengekspresikan perasaan berkaitan dengan amalan kepercayaan kepada Tuhan demi kesejahteraan negara.",1040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,1.5,"Melaksanakan nilai-nilai keagamaan atau kepercayaan. Melaksanakan sikap patuh kepada ajaran agama dalam keluarga. Mengamalkan sikap menerima, menghormati dan mengurus kepelbagaian perayaan warga sekolah. Mengamalkan sikap menghormati amalan ajaran agama atau kepercayaan jiran. Mengamalkan sikap menerima, menghormati dan mengurus kepelbagaian agama atau kepercayaan dalam membentuk masyarakat harmoni. Mengamalkan sikap kepercayaan kepada Tuhan demi kesejahteraan negara",1050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.0,Bantuan Kepada Warga Sekolah,2000000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.1,Menyenaraikan sifat baik hati yang ada pada diri. Menyenaraikan jenis bantuan yang boleh diberikan kepada keluarga. Menyenaraikan jenis bantuan yang boleh diberi kepada warga sekolah. Memberikan contoh prihatin terhadap keperluan dan kebajikan jiran. Menyenaraikan contoh keperluan dan kebajikan yang boleh diberikan kepada masyarakat. Menyenaraikan contoh bantuan dan sokongan moral yang boleh disumbangkan kepada negara.,2010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui tentang bahaya dadah.,2010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,2.0 Penyalahgunaan Bahan,2.1.2,Membincangkan puncapenyalahgunaan dadah.,2010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada penyalahgunaan dadah.,2010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,2.0 Penyalahgunaan Bahan,2.1.4,"Menganalisis kesan penyalahgunaan dadahkepada diri, keluarga dan masyarakat.",2010400,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.2,Memberi cadangan cara membantu orang lain. Menjelaskan cara memberi bantuan kepada keluarga. Mengenal pasti cara membantu warga sekolah. Menjelaskan cara bersikap prihatin terhadap keperluan dan kebajikan jiran. Menjelaskan kepentingan bersikap peka terhadap keperluan dan kebajikan masyarakat. Menghuraikan cara memupuk budaya memberi bantuan dan sokongan moral kepada negara.,2020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.3,Memberi alasan pentingnya menghulurkan bantuan. Menganalisis kesan memberi bantuan kepada keluarga. Menjelaskan kepentingan bersikap ikhlas membantu warga sekolah; Menghuraikan kepentingan bersikap prihatin terhadap keperluan dan kebajikan jiran. Menjana idea tentang kesan pengabaian sikap peka terhadap keperluan dan kebajikan masyarakat. Menjelaskan kepentingan amalan memberi bantuan dan sokongan moral kepada negara.,2030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.4,Menunjukkan perasaan apabila dapat memberi bantuan. Menzahirkan perasaan apabila memberi bantuan kepada keluarga. Mengekspresikan perasaan apabila dapat membantu warga sekolah. Mengekspresikan perasaan berkaitan dengan bersikap prihatin terhadap keperluan dan kebajikan jiran. Mengekspresikan perasaan berkaitan dengan amalan peka terhadap keperluan dan kebajikan masyarakat. Mengekspresikan perasaan berkaitan dengan amalan memberi bantuan dan sokongan moral kepada negara.,2040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,2.5,Memberikan sokongan moral dan kebendaan kepada yang memerlukan. Mengamalkan sikap memberi bantuan kepada keluarga; Mengamalkan sikap saling membantu dalam kalangan warga sekolah. Mengamalkan sikap prihatin terhadap keperluan dan kebajikan jiran. Mengamalkan sikap peka terhadap keperluan dan kebajikan masyarakat. Mengamalkan sikap memberi bantuan dan sokongan moral kepada negara.,2050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,3.1,Menyenaraikan tanggungjawab terhadap diri sendiri. Menyenaraikan contoh tanggungjawab terhadap keluarga. Menyenaraikan tanggungjawab di sekolah. Memberikan contoh situasi bertanggungjawab terhadap jiran. Menyenaraikan contoh tanggungjawab sebagai anggota masyarakat. Memberikan definisi warganegara.,3010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,3.0 Pengurusan Mental Dan Emosi,3.1.1,Memahami perubahanemosi dan naluri seksual remaja.,3010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasikan kemahiran mengurusperubahan emosi remaja dengan carayang positif.,3010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara mengurus naluri seksual melalui aktivitiberfaedah.,3010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,3.2,Membincangkan kepentingan melaksanakan tanggungjawab terhadap diri sendiri. Menjelaskan cara melaksanakan tanggungjawab terhadap keluarga. Menjelaskan cara melaksanakan tanggungjawab mengikut peranan dan tugas di sekolah. Menghuraikan cara menjalankan tanggungjawab terhadap jiran. Menghuraikan cara melaksanakan tanggungjawab sebagai anggota masyarakat. Menghuraikan cara melaksanakan tanggungjawab sebagai warganegara,3020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,3.3,Mencadangkan cara bertanggungjawab terhadap diri sendiri. Menghuraikan kepentingan melaksanakan tanggungjawab terhadap keluarga; Menghuraikan kepentingan melaksanakan tanggungjawab di sekolah; Mengkaji kepentingan melaksanakan tanggungjawab terhadap jiran. Membuat justifikasi kepentingan melaksanakan tanggungjawab sebagai anggota masyarakat. Menjana idea kesan pengabaian tanggungjawab sebagai warganegara.,3030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,3.4,Berasa bangga apabila dapat melaksanakan tanggungjawab terhadap diri sendiri. Menzahirkan perasaan apabila melaksanakan tanggungjawab terhadap keluarga. Mengekspresikan perasaan apabila dapat melaksanakan tanggungjawab di sekolah. Mengekspresikan perasaan berkaitan dengan sikap bertanggungjawab terhadap jiran. Mengekspresikan perasaan berkaitan dengan amalan tanggungjawab sebagai anggota masyarakat. Mengekspresikan perasaan berkaitan dengan amalan bertanggungjawab sebagai warganegara.,3040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,3.5,Melaksanakan tanggungjawab terhadap diri sendiri. Mengamalkan sikap bertanggungjawab terhadap keluarga; Mengamalkan sikap bertanggungjawab di sekolah. Mengamalkan sikap bertanggungjawab terhadap jiran. Mengamalkan sikap bertanggungjawab sebagai anggota masyarakat. Mengamalkan sikap bertanggungjawab sebagai warganegara.,3050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,4.1,Mengucapkan terima kasih dalam pelbagai bahasa. Menyenaraikan cara berterima kasih terhadap keluarga. Menyenaraikan cara berterima kasih terhadap warga sekolah. Menyenaraikan cara berterima kasih terhadap jiran. Menyenaraikan contoh jasa dan sumbangan anggota masyarakat. Menyenaraikan keunikan negara.,4010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,4.0 Kekeluargaan,4.1.1,Menjelaskan kepentingan peranan remaja dalam keluarga.,4010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,4.0 Kekeluargaan,4.1.2,Membincangkan perubahan emosi dengan perubahanfizikal keluarga.,4010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,4.0 Kekeluargaan,4.1.3,Menilai kepentingan hubungan kekeluargaan.,4010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,4.2,Mengenal pasti pelbagai cara memberi penghargaan. Menjelaskan kepentingan berterima kasih terhadap keluarga. Menjelaskan kepentingan amalan berterima kasih terhadap warga sekolah. Menjelaskan kepentingan sikap berterima kasih terhadap jiran. Menghuraikan bentuk penghargaan terhadap jasa dan sumbangan anggota masyarakat. Menghuraikan cara menghargai keunikan negara.,4020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,4.3,Menghuraikan kepentingan memberi penghargaan. Menghuraikan kesan mengabaikan sikap berterima kasih terhadap keluarga. Menganalisis kesan mengabaikan amalan berterima kasih terhadap warga sekolah. Meramalkan kesan pengabaian sikap berterima kasih terhadap jiran. Mengkaji kepentingan amalan menghargai jasa dan sumbangan anggota masyarakat. Menjelaskan kepentingan amalan menghargai keunikan negara.,4030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,4.4,Menyatakan perasaan apabila dapat memberi penghargaan. Melahirkan perasaan apabila berterima kasih terhadap keluarga. Mengekspresikan perasaan apabila dapat menunjukkan sikap berterima kasih terhadap warga sekolah. Mengekspresikan perasaan berkaitan dengan sikap berterima kasih terhadap jiran. Mengekspresikan perasaan berkaitan dengan amalan menghargai jasa dan sumbangan anggota masyarakat. Mengekspresikan perasaan berkaitan dengan amalan menghargai keunikan negara.,4040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,4.5,Mencipta pelbagai cenderahati dan kraftangan sebagai tanda penghargaan. Mengamalkan sikap berterima kasih terhadap keluarga. Mengamalkan sikap berterima kasih terhadap warga sekolah. Mengamalkan sikap berterima kasih terhadap jiran. Mengamalkan sikap menghargai jasa dan sumbangan anggota masyarakat. Mengamalkan sikap menghargai keunikan negara.,4050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,5.1,Mengenal pasti tutur kata dan tingkah laku yang bersopan. Menyenaraikan amalan hemah tinggi dalam keluarga; Menyenaraikan contoh pertuturan dan perlakuan yang sopan terhadap warga sekolah. Memberikan contoh amalan beradab sopan dan berbudi pekerti mulia terhadap jiran. Menyenaraikan contoh amalan beradab sopan dan berbudi pekerti mulia dalam hidup bermasyarakat. Menjelaskan contoh amalan hemah tinggi demi meningkatkan imej negara.,5010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,5.0 Perhubungan,5.1.1,Mengetahui jenis tekanan yang dihadapirakan sebaya.,5010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,5.0 Perhubungan,5.1.2,Membincangkan tekanan positif dan tekanan negatif yang dihadapi rakan sebaya berdasarkan situasi.,5010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,5.0 Perhubungan,5.1.3,Menilai cara mengurus tekanan negatif yang dihadapi rakan sebaya.,5010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,5.2,Meramalkan kesan tutur kata dan tingkah laku yang sopan. Menjelaskan kepentingan hemah tinggi dalam keluarga. Mengenal pasti kepentingan bersikap sopan dan berbudi pekerti mulia terhadap warga sekolah. Menjelaskan cara beradab sopan dan berbudi pekerti mulia terhadap jiran. Menjelaskan kepentingan amalan beradab sopan dan berbudi pekerti mulia dalam hidup bermasyarakat. Memerihalkan cara mengamalkan hemah tinggi demi meningkatkan imej negara.,5020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,5.3,Menunjukkan cara berkomunikasi dengan beradab sopan dalam tutur kata dan tingkah laku. Menganalisis kesan tidak bersikap hemah tinggi dalam keluarga. Menjelaskan kesan tidak bersopan dan berbudi pekerti mulia terhadap warga sekolah. Menaakul kepentingan beradab sopan dan berbudi pekerti mulia terhadap jiran. Menaakul kesan pengabaian amalan beradab sopan dan berbudi pekerti mulia dalam hidup bermasyarakat. Menghuraikan kepentingan amalan hemah tinggi demi meningkatkan imej negara,5030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,5.4,Menzahirkan perasaan apabila beradab sopan dalam pertuturan dan tingkah laku. Melahirkan perasaan apabila berhemah tinggi dalam keluarga. Mengekspresikan perasaan apabila dapat bersikap sopan dan berbudi pekerti mulia terhadap warga sekolah. Mengekspresikan perasaan berkaitan dengan amalan beradab sopan dan berbudi pekerti mulia terhadap jiran. Mengekspresikan perasaan berkaitan dengan amalan beradab sopan dan berbudi pekerti mulia dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan amalan hemah tinggi demi meningkatkan imej negara.,5040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,5.5,Mengamalkan tutur kata dan tingkah laku yang bersopan. Mengamalkan sikap hemah tinggi dalam keluarga. Mengamalkan sikap bersopan dan berbudi pekerti mulia ter; Mengamalkan perlakuan beradab sopan dan berbudi pekerti mulia terhadap jiran. Mengamalkan sikap beradab sopan dan berbudi pekerti mulia dalam hidup bermasyarakat. Mengamalkan sikap hemah tinggi demi meningkatkan imej negara.,5050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,6.1,Memberi contoh menghormati diri sendiri. Mengenal pasti hubungan antara ahli keluarga. Menyenaraikan warga sekolah dan pelawat. Memberikan contoh perlakuan menghormati jiran. Memberi contoh kepelbagaian budaya dalam hidup bermasyarakat. Memberi contoh identiti negara.,6010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,6.0 Penyakit,6.1.1,"Mengetahui penyakit bawaan makanan, penyakit bawaan air, Hepatitis, serta HIV dan AIDS.",6010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,6.0 Penyakit,6.1.2,"Membincangkan simptom penyakit bawaan makanan, penyakit bawaan air, Hepatitis, serta HIV dan AIDS.",6010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,6.0 Penyakit,6.1.3,"Menjana idea cara mencegah penyakit bawaan makanan, penyakit bawaan airHepatitis, serta HIV dan AIDS.",6010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,6.2,Menerangkan faedah menghormati diri sendiri. Menjelaskan cara menghormati ahli keluarga. Menjelaskan cara menghormati warga sekolah dan pelawat. Menghuraikan cara menghormati jiran. Menghuraikan cara menghormati kepelbagaian budaya dalam hidup bermasyarakat. Menghuraikan cara menghormati identiti negara.,6020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,6.3,Membanding beza cara menghormati diri sendiri dan tidak menghormati diri sendiri. Menghuraikan kepentingan menghormati ahli keluarga; Mengkaji kepentingan menghormati warga sekolah dan pelawat. Mengkaji kelebihan amalan menghormati jiran. Membuat justifikasi kepentingan menghormati kepelbagaian budaya dalam hidup bermasyarakat. Menaakul kepentingan menghormati identiti negara.,6030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,6.4,Menyatakan perasaan apabila dapat menghormati diri sendiri. Menceritakan perasaan apabila menghormati ahli keluarga; Mengekspresikan perasaan apabila dapat menghormati warga sekolah dan pelawat. Mengekspresikan perasaan berkaitan dengan sikap menghormati jiran. Mengekspresikan perasaan berkaitan dengan amalan menghormati kepelbagaian budaya dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan menghormati identiti negara.,6040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,6.5,Mempraktikkan sikap menghormati diri sendiri dalam kehidupan seharian. Mengamalkan perlakuan menghormati ahli keluarga. Mengamalkan perlakuan sikap hormat terhadap warga sekolah dan pelawat; Mengamalkan sikap menghormati jiran. Mengamalkan sikap menghormati kepelbagaian budaya dalam hidup bermasyarakat. Mengamalkan sikap menghormati identiti negara.,6050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.0,Sayangi Ahli Keluarga,7000000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.1,Menyenaraikan cara menjaga kebersihan dan keselamatan diri. Menjelaskan ciri-ciri keluarga yang bahagia. Mengenal pasti cara menyayangi sekolah dan warga sekolah. Memberikan contoh perlakuan menyayangi jiran. Menyenaraikan contoh amalan menyayangi masyarakat demi kesejahteraan bersama. Menyenaraikan contoh amalan cinta akan negara.,7010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,7.0 Keselamatan,7.1.1,Mengetahui maksudkomuniti.,7010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,7.0 Keselamatan,7.1.2,Membincangkan pengaruh dalam komunititerhadap keselamatan diri.,7010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,7.0 Keselamatan,7.1.3,Menjana idea cara menangani pengaruhdalam komuniti yangmengancam keselamatan diri.,7010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.2,Menjelaskan dengan contoh kesan tidak menjaga kebersihan dan keselamatan diri. Memerihalkan cara mengeratkan kasih sayang sesama ahli keluarga. Menghuraikan kepentingan menyayangi sekolah dan warga sekolah. Menghuraikan cara menyayangi jiran. Menghuraikan cara memupuk amalan kasih sayang dalam masyarakat demi kesejahteraan bersama. Menghuraikan cara memupuk amalan cinta akan negara.,7020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.3,Memberi alasan pentingnya menjaga kebersihan dan keselamatan diri. Membuat kesimpulan kepentingan menyayangi ahli keluarga. Menjelaskan kesan sekiranya tidak menyayangi sekolah dan warga sekolah. Merumuskan kebaikan menyayangi jiran. Merumuskan kepentingan amalan menyayangi masyarakat demi kesejahteraan bersama. Merumuskan kesan pengabaian amalan cinta akan negara,7030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.4,Mengekspresikan perasaan setelah menjaga kebersihan dan keselamatan diri. Menzahirkan perasaan apabila dapat menyayangi sesama ahli keluarga. Mengekspresikan perasaan apabila dapat menyayangi sekolah dan warga sekolah. Mengekspresikan perasaan berkaitan dengan sikap menyayangi jiran. Mengekspresikan perasaan berkaitan dengan amalan menyayangi masyarakat demi kesejahteraan bersama. Mengekspresikan perasaan berkaitan dengan amalan cinta akan negara.,7040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,7.5,Mempraktikkan amalan menjaga kebersihan dan keselamatan diri dalam kehidupan seharian. Mengamalkan sikap kasih sayang terhadap ahli keluarga; Mengamalkan sikap menyayangi sekolah dan warga sekolah. Mengamalkan sikap menyayangi jiran. Mengamalkan sikap menyayangi masyarakat demi kesejahteraan bersama. Mengamalkan sikap amalan cinta akan negara.,7050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,8.1,Menyatakan contoh keadilan dalam perlakuan seharian. Menyenaraikan sikap adil terhadap keluarga. Memerihalkan cara bersikap adil sesama warga sekolah. Memberikan contoh tindakan yang adil terhadap jiran. Menyenaraikan contoh amalan adil dalam hidup bermasyarakat. Menyenaraikan contoh institusi yang menegakkan keadilan negara.,8010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,8.0 Pemakanan,8.1.1,Menyatakan maksud makanan segar dan makanan yang diproses.,8010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,8.0 Pemakanan,8.1.2,Meramal kesan pengambilan makanan yang diproses secara berlebihan.,8010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,8.0 Pemakanan,8.1.3,Menilai makanan dan amalan pemakanan yang seimbang untuk mengurangkan risiko penyakit.,8010300,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,8.2,Menceritakan sebab perlu berlaku adil dalam perlakuan seharian. Menghuraikan cara bersikap adil terhadap keluarga. Menjelaskan kepentingan bersikap adil sesama warga sekolah. Menjelaskan kebaikan bersikap adil terhadap jiran. Menjelaskan kepentingan amalan adil dalam hidup bermasyarakat. Menghuraikan cara amalan adil demi kesejahteraan negara.,8020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,8.3,Menilai kesan ketidakadilan dalam perlakuan seharian. Menjelaskan kepentingan bersikap adil terhadap keluarga. Menghuraikan kesan tidak bersikap adil sesama warga sekolah. Menghuraikan kesan jika tidak bertindak adil terhadap jiran. Menghuraikan kesan pengabaian amalan adil dalam hidup bermasyarakat. Menjelaskan kepentingan amalan adil demi kesejahteraan negara.,8030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,8.4,Menghayati sikap adil dalam perlakuan seharian. Menceritakan perasaan bersikap adil terhadap keluarga. Mengekspresikan perasaan apabila dapat bersikap adil sesama warga sekolah. Mengekspresikan perasaan berkaitan dengan tindakan yang adil terhadap jiran. Mengekspresikan perasaan berkaitan dengan amalan adil dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan adil demi kesejahteraan negara.,8040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,8.5,Bertindak adil dalam perlakuan seharian. Mengamalkan sikap adil terhadap keluarga. Mengamalkan sikap adil sesama warga sekolah. Mengamalkan tindakan yang adil terhadap jiran. Mengamalkan sikap adil dalam hidup bermasyarakat. Mengamalkan sikap adil demi kesejahteraan negara.,8050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.0,Berani Menjaga Nama Baik Keluarga,9000000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.1,Memberikan contoh perlakuan berani mempertahankan maruah diri. Menyenaraikan contoh menjaga nama baik keluarga. Menyenaraikan contoh menghadapi cabaran yang terdapat di sekolah. Memberikan contoh sikap berani terhadap jiran demi kesejahteraan bersama. Memberikan contoh amalan berani dalam hidup bermasyarakat. Menyenaraikan contoh amalan berani mempertahankan maruah negara.,9010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.1.1,Mengetahui kandungandan fungsi peti pertolongan cemas.,9010100,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.1.2,Mengaplikasikan penggunaan peti pertolongan cemas dalam bantu mula.,9010200,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.2,Mengenal pasti kepentingan bersikap berani untuk mempertahankan maruah diri. Menjelaskan cara menjaga nama baik keluarga. Mengenal pasti cara berani menghadapi cabaran yang terdapat di sekolah. Menghuraikan cabaran yang dihadapi ketika bertindak berani terhadap jiran demi kesejahteraan bersama. Menghuraikan cabaran amalan berani dalam hidup bermasyarakat. Menghuraikan kepentingan amalan berani mempertahankan maruah negara.,9020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.3,Menilai kesan apabila bertindak berani secara melulu tanpa berfikir; Menerangkan kepentingan menjaga nama baik keluarga. Menjelaskan kepentingan berani menghadapi cabaran yang terdapat di sekolah. Menaakul kepentingan bersikap berani terhadap jiran demi kesejahteraan bersama. Menaakul kepentingan amalan berani dalam hidup bermasyarakat. Merumuskan kesan pengabaian amalan berani mempertahankan maruah negara.,9030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.4,Mengekspresikan perasaan apabila dapat mempertahankan maruah diri. Menceritakan perasaan dalam mempertahankan nama baik keluarga. Mengekspresikan perasaan apabila berani menghadapi cabaran di sekolah. Mengekspresikan perasaan berkaitan dengan sikap berani terhadap jiran demi kesejahteraan bersama. Mengekspresikan perasaan berkaitan dengan amalan berani dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan berani mempertahankan maruah negara.,9040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,9.5,Mengaplikasikan sikap berani mempertahankan maruah diri dalam pelbagai situasi. Mengamalkan sikap berani menjaga nama baik keluarga. Mengamalkan sikap berani menghadapi cabaran di sekolah. Mengamalkan sikap berani terhadap jiran demi kesejahteraan bersama. Mengamalkan sikap berani dalam hidup bermasyarakat. Mengamalkan sikap berani mempertahankan maruah negara.,9050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,10.1,Memberikan contoh perlakuan jujur dalam kehidupan seharian. Menyenaraikan contoh sikap jujur. Menyenaraikan contoh perlakuan jujur terhadap warga sekolah. Menyenaraikan ciri kejujuran. Menyenaraikan contoh amalan jujur dalam hidup bermasyarakat. Menyenaraikan cara bersikap jujur demi kesejahteraan negara,10010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,10.2,Menghuraikan sebab perlunya bersikap jujur. Menjelaskan cara bersikap jujur terhadap ahli keluarga. Menjelaskan kepentingan bersikap jujur terhadap warga sekolah. Mengenal pasti situasi bersikap jujur terhadap jiran. Mengenal pasti cara memupuk amalan jujur dalam hidup bermasyarakat. Menghuraikan kepentingan bersikap jujur demi kesejahteraan negara,10020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,10.3,Menunjuk cara bersikap jujur dalam kehidupan seharian. Mengkaji kesan bersikap jujur terhadap ahli keluarga. Menilai kesan tidak bersikap jujur terhadap warga sekolah. Menghuraikan manfaat bersikap jujur terhadap jiran. Menghuraikan kepentingan amalan jujur dalam hidup bermasyarakat. Merumuskan kesan pengabaian sikap jujur demi kesejahteraan negara.,10030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,10.4,Meluahkan perasaan apabila bersikap jujur. Menzahirkan perasaan bersikap jujur terhadap ahli keluarga. Mengekspresikan perasaan apabila dapat bersikap jujur terhadap warga sekolah. Mengekspresikan perasaan berkaitan dengan sikap jujur terhadap jiran. Mengekspresikan perasaan berkaitan dengan amalan jujur dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan sikap jujur demi kesejahteraan negara.,10040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,10.5,Mengaplikasikan sikap jujur dalam pelbagai situasi. Mengamalkan sikap jujur terhadap ahli keluarga. Mengamalkan sikap jujur terhadap warga sekolah. Mengamalkan sikap jujur terhadap jiran. Mengamalkan sikap jujur dalam hidup bermasyarakat. Mengamalkan sikap jujur demi kesejahteraan negara,10050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,11.1,Menyatakan ciri-ciri bersikap rajin. Menyenaraikan contoh sikap rajin yang boleh dilakukan terhadap ahli keluarga. Menyenaraikan contoh perlakuan rajin di sekolah. Memberikan contoh amalan rajin dalam hidup berjiran. Menyenaraikan contoh amalan rajin dalam hidup bermasyarakat. Menyenaraikan contoh suri teladan yang mengharumkan nama negara dalam pelbagai bidang.,11010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,11.2,Membincangkan kebaikan bersikap rajin. Menjelaskan cara bersikap rajin terhadap ahli keluarga. Menghuraikan kepentingan bersikap rajin di sekolah. Menjelaskan cara bersikap rajin dalam hidup berjiran. Mengenal pasti kepentingan amalan rajin dalam hidup bermasyarakat. Menjelaskan cara amalan rajin demi kemajuan negara.,11020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,11.3,Mencadangkan aktiviti yang menunjukkan sikap rajin. Menghuraikan kepentingan bersikap rajin terhadap ahli keluarga. Menjelaskan akibat tidak bersikap rajin di sekolah. Mengenal pasti kepentingan amalan rajin dalam hidup berjiran. Menjelaskan kesan pengabaian amalan rajin dalam hidup bermasyarakat. Mengenal pasti kepentingan amalan rajin demi kemajuan negara.,11030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,11.4,Mengekspresikan perasaan apabila bersikap rajin dalam perlakuan seharian. Menzahirkan perasaan apabila bersikap rajin terhadap ahli keluarga. Mengekspresikan perasaan apabila bersikap rajin di sekolah. Mengekspresikan perasaan berkaitan dengan sikap rajin dalam hidup berjiran. Mengekspresikan perasaan berkaitan dengan amalan rajin dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan rajin demi kemajuan negara.,11040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,11.5,Mengamalkan sikap rajin dalam aktiviti seharian. Mengamalkan sikap rajin terhadap ahli keluarga. Mengamalkan sikap rajin di sekolah. Mengamalkan sikap rajin dalam hidup berjiran. Mengamalkan sikap rajin dalam hidup bermasyarakat. Mengamalkan sikap rajin demi kemajuan negara.,11050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,12.1,Memerihalkan aktiviti yang boleh dilakukan bersama-sama. Menyenaraikan tugasan yang boleh dilakukan bersama-sama keluarga. Menyenaraikan contoh aktiviti yang dilakukan bersama-sama warga sekolah. Memberikan contoh amalan kerjasama dalam hidup berjiran. Menyenaraikan contoh amalan kerjasama dalam hidup bermasyarakat. Memerihalkan contoh kerjasama demi keharmonian negara.,12010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,12.2,Menghuraikan kebaikan bekerjasama dengan orang lain. Menghuraikan cara melaksanakan tugasan bersama-sama keluarga. Mencadangkan cara melaksanakan aktiviti bersama-sama warga sekolah. Menjelaskan cara mengekalkan amalan kerjasama dalam hidup berjiran. Menghuraikan kepentingan amalan kerjasama dalam hidup bermasyarakat. Menjelaskan cara memupuk amalan kerjasama demi keharmonian negara.,12020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,12.3,Merancang aktiviti yang menunjukkan sikap kerjasama. Menjelaskan kesan bekerjasama dan tidak bekerjasama dengan ahli keluarga. Menghuraikan kepentingan bekerjasama dengan warga sekolah. Menghuraikan kebaikan amalan kerjasama dalam hidup berjiran. Menjelaskan kesan pengabaian amalan kerjasama dalam hidup bermasyarakat. Menghuraikan kepentingan amalan kerjasama demi keharmonian negara.,12030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,12.4,Meluahkan perasaan apabila melaksanakan aktiviti bersama-sama. Menzahirkan perasaan apabila melaksanakan tugasan bersama-sama keluarga; Mengekspresikan perasaan apabila bekerjasama dengan warga sekolah. Mengekspresikan perasaan berkaitan dengan amalan kerjasama dalam hidup berjiran. Mengekspresikan perasaan berkaitan dengan amalan kerjasama dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan kerjasama demi keharmonian negara.,12040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,12.5,Mempraktikkan nilai bekerjasama demi perpaduan dalam kehidupan seharian. Mengamalkan sikap bekerjasama dengan ahli keluarga. Mengamalkan sikap bekerjasama dengan warga sekolah. Mengamalkan sikap bekerjasama dalam hidup berjiran. Mengamalkan sikap bekerjasama dalam hidup bermasyarakat. Mengamalkan sikap bekerjasama demi keharmonian negara,12050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,13.1,Memberi contoh sikap tidak keterlaluan dalam kehidupan seharian. Memberi contoh bersikap sederhana dalam keluarga. Menyenaraikan contoh perlakuan sederhana di sekolah. Memberikan contoh amalan kesederhanaan dalam hidup berjiran. Menyenaraikan bentuk amalan kesederhanaan dalam hidup bermasyarakat. Menyenaraikan contoh amalan kesederhanaan demi kesejahteraan negara.,13010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,13.2,Mengenal pasti kepentingan bersikap sederhana. Menghuraikan cara bersikap sederhana dalam keluarga. Memerihalkan cara bersikap sederhana di sekolah. Memerihalkan cara bersikap sederhana dalam hidup berjiran. Menjelaskan cara amalan kesederhanaan dalam hidup bermasyarakat. Menghuraikan kepentingan amalan kesederhanaan demi kesejahteraan negara.,13020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,13.3,Membanding beza antara sikap bersederhana dengan sikap keterlaluan. Menjelaskan kebaikan bersikap sederhana dalam keluarga. Menghuraikan kebaikan bersikap sederhana di sekolah. Mengenal pasti kelebihan amalan kesederhanaan dalam hidup berjiran. Menghuraikan kepentingan amalan kesederhanaan dalam hidup bermasyarakat. Merumuskan kesan pengabaian amalan kesederhanaan demi kesejahteraan negara.,13030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,13.4,Menyatakan perasaan apabila bersikap sederhana dalam kehidupan seharian. Menzahirkan perasaan apabila bersikap sederhana dalam keluarga. Mengekspresikan perasaan apabila bersikap sederhana di sekolah. Mengekspresikan perasaan berkaitan dengan amalan sederhana dalam hidup berjiran. Mengekspresikan perasaan berkaitan dengan amalan kesederhanaan dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan kesederhanaan demi kesejahteraan negara,13040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,13.5,Mengamalkan perlakuan sederhana dalam kehidupan seharian. Mengamalkan sikap bersederhana dalam keluarga. Mengamalkan kesederhanaan di sekolah. Mengamalkan sikap sederhana dalam hidup berjiran. Mengamalkan sikap sederhana dalam hidup bermasyarakat. Mengamalkan sikap bersederhana demi kesejahteraan negar,13050000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,14.1,Menyatakan cara bertoleransi dalam kehidupan seharian. Memberi contoh sikap bertoleransi terhadap ahli keluarga. Menyenaraikan ciri toleransi. Memberikan contoh amalan toleransi dalam hidup berjiran. Mengenal pasti contoh amalan toleransi dalam hidup bermasyarakat. Memberi contoh amalan toleransi demi perpaduan negara,14010000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,14.2,Membincangkan kebaikan bersabar dan bertolak ansur terhadap diri dan orang lain. Menjelaskan cara bertoleransi terhadap ahli keluarga. Menjelaskan dengan contoh sikap toleransi sesama warga sekolah. Menghuraikan cara memupuk amalan toleransi dalam hidup berjiran. Menghuraikan kepentingan amalan toleransi dalam hidup bermasyarakat. Menghuraikan kepentingan amalan toleransi demi perpaduan negara.,14020000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,14.3,Mendemonstrasi cara bertoleransi dalam pelbagai situasi. Menghuraikan manfaat bertoleransi terhadap ahli keluarga. Menghuraikan kepentingan bersikap toleransi sesama warga sekolah. Mengkaji kepentingan amalan toleransi dalam hidup berjiran. Membuat justifikasi kesan pengabaian amalan toleransi dalam hidup bermasyarakat. Merumuskan kesan pengabaian amalan toleransi demi perpaduan negara.,14030000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,14.4,Melahirkan perasaan apabila dapat mengawal diri dalam sesuatu situasi. Melahirkan perasaan apabila dapat bertoleransi terhadap ahli keluarga. Mengekspresikan perasaan apabila bersikap toleransi sesama warga sekolah. Mengekspresikan perasaan berkaitan dengan amalan toleransi dalam hidup berjiran. Mengekspresikan perasaan berkaitan dengan amalan toleransi dalam hidup bermasyarakat. Mengekspresikan perasaan berkaitan dengan amalan toleransi demi perpaduan negara,14040000,True
+PENDIDIKAN KESIHATAN SK,PK-SK,6,9.0 Pertolongan Cemas,14.5,Mempraktikkan sikap bertoleransi untuk memperkukuh perpaduan dalam kehidupan. Mengamalkan sikap bertoleransi terhadap ahli keluarga. Mengamalkan sikap bertoleransi untuk mengeratkan perpaduan sesama warga sekolah. Mengamalkan sikap bertoleransi dalam hidup berjiran. Mengamalkan sikap bertoleransi dalam hidup bermasyarakat. Mengamalkan sikap bertoleransi demi perpaduan negara.,14050000,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Mengetahui anggota tubuh lelaki dan perempuan.  Kepala; Rambut; Mata; Telinga; Hidung; Mulut; Bibir; Gigi  Badan; Payu dara; Dada; Bahu; Punggung  Tangan  Paha  Kaki  Kuku  Organ genital; Zakar; Faraj  Dubur,1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Memahami kepentingan menjaga kebersihan fizikal.,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,"Mengaplikasikan cara menjaga kebersihan fizikal, pakaian dan alatan keperluan diri.",1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Menilai kesan sekiranya tidak menjaga kebersihan fizikal dan berkongsi alatan keperluan diri.,1010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.1,"Mengetahui sentuhan selamat, sentuhan tidak selamat dan sentuhan tidak selesa.",2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.2,"Memahami sebab anggota tubuh dan organ genital hanya boleh disentuh oleh ibu atau doktor untuk tujuan kebersihan, kesihatan dan keselamatan.",2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,2.0 Kesihatan Diri Dan Reproduktif,2.1.4,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,2010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,3.0 Penyalahgunaan Bahan,3.1.1,Mengetahui ubat dan kegunaannya.,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,3.0 Penyalahgunaan Bahan,3.1.2,Memahami kepentingan ubat dan mematuhi preskripsi doktor.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,3.0 Penyalahgunaan Bahan,3.1.3,Memahami bahaya pengambilan ubat selepas tarikh luput.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,3.0 Penyalahgunaan Bahan,3.1.4,Memahami bahaya pengambilan ubat orang lain.,3010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,3.0 Penyalahgunaan Bahan,3.1.5,Menilai kepentingan menyimpan ubat di tempat yang betul dan selamat.,3010500,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,4.0 Pengurusan Mental Dan Emosi,4.1.1,"Mengetahui pelbagai emosi iaitu gembira, sedih, takut, marah dan malu.",4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,4.0 Pengurusan Mental Dan Emosi,4.1.2,Memahami kepentingan meluahkan emosi yang sesuai mengikut situasi.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,4.0 Pengurusan Mental Dan Emosi,4.1.3,Memahami maksud keperluan dan kehendak dalam kehidupan.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,4.0 Pengurusan Mental Dan Emosi,4.1.4,Menganalisis cara mengurus emosi secara berkesan untuk memenuhi keperluan dan kehendak dalam kehidupan.,4010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,5.0 Kekeluargaan,5.1.1,Mengetahui peranan ahli keluarga dan penjaga.,5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,5.0 Kekeluargaan,5.1.2,"Mengetahui keistimewaan diri, ahli keluarga dan penjaga.",5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,5.0 Kekeluargaan,5.1.3,"Mengaplikasi cara menghormati diri, ahli keluarga dan penjaga.",5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,5.0 Kekeluargaan,5.1.4,Menganalisis cara berkomunikasi yang berkesan dengan ahli keluarga dan penjaga.,5010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,6.0 Perhubungan,6.1.1,"Mengetahui cara menjalin hubungan yang sihat dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,6.0 Perhubungan,6.1.2,"Memahami kepentingan menjalin hubungan yang sihat dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,6.0 Perhubungan,6.1.3,"Mengaplikasi etiket perhubungan antara diri dengan ibu bapa, penjaga, ahli keluarga, rakan sebaya dan orang lain.",6010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,6.0 Perhubungan,6.1.4,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa dalam perhubungan.,6010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,7.0 Penyakit,7.1.1,Mengetahui maksud kuman dan cara kuman merebak.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,7.0 Penyakit,7.1.2,Mengetahui penyakit bawaan kuman.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,7.0 Penyakit,7.1.3,Memahami kepentingan menjaga kebersihan diri untuk mencegah kuman daripada merebak.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,7.0 Penyakit,7.1.4,Mengaplikasi cara menjaga kebersihan diri untuk mencegah penyakit.,7010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,7.0 Penyakit,7.1.5,Menilai akibat jika kebersihan diri diabaikan.,7010500,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,8.0 Keselamatan,8.1.1,"Mengetahui situasi tidak selamat di rumah, sekolah, taman permainan dan tempat awam",8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,8.0 Keselamatan,8.1.2,"Mengetahui cara menjaga keselamatan diri daripada situasi tidak selamat di rumah, sekolah, taman permainan dan tempat awam.",8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,8.0 Keselamatan,8.1.3,"Memahami maksud buli, pembuli dan mangsa buli serta kesan perbuatan buli.",8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,8.0 Keselamatan,8.1.4,Mengaplikasi kemahiran berkata TIDAK dan mengelak diri daripada membuli dan dibuli.,8010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,9.0 Pemakanan,9.1.1,Mengetahui jenis makanan yang berkhasiat.,9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,9.0 Pemakanan,9.1.2,Memahami kepentingan pengambilan makanan yang berkhasiat,9010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,9.0 Pemakanan,9.1.3,Mengaplikasi cara menyimpan makanan dan minuman supaya bersih serta selamat.,9010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,9.0 Pemakanan,9.1.4,"Menganalisis kepentingan pengambilan sarapan, makan tengah hari, dan makan malam yang berkhasiat kepada kesihatan diri.",9010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,10.0 Pertolongan Cemas,10.1.1,Mengetahui situasi kecemasan.,10010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,10.0 Pertolongan Cemas,10.1.2,Memahami tindakan yang perlu diambil sewaktu berlaku kecemasan.,10010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,1,10.0 Pertolongan Cemas,10.1.3,Mengaplikasikan kemahiran meminta bantuan apabila berlaku kecemasan.,10010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,"Menyatakan maksud postur, rehat dan tidur.",1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasi postur yang betul untuk pertumbuhan dan perkembangan fizikal yang sihat.,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,"Menjana idea kepentingan postur yang betul, rehat dan tidur yang mencukupi untuk pertumbuhan serta perkembangan fizikal yang sihat.",1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Menyatakan situasi sentuhan tidak selamat dan sentuhan tidak selesa.,1020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran berkata TIDAK kepada individu yang melakukan sentuhan tidak selamat dan sentuhan tidak selesa.,1020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menilai situasi yang memerlukan kemahiran berkata TIDAK kepada sentuhan tidak selamat dan sentuhan tidak selesa.,1020300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,2.0 Penyalahgunaan Bahan,2.1.1,"Menyatakan bahan ketagihan iaitu tembakau, alkohol dan dadah.",2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,2.0 Penyalahgunaan Bahan,2.1.2,"Menjelaskan bahaya pengambilan tembakau, alkohol dan dadah terhadap kesihatan diri serta orang lain.",2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,2.0 Penyalahgunaan Bahan,2.1.3,"Menilai kepentingan kemahiran berkata TIDAK kepada bahan ketagihan iaitu tembakau, alkohol dan dadah.",2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menyatakan perasaan bimbang dan cemburu.,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasi cara mengurus perasaan bimbang dan cemburu apabila berlaku perubahan dalam kalangan ahli keluarga serta rakan sebaya.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menilai kesan kepada diri sekiranya tidak mengurus perasaan bimbang dan cemburu apabila berlaku perubahan dalam kalangan ahli keluarga serta rakan sebaya.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,4.0 Kekeluargaan,4.1.1,Menyatakan keistimewaan diri sebagai lelaki atau perempuan dalam keluarga.,4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,4.0 Kekeluargaan,4.1.2,Mengaplikasi cara menghargai diri dan sesama ahli keluarga tanpa mengira jantina.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,4.0 Kekeluargaan,4.1.3,Menilai kepentingan menghargai diri dan sesama ahli keluarga tanpa mengira jantina.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,5.0 Perhubungan,5.1.1,"Mengetahui cara menzahirkan kasih sayang kepada Tuhan, diri, ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,5.0 Perhubungan,5.1.2,"Mengaplikasi cara bersyukur kepada Tuhan dan berterima kasih kepada ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,5.0 Perhubungan,5.1.3,"Menilai kepentingan menzahirkan kasih sayang kepada Tuhan, diri, ibu, bapa, penjaga, ahli keluarga, guru dan rakan.",5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,6.0 Penyakit,6.1.1,"Menjelaskan penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,6.0 Penyakit,6.1.2,"Mengaplikasi cara menjaga kebersihan diri untuk mencegah penyakit penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,6.0 Penyakit,6.1.3,"Mereka cipta bahan maklumat mencegah penyakit penyakit tangan, kaki dan mulut serta penyakit konjunktivitis.",6010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,7.0 Keselamatan,7.1.1,Menyatakan cara menjaga keselamatan diri daripada orang yang dikenali dan orang yang tidak dikenali.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,7.0 Keselamatan,7.1.2,Mengaplikasi kemahiran berkata TIDAK untuk menjaga keselamatan diri daripada orang yang dikenali dan orang yang tidak dikenali berdasarkan situasi.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,7.0 Keselamatan,7.1.3,Menilai akibat jika menerima pelawaan daripada orang yang tidak dikenali.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,8.0 Pemakanan,8.1.1,Menyatakan tabiat makan dan minum yang sihat. Waktu makan dan minum yang betul; Kuantiti makanan dan minuman mengikut keperluan harian,8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,8.0 Pemakanan,8.1.2,Menganalisis makanan dan minuman yang boleh menyebabkan berat badan berlebihan serta obesiti.,8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,8.0 Pemakanan,8.1.3,Menilai pengaruh rakan dan media dalam pengambilan makanan serta minuman.,8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,9.0 Pertolongan Cemas,9.1.1,"Menyatakan jenis kemalangan dan kecederaan yang boleh berlaku di rumah, sekolah serta tempat awam.",9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,9.0 Pertolongan Cemas,9.1.2,"Mengaplikasi kemahiran meminta bantuan ketika berlaku kemalangan dan kecederaan di rumah, sekolah serta tempat awam.",9010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,2,9.0 Pertolongan Cemas,9.1.3,"Menilai tindakan yang boleh diambil ketika berlaku kemalangan dan kecederaan di rumah, sekolah serta tempat awam.",9010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menyatakan anggota seksual; Bibir; Payu dara; Punggung; Zakar; Faraj; Dubur,1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasikan kemahiran menjaga kehormatan anggota seksual.,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Menilai kesan sekiranya tidak menjaga kehormatan anggota seksual.,1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Memahami batas sentuhan pada anggota seksual.,1020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Menganalisis sentuhan tidak selamat pada anggota seksual mengikut situasi.,1020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menjana idea cara melapor kepada orang yang dipercayai sekiranya berlaku sentuhan tidak selamat pada anggota seksual.,1020300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,2.0 Penyalahgunaan Bahan,2.1.1,Mengaplikasikan kemahiran berkata TIDAK kepada pelawaan merokok.,2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,2.0 Penyalahgunaan Bahan,2.1.2,Menganalisis bahaya merokok terhadap kesihatan diri dan persekitaran.,2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,2.0 Penyalahgunaan Bahan,2.1.3,Menjana idea cara mengelakkan diri daripada menjadi perokok pasif.,2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menjelaskan maksud keyakinan diri.,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasikan cara meningkatkan keyakinan diri dalam kehidupan harian.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara meningkatkan keyakinan diri melalui amalan positif.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,4.0 Kekeluargaan,4.1.1,Memahami batas sentuhan dalam perhubungan kekeluargaan.,4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,4.0 Kekeluargaan,4.1.2,Mengaplikasikan kemahiran berkata TIDAK kepada sentuhan tidak selamat dalam perhubungan kekeluargaan.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,4.0 Kekeluargaan,4.1.3,Menjana idea kesan tidak menjaga batas sentuhan dalam perhubungan kekeluargaan.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.1.1,Menyatakan persediaan diri dan kesesuaian pakaian mengikut jenis aktiviti yang dijalankan.,5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.1.2,Menentukan ruang yang selamat dalam aktiviti fizikal.,5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.1.3,Mengenal pasti alatan yang selamat digunakan.,5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.1.4,Menggunakan alatan mengikut fungsi alatan dengan betul.,5010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.1.5,Mematuhi peraturan keselamatan di tempat aktiviti.,5010500,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.2.1,Melibatkan diri dan mengambil bahagian secara aktif.,5020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.2.2,Menerima cabaran dan seronok semasa melakukan aktiviti.,5020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.2.3,Menerima kemenangan dan kekalahan dalam permainan.,5020300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.3.1,"Berkomunikasi dengan rakan, guru dan ahli kumpulan semasa melakukan aktiviti fizikal.",5030100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.4.1,Memilih sendiri rakan untuk membentuk kumpulan.,5040100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.4.2,Melakukan aktiviti secara berpasangan dan berkumpulan.,5040200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,5.0 Kesukanan ( Domain Afektif ),5.4.3,Bekerjasama dalam kumpulan.,5040300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,6.0 Penyakit,6.1.1,Menjelaskan tentang penyakit bawaan nyamuk; Demam denggi; Demam malaria,6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,6.0 Penyakit,6.1.2,Mengaplikasikan pengetahuan mengenai cara mencegah pembiakan nyamuk.,6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,6.0 Penyakit,6.1.3,Mereka cipta bahan maklumat mencegah demam denggi dan demam malaria.,6010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,7.0 Keselamatan,7.1.1,Menyatakan maksud ancaman sekeliling.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,7.0 Keselamatan,7.1.2,Membincangkan persekitaran yang boleh mengancam keselamatan diri.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,7.0 Keselamatan,7.1.3,Mengaplikasikan langkah-langkah mengelakkan situasi yang boleh mengancam keselamatan diri.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,7.0 Keselamatan,7.1.4,Menjana idea cara mengelakkan diri daripada situasi yang boleh mengancam keselamatan diri.,7010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,8.0 Pemakanan,8.1.1,Menyatakan jenis snek berkhasiat.,8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,8.0 Pemakanan,8.1.2,Memahami kepentingan snek berkhasiat.,8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,8.0 Pemakanan,8.1.3,Mengaplikasikan kemahiran memilih snek berkhasiat.,8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,8.0 Pemakanan,8.1.4,"Menilai kesesuaian pengambilan snek berkhasiat dengan mengurangkan kandungan gula, garam dan lemak.",8010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,9.0 Pertolongan Cemas,9.1.1,Menyatakan jenis-jenis kecederaan ringan.,9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,9.0 Pertolongan Cemas,9.1.2,Membincangkan jenisjenis kecederaan ringan.,9010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,9.0 Pertolongan Cemas,9.1.3,Membincangkan cara memberi bantu mula untuk kecederaan ringan.,9010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,3,9.0 Pertolongan Cemas,9.1.4,Mengaplikasi kemahiran bantu mula untuk kecederaan ringan.,9010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menyatakan maksud akil baligh,1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Membincangkan dan memerihal perubahan fizikal lelalki serta perempuan apabila akil baligh,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Menyatakan contoh simptom yang mungkin dialami ketika haid,1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Membincangkan dan memerihal mitos berkaitan haid serta ihtilam,1010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.1.5,Menilai amalan terbaik pengurusan diri apabila akil baligh,1010500,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Membincangkan cara menghargai dan menghormati perubahan fizikal diri sendiri,1020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Membincangkan cara menghargai dan menghormati perubahan fizikal orang lain,1020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui maksud alkohol.,2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,2.0 Penyalahgunaan Bahan,2.1.2,Menganalisis kesan pengambilan alkohol.,2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan cara mengelakkan diri daripada pengambilan alkohol dalam makanan dan minuman.,2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,3.0 Pengurusan Mental Dan Emosi,3.1.1,Menyatakan maksud konflik dan stres.,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengenal pasti punca konflik dan stres dalam diri sendiri.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menilai kesan konflik dan stres terhadap diri sendiri.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,3.0 Pengurusan Mental Dan Emosi,3.1.4,Menjana idea dan mengamalkan cara menguru,3010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,4.0 Kekeluargaan,4.1.1,Menjelaskan contoh gejala sosial.,4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,4.0 Kekeluargaan,4.1.2,Membincangkan peranan dan tanggungjawab ahli keluarga dalam menangani gejala sosial.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,4.0 Kekeluargaan,4.1.3,Menilai kepentingan sokongan ahli keluarga dalam menangani gejala sosial.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,5.0 Perhubungan,5.1.1,Menyatakan kepentingan menyayangi diri sendiri dan orang lain,5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,5.0 Perhubungan,5.1.2,Menunjuk cara meluahkan perasaan kasih sayang kepada orang lain.,5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,5.0 Perhubungan,5.1.3,Mengesyorkan cara meluahkan perasaan yang sesuai dalam kehidupan harian.,5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,6.0 Penyakit,6.1.1,Menyatakan contoh penyakit tidak berjangkit.,6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,6.0 Penyakit,6.1.2,Menghubungkait punca dan kesan penyakit tidak berjangkit.,6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,6.0 Penyakit,6.1.3,Berkomunikasi mengenai cara pencegahan penyakit tidak berjangkit.,6010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,7.0 Keselamatan,7.1.1,Menyatakan maksud pengantunan kanak- kanak.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,7.0 Keselamatan,7.1.2,Memberi contoh situasi pengantunan kanak- kanak.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,7.0 Keselamatan,7.1.3,Mengaplikasikan cara mengelak daripada pengantunan kanak- kanak.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,7.0 Keselamatan,7.1.4,Berkomunikasi dengan berkesan cara mengelak daripada situasi pengantunan kanak-kanak.,7010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,8.0 Pemakanan,8.1.1,Mengenal pasti jenis makanan mengikut aras Piramid Makanan Malaysia.,8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,8.0 Pemakanan,8.1.2,Membincangkan fungsi setiap aras Piramid Makanan Malaysia.,8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,8.0 Pemakanan,8.1.3,Menjelaskan dengan contoh kepentingan memilih dan mengambil pelbagai jenis makanan sihat berdasarkan Piramid Makanan Malaysia.,8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,9.0 Pertolongan Cemas,9.1.1,Menyatakan punca kecederaan lebam dan terseliuh.,9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,9.0 Pertolongan Cemas,9.1.2,Membincangkan cara memberi bantu mula untuk kecederaan lebam dan terseliuh.,9010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,4,9.0 Pertolongan Cemas,9.1.3,Mengaplikasikan kemahiran bantu mula untuk kecederaan lebam dan terseliuh.,9010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Mengetahui sistem reproduktif lelaki dan perempuan,1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Memahami kaitan sistem reproduktif lelaki dan perempuan dengan asas kejadian manusia.,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Mengaplikasikan kemahiran mengira kitaran haid.,1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.1.4,Menjana idea kepentingan mengira kitaran haid.,1010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Mengetahui peraturan tingkah laku dalam aspek seksualiti sebagai lelaki atau perempuan.,1020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran peraturan tingkah laku dalam kehidupan harian,1020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menilai kepentingan menjaga kehormatan anggota seksual diri dan orang lain.,1020300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui pelbagai jenis bahan inhalan.,2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,2.0 Penyalahgunaan Bahan,2.1.2,Menjelaskan kesan penyalahgunaan bahan inhalan kepada kesihatan diri.,2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada penyalahgunaan bahan inhalan.,2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,2.0 Penyalahgunaan Bahan,2.1.4,Menjana idea cara menangani penyalahgunaan bahan inhalan.,2010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,3.0 Pengurusan Mental Dan Emosi,3.1.1,Mengenal pasti situasi konflik dan stres dalam kalangan ahli keluarga,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,3.0 Pengurusan Mental Dan Emosi,3.1.2,Menjelaskan kesan konflik dan stres terhadap keluarga.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara mengurus konflik dan stres dalam mengekalkan ikatan kekeluargaan.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,4.0 Kekeluargaan,4.1.1,Memahami kepentingan menangani penderaan dalam keluarga.,4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,4.0 Kekeluargaan,4.1.2,Mengaplikasikan kemahiran berkata TIDAK kepada penderaan dalam keluarga.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,4.0 Kekeluargaan,4.1.3,Menjana idea cara meminta bantuan untuk menangani penderaan dalam keluarga.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,5.0 Perhubungan,5.1.1,Memahami ciri-ciri persahabatan yang sihat.,5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,5.0 Perhubungan,5.1.2,Mengaplikasikan kemahiran kecekapan psikososial dalam menjalin persahabatan yang sihat.,5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,5.0 Perhubungan,5.1.3,Menilai persahabatan yang sihat.,5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,6.0 Penyakit,6.1.1,"Mengetahui simptom demam campak, rubella, cacar air dan beguk.",6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,6.0 Penyakit,6.1.2,"Berkomunikasi mengenai cara mencegah demam campak, rubella, cacar air dan beguk daripada merebak.",6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,7.0 Keselamatan,7.1.1,Mengetahui pengaruh rakan sebaya dalam kehidupan harian.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,7.0 Keselamatan,7.1.2,Menilai pengaruh rakan sebaya dalam kehidupan harian.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,7.0 Keselamatan,7.1.3,Menjana idea cara menangani pengaruh negatif rakan sebaya.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,8.0 Pemakanan,8.1.1,Menyatakan kepentingan pengambilan nutrien daripada pelbagai jenis makanan.,8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,8.0 Pemakanan,8.1.2,Menjelaskan kepentingan membaca maklumat nutrien pada label makanan.,8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,8.0 Pemakanan,8.1.3,Menganalisis maklumat nutrien yang terdapat pada label makanan.,8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,9.0 Pertolongan Cemas,9.1.1,Menyatakan punca melecet dan melecur,9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,9.0 Pertolongan Cemas,9.1.2,Membincangkan langkah-langkah bantuan awal melecet dan melecur.,9010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,5,9.0 Pertolongan Cemas,9.1.3,Menilai kesan melecet dan melecur sekiranya tidak diberi rawatan segera.,9010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.1,Menjelaskan perubahan fizikal lelaki dan perempuan apabila memasuki alam remaja,1010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.2,Mengaplikasikan cara menghargai perubahan fizikal sebagai remaja lelaki dan perempuan.,1010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.1.3,Membuat penilaian terhadap perubahan diri sebagai remaja lelaki dan perempuan untuk diterima serta dihargai.,1010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,9.0 Pertolongan Cemas,1.2,1认识、了解和分辨高音和低音; 2认识、了解和分辨强的力度和弱的力度; 3认识、了解和分辨声音和乐器的音色,1020000,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.1,Memahami situasi yang mendorong kepada tingkah laku seksual.,1020100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.2,Mengaplikasikan kemahiran asertif dalam menangani tingkah laku seksual.,1020200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.3,Menganalisis risiko tingkah laku seksual.,1020300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,1.0 Kesihatan Diri Dan Reproduktif,1.2.4,Menilai kesan tingkahlaku seksual terhadapdiri dan keluarga.,1020400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,2.0 Penyalahgunaan Bahan,2.1.1,Mengetahui tentang bahaya dadah.,2010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,2.0 Penyalahgunaan Bahan,2.1.2,Membincangkan puncapenyalahgunaan dadah.,2010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,2.0 Penyalahgunaan Bahan,2.1.3,Mengaplikasikan kemahiran berkata TIDAK kepada penyalahgunaan dadah.,2010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,2.0 Penyalahgunaan Bahan,2.1.4,"Menganalisis kesan penyalahgunaan dadahkepada diri, keluarga dan masyarakat.",2010400,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,9.0 Pertolongan Cemas,2.2,1以准确的发音唱歌; 2以正确的音准唱歌; 3跟着拍子唱歌; 4跟着拍子敲打乐器; 7跟着乐谱图标敲击乐器; 8跟着歌曲做出动作; 9跟着歌曲的拍子拍打,2020000,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,3.0 Pengurusan Mental Dan Emosi,3.1.1,Memahami perubahanemosi dan naluri seksual remaja.,3010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,3.0 Pengurusan Mental Dan Emosi,3.1.2,Mengaplikasikan kemahiran mengurusperubahan emosi remaja dengan carayang positif.,3010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,3.0 Pengurusan Mental Dan Emosi,3.1.3,Menjana idea cara mengurus naluri seksual melalui aktivitiberfaedah.,3010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,4.0 Kekeluargaan,4.1.1,Menjelaskan kepentingan peranan remaja dalam keluarga.,4010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,4.0 Kekeluargaan,4.1.2,Membincangkan perubahan emosi dengan perubahanfizikal keluarga.,4010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,4.0 Kekeluargaan,4.1.3,Menilai kepentingan hubungan kekeluargaan.,4010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,5.0 Perhubungan,5.1.1,Mengetahui jenis tekanan yang dihadapirakan sebaya.,5010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,5.0 Perhubungan,5.1.2,Membincangkan tekanan positif dan tekanan negatif yang dihadapi rakan sebaya berdasarkan situasi.,5010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,5.0 Perhubungan,5.1.3,Menilai cara mengurus tekanan negatif yang dihadapi rakan sebaya.,5010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,6.0 Penyakit,6.1.1,"Mengetahui penyakit bawaan makanan, penyakit bawaan air, Hepatitis, serta HIV dan AIDS.",6010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,6.0 Penyakit,6.1.2,"Membincangkan simptom penyakit bawaan makanan, penyakit bawaan air, Hepatitis, serta HIV dan AIDS.",6010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,6.0 Penyakit,6.1.3,"Menjana idea cara mencegah penyakit bawaan makanan, penyakit bawaan airHepatitis, serta HIV dan AIDS.",6010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,7.0 Keselamatan,7.1.1,Mengetahui maksudkomuniti.,7010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,7.0 Keselamatan,7.1.2,Membincangkan pengaruh dalam komunititerhadap keselamatan diri.,7010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,7.0 Keselamatan,7.1.3,Menjana idea cara menangani pengaruhdalam komuniti yangmengancam keselamatan diri.,7010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,8.0 Pemakanan,8.1.1,Menyatakan maksud makanan segar dan makanan yang diproses.,8010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,8.0 Pemakanan,8.1.2,Meramal kesan pengambilan makanan yang diproses secara berlebihan.,8010200,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,8.0 Pemakanan,8.1.3,Menilai makanan dan amalan pemakanan yang seimbang untuk mengurangkan risiko penyakit.,8010300,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,9.0 Pertolongan Cemas,9.1.1,Mengetahui kandungandan fungsi peti pertolongan cemas.,9010100,True
+Pendidikan Kesihatan SJKC,PK-SJKC,6,9.0 Pertolongan Cemas,9.1.2,Mengaplikasikan penggunaan peti pertolongan cemas dalam bantu mula.,9010200,True

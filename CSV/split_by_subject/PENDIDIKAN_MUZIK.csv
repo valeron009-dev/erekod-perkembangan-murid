@@ -1,0 +1,124 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+PENDIDIKAN MUZIK SK,MUZ-SK,1,1. Seni Bermula Di Sini,1.2.1,"Mengenal, memahami, dan membezakan pic tinggi dan pic rendah.",1020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,3. La La La Bonekakku Bernyanyi,1.2.2,"Mengenal, memahami, dan membezakan dinamik kuat dan dinamik lembut.",1020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,4. Cantik Batik,1.2.3,"Mengenal, memahami, dan membezakan warna ton suara dan alat muzik.",1020300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"2. Jari Menari, Warna Berseri",2.2.1,Bernyanyi dengan sebutan yang betul.,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,7. Detektif Jalinan Menyiasat,2.2.1,Bernyanyi dengan sebutan yang betul.,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"2. Jari Menari, Warna Berseri",2.2.2,Bernyanyi dengan pic yang betul.,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,7. Detektif Jalinan Menyiasat,2.2.2,Bernyanyi dengan pic yang betul.,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,1. Seni Bermula Di Sini,2.2.3,Bernyanyi mengikut tempo,2020300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"8. Lari Sang Tikus, Lari",2.2.3,Bernyanyi mengikut tempo,2020300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"5. Tik Tok Tik, Lukis Di Udara",2.2.4,Memainkan alat perkusi mengikut tempo,2020400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"6. Satu, Dua, Tiga Dayung!",2.2.5,Memainkan alat perkusi mengikut detik lagu.,2020500,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,9. Serupa Tapi Tidak Sama,2.2.6,Memainkan alat perkusi mengikut corak irama melodi.,2020600,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"5. Tik Tok Tik, Lukis Di Udara",2.2.7,Memainkan alat perkusi berdasarkan skor ikon.,2020700,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"10. Renjis, Percik, Ikut Irama",2.2.7,Memainkan alat perkusi berdasarkan skor ikon.,2020700,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"5. Tik Tok Tik, Lukis Di Udara",2.2.8,Membuat pergerakan berdasarkan lirik lagu.,2020800,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"6. Satu, Dua, Tiga Dayung!",2.2.9,Membuat pergerakan berdasarkan detik lagu.,2020900,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"11. Hias Diri, Ikut Menari",2.2.9,Membuat pergerakan berdasarkan detik lagu.,2020900,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"8. Lari Sang Tikus, Lari",2.2.10,Membuat pergerakan mengikut tempo.,2021000,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,4. Cantik Batik,3.2.1,Menghasilkan pelbagai bunyi.,3020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"10. Renjis, Percik, Ikut Irama",3.2.2,Mencipta corak irama mudah mengunakan ikon mewakili nilai Krocet,3020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,Persembahan,3.3.2,Membuat persembahan kumpulan.,3030200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,1,"11. Hias Diri, Ikut Menari",4.2.1,Mengenalpasti muzik Tradisional Malaysia yang didengar. jenis muzik. masyarakat yang mengamalkan muzik tersebut.,4020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,1.0 Modul Bahasa Muzik,1.1.1,Mengenal dan membezakan tempo cepat dan lambat.,1010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,1.0 Modul Bahasa Muzik,1.1.2,Mengenal dan membezakan pergerakan melodi bertangga dan melodi mendatar.,1010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,1.0 Modul Bahasa Muzik,1.1.3,Mengaplikasikan pemahaman berkaitan tempo cepat dan lambat menerusi aktiviti muzik.,1010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,1.0 Modul Bahasa Muzik,1.1.4,Mengaplikasikan pemahaman berkaitan pergerakan melodi dalam aktiviti muzik.,1010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,1.0 Modul Bahasa Muzik,1.2.2,Mengenal dan membezakan pergerakan melodi bertangga dan melodi mendatar.,1020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.1.1,Bernyanyi dengan postur yang betul.,2010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.1.2,Bernyanyi dengan pic yang betul.,2010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.1.3,Bernyanyi mengikut tempo.,2010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.1.4,Bernyanyi dengan perubahan tempo.,2010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.2.1,Memainkan alat perkusi mengikut tempo.,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.2.2,Memainkan alat perkusi mengikut detik lagu berdasarkan skor ikon.,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.2.3,Memainkan alat perkusi mengikut corak irama berdasarkan skor ikon yang mewakili nilai,2020300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.3.1,Membuat pergerakan berdasarkan melodi dari muzik yang didengar.,2030100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,2.0 Modul Kemahiran Muzik,2.3.2,Membuat pergerakan berdasarkan tempo cepat dan lambat.,2030200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,3.0 Modul Kreativiti Muzik,3.1.1,Menghasilkan pelbagai bunyi menggunakan bahan improvisasi.,3010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,3.0 Modul Kreativiti Muzik,3.1.2,Mencipta corak irama mudah mengunakan ikon mewakili nilai,3010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,3.0 Modul Kreativiti Muzik,3.1.3,Memainkan hasil ciptaan sendiri,3010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,4.0 Modul Apresiasi Muzik,4.1.1,Membuat ulasan terhadap Muzik Masyarakat Malaysia yang didengar daripada aspek: jenis muzik; masyarakat yang mengamalkan muzik tersebut; fungsi muzik,4010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,5.0 Projek Seni Muzik,5.1.1,Merancang persembahan muzik.,5010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,5.0 Projek Seni Muzik,5.1.2,Membuat persembahan muzik.,5010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,2,5.0 Projek Seni Muzik,5.1.3,Mengamalkan nilai murni dalam aktiviti muzik.,5010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,1.0 Modul Bahasa Muzik,1.1.1,Mengenal dan membezakan tekstur tebal dan nipis.,1010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,1.0 Modul Bahasa Muzik,1.1.2,Mengaplikasikan pemahaman tekstur tebal dan nipis dalam aktiviti muzik.,1010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,1.0 Modul Bahasa Muzik,1.2.1,"Membaca not pada baluk; not G, A dan B.",1020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,1.0 Modul Bahasa Muzik,1.2.2,Mengaplikasikan pengetahuan notasi muzik dalam aktiviti permainan rekoder.,1020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.1.1,Bernyanyi dengan teknik pernafasan yang betul.,2010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.1.2,Bernyanyi dengan pic yang betul.,2010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.1.3,Bernyanyi mengikut tempo.,2010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.2.1,Memainkan alat perkusi mengikut tempo.,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.2.2,Memainkan alat perkusi mengikut corak irama berdasarkan skor ikon yang mewakili nilai not.,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.3.1,Membuat pergerakan berdasarkan corak irama dari muzik yang didengar.,2030100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.3.2,Membuat pergerakan berdasarkan tempo.,2030200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.3.3,Merancang pergerakan berdasarkan muzik yangdidengar; corak irama lagu; tempo,2030300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.4.1,Mengenal dan memahami; bahagian rekoder. cara menjaga rekoder. penjarian asas rekoder.,2040100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.4.2,"Memainkan rekoder mengikut tempo dengan tonyang baik; dengan penjarian not B, A dan G. menggunakan jenis not; pernafasan yang betul. perlidahan yang betul. Embouchure yang betul. postur yang betul.",2040200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,2.0 Modul Kemahiran Muzik,2.4.3,Memainkan rekoder dengan mengaplikasikan pembacaan skor muzik.,2040300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,3.0 Modul Kreativiti Muzik,3.1.1,Menghasilkan kesan bunyi untuk mengiringi persembahan.,3010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,3.0 Modul Kreativiti Muzik,3.1.2,Mencipta corak irama mudah menggunakan ikon mewakili nilai not.,3010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,3.0 Modul Kreativiti Muzik,3.1.3,Mempersembahkan hasil ciptaan.,3010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,4.0 Modul Apresiasi Muzik,4.1.1,Membuat ulasan terhadap Muzik Popular yang didengar daripada aspek; jenis muzik; nama penyanyi atau kumpulan,4010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,5.0 Projek Seni Muzik,5.1.1,Merancang persembahan muzik.,5010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,5.0 Projek Seni Muzik,5.1.2,Membuat persembahan muzik.,5010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,3,5.0 Projek Seni Muzik,5.1.3,Mengamalkan nilai murni dalam aktiviti muzik.,5010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,1.0 Modul Bahasa Muzik,1.1.1,"Membaca dan menulis not G, A, B, C’dan D’ serta tanda rehat pada baluk:",1010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,1.0 Modul Bahasa Muzik,1.1.2,Membaca dan menulis terminologi serta simbol muzik; baluk; bar dan garis bar; klef trebel; garis penamat (double bar line); ulangan; meter:,1010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,1.0 Modul Bahasa Muzik,1.1.3,Mengaplikasikan pemahaman membaca notasi muzik dalam aktiviti muzik.,1010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.1.1,Menyanyikan lagu pusingan.,2010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.1.2,Bernyanyi dengan pic yang betul.,2010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.1.3,Bernyanyi mengikut tempo.,2010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.1.4,Mengaplikasikan legato dan staccato dalam nyanyian.,2010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.2.1,Memainkan alat perkusi mengikut tempo.,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.2.2,Memainkan alat perkusi mengikut corak irama berdasarkan skor:,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.3.1,Merancang dan membuat pergerakan berdasarkan muzik yang didengar dari aspek; bentuk lagu. tempo. tempo,2030100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.4.1,"Memainkan rekoder mengikut tempo dengan ton yang baik dengan; penjarian not G, A, B, C’ dan D’ yang betul. membaca dan memainkan not; membaca dan mengaplikasikan tanda rehat; pernafasan yang betul. perlidahan yang betul. embouchure yang betul. postur yang betul.",2040100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,2.0 Modul Kemahiran Muzik,2.4.2,Memainkan melodi kaunter dengan mengaplikasikan pengetahuan dan kemahiran pembacaan skor muzik.,2040200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,3.0 Modul Kreativiti Muzik,3.1.1,Mencipta corak irama mudah menggunakan:,3010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,3.0 Modul Kreativiti Muzik,3.1.2,Mencipta melodi mudah.,3010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,3.0 Modul Kreativiti Muzik,3.1.3,Mempersembahkan hasil ciptaan.,3010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,4.0 Modul Apresiasi Muzik,4.1.1,Menyatakan tahun zaman Baroque dalam muzik Klasik Barat,4010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,4.0 Modul Apresiasi Muzik,4.1.2,Membuat ulasan terhadap muzik masyarakat Malaysia yang didengar dari aspek; nama ensembel. keluarga alat muzik. alat muzik.,4010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,5.0 Projek Seni Muzik,5.1.1,Merancang persembahan muzik.,5010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,5.0 Projek Seni Muzik,5.1.2,Membuat persembahan muzik.,5010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,5.0 Projek Seni Muzik,5.1.3,Mengamalkan nilai murni dalam aktiviti muzik.,5010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,4,5.0 Projek Seni Muzik,5.1.4,Mengamalkan nilai murni dalam aktiviti muzik.,5010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,1.0 Modul Bahasa Muzik,1.1.1,"Membaca dan menulis not E, F, G, A, B, C’, D’ serta tanda rehat pada baluk; not; tanda rehat",1010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,1.0 Modul Bahasa Muzik,1.1.2,"Membaca, menulis dan memahami terminologi serta simbol muzik; piano ( p ); forte ( f ); staccato; legato",1010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,1.0 Modul Bahasa Muzik,1.1.3,Mengaplikasikan pemahaman membaca notasi muzik dalam aktiviti muzik.,1010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.1.1,Bernyanyi dengan pic yang betul.,2010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.1.2,Bernyanyi lagu berkembar.,2010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.1.3,Bernyanyi mengikut tempo.,2010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.1.4,Mengaplikasikan dinamik kuat; dan lembut; dalam nyanyian.,2010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.2.1,Memainkan alat perkusi mengikut tempo berdasarkan skor; not; tanda rehat,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.2.2,Mengaplikasikan dinamik kuat; dan lembut; dalam permainan alat perkusi.,2020200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.3.1,Merancang dan melakukan pergerakan mengikut muzik yang didengar berdasarkan; meter 2/4 dan 3/4; tempo,2030100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.4.1,"Memainkan rekoder bagi not E, F, G, A, B, C’ dan D’ dengan ton yang baik mengikut tempo. Penjarian yang betul. Pernafasan yang betul. Perlidahan yang betul. Embouchure yang betul. Postur yang betul.",2040100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,2.0 Modul Kemahiran Muzik,2.4.2,Memainkan melodi kaunter secara ensembel berdasarkan skor muzik. not; tanda rehat,2040200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,3.0 Modul Kreativiti Muzik,3.1.1,"Mencipta melodi mudah menggunakan not B, A dan G. tanda rehat; not",3010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,3.0 Modul Kreativiti Muzik,3.1.3,Mempersembahkan hasil ciptaan.,3010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,4.0 Modul Apresiasi Muzik,4.1.1,Menyatakan tahun zaman Baroque dalam muzik Klasik Barat,4010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,4.0 Modul Apresiasi Muzik,4.1.2,Membuat ulasan terhadap muzik Klasik Barat zaman Baroque yang didengar dari aspek; negara asal komposer; nama komposer; judul karya muzik,4010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,5.0 Projek Seni Muzik,5.1.1,Merancang persembahan muzik.,5010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,5.0 Projek Seni Muzik,5.1.2,Membuat persediaan persembahan muzik.,5010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,5.0 Projek Seni Muzik,5.1.3,Membuat persembahan muzik.,5010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,5,5.0 Projek Seni Muzik,5.1.4,Mengamalkan nilai murni dalam aktiviti muzik.,5010400,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,1.0 Modul Bahasa Muzik,1.1.1,"Membaca dan menulis not C, D, E, F, G, A, B, C’, D’ serta tanda rehat pada baluk; tanda rehat",1010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,1.0 Modul Bahasa Muzik,1.1.2,"Membaca, menulis dan memahami terminologiserta simbol muzik; fermata (pause); crescendo; decrescendo",1010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,1.0 Modul Bahasa Muzik,1.1.3,Mengaplikasikan pemahaman membaca notasi muzik dalam aktiviti muzik.,1010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.1.1,Bernyanyi lagu dengan pic yang betul mengikuttempo.,2010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.1.2,Mengaplikasikan dinamik dalam nyanyian. kuat ( p ) dan lembut ( f )(ii) crescendo dan decrescendo,2010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.2.1,Memainkan alat perkusi mengikut tempo berdasarkan skor; tanda rehat,2020100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.3.1,Merancang dan melakukan pergerakan mengikutmuzik yang didengar berdasarkan; tema; tempo,2030100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.4.1,"Memainkan rekoder bagi not C, D, E, F, G, A, B, C’ dan D’ dengan ton yang baik mengikut tempo. Penjarian yang betul. Pernafasan yang betul. Perlidahan yang betul. Embouchure yang betul. Postur yang betul.",2040100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,2.0 Modul Kemahiran Muzik,2.4.2,Memainkan melodi kaunter secara ensembel berdasarkan skor muzik. tanda rehat,2040200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,3.0 Modul Kreativiti Muzik,3.1.1,"Mencipta melodi mudah menggunakan not B, A, G, C’ dan D’. tanda rehat",3010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,3.0 Modul Kreativiti Muzik,3.1.3,Mempersembahkan hasil ciptaan.,3010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,4.0 Modul Apresiasi Muzik,4.1.1,Menyatakan tahun zaman Classical dalam muzikKlasik Barat,4010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,4.0 Modul Apresiasi Muzik,4.1.2,Membuat ulasan terhadap muzik Klasik Barat zaman Classical yang didengar dari aspek; nama komposer(ii) negara asal komposer(iii) judul karya muzik,4010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,5.0 Projek Seni Muzik,5.1.1,Merancang persembahan muzik.,5010100,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,5.0 Projek Seni Muzik,5.1.2,Membuat persediaan persembahan muzik,5010200,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,5.0 Projek Seni Muzik,5.1.3,Membuat persembahan muzik.,5010300,True
+PENDIDIKAN MUZIK SK,MUZ-SK,6,5.0 Projek Seni Muzik,5.1.4,Mengamalkan nilai murni dalam aktiviti muzik.,5010400,True

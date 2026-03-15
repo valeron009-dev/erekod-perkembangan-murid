@@ -1,0 +1,459 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.1.1,Mongintutun pimato.,1010100,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.1.2,"Monoinu' pomoroitan boros kokomoi i. numbul (1-10, 20,30,…) ii. warana' iii. biodata iv. boogian tinan v. paganakan vi. kakamot id kalas vii tayam",1010200,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.1.3,Mongilo pomoroitan montok boros di kituni: i. /b/ ii. /d/ iii. /'/,1010300,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.2.1,Mamarait tuni pimato,1020100,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.2.2,Popolombus boros kokomoi,1020200,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.2.3,Popolombus boros di kituni:,1020300,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.3.1,Mongintutun koilaan di orongou mantad audio i. ayat a. toomod b. pongudio; Mongintutun koilaan di orongou mantad audio ii. mogikaakawo teks a. mesej b. rencana c. pibarasan d. susuyan,1030100,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.3.2,Mokinongou montok i. mongintutun koilaan. ii. manahak sisimbar. iii. momonsoi toina'on.,1030200,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.3.3,Momoguno peta pomusarahan montok monimung koilaan.,1030300,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.4.1,Mongulud boros montok popoboros kawagu ponuhuan di norongou toi ko' i nointutunan mantad bahan pongunsub.,1040100,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.4.2,Manahak sisimbar kumaa ponguhatan di norongou maya’ ponguhupan do mongingia'.,1040200,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.4.3,Poposunud do koilaan di norongou toi ko' i notimung mantad bahan pongunsub maya' ponguhupan do mongingia'.,1040300,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.5.1,Mongilo kopolombusan di kotunud om olinuud mantad audio montok ayat i. toomod a. popointutun b. popoilo ii. pongudio a. mintutun b. monguhot iii. ponuhuan a. popointalang,1050100,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.5.2,Minsingumbal popolombus ayat miampai momoguno kopolombusan di kotunud om olinuud. i. Popointutun om mintutun. ii. miuhot om misimbar.,1050200,True
+BAHASA KADAZANDUSUN,BKD,1,1.0 Kabaalan Mokinongou Om Momboros,1.5.3,Popolombus: i. mesej ii. pibarasan iii. susuyan iv. ponuhuan,1050300,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.1.1,Mongintutun om popolombus pimato: i. ngaran ii. bontuk iii. tuni,2010100,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.1.2,Monoinu' ija'an boros kokomoi i. numbul ii. warana' iii. biodata iv. boogian tinan v. paganakan vi. kakamot id kalas vii. tayam,2010200,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.1.3,Mongilo pomogunaan pimato montok boros kipimato i. /b/ ii. /d/ iii. /'/,2010300,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.1.4,Mongintutun tanda' basa' di noguno id ayat. i. ii. iii. ?,2010400,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.2.2,Popolombus boros tumanud ija'an i. numbul ii. warana' iii. biodata iv. boogian tinan v. paganakan vi. kakamot id kalas vii. tayam,2020200,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.2.3,Tumanud ponontudukan mongingia' montok popolombus boros di kipimato i. /b/ ii. /d/ iii. /'/,2020300,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.2.4,Tumanud ponontudukan mongingia' montok popolombus i. frasa ii. ayat,2020400,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.2.5,Mambasa' opuhod tumanud ponontudukan do mongingia' i. koilaan id jodual/grafik ii. mesej iii. pibarasan iv. susuyan,2020500,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.3.1,Monginomot koilaan mantad i. koilaan id jadual/grafik ii. mesej iii. pibarasan iv. susuyan,2030100,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.3.2,Mogihum komoyon boros maya' aktiviti: i. popisudong ii. momili',2030200,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.3.3,Momogonop koilaan mantad teks di nabasa',2030300,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.3.4,Mongulud koilaan kokomoi teks di nabasa',2030400,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.4.1,Mongilo om popolombus woyo' toluud id teks pambasa'an.,2040100,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.4.2,Mongintutun om mamarait boros kohiok id ayat toi ko' teks.,2040200,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.4.3,Poposunud koilaan di nabasa' tumanud nuludan di kotunud.,2040300,True
+BAHASA KADAZANDUSUN,BKD,1,2.0 Kabaalan Mambasa',2.4.4,Momoguno peta pomusarahan montok popoilo kawagu koilaan di nabasa'.,2040400,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.1.1,Monuat kawagu pimato tokoro' om tagayo id nuludan di kotunud.,3010100,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.1.2,Mongulud pimato montok momonsoi boros kokomoi: i. numbul ii. warana' iii. biodata iv. boogian tinan v. paganakan vi. kakamot id kalas vii. tayam,3010200,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.1.3,Papatayad boros tumanud kakamot pongunsub,3010300,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.1.4,"Monuat numbul tumanud nuludan di kotunud 0-10, 10,20,30…",3010400,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.1.5,Tumanud ponontudukan do mongingia' montok momonsoi boros di kipimato i. /b/ ii. /d/ Iii. /'/,3010500,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.2.1,Momili' om monuat boros montok momogonop do frasa toi ko' ayat.,3020100,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.2.2,Mongulud boros montok momonsoi ayat: i. toomod a. popointutun b. popoilo ii. pongudio a. mintutun b. monguhot iii. ponuhuan a. popointalang,3020200,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.2.3,Popisudong frasa montok monupu' ayat,3020300,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.2.4,Momoguno tanda' basa' id ponuatan.,3020400,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.3.1,Mongintutun om momoguno format ponuatan di kotunud. i. grafik ii. mesej/pason iii. pibarasan iv. susuyan,3030100,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.3.2,Momili' koilaan montok momogonop ponuatan.,3030200,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.3.3,Popisudong frasa toi ko' ayat montok momonsoi ponuatan.,3030300,True
+BAHASA KADAZANDUSUN,BKD,1,3.0 Kabaalan Monuat,3.3.4,Momogonop teks maya' ponguhupan bahan pongunsub.,3030400,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.1.1,Monimung koilaan id buuk tonini' kokomoi tinaru sondii'. i. Ngaran tinaru ii. Tadon iii. Boros iv. Sayau v. Basaan,4010100,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.1.2,Momonsoi mogikaakawo kad karamayan: i. Tadau Kaamatan ii. suai po karamayan tinaru,4010200,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.1.3,Momonsoi kolaj kokomoi mongilo bontugan tinaru Kadazan om Dusun,4010300,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.1.4,Minsingilo sayau koubasanan tinaru.,4010400,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.2.1,Mokinongou om minsingumbal popolombus i. tangon ii. sundait iii. sinding iv. hiis a. sudawil b. sisindiron,4020100,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.2.2,Mogibooboros montok manahak sisimbar do sundait.,4020200,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.2.3,Momonsoi buuk tagayo montok monimung: i. boros di kohiok. ii sundait om sisimbar iii. hiis tinaru,4020300,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.3.1,Tumanud ponontudukan do mongingia' montok monoriuk koilaan kokomoi do isoiso' toilaan sandad.,4030100,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.3.2,Papatayad toilaan sandad do tinaru Kadazan om Dusun maya': i. buuk tonini' ii. kolaj iii. poster,4030200,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.4.1,Monoriuk ngaran tungkus koinusan: i. kakamot ii. tinunturu',4040100,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.4.2,Mongilo laang momonsoi tungkus koinusan,4040200,True
+BAHASA KADAZANDUSUN,BKD,1,4.0 Kabaalan Kolumison Boros,4.4.3,Minsingumbal momonsoi tungkus koinusan.,4040300,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.1.1,Mongintutun pimato: i. ngaran ii. bontuk iii. tuni,5010100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.1.2,Tumanud ponontudukan mongingia' montok momoguno do pimato id lisan om ponuatan i. /b/ ii. /d/ iii. /'/,5010200,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.2.1,Mongintutun sompuruan boros id ayat: i. Boros ngaran ii. Boros maan iii. Boros ula,5020100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.2.2,Manahak poomitanan do Sompuruan boros.,5020200,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.3.1,Monuat boros mintootoiso,5030100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.3.2,Minsingumbal monugku boros.,5030200,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.4.1,Mongintutun nuludan ayat MSO,5040100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.4.2,Minsingumbal momonsoi ayat nuludan MSO,5040200,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.4.3,Momoguno tanda' basa' di kotunud montok ayat: i. tooomod ii. pongudio iii. ponuhuan,5040300,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.4.4,Minsingumbal momonsoi ayat id pibarasan om ponuatan.,5040400,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.5.1,Mongintutun pomoroitan ginumu'.,5050100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.5.2,Popisudong pomoroitan ginumu' tumanud kowoyoon.,5050200,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.6.1,Mongintutun rati' tukadan: i. boros mikagos ii. boros poiradan,5060100,True
+BAHASA KADAZANDUSUN,BKD,1,5.0 Kabaalan Puralan Boros,5.6.2,Momili' rati' tukadan.,5060200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.1.1,Popisuai tuni pimato; konsonan; vokal,1010100,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.1.2,"Monoinu' pomoroitan boros montok popitongkiad putul boros; numbul ( hatus, ribu, riong); bontuk; sikul; boogian tinan; piobpinayan; lamin; tadau sominggu'; tua'-ua'; kinotuan",1010200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.1.3,Popisuai pomoroitan montok boros di kutuni; /b/ om /b/; /d/ om /d/; /'/ om /h/,1010300,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.2.1,Minsingumbal mamarait tuni pimato; konsonan; vokal,1020100,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.2.2,"Popolombus boros tumanud putul boros; numbul ( hatus, ribu, riong); bontuk; sikul; boogian tinan; piobpinayan; lamin; tadau sominggu'; tua'-ua'; kinotuan",1020200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.2.3,Popolombus boros tumanud tuni pimato di kotunud montok boros di kipimato; /b/ om /b/; /d/ om /d/; /'/ om /h/,1020300,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.3.1,Monginomot koilaan di orongou mantad; mogikaakawo ayat; toomod; pongudio; ponuhuan; mogikaakawo teks; kad pason; suat; rencana: diskriptif; tangon; pibarasan  mokilo om popoilo  mintutun om popointutun,1030100,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.3.2,Momili' koilaan di norongou montok; momogonop ayat; popisudong gambal om koilaan; momonsoi toina'on.,1030200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.3.3,Momoguno peta pomusarahan montok monimung koilaan.,1030300,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.3.4,Popoboros woyoo' toluud id teks.,1030400,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.4.1,Mongulud gambal miampai popoilo kawagu koilaan di norongou.,1040100,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.4.2,Papatandan koilaan miampai popoilo kawagu ponuhuan di norongou.,1040200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.4.3,Momogonop peta pomusarahan miampai popoilo kawagu koilaan di norongou.,1040300,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.5.1,Momohulit kopolombusan do mogikaakawo ayat di norongou mantad audio montok ayat; toomod; popointutun; popoilo; pongudio; mintutun; mokiilo; ponuhuan; popotuduk ralan,1050100,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.5.2,Minsingumbal popolombus ayat miampai momoguno kopolombusan di kotunud om olinuud. popointutun om mintutun. miuhot om misimbar. monuhu' om popotuduk,1050200,True
+BAHASA KADAZANDUSUN,BKD,2,1.0 Kaabalan Mokinongou Om Momboros,1.5.3,Popolombus; pason toniba'; piumpangalan; miumpongol; monongkotoluod; mokiampun; tangon toniba'; ponuhuan; popotuduk ralan id peta,1050300,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.1.1,Popisudong bontuk om tuni pimato; konsonan; vokal,2010100,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.1.2,Monoinu' segmen boros montok popitongkiad putul boros; numbul (11-50); bontuk; sikul; boogian tinan; piobpinayan; lamin; tadau sominggu'; tua'-ua'; kinotuan,2010200,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.1.3,Monoinu' pisuaian do boros di kipimato; /b/ om /b/; /d/ om /d/; /'/ om /h/,2010300,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.1.4,"Popisudong ayat om tanda' basa': (i). (ii), ?",2010400,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.2.1,Popolombus tuni pimato; konsonan; vokal,2020100,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.2.2,"Mongija' montok popootus putul boros sumiliu boros kirati'. numbul ( hatus, ribu, riong); bontuk; sikul; boogian tinan; piobpinayan; lamin; tadau sominggu'; tua'-ua'; kinotuan",2020200,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.2.3,Popisuai kopolombusan do boros di kipimato; /b/ om /b/; /d/ om /d/; /'/ om /h/,2020300,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.2.4,Minsingumbal popolombus tumanud loyuk di kotunud montok; ayat toomod; ayat pongudio; ayat ponuhuan,2020400,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.2.5,Minsingumbal mambasa' opuhod miampai momoguno loyuk di kotunud montok mogikaakawo teks pambasaan. kapsyen; uhu; pason id kad; suat; rencana: diskriptif; tangon; pibarasan; mokilo om popoilo; mintutun om popointutun,2020500,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.3.1,Monoinu' om popoboros toilaan sondii' kokomoi nunu i okito id; kapsyen; uhu teks; bahan pongunsub,2030100,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.3.2,Mogihum komoyon boros; sokomoyon; misulak,2030200,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.3.3,Momoguno koilaan id teks pambasaan montok; momogonop ayat; monimbar ponguhatan,2030300,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.3.4,Mogihum om momorulud koilaan id teks di nabasa'. kad pason; suat; rencana: diskriptif; tangon; pibarasan; mokilo om popoilo; mintutun om popointutun; popotuduk ralan,2030400,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.4.1,Mogihum om papatayad woyoo' toluud mantad teks pambasaan.,2040100,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.4.2,Momili' om papatayad boros di kohiok mantad teks pambasaan.,2040200,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.4.3,Mongulud ayat montok popoilo kawagu koilaan mantad teks pambasaan.,2040300,True
+BAHASA KADAZANDUSUN,BKD,2,2.0 Kabaalan Mambasa',2.4.4,Momogonop peta pomusarahan montok popoilo kawagu koilaan di nabasa'.,2040400,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.1.2,"Monoriulud putul boros montok momonsoi boros di kirati kokomoi; numbul ( hatus, ribu, riong); bontuk; sikul; boogian tinan; piobpinayan; lamin; tadau sominggu'; tua'-ua'; kinotuan",3010200,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.1.3,Monuat boros mintootoiso.,3010300,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.1.4,Monuat numbul tumanud nuludan di kotunud 0 gisom 1000.,3010400,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.1.5,Tumanud ponontudukan do mongingia' montok popisuai ponuatan do boros di kipimato; /b/ om /b/; /d/ om /d/; /'/ om /h/,3010500,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.2.1,Popisudong putul boros motok momonsoi boros mintootoiso' maya' ponguhupan do bahan pongunsub.,3020100,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.2.2,Popisudong frasa montok momonsoi ayat; toomod; popointutun; popoilo; pongudio; mintutun; mokiilo; ponuhuan; monguhot; popotuduk,3020200,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.2.3,Monupu' ayat miampai ponguhupan do mongigia'.,3020300,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.2.4,"Momili' tanda' basa' di kotunud montok mogikaakawo ayat. (i). (ii), ?; Pimato tagayo",3020400,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.3.1,Momoguno format ponuatan di kotunud maya' ponontudukan do mongingia'.,3030100,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.3.2,Mongulud koilaan sumiliu iso' pangaan. suat; pibarasan,3030200,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.3.3,Mongulud ayat sumiliu pangaan. tangon; rencana,3030300,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.3.4,Momogonop teks mantad grafik kumaa linear.,3030400,True
+BAHASA KADAZANDUSUN,BKD,2,3.0 Kabaalan Monuat,3.3.5,Momonsoi; uhu; kapsyen; pason id kad,3030500,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.1.1,Mongintutun koilaan kokomoi tadon tinaru Kadazan om Dusun. Kotumbayaan sandad do tinaru. Kointutunan Tinaru,4010100,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.1.2,Monginonong susuyan kokomoi; kapanaandakan Lamai Tadau Kaamatan; kapanandakan Lamai Tinaru Dusunik suai,4010200,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.1.3,Momonsoi poster montok monimung koilaan kokomoi taakanon koubasanan tinaru Kadazan om Dusun,4010300,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.1.4,Kaanu momonsoi ilustrasi kokomoi basaan koubasanan tinaru.,4010400,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.2.1,Tumanud ponontudukan do mongingia' montok popolombus do; tangon; sundait; hiis; Tudodoi; Taala-ala',4020100,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.2.2,Momonsoi buuk tonini' montok monimung sundait om sisimbar do sundait. Minsingkono' tumanud tangon di nabasa' toi ko' norongou.,4020200,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.3.1,Mongintutun om mogibooboros kokomoi toilaan sandad do tinaru. Pomutanaman; Pongumoligan,4030100,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.3.2,Poposunud toilaan sondii' kokomoi toilaan sandad do tinaru miampai momoguno do peta pomusarahan,4030200,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.4.1,Monoriuk koilaan kokomoi; kabaalan mamatu; momonsoi manik,4040100,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.4.2,Popoilo laang; mamatu; momonsoi manik,4040200,True
+BAHASA KADAZANDUSUN,BKD,2,4.0 Kabaalan Kolumison Boros,4.4.3,Momonsoi tungkus koinusan maya' ponguhupan do mongingia'.,4040300,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.1.1,Monompipi; pimato konsonan om; pimato vokal.,5010100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.1.2,Mamarait tuni pimato mantad bontuk pimato di okito.,5010200,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.1.3,Mongija' boros tumanud tuni pimato.,5010300,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.2.1,Papatantu kawo sompuruan boros. Boros ngaran; Boros maan; Boros ula,5020100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.2.2,Manahak poomitanan do sompuruan boros.,5020200,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.3.1,"Monuat boros tumanud putul boros; numbul ( hatus, ribu, riong); bontuk; sikul; boogian tinan; piobpinayan; kakamot id lamin; tadau sominggu'; tua'-ua'; kinotuan",5030100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.3.2,Minsingumbal monuat boros di kipimato; /b/ om /b/; /d/ om /d/; /'/ om /h/,5030200,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.4.1,Mongintutun nuludan ayat; MS; MSMO,5040100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.4.2,Minsingumbal momonsoi ayat nuludan; MS; MSMO,5040200,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.4.3,Momili' tanda' basa' di kotunud montok mogikaakawo ayat.,5040300,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.4.4,Momonsoi mogikaakawo ayat mintootoiso. Ayat toomod; Ayat pongudio; Ayat kotigagan,5040400,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.5.1,Momili' pomoroitan ginumu' di kotunud montok nunu i okito id bahan pongunsub.,5050100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.5.2,Mogibooboros montok poposogu' kopomoroitan ginumu' montok nunu i okito id bahan pongunsub.,5050200,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.6.1,Popisudong tukadan om rati do tukadan. Boros mikagos; Boros poiradan,5060100,True
+BAHASA KADAZANDUSUN,BKD,2,5.0 Kabaalan Puralan Boros,5.6.2,Momili' tukadan di kotunud montok momogonop do ayat.,5060200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.1.1,Monoinig tuni Monoinig tuni; vokal toniba'; vokal tanaru (mora),1010100,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.1.2,Monoinu' pomoroitan boros montok mongintutun boros di nosugkuan; Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Tuunion; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,1010200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.1.3,Monoinu' pomoroitan montok boros kikonsonan noolos; /c/; /f/; /q/; /x/,1010300,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.2.1,Mamarait boros di; kivokal toniba'; kimora,1020100,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.2.2,Popolombus boros nosugkuan momoguno pomoroitan di kotunud; Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Tuunion; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,1020200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.2.3,Popolombus boros di kikonsonan noolos; /c/; /f/; /q/; /x/,1020300,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.3.1,Monginomot koilaan mantad mogikaakawo teks orongou mantad; Surat; Rencana: naratif; Autobiografi,1030100,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.3.2,Mokinongou montok; monimbar ponguhatan; popoindalan ponuhuan; monuhuk pokionuon,1030200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.3.3,Momogonop peta pomusarahan montok monimung koilaan.,1030300,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.3.4,Popointalang woyoo' toluud id teks.,1030400,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.4.1,Mogibooboros montok popolombus kawagu koilaan mantad bahan pongunsub; gambal; jodual; peta,1040100,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.4.2,Monokod om popoboros koilan toponsol mantad teks audio.,1040200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.4.3,Poposunud topurimanan kokomoi teks di norongou.,1040300,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.5.1,Minsingumbal popolombus mogikaakawo ayat miampai momoguno do loyuk di kotunud. Toomod; Pongudio; Ponuhuan; Kotigagan,1050100,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.5.2,Minsingumbal popolombus piumpangalan di olinuud. Mamason kounsikahan; Monongkosiou; Mamason poniod-siod,1050200,True
+BAHASA KADAZANDUSUN,BKD,3,1.0 Kabaalan Mokinongou Om Moboros,1.5.3,Popolombus; pason toniba'; sorita'; ponuhuan; popotuduk ralan (peta),1050300,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.1.1,Monompipi' vokal di noguno id isoiso' boros; Vokal toniba'; mora (vokal tanaru),2010100,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.1.2,Monoinu' ija'an om kopolombusan do boros di nosugkuan; Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Tuunion; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,2010200,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.1.3,Mongintutun boros di kipimato noolos; /c/; /f/; /q/; /x/,2010300,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.1.4,Momili' tanda' basa' di kotunud montok mogikaakawo ayat.,2010400,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.2.1,Mamarait isoiso' boros momoguno loyuk di kotunud; kivokal toniba'; kimora,2020100,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.2.2,Mongija' om popoboros mogikaakawo boros. Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Tuunion; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,2020200,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.2.3,Mongintutun boros di kipimato noolos; /f/; /q/; /x/,2020300,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.2.4,Popolombus ayat momoguno ohou di otolinahas om loyuk di kotunud montok; ayat toomod; ayat pongudio; ayat ponuhuan; ayat kotigagan,2020400,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.2.5,Mambasa' opuhod miampai momoguno intonasi om loyuk di kotunud montok; Suat; Rencana: Naratif; Autobiografi; Pibarasan; Mamason kounsikahan; Monongkosiou; Mamason poniod-siod,2020500,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.3.1,Monoinu' om popoboros toilaan sondii' kokomoi nunu i okito id; uhu teks; label; carta; peta,2030100,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.3.2,Monindu' ayat tumanud bahan pongunsub.,2030200,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.3.3,Momoguno koilaan id teks pambasaan montok; monimbar ponguhatan; popoindalan ponuhuan; monuhuk pokionuon,2030300,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.3.4,Popolombus ponguhatan montok mokianu kointalangan lobi kokomoi do teks di nabasa’.,2030400,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.4.1,Popointalang woyo' toluud id teks.,2040100,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.4.2,Papatayad boros di apangkal mantad ayat toi ko' teks.,2040200,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.4.3,Tumanud ponontudukan mongingia' montok manahang sorita' di nabasa',2040300,True
+BAHASA KADAZANDUSUN,BKD,3,2.0 Kabaalan Mambasa',2.4.4,Momiadang koilaan di nabasa' miampai momoguno peta pomusarahan di kosudong.,2040400,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.1.1,Monuat boros di; kivokal toniba'; kimora,3010100,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.1.2,Monoriulud putul boros montok momonsoi boros kokomoi; Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Tuunion; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,3010200,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.1.3,Monuat boros nosugkuan.,3010300,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.1.4,Monuat boros di kipimato noolos; /c/; /f/; /q/; /x/,3010400,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.1.6,Monuat boros momoguno ponuatan mirangkai,3010600,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.2.1,Momonsoi boros mintootoiso miampai momoguno ija'an di kotunud.,3020100,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.2.2,Momogonop ayat mantad boros di pinatahak.,3020200,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.2.3,Momonsoi mogikaakawo ayat maya' ponguhupan do mongigia'.,3020300,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.2.4,Monuat tanda' basa' di kotunud montok mogikaakawo ayat.,3020400,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.2.5,Monuat frasa momoguno ponuatan mirangkai.,3020500,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.3.1,Monuat tumanud format ponuatan montok isoiso' ponuatan; Surat; Rencana: naratif; Autobiografi,3030100,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.3.2,Popisudong frasa toi ko' ayat montok momonsoi ponuatan disumiliu pangaan.,3030200,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.3.3,Momonsoi ponuatan id pangaan maya' ponguhupan mongingia'.,3030300,True
+BAHASA KADAZANDUSUN,BKD,3,3.0 Kabaalan Monuat,3.3.4,Mongoput sorita'.,3030400,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.1.1,Popisuai koubasanan id koposion tinaru Kadazan om Dusun; Woyoo koposion; Kaadat-adato' & Pogilinan: kinolodion,4010100,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.1.2,Monginonong sorita' tinaru di kipononsunudan.,4010200,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.1.3,Momonsoi buuk tonini' kokomoi bontugan Kadazan om Dusun.,4010300,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.1.4,Mongintutun tuunion tinaru.,4010400,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.2.1,Minsingumbal popolombus; tangon; sundait; hiis; Hius; Andai,4020100,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.2.2,Momonsoi poster sundait om sisimbar. Momonsoi kolaj montok popokito tangon di norongou toi ko' nabasa'.,4020200,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.3.1,Mogihum koilaan om mogibooboros kokomoi toilaan sandad do tinaru; Pongindopuan; Teknologi,4030100,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.3.2,Poposunud koilaan kokomoi toilaan sandad do tinaru maya' buuk tagayo.,4030200,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.4.1,Monoriuk koilaan kokomoi; Pomoinan sandad; Tuunion koubasanan,4040100,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.4.2,Minsingumbal; Mamain pomoinan sandad; Popouni tuunion koubasanan,4040200,True
+BAHASA KADAZANDUSUN,BKD,3,4.0 Kabaalan Kolumison Boros,4.4.3,Momonsoi replika; Pomoinan sandad; Tuunion koubasanan,4040300,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.1.1,Popotunud ija'an montok boros di; kivokal toniba'; kimora; kipimato noolos,5010100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.1.2,Mamarait boros di; kivokal toniba'; kimora; kipimato noolos,5010200,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.1.3,Mongija' boros montok boros nosugkuan.,5010300,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.2.1,Monompipi' boros tumanud sompuruan; Boros Ngaran; Boros Maan; Boros Ula,5020100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.2.2,Momili' sompuruan boros di kotunud montok momogonop ayat.,5020200,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.3.1,Momonsoi boros kokomoi; Numbul (Ordinal); Pakalaja'an; Padsakayan; Pomoinan; Sipoot; Taakanon om tiinumon; Tanom; Tongosongongi'; Sikul; Tayam,5030100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.3.2,Minsingumbal monugku boros.,5030200,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.4.1,Mongintutun ayat di kinuludan; MSOO; MSAk; MSAkT,5040100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.4.2,Minsingumbal momonsoi ayat nuludan; MSOO; MSAk; MSAkT,5040200,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.4.3,Momoguno tanda' basa' di kotunud montok mogikaakawo ayat.,5040300,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.4.4,Momonsoi ayat; mintootoiso; misompuru,5040400,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.5.1,Mogibooboros montok papatantu' pomoroitan ginumu' di kotunud montok nunu i okito id bahan pongunsub.,5050100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.5.2,Momogonop frasa miampai momoguno pomoroitan ginumu' di kotunud.,5050200,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.6.1,Momonsoi do ilustrasi montok popolombus rati' tukadan,5060100,True
+BAHASA KADAZANDUSUN,BKD,3,5.0 Aspek Puralan Boros,5.6.2,Momoguno tukadan di kotunud id ayat.,5060200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.1.1,Mongilo pisuayan tuni pimato. Mora; Diftong; Songui,1010100,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.1.2,Monoinu' pomoroitan boros. Mintootoiso; Nosugku; Misompuru; Misaup,1010200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.2.1,Popisuai kopolombusan do tuni pimato. Mora; Diftong; Songui 1,1020100,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.2.2,Popolombus boros. Mintootoiso; Nosugku; Misompuru; Misaup,1020200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.2.3,Monoinu' pomoroitan boros kikonsonan. Sandad; Noolos,1020300,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.1,Mokinongou montok popoindalan ponuhuan. 1,1030100,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.2,Mokinongou montok monindu' kinootusan isoiso' ahal.,1030200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.3,Mokinongou montok maganu koilaan toponsol.,1030300,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.4,Mokinongou montok maganu koilaan poinlisok.,1030400,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.5,Mokinongou montok popisuai koilaan.,1030500,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.3.6,Mokinongou montok mongintutun woyo' toluud id teks,1030600,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.4.1,Monoinu' om popoboros koilaan toponsol mantad bahan pongunsub.,1040100,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.4.2,Popointalang koilaan di notimung.,1040200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.4.3,Popoilo ponuhuan di norongou.,1040300,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.4.4,Popotolinahas kointalangan.,1040400,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.4.5,Minsingkono' montok popolombus do topurimanan.,1040500,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.5.1,Popolombus mogikaakawo ayat miampai momoguno do loyuk di kotunud.,1050100,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.5.2,Popolombus piumpangalan di olinuud.,1050200,True
+BAHASA KADAZANDUSUN,BKD,4,1.0 Kabaalan Mokinongou Om Moboros,1.5.3,Popolombus mogikaakawo teks maya' lisan:,1050300,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.1.1,Mongilo kopolombusan pimato di noguno id isoiso’ boros. Mora; Diftong; Songui,2010100,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.1.2,Monoinu' ija'an om kopolombusan do boros.,2010200,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.1.3,Monginomot pamansayan montok mogikaakawo boros.,2010300,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.1.4,Monoinu' pomogunaan do tanda' basa' di kotunud montok mogikaakawo ayat.,2010400,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.2.1,Mamarait isoiso' boros momoguno loyuk di kotunud. Boros kimora; Boros kidiftong; Boros kipimato songui,2020100,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.2.2,Mongija' om popoboros mogikaakawo boros. Mintootoiso; Nosugku; Misompuru; Misaup,2020200,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.2.3,Popolombus boros di kipimato; sandad; noolos,2020300,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.2.4,Popolombus momoguno ohou di otolinahas om loyuk di kotunud montok mogikaakawo ayat om teks. ayat toomod; ayat pongudio; ayat ponuhuan; ayat kotigagan,2020400,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.2.5,Mambasa' opuhod miampai momoguno intonasi om loyuk di kotunud montok mogikaakawo teks.,2020500,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.3.1,Mangarati' om monompipi' koilaan di nabasa'.,2030100,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.3.2,Mongompuri koilaan di nabasa'.,2030200,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.3.3,Mongulud koilaan tumanud nuludan sorita' id teks.,2030300,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.3.4,Momiadang kowoowoyoo watak id susuyan.,2030400,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.4.1,Monompipi' boros mantad teks pambasaan. Boros kimora; Boros kidiftong; Boros kipimato songui,2040100,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.4.2,Monindu' komoyon boros tumanud bahan pongunsub.,2040200,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.4.3,Poposunud woyo' toluud mantad teks toi ko' bahan pongunsub.,2040300,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.4.4,Popointalang koilaan toponsol id teks pambasaan toi ko' bahan pongunsub.,2040400,True
+BAHASA KADAZANDUSUN,BKD,4,2.0 Kabaalan Mambasa',2.4.5,Popoundaliu koilaan mantad linear kumaa id okon linear.,2040500,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.1.1,Monuat boros di kiwaa; mora; diftong; songui,3010100,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.1.2,Monuat boros miampai momoguno ija'an di kotunud. Mintootoiso; Nosugkuan; Misompuru; Misaup,3010200,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.1.3,Monuat boros tumanud bahan pongunsub di pinatahak.,3010300,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.1.4,Monuat boros di kipimato; sandad; noolos,3010400,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.2.1,Mongulud boros sumiliu frasa tumanud bahan pongunsub.,3020100,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.2.2,Mongulud frasa toi ko' ayat tumanud bahan pongunsub.,3020200,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.2.3,Momonsoi ayat mantad boros di pinatahak.,3020300,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.2.4,Monuat kawagu ayat miampai momoguno tanda' basa' di kotunud.,3020400,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.2.5,Momonsoi do frasa om ayat di ouhai tumanud bahan pongunsub.,3020500,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.3.1,Papatandan tonsi toponsol montok isoiso' ponuatan.,3030100,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.3.2,Monguyad tonsi ponokodung montok momogonop sorita'.,3030200,True
+BAHASA KADAZANDUSUN,BKD,4,3.0 Kabaalan Monuat,3.3.3,Momonsoi ponuatan di momoguno format om ayat di ouluud om agramatis. Kopoilaan; Rencana:Kobolingkangan om ponolibamban; Tangon; Abal; Ponuhuan; Pibarasan; monguhot abal; magalap; monorimo/ au' monorimo pagalapan; Suai po,3030300,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.1.1,Mongintutun sipoot koubasanan tinaru.,4010100,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.1.2,Momonsoi buuk skrap montok popokito koilaan kokomoi tungkus kointutunan tinaru Kadazan om Dusun; Pogoduhan id koposion tikid tadau; Bobolian,4010200,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.1.3,Monginonong tangon tinaru.,4010300,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.1.4,Momonsoi poster montok popointutun susumangod mantad tinaru Kadazan om Dusun.,4010400,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.2.1,Mongilo om momoguno loyuk di kotunud montok popolombus do; tangon; sundait; hiis; Tinggono; Sisindiron,4020100,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.2.2,Momonsoi; Hiis; Sundait,4020200,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.2.3,Momonsoi kolaj montok poposunud koilaan id; tangon; sundait; hiis,4020300,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.3.1,Papapanau ponurubungan montok mongintutun toilaan sandad tinaru kokomoi; Motif om sorindak sandad tinaru'; Pomutanaman sandad,4030100,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.3.2,Mogibooboros montok popionit koilaan di notimung mantad ponurubungan.,4030200,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.4.1,Monoriuk koilaan kokomoi; Tinunturu' sandad; Bakaang Pomutanaman sandad,4040100,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.4.2,Minsingumbal; momolukis motif om sorindak tinaru; mamain sipoot sandad,4040200,True
+BAHASA KADAZANDUSUN,BKD,4,4.0 Kabaalan Kolumison Boros,4.4.3,Momonsoi replika; Bakaang Pomutanaman; Tinunturu',4040300,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.1.1,Momoguno pimato di kotunud id ponuatan.,5010100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.1.2,Momoguno boros di kipimato / ' / id lisan om ponuatan.,5010200,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.1.3,Momoguno boros di,5010300,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.2.1,Momoguno do Boros Ngaran id ayat,5020100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.2.2,Momoguno do Boros Maan id ayat.,5020200,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.2.3,Momoguno do Boros Ula id ayat.,5020300,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.3.1,Mongintutun om momoguno boros popionit id ayat.,5030100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.3.2,Mongintutun om momoguno partikol id ayat.,5030200,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.3.3,Mongintutun om momoguno boros toguangon id ayat.,5030300,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.4.1,Mongintutun ayat di kinuludan; Maan + Subjek + Objek Maan; Maan + Subjek + Adjektif Kinoyonon; Maan + Subjek + Adjektif Kinoyonon + Objek,5040100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.4.2,Momonsoi ayat mintootoiso.,5040200,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.4.3,Momonsoi ayat misompuru.,5040300,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.4.4,Momoguno tanda' basa' id ayat.,5040400,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.5.1,Momogonop frasa miampai momoguno pomoroitan ginumu' di kotunud.,5050100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.5.2,Momoguno pomoroitan ginumu' id ayat.,5050200,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.6.1,Momoguno tukadan di kotunud id ayat.,5060100,True
+BAHASA KADAZANDUSUN,BKD,4,5.0 Aspek Puralan Boros,5.6.2,Popoindalan pibarasan montok popointalang rati' tukadan.,5060200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.1.1,Kaanu popisuai om momungaran do tuni di norongou.,1010100,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.1.2,Kaanu monguyad do koilaan kokomoi tuni di norongou.,1010200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.1.3,Kaanu mongusui tumanud loyuk do kobooboroso' di norongou.,1010300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.2.2,Kaanu monompipi' om popoboros boros di kivokal tanaru om toniba'.,1020200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.2.3,Kaanu monompipi' om mamarait boros di kipimato konsonan noolos.,1020300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.2.4,Kaanu monindu' om mamarait boros kisigot.,1020400,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.2.5,Kaanu monindu' om mamarait boros kituni / b / om / b /.,1020500,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.2.6,Kaanu monindu' om mamarait boros kituni / d / om / d /.,1020600,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.3.1,Kaanu mokinongou pomoroitan om loyuk di kotunud montok momohulit boros.,1030100,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.3.2,Kaanu mokinongou montok Popolombus mogikaakawo ayat,1030200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.3.3,Kaanu mokinongou montok popolombus pibarasan toi ko' booboroson.,1030300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.1,Kaanu mokinongou montok maganu koilaan.,1040100,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.2,Kaanu mogibooboros montok Momiadang koilaan di norongou,1040200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.3,Kaanu momoguno koilaan di Norongou montok mogisuusai kohuboyoon.,1040300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.4,Kaanu manahang koilaan di norongou.,1040400,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.5,Kaanu monimbar om monguyad isoiso' ponguhatan.,1040500,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.6,Kaanu mokinongou om popoindalan do Isoiso' ponuhuan toi ko' pokionuon.,1040600,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.4.7,Kaanu monolibamban isoiso' kobolingkangan di norongou.,1040700,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.1,Kaanu mongulud boros montok popolombus ayat di kotunud om olinuud id pibarasan toi ko' id booboroson.,1050100,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.2,Kaanu popolombus ayat di kotunud om olinuud id mongisuusuai kohuboyoon.,1050200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.3,Kaanu momoguno piipiro boros Pomolohou di kosudong id pibarasan toi ko' id booboroson.,1050300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.4,Kaanu momoguno boros om ayat di olinuud id pitimbungakan.,1050400,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.5,Kaanu momoguno boros om ayat di kotunud om olinuud montok mokianu kointalangan.,1050500,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.5.6,Kaanu popolombus ponguhatan miampai momoguno boros om ayat di kotunud om olinuud.,1050600,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.6.1,Kaanu poposunud do ahal sondii' miampai momoguno boros om ayat di olinuud.,1060100,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.6.2,Kaanu monusui do sorita' toi ko' susuyan tumanud nuludan.,1060200,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.6.3,Kaanu mongusui watak montok popolombus do topurimanan.,1060300,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.6.4,Kaanu poposogu' pomusarahan kokomoi bahan pongunsub di pinatahak.,1060400,True
+BAHASA KADAZANDUSUN,BKD,5,1.0 Kabaalan Mokinongou Om Momboros,1.6.5,Kaanu poposuul pomusarahan id pitimbungakan.,1060500,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.1.1,Kaanu popolombus boros tumanud ija'an montok boros di; kivokal tanaru om toniba'; kisigot; kikonsonan / b / om / d /,2010100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.1.2,Kaanu popolombus boros tumanud otus om loyuk montok boros; mintootoiso; nosugku; misompuru; misaup,2010200,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.2.3,Kaanu mambasa' mogikaakawo ayat momoguno loyuk om otus d pointunud.,2020300,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.3.1,Kaanu mambasa' do alantas.,2030100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.3.2,Kaanu mambasa' mogikaakawo Teks tumanud loyuk di kotunud.,2030200,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.4.1,Kaanu popisudong komoyon boros.,2040100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.4.2,Kaanu mongilo piipiro sokomoyon do iso' boros.,2040200,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.4.3,Kaanu momoguno do komoiboros Montok popoinggumu' tinimungan boros.,2040300,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.5.1,Kaanu maganu koilaan mantad teks.,2050100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.5.2,Kaanu momiadang koilaan di nabasa'.,2050200,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.5.3,Kaanu mongulud om popoboros koilaan di nabasa'.,2050300,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.5.4,Kaanu momoguno koilaan montok Monimbar ponguhatan.,2050400,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.6.1,Kaanu momoguno peta pomusarahan di kosudong montok popokito koilaan di notimung mantad bahan di nabasa’.,2060100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.6.2,Kaanu popoundaliu koilaan mantad grafik kumaa id linear.,2060200,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.7.1,Kaanu manahak pounayan kokomoi Koilaan di nabasa'.,2070100,True
+BAHASA KADAZANDUSUN,BKD,5,2.0 Kabaalan Mambasa',2.7.2,Kaanu manahak kritik toi ko' monokodung do watak id teks di nabasa'.,2070200,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.1.5,Kaanu monuat frasa om ayat id ponuatan toomod om mirangkai.,3010500,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.2.1,Kaanu monuat boros numbul.,3020100,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.2.2,Kaanu momonsoi mogikaakawo boros.,3020200,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.2.3,Kaanu momonsoi om monuat boros tumanud bahan pongunsub di pinatahak.,3020300,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.3.1,Kaanu momili' boros montok Momogonop frasa toi ko' ayat.,3030100,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.3.2,Kaanu mongulud ayat tumanud bahan pongunsub montok momonsoi pangaan.,3030200,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.3.3,Kaanu momonsoi mogikaakawo ayat di agramatis tumanud bahan pongunsub.,3030300,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.3.4,Kaanu monuat ayat id pangaan miampai momoguno ayat di agramatis.,3030400,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.4.1,Kaanu mongintutun format ponuatan di kotunud.,3040100,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.4.2,Kaanu monimung koilaan momoguno mogikaakawo peta pomusarahan,3040200,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.4.3,Kaanu mongulud om monuat tonsi toponsol montok isoiso' ponuatan.,3040300,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.4.4,Kaanu monguyad tonsi.,3040400,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.4.5,Kaanu monupu ponuatan tumanud format di kotunud.,3040500,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.5.1,Kaanu mongulud ayat montok monupu' sorita'.,3050100,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.5.2,Kaanu momogonop ayat montok monupu' sorita'. Kaanu momonsoi ayat montok monupu' sorita' tumanud bahan pongunsub.,3050200,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.5.3,Kaanu monguyad tonsi montok monupu' sorita'.,3050300,True
+BAHASA KADAZANDUSUN,BKD,5,3.0 Kabaalan Monuat,3.5.5,Kaanu monuat sorita' id pangaan toniba'.,3050500,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.1.1,"Kaanu momonsoi do folio, buuk skrap, kolaj, tinunturu', lukisan om suai po montok popokito do koilaan di notimung.",4010100,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.1.2,"Kaanu popokito do koilaan di notimung maya' aktiviti manangon, suminding, minsingkono', sumayau om popolombus do hiis koubasanan.",4010200,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.1.3,Kaanu papabanta asil di notimung.,4010300,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.2.1,Kaanu monimung koilaan kokomoi tungkus koubasanan do tinaru Kadazan om Dusun.,4020100,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.2.3,Kaanu manahak demonstrasi kokomoi tungkus koubasanan tinaru Kadazan om Dusun.,4020300,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.2.4,Kaanu papapanau do ponoriukan montok mongilo tungkus koubasanan tinaru Kadazan om Dusun.,4020400,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.2.5,Kaanu manahang om momiadang koilaan di notimung.,4020500,True
+BAHASA KADAZANDUSUN,BKD,5,4.0 Kabaalan Kolumison Boros,4.2.6,Kaanu papabanta asil kalaja' di nowonsoi.,4020600,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.1.1,Kaanu popouni do tuni sigot soira' popolombus do boros.,5010100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.1.2,"Kaanu popouni tuni i kikonsonan b / om / d /,/ ’ /, / b / om / d / soira' popolombus do boros",5010200,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.1.3,Kaanu popouni boros kivokal tanaru om toniba' id lisan.,5010300,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.2.1,Kaanu momoguno do sigot id ponuatan.,5020100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.2.2,"Kaanu momoguno boros i kikonsonan / b / om / d /, / ‘ /,/ b / om / d / id ponuatan.",5020200,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.2.3,Kaanu momoguno boros kivokal tanaru om toniba' id ponuatan.,5020300,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.3.1,Kaanu momoguno do Boros Ngaran id ayat.,5030100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.3.3,Kaanu momoguno do Boros Maan id ayat.,5030300,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.3.4,Kaanu momoguno do Boros Ula id ayat.,5030400,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.3.5,Kaanu momoguno do Boros Toguangon id ayat.,5030500,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.1,Kaanu momonsoi boros mintootoiso.,5040100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.2,Kaanu momonsoi boros nosugku.,5040200,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.3,Kaanu momonsoi boros misompuru.,5040300,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.4,Kaanu momoguno boros misaup id lisan.,5040400,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.5,Kaanu momoguno pananda wacana,5040500,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.6,Kaanu momoguno patikol,5040600,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.4.7,Kaanu momoguno tanda' basa'.,5040700,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.5.1,Kaanu momonsoi ayat mintootoiso di agramatis.,5050100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.5.2,Kaanu momonsoi ayat misompuru di agramatis.,5050200,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.6.1,Kaanu momoguno Kopomoroitan Ginumu' id lisan om ponuatan.,5060100,True
+BAHASA KADAZANDUSUN,BKD,5,5.0 Kabaalan Puralan Boros,5.7.1,Kaanu momonsoi ayat toniba' momoguno do tukadan.,5070100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.1.1,Mokinongou tuni pimato noolos id isoiso' boros.,1010100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.1.2,Mongintutun pomoroitan pimato montok boros noolos.,1010200,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.2.1,Moninduhai pomoroitan boros mantad bahan pongunsub.,1020100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.2.2,"Mamarait mogikaakawo boros miampai momoguno kopomoroitan, otus om loyuk di kotunud.",1020200,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.2.3,Mongintutun boros ponuduk do kakadayan id teks audio.,1020300,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.2.4,Mongintutun boros ponuduk do pogun id teks audio.,1020400,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.3.1,Mokinongou montok mogihum koilaaan gama om waya' id teks audio.,1030100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.3.2,Mokinongou montok mongintutun idea toponsol om idea ponokodung id teks audio.,1030200,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.3.3,Mokinongou montok monimbagos teks.,1030300,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.3.4,Mokinongou montok mangarati' topurimanan,1030400,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.4.1,Poposogu' idea suai mantad teks toi ko’ koilaan di norongou.,1040100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.4.2,Papadalin koilaan di norongou id teks linear.,1040200,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.4.3,Manahak taksiran kumaa bahan pongunsub di pinokito.,1040300,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.4.4,Manahak sogu' kumaa bahan pongunsub di pinokito,1040400,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.5.1,Manahak pomusarahan miampai kotumbayaan sondii' tumanud uhu di pinatahak.,1050100,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.5.2,Popolombus pibarasan montok mogikaakawo kohuboyoon.,1050200,True
+BAHASA KADAZANDUSUN,BKD,6,1.0 Kabaalan Mokinongou Om Moboros,1.5.3,Mogibooboros kokomoi isoiso' uhu kanaanangan id kinaantakan formal.,1050300,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.1.1,Monginomot pamansayan montok mogikaakawo boros noolos.,2010100,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.1.2,Monoinu' ija'an om kopolombusan do boro,2010200,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.2.1,Mambasa' om monompipi' boros ponuduk do kakadayan id teks pambasaan.,2020100,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.2.2,Mambasa' om monompipi' boros ponuduk do pogun id teks pambasaan.,2020200,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.2.3,Monindu' komoyon boros tumanud bahan pogunsub.,2020300,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.3.1,Mambasa' om mamarati gama' om waya' id teks linear om okon linear.,2030100,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.3.2,Mambasa' om mamarati' koilaan poinlisok id isoiso' teks.,2030200,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.3.3,Mambasa' montok mogihum koilaan toponsol id teks pambasaan.,2030300,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.3.4,Mongulud koilaan di nabasa'.,2030400,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.3.5,Monimbagos teks pambasaan.,2030500,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.4.1,Poposunud gama' om waya' mantad teks.,2040100,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.4.2,Poposunud koilaan poinlisok mantad teks toi ko' bahan pongunsub.,2040200,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.4.3,Poposunud koilaan toponsol mantad teks toi ko' bahan pongunsub.,2040300,True
+BAHASA KADAZANDUSUN,BKD,6,2.0 Kabaalan Mambasa',2.4.4,Poposunud ponolibamban isoiso' isu id teks pambasaan.,2040400,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.1.1,Monuat mogikaakawo boros noolos.,3010100,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.1.2,Monuat boros kipimato noolos.,3010200,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.1.3,Monuat boros tumanud bahan pongunsub di pinatahak.,3010300,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.2.1,Momonsoi mogikaakawo ayat kinuludan MSAkO.,3020100,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.2.2,Momonsoi mogikaakawo ayat montok popolombus pamagatangan.,3020200,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.2.3,Momonsoi mogikaakawo ayat montok popolombus do lisi do wokon.,3020300,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.2.4,Momonsoi mogikaakawo ayat montok manahak pongunsuban,3020400,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.3.1,Monuat teks linear om okon linear.,3030100,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.3.2,Monuat susuyan.,3030200,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.3.3,Monuat surat formal.,3030300,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.3.4,Monuat panahangan.,3030400,True
+BAHASA KADAZANDUSUN,BKD,6,3.0 Kabaalan Monuat,3.3.5,Monuat mogikaakawo ponuhuan.,3030500,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.1.1,Mokinongou om popolombus mogikaakawo sinding.,4010100,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.1.2,Mongintutun kotumbayaan sandad do tinaru.,4010200,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.1.3,Mongintutun koubasanan sandad tinaru.,4010300,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.1,Mokinongou mogikaakawo hiis,4020100,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.2,Popolombus mogikaakawo hiis,4020200,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.3,Mongintutun kawo hiis.,4020300,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.4,Mokinongou om monginonong sorita' tinaru,4020400,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.5,Popolombus mogikaakawo sorita' tinaru,4020500,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.2.6,Popoboros ponontudukan id sorita' tinaru'.,4020600,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.3.1,Papapanau ponurubungan montok mongintutun toilaan sandad tinaru kokomoi pogumoligan posorili'.,4030100,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.3.2,Mogibooboros montok popionit koilaan di notimung mantad ponurubungan.,4030200,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.4.1,Monoriuk koilaan kokomoi padsakayan sandad.,4040100,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.4.2,Momolabel padsakayan sandad.,4040200,True
+BAHASA KADAZANDUSUN,BKD,6,4.0 Aspek Kolumison Boros,4.4.3,Momonsoi replika padsakayan sandad,4040300,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.1.1,Momoguno pimato di kotunud id ponuatan.,5010100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.1.2,Momoguno boros di kipimato / ' / id lisan om ponuatan.,5010200,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.1.3,Momoguno boros di kikonsonan /b/ om /d/ id lisan om ponuatan.,5010300,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.2.1,Momoguno do Boros Ngaran id ayat.,5020100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.2.2,Momoguno do Boros Maan id ayat.,5020200,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.2.3,Momoguno do Boros Ula id ayat.,5020300,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.3.1,Mongintutun om momoguno boros ponokodung id ayat.,5030100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.3.2,Mongintutun om momoguno boros popoimagon id ayat.,5030200,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.3.3,Mongintutun om momoguno boros popiromut ngaran id ayat.,5030300,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.4.1,Mongintutun ayat di kinuludan AkSAK id pibarasan on ponuatan.,5040100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.4.2,Momonsoi ayat di kinuludan ArSM id pibarasan on ponuatan.,5040200,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.4.3,Momonsoi ayat misompuru.,5040300,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.4.4,Momoguno tanda' basa' id ayat,5040400,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.5.1,Momogonop frasa miampai momoguno pomoroitan ginumu' di kotunud.,5050100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.5.2,Momoguno pomoroitan ginumu' id ayat.,5050200,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.6.1,Momoguno tukadan di kotunud id ayat.,5060100,True
+BAHASA KADAZANDUSUN,BKD,6,5.0 Aspek Puralan Boros,5.6.2,Popoindalan pibarasan montok popointalang rati' tukadan.,5060200,True

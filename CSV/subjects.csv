@@ -1,0 +1,37 @@
+﻿subjectCode,subjectName,isActive
+BC-SJKC,Bahasa Cina SJKC,TRUE
+IBAN,Bahasa Iban,TRUE
+BKD,Bahasa Kadazandusun,TRUE
+BM-SJKC,Bahasa Melayu SJKC,TRUE
+BM-SJKT,Bahasa Melayu SJKT,TRUE
+BM-SK,Bahasa Melayu SK,TRUE
+BI-SJKC,English SJKC,TRUE
+BI-SJKT,English SJKT,TRUE
+BI-SK,English SK,TRUE
+MT-SJKC,Matematik SJKC,TRUE
+MT-SJKT,Matematik SJKT,TRUE
+MT-SK,Matematik SK,TRUE
+PAI-SJKC,Pendidikan Islam SJKC,TRUE
+PAI-SJKT,Pendidikan Islam SJKT,TRUE
+PAI-SK,ڤنديديقن اسلام-SK,TRUE
+PJPK-SJKT,Pendidikan Jasmani & Kesihatan SJKT,TRUE
+PJ-SK,Pendidikan Jasmani SK,TRUE
+PJ-SJKC,Pendidikan Jasmani SJKC,TRUE
+PK-SJKC,Pendidikan Kesihatan SJKC,TRUE
+PK-SK,Pendidikan Kesihatan SK,TRUE
+PM-SJKC,Pendidikan Moral SJKC,TRUE
+PM-SJKT,Pendidikan Moral SJKT,TRUE
+PM-SK,Pendidikan Moral SK,TRUE
+MUZ-SK,Pendidikan Muzik SK,TRUE
+PSV-SJKC,Pendidikan Seni Visual SJKC,TRUE
+PSV-SK,Pendidikan Seni Visual SK,TRUE
+RBT-SJKC,Reka Bentuk & Teknologi SJKC,TRUE
+RBT-SJKT,Reka Bentuk & Teknologi SJKT,TRUE
+RBT-SK,Reka Bentuk & Teknologi SK,TRUE
+SN-SJKC,Sains SJKC,TRUE
+SN-SJKT,Sains SJKT,TRUE
+SN-SK,Sains SK,TRUE
+SEJ-SJKC,Sejarah SJKC,TRUE
+SEJ-SJKT,Sejarah SJKT,TRUE
+SEJ-SK,Sejarah SK,TRUE
+BA-SK,اللغة العربية-SK,TRUE

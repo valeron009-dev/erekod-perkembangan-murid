@@ -1,0 +1,384 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.1.1,"Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi. mending lalu beratika pekara ke disebut nitihka timpuh; ngayanka kelis mua, perening mata enggau gaya ke likun sereta bebas; mending lalu berati enggau silik, bebasaka orang ke bejaku sereta pekara ke dikenataika; iya (cht: adar ngereja aktiviti, motivasyen, etb)",1010100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.1.2,"Ngayanka respons ke engkeman, baka: nagunka pala ke tanda besetuju (Ya, Au, Nya mih,); ngayanka tanda enda besetuju (Ukai, Enda patut)",1010200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.2.1,Nukuka leka jaku kunchi enggau frasa ba teks; nentuka munyi urup konsonan enggau vokal tebuka; nentuka munyi leka jaku ke ngundan vokal besekat glottis,1020100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.2.2,"Nentuka munyi leka jaku dalam konteks ba teks; nentuka munyi sebut leka jaku. nentuka kualiti munyi leka jaku - ton, entak sebut enggau enteli nitihka konteks",1020200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.3.1,Nentuka penerang dalam teks,1030100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.3.2,Nyaut ngena tikas pengelandik nyaut ti bebida,1030200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.3.3,Nyangka berindik ba penemu ke udah dikemisi,1030300,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.3.4,Bekauljaulka peneleba ke udah kala diasaika,1030400,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.3.5,Beratika cherita sekalika nitihka rurun tauka enda,1030500,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.4.1,"Randau (peminta, penerang, forum, panel)",1040100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.4.2,"Naratif (cherita, kelulu, drama)",1040200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.4.3,"Penerang (pekara rama, dagang, sains & teknologi)",1040300,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.4.4,"Pelandai, pantun, dindang, lagu enggau leka main nembiak",1040400,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.5.1,Kaul jaku ke nunjukka ruang (cht: Ditu endur iya) maya (cht: Iya datai pagila),1050100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.5.2,Jaku ke dikena nyapa (Nama berita?),1050200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.5.3,Lebas jaku sebut – mudah sereta ngena ayat pandak,1050300,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.5.4,"Ngelala lalu nemu reti jaku bepanggai ba entak sebut (lubah/ jampat), ton (tinggi/baruh), enteli (sada/sebut/kana), senai (penggal sebut)",1050400,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.6.1,"Nyebut leka jaku ke ngundan konsonan, konsonan turu, vokal tebuka enggau vokal besekat glottis",1060100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.6.2,Bejaku enggau terang sereta lanchar ngena sebut ke engkeman,1060200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.1,Ngena penemu ke dikemisi lebuh bejaku ba mayuh bengkah konteks,1070100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.2,"Nyebut enggau terang, entap sereta engkeman",1070200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.3,Mansutka jaku enggau berani sereta betelipi,1070300,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.4,Nanya ngena tikas tanya ti bebida,1070400,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.5,Bekauljaulka penemu ke besangkut paut enggau pengidup besehari-sehari,1070500,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.7.6,Beinteraksyen ngena jaku ti engkeman ba mayuh bengkah konteks,1070600,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.8.1,Nentuka pekara ti nyadi pugu sesebengkah tanya,1080100,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.8.2,Nyaut tanya ngena jaku ti belebas sereta engkeman,1080200,True
+BAHASA IBAN,IBAN,1,Pengelandik Mending Enggau Bejaku,1.8.3,"Betatika baka ni reti ulih dikenataika ngena sebut ke terang, pengelabuh jaku ke lantang sereta nyemetak",1080300,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.1.1,"Nemu konsep enggau ngelala fitur kereban bacha, baka: nemu bagi bup – kulit mua/belakang, penulis, topik, sub-topik, ilustrasyen, charta, gambar, glosari etb. beratika enggau silik lebuh teks dibacha; macha nitihka baris (cht: lebuh macha beraban); nentuka pengerentang tubuh enggau penyauh mata ari teks lebuh macha",2010100,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.1.2,Ngelala urup (urup blok enggau urup mit),2010200,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.1.3,"Nentuka munyi fonemik, baka: fonem enggau morfem ke nukuh munyi leka jaku; patah sebut ke ngundan vokal tebuka enggau vokal besekat glotis; patah sebut ke ngundan konsonan, konsonan turu; patah sebut ke ngundan urup nasal: m, n, ny, ng, ngg",2010300,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.1.4,"Tukuh visual leka jaku panjai/pandak leka jaku, ujung/pun leka jaku",2010400,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.1.5,"Ngelala leka jaku lalu nyepil enggau lanchar nitihka patah sebut (siti, dua, tiga, empat patah sebut)",2010500,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.2.1,"Nentuka reti ari teks visual (cht: bepelasarka gambar, charta, kar, graf etb)",2020100,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.2.2,Nyangka pekara ke nyadi dalam teks bepelasarka konteks,2020200,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.1,"Nentuka pun, tengah enggau ujung cherita",2030100,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.2,"Ngingatka (nama, sapa, kemaya, baka ni, dini, lapa)",2030200,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.3,"Nentuka tema lalu meri buah penemu berindik ari cherita, pantun, dindang, etb",2030300,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.4,Nentuka tukuh teks (teks informasional enggau fungsional),2030400,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.5,Betatika sereta nemu rurun pengawa dalam teks,2030500,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.3.6,"Nyangka isi teks belalauka penemu ti dikembuan, tukuh teks, gambar, etb",2030600,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.1,Bacha lansa (skimming) teks dikena ngulihka selampur penemu (gist),2040100,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.2,Bacha lenak (scanning) teks lalu meretika isi,2040200,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.3,Ngaga inferens belalauka konteks,2040300,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.4,"Cherita personal (cht: diari, biografi)",2040400,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.5,"Naratif (cht: fable, epik, jerita tuai- historical fiction)",2040500,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.6,"Prosedur (cht: resipi, manual)",2040600,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.7,Manding enggau mida batang idea dalam teks,2040700,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.8,Nentuka kebuah enggau penyadi,2040800,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.9,Mengkategori sereta nentuka kelas,2040900,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.10,Nanya enggau silik (cht: tanya tikas tinggi),2041000,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.11,"Nyerita elemen latar (cht: tempat, maya)",2041100,True
+BAHASA IBAN,IBAN,1,Pengelandik Macha,2.4.12,Ngelala lalu nentuka pengawa pengelulu dalam cherita,2041200,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.1.1,Nentuka pengerentang tubuh nulis,3010100,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.1.2,Ngelala nama urup: tukuh urup blokenggau urup mit,3010200,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.1.3,"Nemu konsep pola urup (tulis) baka tu: nulis ari kiba ke kanan, takah antara urup enggau urup, takah antara leka jaku, terang sereta kemas; nentuka saiz urup konsisten sereta betul nitihka pola urup urup lebuh nulis chelak",3010300,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.2.1,"Nyepil ngena strategi nyepil ke betul, baka: nyepil nitihka patah sebut; nulis leka jaku nitihka patah sebut (elemen fonemik); nipak patah sebut lalu nulis leka jaku ke bisi meruan reti",3020100,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.3.1,"Merambu nitihka tuju, audiens enggau konteks nulis, baka: nulis senentang topik ke bekaul enggau peneleba diri empu; nulis senentang topik ke bekaul enggau informasional; nulis senentang topik ke bekaul enggau akademik sereta sosial",3030100,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.4.1,"Ngena ilustrasyen, dero enggau kereban visual nyadika stimuli lebuh berengkah nulis",3040100,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.4.2,Ngena charta i-think lebuh nusun idea dikena ngasilka ayat tauka karang,3040200,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.1,Mayuh bengkah prosedur enggau proses,3050100,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.2,"Pekara ke bekaul enggau data, mata duit, timbang, sukat, etb",3050200,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.3,Ngerikod pekara ke nyadi lalu nerangka baka ni iya nyadi,3050300,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.4,"Refleksyen bepelasarka peneleba, pengingat, etb",3050400,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.5,Nulis karang belalauka gambar,3050500,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.6,"Ngelala tanda bacha (cht: Tanda ngetu, tanda tanya)",3050600,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.7,Nemu ngena tanda bacha ba endur ke betul.,3050700,True
+BAHASA IBAN,IBAN,1,Pengelandik Nulis,3.5.8,"Berati, nelusur sereta ngedit awakka ngaluska asil tulis, nyeruri penyilap lalu ngemetulka penyalah; ngedit sepil; ngedit tanda bacha",3050800,True
+BAHASA IBAN,IBAN,1,Bungai Jaku,4.1.1,"Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi; Mendingka leka main enggau lenak; Nyebut enggau terang nitihka baris (nyebut & berati); Nyadaka (ngangauka) leka main ngena patah nyawa; Mandangka aksyen baka lingguk tubuh, kelis mua perening mata enggau langkah kaki; Ngeluluka diri nitihka empas leka main enggau iring lalu disukung enggau kereban bantu; Beperindang ngena leka main",4010100,True
+BAHASA IBAN,IBAN,1,Bungai Jaku,4.2.1,Beratika chunto sempama bepelasarka peneleba sereta rampa daya idup; Sema banding (cht: baka ular - bingkuk); Lalau pendiau (cht: baka semut - bagas gawa),4020100,True
+BAHASA IBAN,IBAN,1,Bungai Jaku,4.3.1,Beratika chunto entelah bepelasarka peneleba sereta rampa daya idup; Entelah nembiak,4030100,True
+BAHASA IBAN,IBAN,1,Bungai Jaku,4.4.1,Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi. Mendingka leka main enggau lenak; Nyebut enggau terang nitihka baris (nyebut & berati),4040100,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.1,Jaku nama; Jaku nama rama; Jaku nama menyana (jaku nama tetap),5010100,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.2,"Pengenap tesa; Jaku nama (ukai mensia) cht: selumpung bari, dua luntang asi ruas, seikat chabik, etb; Jaku nama (mensia) cht: seraban nembiak, sekeda pengajar, etb; Pengenap tesa cardinal, cht: satu, dua, sepuluh, etb; Pengenap tesa ordinal, cht: keterubah, kedua, etb",5010200,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.3,Jaku ganti nama; Jaku ganti nama diri; Jaku nama pengempu; Jaku ganti nama rama,5010300,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.4,"Ngena jaku adjektif ti datai ba mayuh endur, baka tu: Adjektif atributif (entudi jaku nama) cht: Nya kerita baru. Adjektif predikatif (ari mua jaku penempat), cht: Nya sebuah kerita pelumba ke laju. Adjektif ba endur ti tetap, cht: Uduk sida mangah.",5010400,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.5,"Ngena banding komperatif enggau superlatif; Banding selama: besai, besai agi, pengabis besai; Adjektif rawang tubuh: rawang peda, rawang asai, rawang sepi, rawang dinga, rawang bau; Meri penguat jaku adjektif (sigi laju, endang sikar)",5010500,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.6,"Jaku pengawa; Ngena mayuh bengkah jaku pengawa; Ngena kaul subjek enggau jaku pengawa; Nukuka jaku pengawa berindik ba reti, baka tu: Jaku pengawa aksyen (cth: gawa, bemain); Jaku pengawa rawang (cth: ninga, ngasai); Jaku pengawa geragayak ati (cth: rindu, begedi); Jaku pengawa mental (cth: berunding, beperagam)",5010600,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.7,"Ngena jaku pengawa enggau klausa sereta struktur ayat ti engkeman. Ngena jaku pengawa imperatif (cth: Nganti dia.); Ngena jaku pengawa transitif (ditangkan siti objek, cth: Iya meli sebatang pen.); Ngena jaku pengawa intransitif (nadai objek, cth: Ukui nya nyalak.)",5010700,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.8,"Adverba; Adverba tempat (din, ditu); Adverba maya (lengkas, sekejap); Adverba penyuah (selalu, kekadang); Adverba degree (balat, udu, amat); Adverba kebuah (kenyau, sepengudah); Adverba gaya (enggau jampat, sepengelengkas)",5010800,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.9,"Jaku Penempat; Jaku penempat ke nunjukka endur (di, ba, dalam, atas); Jaku penempat ke nunjukka tempat tauka adap (ke, ari); Jaku penempat ke nunjukka maya tauka jam (kena, ari); Jaku pengawa ke nunjukka kaul ti intim (ngagai, nuju)",5010900,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.10,Jaku Perintah; Jaku perintah ke nunjukka tagang (cht: Anang muai uras dia.); Jaku perintah ke nunjukka asuh (cht: Ibun manah adi nuan.); Jaku perintah ke nunjukka peminta (cht: Bantu mih kami serumah tu.),5011000,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.1.11,"Jaku Pemendar; Jaku pemendar (ay, ya, ukai, bendar, betul, salah)",5011100,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.2.1,Ayat mudah; subjek + jaku pengawa (cth: Igat gali); subjek + jaku pengawa + objek (cth: Dara manduk lauk),5020100,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.2.2,"Ayat Belapis; beguna ke jaku penyambung dikena nyambung ayat (Lina belanda. John; belanda. Lina enggau John sama-sama belanda) cth: enggau, lalu, sereta, tauka, tang, sambil",5020200,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.2.3,Mayuh bansa ayat; Deklaratif (cth: Igat pangan Endun.); Interogatif (cth: Sapa apai Dom?); Imperatif (cth: Iya duduk ngimbai aku.),5020300,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.2.4,Mayuh chara nulis ayat; Aktif – Ujang nyipak bol. Pasif – Bol disipak Ujang,5020400,True
+BAHASA IBAN,IBAN,1,Jalai Jaku,5.2.5,"Tanya enggau saut; Saut pandak ( ya, ukai, au, enda); Saut berindik ba tanya (Sapa enggau aku? Aku enggau nuan.)",5020500,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.1.1,"Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi. Mending lalu beratika pekara ke disebut nitihka timpuh. Ngayanka kelis mua, perening mata enggau gaya ke likun sereta bebasa.",1010100,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.1.2,"Ngayanka respons ke engkeman. Nagunka pala ke tanda besetuju (chunto: ya, au, nya mih). Ngayanka tanda enda besetuju (chunto: ukai, enda patut).",1010200,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.2.1,Nemu bagi munyi enggau leka jaku nitihka konteks. Nukuka leka jaku kunchi enggau frasa ba teks; Nentuka munyi leka jaku ngundal vokal besekat glotis; Nentuka munyi leka jaku dalam konteks ba teks,1020100,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.2.2,Ngelala tukuh jaku ke dipansutka. Kaul jaku ke nunjukka; ruang (chunto: Ditu endur iya). maya (chunto: Iya datai pagila). Jaku ke dikena nyapa (chunto: Nama berita?). Lebas jaku sebut ti mudah sereta ngena ayat pandak.,1020200,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.3.1,"Mendingka jaku ke dipansutka individu, berati lalu meri respons ngagai teks ke ditaburka ngena kereban audio enggau teks visual. Randau (betanya saut). Naratif (cherita, kelulu, drama). Pelandai, pantun, dindang enggau leka main nembiak.",1030100,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.4.1,Nyebut enggau betul ngena intonasyen ke engkeman. Nyebut leka jaku ke ngundan: Konsonan enggau konsonan turu. Vokal tebuka enggau vokal besekat glotis.,1040100,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.5.1,Nguasa pengelandik beinteraksyen. Besangkut paut enggau pengidup besehari-sehari. Nusun penerang nitihka rurun.,1050100,True
+BAHASA IBAN,IBAN,2,Pengelandik Mending Enggau Bejaku,1.6.1,"Meri respons ngagai tanya. (chunto: dini, sapa, kemaya, nama, lapa, berapa).",1060100,True
+BAHASA IBAN,IBAN,2,Pengelandik Macha,2.1.1,Nyediaka diri macha. Nentuka munyi patah sebut. Nyebut leka jaku ti ngundan siti ngagai tiga iti patah sebut.,2010100,True
+BAHASA IBAN,IBAN,2,Pengelandik Macha,2.2.1,Macha lenak sereta meretika teks. Nentuka reti sekeda leka jaku ari teks; Meri respons senentang teks ke udah dibacha. Nyangka pekara ke nyadi dalam teks bepelasarka konteks.,2020100,True
+BAHASA IBAN,IBAN,2,Pengelandik Macha,2.3.1,Nyepil nitihka patah sebut lalu macha inggar leka jaku belalauka gambar. Macha lalu ngeluluka diri nitihka watak dalam teks/dialog.,2030100,True
+BAHASA IBAN,IBAN,2,Pengelandik Macha,2.4.1,Macha teks ngena intonasyen tauka entak sebut ti engkeman.,2040100,True
+BAHASA IBAN,IBAN,2,Pengelandik Macha,2.4.2,"Ngulang bacha teks (kediri, bepasang, beraban). Meri respons ngagai ajar manah ari teks ti dibacha.",2040200,True
+BAHASA IBAN,IBAN,2,Pengelandik Nulis,3.1.1,Nyepil lalu nyebut sereta nulis patah sebut ti betul.,3010100,True
+BAHASA IBAN,IBAN,2,Pengelandik Nulis,3.1.2,Nipak patah sebut lalu nulis leka jaku ke bisi meruan reti,3010200,True
+BAHASA IBAN,IBAN,2,Pengelandik Nulis,3.2.1,Nulis ngena teknik ‘tunda-tulis’ leka jaku enggau ayat mudah.,3020100,True
+BAHASA IBAN,IBAN,2,Pengelandik Nulis,3.2.2,Nulis leka jaku enggau ayat mudah ngena tanda bacha ti betul sereta engkeman. Nulis leka jaku belalauka gambar. Nusun lalu nulis leka jaku awakka nyadi ayat ti engkeman. Nulis ayat mudah.,3020200,True
+BAHASA IBAN,IBAN,2,Bungai Jaku,4.1.1,"Beperindang ngena leka main anak mit. Mendingka leka main anak mit enggau lenak (leka main tarak perindang). Nyebut enggau terang nitihka baris (nyebut & berati). Mandangka aksyen baka langkah, lingguk tubuh, kelis mua enggau perening mata. Ngeluluka diri nitihka empas leka main enggau iring lalu disukung enggau kereban.",4010100,True
+BAHASA IBAN,IBAN,2,Bungai Jaku,4.1.2,Belematika enteli nitihka tusun frasa/leka jaku.,4010200,True
+BAHASA IBAN,IBAN,2,Bungai Jaku,4.2.1,Meretika reti jaku sempama bepelasarka peneleba sereta rampa daya idup. Jaku kelaung ti ngundan dua leka jaku. Chunto: urat kayu - belut ke umpan ginti. bengkak jari - bepenti ke bini ngandung. buah lemba – perut. utai panjai - ular. utai malam - tikus tauka chit. Jaku silup ti ngundan dua leka jaku. Chunto: anak itit - anak iru. jai jari - orang ke enchuri/ngachau utai. dalam kuah – pemula. ati hari - jampat berubah ati.,4020100,True
+BAHASA IBAN,IBAN,2,Bungai Jaku,4.3.1,"Mending, nyebut sereta nyadaka leka main anak mit. Mendingka leka main enggau lenak. Nyebut enggau terang nitihka baris (nyebut & berati). Nyadaka leka main ngena patah nyawa/entak sebut ti betul (chunto: nimang anak mit tinduk).",4030100,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.1,Ulih ngelala lalu ngena jaku nama enggau betul sereta engkeman. Jaku nama rama. Jaku nama tetap.,5010100,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.2,Ulih ngelala lalu ngena jaku ganti nama enggau betul sereta engkeman. Jaku ganti nama diri. Jaku ganti nama pengempu. Jaku ganti nama rama.,5010200,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.3,"Ulih ngelala lalu ngena jaku adjektif enggau betul sereta engkeman. Jaku adjektif gaya. (chunto: manah, pandai, bagas, enggau ti bukai). Jaku adjektif chura. (chunto: gadung, mirah, enggau ti bukai).",5010300,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.4,"Ulih ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman, (chunto:iku, lambar, agih, iti, pating).",5010400,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.5,"Ulih ngelala lalu ngena jaku pengawa enggau betul sereta engkeman. Ngelala jaku pengawa. Ngena mayuh bengkah jaku pengawa. Ngeluluka reti jaku pengawa-jaku pengawa aksyen. (chunto: makai, gali, ngirup, nulis).",5010500,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.6,"Ulih ngelala lalu ngena jaku penempat enggau betul sereta engkeman. Ngelala lalu ngena jaku penempat ke nunjukka endur. (chunto: di, ba, dalam); Ngelala lalu ngena mayuh bengkah jaku penempat ke nunjukka tempat tauka adap (chunto: ari, kiba, kanan)",5010600,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.7,Ulih ngelala lalu ngena jaku perintah enggau betul sereta engkeman. Ngelala lalu ngena jaku perintah. Jaku perintah ke nunjukka tagang. Jaku perintah ke nunjukka asuh.,5010700,True
+BAHASA IBAN,IBAN,2,Jalai Jaku,5.1.8,"Ulih ngelala lalu ngena jaku pemendar enggau betul sereta engkeman. Ngemendarka sesebengkah pekara. Jaku pemendar. (chunto: au, ya, ulih, bendar, betul, amat).",5010800,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.1.1,"Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi. Mending lalu beratika pekara ke disebut nitihka timpuh; Ngayanka kelis mua, perening mata enggau gaya ke likun sereta bebasa",1010100,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.1.2,"Mending lalu berati enggau silik, bebasaka orang ke bejaku sereta pekara ke dikenataika iya.",1010200,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.1.3,"Ngayanka respons ke engkeman. Nagunka pala ke tanda besetuju (chunto: ya, au, nya mih, amat); Ngayanka tanda enda besetuju (chunto: ukai, enda patut, enggai, enda, nadai)",1010300,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.2.1,"Nemu bagi munyi enggau leka jaku nitihka konteks. Nukuka leka jaku kunchi enggau frasa ba teks; Nentuka munyi leka jaku ngundal vokal besekat glotis; Nentuka munyi leka jaku dalam konteks ba teks; Nentuka munyi urup konsonan enggau vokal tebuka; Nentuka kualiti munyi leka jaku - ton, entak sebut enggau enteli nitihka konteks",1020100,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.2.2,Ngelala tukuh jaku ke dipansutka. Kaul jaku ke nunjukka ruang (chunto: Ditu endur iya) maya (chunto: Iya datai pagila); Jaku ke dikena nyapa (chunto: Nama berita?); Lebas jaku sebut - mudah sereta ngena ayat pandak,1020200,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.2.3,Mending enggau berati dikena ngayanka pereti. Nentuka penerang dalam teks; Nyangka berindik ba penemu ke udah dikemisi; Nyaut ngena tikas pengelandik ti bebida; Ngenataika penerang ari kereban ke bebida; Bekauljaulka peneleba ke udah kala diasaika; Beratika cherita sekalika nitihka rurun tauka enda; Beratika kebuah enggau penyadi (cause & effect),1020300,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.3.1,"Mendingka jaku ke dipansutka individu, berati lalu meri respons ngagai teks ke ditaburka ngena kereban audio enggau teks visual. Randau (dialog); Naratif (cherita pandak); Pelandai, pantun, dindang enggau leka main nembiak; Penerang (pekara rama, dagang, sains & teknologi)",1030100,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.4.1,Nyebut enggau betul ngena intonasyen ke engkeman. Nyebut leka jaku ke ngundan: konsonan enggau konsonan turu; vokal tebuka enggau vokal besekat glotis,1040100,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.5.1,Nguasa pengelandik beinteraksyen. Nanya ngena tikas ti bebida; Bekauljaulka penemu ke besangkut paut engggau pengidup besehari-sehari; Napis sereta nusun penerang nitihka rurun; Beinteraksyen ngena jaku ti engkeman ba mayuh bengkah konteks,1050100,True
+BAHASA IBAN,IBAN,3,Pengelandik Mending Enggau Bejaku,1.6.1,Nyaut tanya ngena jaku ti belebas sereta engkeman.,1060100,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.1.1,Nyediaka diri macha. Nentuka munyi patah sebut. Nyebut leka jaku ti ngundan siti ngagai tiga iti patah sebut. Beratika enggau silik lebuh teks dibacha. Macha nitihka baris.,2010100,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.1.2,"Nentuka munyi urup lalu nyepil nitihka patah sebut leka jaku ke ngundan vokal tebuka, vokal besekat glotis, konsonan turu enggau urup nasal(chunto: m, n, y, ng, ny).",2010200,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.1.3,"Ngelala leka jaku lalu nyepil enggau lanchar nitihka patah sebut. (chunto: ru/mah, te/reng/kah, pe/re/mi/si).",2010300,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.2.1,Macha lenak sereta meretika teks. Nentuka reti sekeda leka jaku ari teks. Meri respons senentang teks ke udah dibacha. Nanya ngena mayuh tikas tanya senentang teks ke udah dibacha. Ngaga inferens senentang pekara ke nyadi dalam teks bepelasarka konteks.,2020100,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.3.1,Macha inggar leka jaku ngena intonasyen ti seriran.,2030100,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.3.2,Macha lalu ngeluluka diri nitihka watak dalam teks/dialog.,2030200,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.3.3,Nentuka tema lalu meri buah penemu berindik ari teks mudah.,2030300,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.3.4,"Nyangka isi teks belalauka penemu ti dikembuan, tukuh teks, gambar etb.",2030400,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.4.1,Macha teks ngena intonasyen tauka entak sebut ti engkeman.,2040100,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.4.2,Ngulang bacha teks.,2040200,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.4.3,Meri respons ngagai ajar manah ari teks ti dibacha.,2040300,True
+BAHASA IBAN,IBAN,3,Pengelandik Macha,2.4.4,Manding enggau mida respons ke diberi senentang ajar manah ari teks ke dibacha.,2040400,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.1.1,Nipak patah sebut lalu nulis leka jaku ke bisi meruan reti.,3010100,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.1.2,Nyepil lalu nyebut sereta nulis leka jaku ti betul.,3010200,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.1.3,Nulis leka jaku belalauka gambar.,3010300,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.1.4,Meresa sepil belalauka teks.,3010400,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.2.1,Nulis ngena teknik ‘tunda-tulis’ leka jaku enggau ayat tunggal.,3020100,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.2.2,Nulis leka jaku enggau ayat tunggal ngena tanda bacha ti betul sereta engkeman. Nulis leka jaku belalauka gambar. Nusun lalu nulis leka jaku awakka nyadi ayat ti engkeman. Nipak frasa lalu nulis awakka nyadi ayat ti engkeman. Nulis ayat tunggal ngena tanda bacha ti betul. Nulis ayat kompleks (chunto: ayat turu).,3020200,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.3.1,"Merambu topik ke bekaul enggau peneleba diri empu nitihka tuju, audiens enggau konteks nulis.",3030100,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.4.1,"Meransang, nyengkuran runding, ngukun idea bepelasarka strategi nulis. Ngena ilustrasyen, dero enggau kereban visual nyadi ke stimuli. Ngena charta i-think lebuh nusun idea. Nanya senentang topik enggau konteks (nama, lapa, dini, baka ni, etb ). Nyengkuran runding, mantaika peneleba/buah runding.",3040100,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.5.1,"Ngasilka teks kreatif sereta mantaika penemu diri. Nulis refleksyen bepelasarka peneleba, pengingat etb. Nulis karang belalau (guided composition). Nulis karang naratif.",3050100,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.5.2,Ngasilka karang ngena tanda bacha ke betul. Ngelala bagi tanda bacha. Nemu ngena tanda bacha ba endur ke betul.,3050200,True
+BAHASA IBAN,IBAN,3,Pengelandik Nulis,3.5.3,"Berati, nelusur sereta ngedit awakka ngaluska asil tulis, nyeruri penyilap lalu ngemetulka penyalah. Berati lalu ngemetulka gaya enggau struktur ayat. Ngedit sepil enggau tanda bacha.",3050300,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.1.1,"Beperindangngena leka main anak mit. Mendingka leka main anak mit enggau lenak. Nyebut enggau terang nitihka baris. Mandangka aksyen baka langkah, lingguk tubuh, kelis mua enggau perening mata. Ngeluluka diri nitihka empas leka main enggau iring lalu disukung enggau kereban bantu.",4010100,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.1.2,Belemati sereta nentuka enteli nitihka tusun/frasa leka jaku.,4010200,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.1.3,Ngarang leka main pemerindang ke ngembuan elemen ukur pemanah.,4010300,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.1.4,"Begiga entelah nitihka tuju, audiens, konteks enggau rampa daya idup sereta beratika gaya jaku ti dikena. (chunto: berunding, beruji, bepagahka jaku, ngelamun ulah, etb).",4010400,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.2.1,"Meretika reti jaku sempama bepelasarka peneleba sereta rampa daya idup. Jaku kelaung ti ngundan dua leka jaku (chunto: betubuh bisi – indu ngandung, achuk rangkang – pantuk ular, bejalai ke ai – berikan, jai gamal –muji anak mit ke ganggam). Jaku silup ti ngundan dua leka jaku,(chunto:panjai mulut – jampat nampung berita, lawa kerubung – bisi seregah tang nadai penemu tauka pengelandik, malu tekuyung – bisi nyambil malu, pulai hari – jai seharinya). tekalanya tauka",4020100,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.2.2,Nukuka reti jaku sempama bepelasarka konteks. Betipakka konteks enggau sempama. Ngaga ayat ngena sempama.,4020200,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.3.1,"Mending, nyebut sereta nyadaka leka main anak mit. Mendingka leka main enggau lenak. Nyebut enggau terang nitihka baris (nyebut & berati). Nyadaka leka main ngena patah nyawa/entak sebut ti betul.",4030100,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.3.2,Belematika tusun leka jaku nitihka batang enteli.,4030200,True
+BAHASA IBAN,IBAN,3,Bungai Jaku,4.3.3,"Belemati lalu nentuka elemen ukur pemanah enggau adat basa (chunto: siru, cheremat). Bejaku enggau cheremat sereta siru. Ngena kangau basa ngagai diri sebilik enggau kaban belayan, (chunto: aki, ini, apai, indai, aya, ibu, adi, aka, unggal, akih, apai wai/ apai tuai, indai wai / indai tuai, bunsu). Ngena jaku randau ke cheremat, siru sereta bebasa, (chunto: terima kasih, lalu, selamat pagi / lemai / malam / tengah hari, selamat datai, selamat pulai, jimat bejalai). Ngelabuhka tanya enggau beradap lalu meri saut ti engkeman (chunto: Kemaya kita datai aya?). Ngamalka chara mansutka jaku ke ngayanka pengibuh, pementas, penaluk, pengasi serta pemagas. Mansutka jaku pengaga ati enggau terima kasih.",4030300,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.1,Ngelala lalu ngena jaku nama enggau betul sereta engkeman. Jaku nama rama; Jaku nama tetap,5010100,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.2,Ngelala lalu ngena jaku ganti nama enggau betul sereta engkeman. Jaku ganti nama diri. Jaku ganti nama pengempu. Jaku ganti nama rama.,5010200,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.3,"Ngelala lalu ngena jaku adjektif gaya enggau chura ti betul sereta engkeman. (chunto: jai, pintar, laju, burak, banda, kelabu, etb).",5010300,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.4,"Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman,(chunto:limpir, bilah, singkap, kepin, pasang).",5010400,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.5,"Ngelala lalu ngena jaku pengawa enggau betul sereta engkeman. Ngelala jaku pengawa. Ngena mayuh bengkah jaku pengawa. Ngeluluka reti jaku pengawa aksyen (chunto: mandi, tinduk, nginti)",5010500,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.6,"Ngelala lalu ngena jaku penempat enggau betul sereta engkeman. Ngelala lalu ngena jaku penempat ke nunjukka endur (chunto:atas, tisi, tengah). Ngelala lalu ngena mayuh bengkah jaku penempat ke nunjukkatempat tauka adap (chunto: ari, kiba, kanan, ulu, ili).",5010600,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.7,Ngelala lalu ngena jaku perintah enggau betul sereta engkeman. Jaku perintah ke nunjukka tagang. Jaku perintah ke nunjukka asuh.,5010700,True
+BAHASA IBAN,IBAN,3,Jalai Jaku,5.1.8,"Ngelala lalu ngena jaku pemendar enggau betul sereta engkeman. Ngemendarka sesebengkah pekara, (chunto:au, ya, ulih, bendar, betul)",5010800,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.1.1,Mending enggau lenak sereta beratika enggau silik pekara ti disebut nitihka timpuh ke diberi.,1010100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.1.2,"Mending lalu berati enggau silik, bebasaka orang ke bejaku sereta pekara ke dikenataika iya.",1010200,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.1.3,"Meri respons ngena lingguk tubuh enggau jaku ti seriran ke tanda bersetuju tauka enda (cht: amai, endang patut, enda ulih, enggai).",1010300,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.2.1,"Nemu bagi munyi enggau leka jaku nitihka konteks ngambika ulih nentuka kualiti munyi leka jaku baka ton, entak sebut enggau enteli nitihka konteks.",1020100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.2.2,Mending enggau berati dikena ngayanka pereti: Nentuka penerang dalam teks. Mending enggau berati dikena ngayanka pereti: Nyangka berindik ba penemu ke udah dikemisi. Mending enggau berati dikena ngayanka pereti: Nyaut ngena tikas pengelandik ti bebida. Mending enggau berati dikena ngayanka pereti: Ngenataika penerang ari kereban ke bebida,1020200,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.3.1,"Mendingka jaku ke dipansutka individu, berati lalu merir espons ngagai teks ke ditaburka ngena kereban audio enggau teks visual: Randau; Mendingka jaku ke dipansutka individu, berati lalu merir espons ngagai teks ke ditaburka ngena kereban audio enggau teks visual: Mansutka penemu diri; Mendingka jaku ke dipansutka individu, berati lalu merir espons ngagai teks ke ditaburka ngena kereban audio enggau teks visual: Naratif; Mendingka jaku ke dipansutka individu, berati lalu merir espons ngagai teks ke ditaburka ngena kereban audio enggau teks visual: Penerang; Mendingka jaku ke dipansutka individu, berati lalu merir espons ngagai teks ke ditaburka ngena kereban audio enggau teks visual: Leka main",1030100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.4.1,(i)(a) Nyebut enggau betul ngena intonesyen ke engkeman. i. Nyebut leka jaku ke ngudan; Konsonan enggau konsonan turu. Vokal tebuka enggau vokal besekat glottis,1040100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.5.1,Bulih pengelandik beinteraksyen: Bekauljaulka penemu ke besangkut paut engggau pengidup besehari-sehari. Bulih pengelandik beinteraksyen: Napis sereta nusun penerang nitihka rurun. Bulih pengelandik beinteraksyen: Beinteraksyen ngena jaku ti engkeman ba mayuh bengkah konteks. Bulih pengelandik beinteraksyen: Kaul jaku ke nunjukka ruang maya. Bulih pengelandik beinteraksyen: Jaku ke ngena jaku kaul penemu. Bulih pengelandik beinteraksyen: Jaku ke dikena nyapa.,1050100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.6.1,Nyaut tanya ngena jaku ti belebas sereta engkeman.,1060100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.6.2,Bejaku enggau terang sereta lanchar ngena sebut ti engkeman.,1060200,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.7.1,"(ii)Merambu sereta nusun jaku: Ngena penemu ke dikemisi. Merambu sereta nusun jaku: Nentuka batang penemu, penerang enggau chunto ti engkeman.",1070100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.7.2,"Mantaika jaku: Napis, nusun sereta nentuka tuju jaku tauka pesan. Mantaika jaku: Nyebut enggau terang, entap sereta engkeman. Mantaika jaku: Mansutka jaku enggau berani sereta lanchar.",1070200,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.7.3,Pengelandik berinteraksyen: Tanya ngena tikas tanya ti bebida. Pengelandik berinteraksyen: Merambu teks dialog belalauka situesyen ti diberi.,1070300,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.8.1,Respons ngagai tanya: Nentuka pekara ti nyadi pugu sesebengkah tanya. Respons ngagai tanya: Nyaut tanya ngena jaku ti belebas sereta engkeman.,1080100,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.8.2,Bejurai enggau chara kolaboratif dikena nangkup pengawa ke diberi: Nguse ngena chara beraban siti-siti pekara dikena meretika tuju pengawa enggau latih ke diberi.,1080200,True
+BAHASA IBAN,IBAN,4,1.0 Pengelandik Mending Enggau Bejaku,1.9.1,Ngelala mata duit ti dikena menua bukai.,1090100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.1.1,Ngelala leka jaku lalu nyepil sereta macha enggau lanchar.,2010100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.2.1,Macha lenak sereta meretika teks: Nentuka reti sekeda leka jaku ari teks. Macha lenak sereta meretika teks: Meri respons senentang teks ke udah dibacha. Macha lenak sereta meretika teks: Nanya ngena mayuh tikas tanya senentang teks ke udah dibacha. Macha lenak sereta meretika teks: Ngaga inferens senentang pekara ke nyadi dalam teks bepelasarka konteks.,2020100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.3.1,Macha inggar teks ngena intonesyen ti seriran.,2030100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.3.2,Ngeluluka diri nitihka watak dalam teks.,2030200,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.3.3,Nentuka tema lalu meri buah penemu berindik ari teks.,2030300,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.3.4,"Nyangka isi teks belalauka penemu ti dikembuan, tukuh teks, gambar etb.",2030400,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.4.1,Macha mayuh bengkah teks kena beperindang.,2040100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.4.2,Respons ngagai teks: Nandu macha betatika batang penemu enggau gambar. Respons ngagai teks: Ngaga inferens belalauka konteks.,2040200,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.4.3,"Nyerenih respons: Nyeritaka elemen latar tempat sereta maya. Nyerenih respons: Muntis idea, bebanding enggau bebidaka fakta. Nyerenih respons: Nentuka batang enteli nitihka tapis leka main. Nyerenih respons: Ngelala lalu nentuka pengawa pengelulu dalam cherita. Nyerenih respons: Manding enggau mida. Nyerenih respons: Nentuka kebuah enggau penyadi.",2040300,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.5.1,"Macha lalu belematika teks literari: Nentuka pun, tengah enggau ujung cherita.",2050100,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.5.2,"Macha lalu belematika teks informasional enggau fungsional: Nentuka tukuh teks. Macha lalu belematika teks informasional enggau fungsional: Betatika sereta nemu rurun pengawa dalam teks. Macha lalu belematika teks informasional enggau fungsional: Nyangka isi teks belalauka penemu ti dikembuan, tukuh teks, gambar, etb.",2050200,True
+BAHASA IBAN,IBAN,4,2.0 Pengelandik Macha,2.6.1,Nemu bagi bansa pengawa ti bisi dalam komuniti enggau penatai pemisi.,2060100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.1.1,Nyepil lalu nyebut sereta nulis leka jaku ti betul.,3010100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.1.2,Nulis leka jaku belalauka grafik.,3010200,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.1.3,"Meresa sepil belalauka teks bechelak, kereban, tauka sumber ari internet",3010300,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.2.1,"Nulis leka jaku enggau ngena tanda bacha ti betul sereta engkeman: Nusun lalu nulis leka jaku awakka nyadi ayat ti engkeman. Nulis leka jaku enggau ngena tanda bacha ti betul sereta engkeman: Nipak frasa lalu nulis awakka nyadi ayat ti engkeman. Nulis leka jaku enggau ngena tanda bacha ti betul sereta engkeman: Meresa sepil belalauka kereban, teks bechelak tauka sumber ari internet. Nulis leka jaku enggau ngena tanda bacha ti betul sereta engkeman: Nulis ayat ngena tanda bacha ti betul. Nulis leka jaku enggau ngena tanda bacha ti betul sereta engkeman: Nulis ayat kompleks.",3020100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.3.1,"Merambu nitihka tuju, audiens enggau konteks nulis: Topik ke bekaul enggau peneleba diri empu. Merambu nitihka tuju, audiens enggau konteks nulis: Topik ke bekaul enggau informasional. Merambu nitihka tuju, audiens enggau konteks nulis: Topik ke bekaul enggau akademik sereta sosial.",3030100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.3.2,"Ngukun lalu nusun idea ari kereban bechelak, audio enggau sumber internet kena tuju nulis.",3030200,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.4.1,"Ngena ilustresyen, dero enggau kereban visual nyadika stimuli lebuh berengkah nulis: Ngena kar piker (i-Think) lebuh nusun idea. Ngena ilustresyen, dero enggau kereban visual nyadika stimuli lebuh berengkah nulis: Nanya senentang topik enggau konteks. Ngena ilustresyen, dero enggau kereban visual nyadika stimuli lebuh berengkah nulis: Nyengkuran runding, mantaika peneleba enggau buah runding.",3040100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.4.2,"Ngukun idea dikena nulis nitihka tuju, audiens enggau konteks.",3040200,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.4.3,"Nisih lalu nusun idea kejang nulis: Nusun fakta, idea, tuduh penemu nitihka tuju, audiens enggau konteks. Nisih lalu nusun idea kejang nulis: Merambu penerang deskriptif. Nisih lalu nusun idea kejang nulis: Nentuka rurun fakta dalam teks. Nisih lalu nusun idea kejang nulis: Ngasilka langkar teks tauka karang ti autentik.",3040300,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.5.1,"Ngasilka teks kreatif sereta mantaika penemu diri: Nulis refleksyen bepelasarka peneleba, pengingat etb. Ngasilka teks kreatif sereta mantaika penemu diri: Nulis karang belalau. Ngasilka teks kreatif sereta mantaika penemu diri: Nulis karang naratif.",3050100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.5.2,Ngasilka karang ngena tanda bacha ke betul: Nemu ngena tanda bacha ba endur ke betul.,3050200,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.5.3,"Berati, nelusur sereta nyeruri awakka ngaluska asil tulis, nyeruri penyilap lalu ngemetulka penyalah: Berati lalu ngemetulka gaya enggau struktur ayat. Berati, nelusur sereta nyeruri awakka ngaluska asil tulis, nyeruri penyilap lalu ngemetulka penyalah: Nyeruri sepil enggau tanda bacha.",3050300,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.6.1,"Ngasilka teks bepelasarka tuju fungsional enggau akademik: Ngasilka mayuh bengkah prosedur enggau proses. Ngasilka teks bepelasarka tuju fungsional enggau akademik: Nganga teks nitihka tuju. Ngasilka teks bepelasarka tuju fungsional enggau akademik: Ngasilka bansa surat rasmi enggau surat pekirum rama. Ngasilka teks bepelasarka tuju fungsional enggau akademik: Ngelis pekara ke bekaul enggau data, mata duit, timbang enggau sukat.",3060100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.6.2,Nulis ngena chara kreatif bepelasarka imej enggau emosyen.,3060200,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.7.1,Ngaga pemutus perambu ngatur duit ngena chara sistematik nyengkaum nyimpan duit belanja enggau pemeri.,3070100,True
+BAHASA IBAN,IBAN,4,3.0 Pengelandik Nulis,3.7.2,Bekauljaulka penatai duit ti mimit enggau chara ngatur belanja ti betul ke penabat dudi hari.,3070200,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.1.1,"Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Mendingka leka main enggau lenak. Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Mandangka aksyen baka lingguk tubuh, kelis mua, perening mata enggau langkah kaki lebuh bemain. Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Ngeluluka diri nitihka empas leka main enggau iring lalu disukung enggau kereban bantu.",4010100,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.1.2,Belematika elemen ukur pemanah sereta impak leka main dalam pengidup kitai mensia.,4010200,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.1.3,"Nentuka tusun leka jaku bepegai rat ba batang enteli sereta belematika empas munyi, aliteresyen enggau asonansyen dalam baris tauka entelian leka main.",4010300,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.1.4,Nengkebang leka main pemerindang.,4010400,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.2.1,Beratika gaya jaku dalam mayuh bengkah konteks ti meransang orang ngena jaku sempama: bungah,4020100,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.2.2,Beratika jaku sempama bepelasarka peneleba sereta rampa budaya: Jaku kelaung; Beratika jaku sempama bepelasarka peneleba sereta rampa budaya: Jaku silup; Beratika jaku sempama bepelasarka peneleba sereta rampa budaya: Sema banding; Beratika jaku sempama bepelasarka peneleba sereta rampa budaya: Lalau pendiau,4020200,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.2.3,Nukuka reti jaku sempama bepelasarka konteks: Betipakka konteks enggau sempama. Nukuka reti jaku sempama bepelasarka konteks: Ngaga ayat ngena sempama.,4020300,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.3.1,Mendingka leka main enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Nyebut enggau terang nitihka baris. Mendingka leka main enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Nyadaka leka main ngena patah nyawa ke betul. Mendingka leka main enggau lenak sereta berati enggau silik nitihka timpuh ke diberi: Mendangka gaya ke betul lebuh mantaika leka main.,4030100,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.3.2,Belematika elemen ukur pemanah enggau adat basa ke dipegai bansa Iban.,4030200,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.4.1,"Bejaku enggau cheremat sereta siru: Ngena kangau basa ngangai diri sebilik enggau kaban belayan. Bejaku enggau cheremat sereta siru: Ngena jaku randau ke cheremat, siru sereta bebasa. Bejaku enggau cheremat sereta siru: Ngelabuhka Tanya enggau beradat lalu meri saut ti engkeman.",4040100,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.4.2,"Bekenaka chara mansutka jaku ke ngayanka pengibuh, pementas, penaluk, pengasi sereta pemagas: Mansutka jaku pengaga ati enggau terima kasih.",4040200,True
+BAHASA IBAN,IBAN,4,4.0 Bungai Jaku,4.5.1,Ngemeranka jaku enggau main asal: Ngena jaku engkeman nitihka konteks. Ngemeranka jaku enggau main asal: Ngemeranka main asal.,4050100,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.1,Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman: Jaku pengenap tesa bagi ukai mensia. Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman: Jaku pengenap tesa bagi mensia. Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman: Pengenap tesa cardinal. Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman: Pengenap tesa ordinal. Ngelala lalu ngena jaku pengenap tesa ti mudah enggau betul sereta engkeman: Ngerembaika leka jaku nama ngagai frasa jaku nama,5010100,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.2,Ngelala lalu ngena jaku ganti nama enggau betul sereta engkeman: Jaku ganti nama diri. Ngelala lalu ngena jaku ganti nama enggau betul sereta engkeman: Jaku nama pengempu. Ngelala lalu ngena jaku ganti nama enggau betul sereta engkeman: Jaku ganti nama rama.,5010200,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.3,Ngelala lalu ngena jaku adjektif enggau betul sereta engkeman: Jaku adjektif gaya; Ngelala lalu ngena jaku adjektif enggau betul sereta engkeman: Jaku adjektif chura; Ngelala lalu ngena jaku adjektif enggau betul sereta engkeman: Jaku adjektif sukat; Ngelala lalu ngena jaku adjektif enggau betul sereta engkeman: Jaku adjektif maya,5010300,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.4,Ngena banding komperatif (banding sema) enggau superlatif: Banding selama; Ngena banding komperatif (banding sema) enggau superlatif: Meri penguat jaku adjektif,5010400,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.5,Ngena mayuh bengkah jaku pengawa.,5010500,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.6,Ngena kaul subjek enggau jaku pengawa,5010600,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.7,Ngelala lalu ngena jaku pengawa enggau betul sereta engkeman: Ngelala jaku pengawa transitif. Ngelala lalu ngena jaku pengawa enggau betul sereta engkeman: Ngelala jaku pengawa intransitif. Ngelala lalu ngena jaku pengawa enggau betul sereta engkeman: Ngena mayuh bengkah jaku pengawa. Ngelala lalu ngena jaku pengawa enggau betul sereta engkeman: Ngeluluka reti jaku pengawa.,5010700,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.8,Ngelala lalu ngena jaku penempat enggau betul sereta engkeman: Jaku penempat ke nunjukka endur. Ngelala lalu ngena jaku penempat enggau betul sereta engkeman: Jaku penempat ke nunjukka tempat tauka adap. Ngelala lalu ngena jaku penempat enggau betul sereta engkeman: Jaku penempat ke nunjukka maya tauka jam. Ngelala lalu ngena jaku penempat enggau betul sereta engkeman: Jaku penempat ke nunjukka kaul ti rapit.,5010800,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.9,Ngelala lalu ngena jaku perintah enggau betul sereta engkeman: Jaku perintah ke nunjukka tagang. Ngelala lalu ngena jaku perintah enggau betul sereta engkeman: Jaku perintah ke nunjukka asuh. Ngelala lalu ngena jaku perintah enggau betul sereta engkeman: Jaku perintah ke nunjukka peminta. Ngelala lalu ngena jaku perintah enggau betul sereta engkeman: Jaku perintah ke nunjukka pengelalu.,5010900,True
+BAHASA IBAN,IBAN,4,5.0 Jalai Jaku,5.1.10,Ngelala lalu ngena jaku pemendar enggau betul sereta engkeman: Ngemendarka sesebengkah pekara.,5011000,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.1.1,Ulih mending lalu ngelala intonasyen ayat tanya ti nadai ngembuan jaku tanya.,1010100,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.1.2,Ulih beinteraksyen sereta meretika jaku padah lalu meri respons ke betul.,1010200,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.1.3,"Ulih mending, nerima perintah lalu ngereja pengawa nitihka ti dipadah.",1010300,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.1.4,Ulih mending lalu nerima penemu orang bukai enggau rasional.,1010400,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.2.1,Ulih betanya saut senentang pekara ke nyadi ba rampa pendiau.,1020100,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.2.2,Ulih ngena jaku ti alus lebuh meri saut sereta nerangka sesebengkah pekara.,1020200,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.2.3,Ulih ngenataika pesan ngena chara ti alus enggau intonasyen ke betul,1020300,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.2.4,Ulih nerangka penemu senentang siti-siti pekara enggau sukung penemu ke kukuh.,1020400,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.2.5,Ulih ngerara sereta mesan ngena chara ti manah bepelasar ba ukur lalau pendiau lebuh ngereja pengawa.,1020500,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.1,Ulih bejurai senentang jalai ngatur belanja diri empu dikena nangkup pengidup ke dudi hari.,1030100,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.2,Ulih mantaika penemu senentang siti-siti pekara ngena sara ti patut.,1030200,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.3,Ulih mantaika penemu senentang siti-siti pekara ngena gaya jaku ti engkeman.,1030300,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.4,Ulih mantaika penemu senentang siti-siti tema ngena wachana ti seriran.,1030400,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.5,Ulih mantaika kebuah ke engkeman dikena nyukung peminta.,1030500,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.3.6,Ulih ngena leka jaku enggau ayat ti seriran lebuh mantaika peminta ngambika orang bukai besetuju.,1030600,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.4.1,Ulih becherita bepelasarka peneleba ngena mayuh bansa ayat.,1040100,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.4.2,Ulih ngena jaku sema banding ti seriran lebuh berandau.,1040200,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.4.3,Ulih meri penemu ngena mayuh bansa ayat sereta gaya ti seriran dikena ngumbuk orang.,1040300,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.4.4,"Ulih ngena leka jaku, ayat enggau elemen paralinguistik ti seriran dikena ngenataika peminta.",1040400,True
+BAHASA IBAN,IBAN,5,Pengelandik Mending Enggau Bejaku,1.4.5,Ulih beinteraksyen enggau audiens ngena kereban Teknologi Pemadah enggau Komunikasyen.,1040500,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.1.1,Ulih nyepil leka jaku ke dibuntis ari teks.,2010100,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.1.2,Ulih macha ayat tunggal enggau ayat turu ngena intonasyen ti betul.,2010200,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.1.3,Ulih macha mayuh bansa teks lalu ngemeratka intonasyen nitihka tanda bacha.,2010300,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.1.4,Ulih macha enggau lanchar teks leka main ngena patah nyawa enggau intonasyen ti betul.,2010400,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.1.5,Ulih macha ngena ekspresyen ti seriran enggau konteks.,2010500,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.2.1,Ulih macha sereta meretika teks.,2020100,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.2.2,Ulih macha lalu nentuka isi ari mayuh bansa kereban bacha.,2020200,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.2.3,Ulih macha dikena ngulihka penerang dikena nyaut tanya.,2020300,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.2.4,Ulih macha enggau lenak dikena ngaga simpul penemu.,2020400,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.3.1,Ulih macha sereta madahka isi ti bisi dalam teks cherita pandak.,2030100,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.3.2,Ulih macha lalu muntis isi dalam genteran teks.,2030200,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.3.3,Ulih macha lalu ngelala bagi leka jaku ke besenimbal enteli ba teks.,2030300,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.3.4,Ulih macha pemuka jaku ba siti- siti cherita pandak.,2030400,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.3.5,"Ulih macha dalam raban, bejurai sereta nerangka pekara ke nyadi ngena jaku diri empu.",2030500,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.4.1,Ulih macha sereta nentuka isi karang ti bisi dalam mayuh macham kereban bacha.,2040100,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.4.2,Ulih macha lalu ngelala isi karang ari mayuh macham kereban kreatif.,2040200,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.4.3,Ulih macha ayat topik ba genteran kereban kreatif dikena ngulihka penemu.,2040300,True
+BAHASA IBAN,IBAN,5,Pengelandik Macha,2.4.4,Ulih macha sereta ngangkatka pengaya leka jaku ari ti nemu chara ngena leka jaku sinonim enggau antonim dalam teks.,2040400,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.1.1,Ulih nulis ayat nitihka topik ti diberi ngena urup blok enggau urup mit lalu nemu tulis chelak enggau tulis tampung ti manah.,3010100,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.1.2,Ulih nulis not senentang nyimpan duit ngena tulis chelak enggau tulis tampung ti manah.,3010200,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.1.3,Ulih nulis karang ti ngayanka refleksyen enggau peneleba ngena tulis chelak enggau tulis tampung.,3010300,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.1.4,Ulih nulis karang prosa ngena tulis chelak enggau tulis tampung ti manah sereta betul.,3010400,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.2.1,Ulih nulis mayuh bansa ayat nitihka topik ti diberi ngena tanda bacha ti betul sereta engkeman.,3020100,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.2.2,Ulih nulis genteran karang ngena tanda bacha ti betul sereta engkeman.,3020200,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.2.3,Ulih nulis mayuh bansa ayat ti didinga ngena tanda bacha ti betul sereta engkeman.,3020300,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.2.4,Ulih nulis penerang nitihka format ti betul ngena tanda bacha ti betul sereta engkeman.,3020400,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.2.5,Ulih nulis lagu enggau leka main ngena teknik tunda tulis dikena beperindang.,3020500,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.1,Ulih nulis lalu bejantilka penerang nitihka tuju.,3030100,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.2,Ulih nempa ayat turu ari dua tauka lebih ayat tunggal ti diberi.,3030200,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.3,Ulih nempa ayat turu ngena jaku penyambung.,3030300,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.4,Ulih nempa ayat tunggal enggau ayat turu nitihka topik.,3030400,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.5,Ulih nempa ayat topik enggau ayat penerang dalam karang.,3030500,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.3.6,Ulih nusun isi nitihka genteran dikena ngaga karang ti lenak.,3030600,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.1,Ulih nempa ayat tunggal enggau ayat turu nitihka bansa karang.,3040100,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.2,Ulih nulis enggau nyemetak ayat penerang nitihka siti-siti topik.,3040200,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.3,Ulih ngasilka karang ti lenak seriran enggau format.,3040300,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.4,Ulih nijirka isi enggau sukung isi dikena ngasilka karang kreatif.,3040400,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.5,Ulih ngiga lalu nulis isi karang kreatif ari mayuh bansa kereban nitihka topik.,3040500,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.6,Ulih nulis enggau kreatif ngena mayuh bansa media.,3040600,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.7,Ulih ngalihka penerang ke dibuntis ari teks ngagai mayuh bansa grafik.,3040700,True
+BAHASA IBAN,IBAN,5,Pengelandik Nulis,3.4.8,Ulih ngasilka karang leka main ngena chara ti betul.,3040800,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.1.1,Ulih beperindang ngena lagu enggau leka main.  Tuk tungguk;  Ramban sangkut;  Geliga;  Lagu;  Dindang,4010100,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.1.2,"Ulih mandangka aksyen baka lingguk tubuh, kelis mua enggau perening mata lebuh belagu enggau nyadaka leka main.",4010200,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.1.3,Ulih neluluka diri nitihka empas leka lagu tauka leka main enggau iring ti meruan lalu disukung enggau kereban bantu.,4010300,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.1.4,Ulih mantaika mais asal baka tanda enggau mayuh bansa ajat enggau iring ti meruan.,4010400,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.1,Ulih meri komen senentang pekara ti ngerinduka ati ban ensera tauka cherita.,4020100,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.2,Ulih nijirka ukur pemanah ke bisi ditemu ba ensera tauka cherita.,4020200,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.3,Ulih ngelala pengelulu ti bisi dalam ensera tauka cherita.,4020300,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.4,Ulih mansik pengawa enggau pendiau pengelulu ba ensera tauka cherita.,4020400,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.5,Ulih ngerintai rurun pengawa ti udah nyadi ba ensera tauka cherita.,4020500,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.2.6,Ulih nerangka endur pekara ti nyadi ba teks ensera tauka cherita.,4020600,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.3.1,Ulih macha entelian leka main nitihka patah nyawa ke betul.  Tuk tungguk;  Ramban sangkut;  Geliga;  Lagu;  Dindang,4030100,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.3.2,Ulih mantaika leka main ke dipilih ngena Teknologi Pemadah enggau Komunikasyen.  Tuk tungguk;  Ramban sangkut;  Geliga;  Lagu;  Dindang,4030200,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.3.3,Ulih ngelala lalu betatika ukur pemanah ari leka main.  Tuk tungguk;  Ramban sangkut;  Geliga;  Lagu;  Dindang,4030300,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.4.1,Ulih nempa ayat tunggal enggau ayat turu ti kreatif nitihka bansa karang.,4040100,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.4.2,Ulih nempa pugu ayat enggau penerang ayat ti kreatif nitihka siti-siti topik karang.,4040200,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.4.3,Ulih ngiga lalu nulis isi karang kreatif ngena mayuh media ari mayuh bansa kereban nitihka topik. Ulih nusun penerang nitihka ripih ba karang kreatif ngena mayuh; bengkah media.,4040300,True
+BAHASA IBAN,IBAN,5,Bungai Jaku,4.4.4,Ulih ngasilka karang pelandai ngena mayuh bengkah media,4040400,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.1.1,Ulih ngena jaku penyambung tunggal.,5010100,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.1.2,Ulih ngena jaku penyambung berentayan;  Penerang;  Komplemen;  Relatif,5010200,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.1.3,Ulih ngena jaku praklausa enggau betul;  Jaku tekenyit;  Jaku Tanya,5010300,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.1.4,Ulih ngena jaku bantu;  Jaku bantu aspek;  Jaku bantu gaya,5010400,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.1.5,Ulih ngena jaku prafrasa;  Jaku penempat;  Jaku pengenap tesa,5010500,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.2.1,Ulih ngena penambah mua jaku nama enggau betul;  peN-;  pe-,5020100,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.2.2,Ulih ngaga ayat nitihka konstruk ke engkeman;  jaku pengawa transitif,5020200,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.2.3,Ulih ngena jaku penambah belakang -ka dikena nempa jaku pengawa enggau betul.  Jaku pengawa transitif;  Jaku pengawa intransitif;  Jaku adjektif;  Jaku penempat,5020300,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.2.4,Ulih ngaga ayat nitihka konstruk ti engkeman ngena jaku adjektif;  Rawang sepi;  Rawang peda;  Rawang dinga;  Rawang bau;  Rawang tegu,5020400,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.3.1,Ulih belematika subjek enggau predikat ayat tunggal ti meruan.  FN + FN;  FN + FP;  FN + FA;  FN + FJPt,5030100,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.3.2,Ulih belematika konstruk ayat aktif transitif enggau ayat pasif.,5030200,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.3.3,Ulih ngena tanda bacha enggau betul dalam ayat tauka karang.,5030300,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.3.4,Ulih usun idea belasar ba atur ke diterangka enggau elemen ti nerangka. (D&N).,5030400,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.3.5,Ulih nusun isi karang nitihka rurun ngena tanda wachana ke betul.,5030500,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.4.1,Ulih nyebut ayat penerang nitihka siti-siti topik.,5040100,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.4.2,Ulih ngelala leka jaku figuratif enggau deskriptif.,5040200,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.4.3,Ulih nyaut tanya ti ngundan reti ti besilup.,5040300,True
+BAHASA IBAN,IBAN,5,Jalai Jaku,5.4.4,Ulih ngena jaku sempama enggau betul sereta engkeman,5040400,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.1.1,Mending enggau lenak sereta berati enggau silik nitihka timpuh ke diberi.,1010100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.1.2,Mending enggau silik lalu bebasaka orang ti bejaku sereta pekara ke dikenataika iya.,1010200,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.1.3,Meri respons ke engkeman lebuh meri penerang lalu mansik enggau silik sereta lenak agi.,1010300,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.2.1,Nentuka munyi leka jaku. Nentuka penerang dalam teks lalu bekauljaulka peneleba. Beratika cherita sekalika berurun tauka enda. Nyimpul penemu ngena tikas pengelandik ti bebida. Meri respons belalauka pengentap runding bepelasarka kereban.,1020100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.2.2,Mending enggau berati dikena ngayanka pereti.,1020200,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.3.1,"Mendingka jaku ti dipansutka individu, berati lalu meri respons ngagai teks ngena kereban audio tauka visual. Mansutka penemu diri. Ripot. Penerang senentang fakta, data enggau prosedur.",1030100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.4.1,Sebut enggau intonasyen; Nyebut leka jaku enggau terang. Bejaku ngena intonasyen ti betul sereta lanchar.,1040100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.5.1,"Ngelala tukuh enggau lebas jaku. Kaul jaku ti nunjukka endur tauka maya. Jaku ke ngena penanda kaul. Ngelala lalu nemu reti jaku bepanggai ba entak sebut (lubah/ jampat), ton (tinggi/baruh), enteli (sada/sebut/kana), senai (penggal sebut).",1050100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.6.1,"Merambu, napis sereta nusun jaku. Nentuka batang penemu enggau penerang ti engkeman ngena penemu ti dikemisi. Nusun sereta nentuka tuju jaku.",1060100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.6.2,"Mantaika jaku. Nyebut enggau terang, entap sereta engkeman. Mansutka jaku enggau berani sereta lanchar.",1060200,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.7.1,Pengelandik beinteraksyen. Betanya saut ngena tikas ti bebida nitihka lebas jaku ti engkeman. Bekauljaulka penemu ke besangkut paut enggau pengidup besehari-sehari. Beinteraksyen ngena jaku ti engkeman ba mayuh bengkah konteks. Nemu sekat jaku nitihka audiens enggau daya pengidup. Nentuka pekara ti nyadi pugu sesebengkah tanya.,1070100,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.7.2,"Mansutka buah runding, peneleba sereta sakal penemu enggau berani. Bejaku senentang siti-siti pekara bepelasarka fakta ti betul sereta milih leka jaku ti engkeman. Bejaku senentang siti-siti pekara ngena pemuka enggau penutup jaku ti engkeman. Berani mantaika sakal sereta meri penerang ti entap lebuh belabanka penemu.",1070200,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.7.3,"Meri respons ngagai tuduh penemu, runding alternatif, telusur balas enggau penuh basa.",1070300,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.7.4,Bejurai ngena chara kolaboratif dikena nangkup pengawa ke diberi.,1070400,True
+BAHASA IBAN,IBAN,6,1.0 Pengelandik Mending Enggau Bejaku,1.8.1,Bejaku dalam konteks rampa ti besai. Meri respons tekalanya senentang sesebengkah pekara ba mua bala mayuh. Bejaku bemalinka teks lebuh betunga enggau audiens. Mantaika pengelanchar bejaku ti koheren.,1080100,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.1.1,Macha lenak sereta belematika teks. Nerangka pekara ti nyadi dalam teks. Nyangka pekara ti nyadi dalam teks bepelasarka konteks,2010100,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.2.1,"Macha lalu belematika teks literari. Nentuka tema lalu meri buah penemu berindik ari cherita tauka leka main. Nentuka pun, tengah enggau ujung cherita. Ngingatka pekara dalam teks.",2020100,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.2.2,Macha lalu belematika teks informasional enggau fungsional; Nentuka bansa teks. Betatika sereta nemu rurun pengawa dalam teks. Nyangka isi teks belalauka penemu ti dikembuan nitihka bansa teks,2020200,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.3.1,Macha ngelansa teks belalauka peneleba sereta konsep ke udah ditemu lalu dikena ngulihka selampur reti teks.,2030100,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.3.2,"Betati, meragam lalu nibas batang penemu ari teks enggau gambar belalauka konteks.",2030200,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.3.3,Nyerenih saut. Nyeritaka elemen latar baka endur enggau maya. Nentuka kebuah enggau penyadi. Manding enggau mida. Raup enggau simpul penemu.,2030300,True
+BAHASA IBAN,IBAN,6,2.0 Pengelandik Macha,2.3.4,"Macha mayuh bengkah teks ke manah, dipilih ari kereban bechelak tauka ukai bechelak. Leka main. Prosedur. Esposisyen.",2030400,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.1.1,Nulis ayat kompleks.,3010100,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.2.1,"Merambu topik ti bekaul enggau akademik, sosial enggau literari nitihka tuju enggau bagi audiens",3020100,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.3.1,Nyengkuran sereta ngukun buah runding bepelasarka strategi nulis. Ngena kereban visual enggau charta i-think lebuh nusun buah runding. Ngena jaku tanya berandauka topik diberi. Ngumpul lalu milih buah runding ti dikena nulis nitihka tuju enggau audiens.,3030100,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.3.2,"Nyerenih lalu nusun buah runding sebedau nulis. Nusun fakta, buah runding tauka tuduh penemu nitihka tuju enggau audiens. Meri chunto, penerang deskriptif tauka sukung penemu. Nentuka rurun fakta dalam teks nitihka kategori, kronologi enggau pemesai guna. Ngasilka langkar teks tauka karang ti tulin",3030200,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.4.1,"Ngasilka teks bepelasarka tuju fungsional enggau akademik. Karang beformat enggau karang enda beformat; Nulis karang naratif bepelasarka peneleba tauka pengingat. Pekara ti bekaul enggau data, mata duit, timbang enggau sukat. Ngerikod, ngaga ripot enggau penerang senentang pekara ti nyadi lalu nerangka kebuah iya nyadi. Mantaika sadang penemu sereta disukung enggau evidens.",3040100,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.4.2,"Nerang sereta ngamatka buah runding penulis. Nentuka bagi ayat topik, penerang, enggau penutup. Meri chunto, evidens, penerang dikena ngamatka buah runding penulis.",3040200,True
+BAHASA IBAN,IBAN,6,3.0 Pengelandik Nulis,3.4.3,"Berati, nelusur sereta nyeruri dikena ngaluska asil tulis. Berati lalu ngemetulka struktur ayat. Berati, nelusur lalu nentuka fakta, buah runding, data enggau penerang besenutuk enggau konteks ayat. Nyeruri belalauka diksionari tauka kereban bantu ti bukai.",3040300,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.1.1,Mending sereta belematika enggau silik leka main ti didinga. Mendingka leka main enggau lenak. Nyebut enggau terang nitihka baris. Nyadaka leka main ngena patah nyawa.,4010100,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.1.2,Madah lalu berandauka elemen ajar manah,4010200,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.1.3,Beratika tusun leka jaku nitihka batang enteli,4010300,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.1.4,"Beperindang ngena leka main. Mandangka aksyen baka lingguk tubuh, kelis mua perening mata enggau singkang kaki. Ngeluluka diri nitihka leka main enggau iring lalu disukung enggau kereban bantu.",4010400,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.1.5,Nembuka leka main pemerindang ti mudah,4010500,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.2.1,Beratika jaku sempama dalam mayuh bengkah konteks. Jaku Silup. Jaku Kelaung. Sema Banding.,4020100,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.2.2,Nukuka reti jaku sempama. Nipakka jaku sempama enggau situasyen jaku kelaung. Ngaga ayat ngena jaku sempama.,4020200,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.3.1,"Beratika gaya enggau struktur jaku dikena ngelalaika entelah ti betukuh lalai, menua enggau ulu lungga",4030100,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.3.2,Beratika chunto entelah bepelasarka peneleba. Entelah nembiak. Entelah orang tuai.,4030200,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.3.3,Begiga entelah.,4030300,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.3.4,Nengkebang entelah nembiak.,4030400,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.4.1,Beratika leka main adat basa. Mendingka sada leka main adat basa; Nyadaka leka main adat basa,4040100,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.4.2,Beratika elemen ajar manah enggau adat basa ari leka main.,4040200,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.4.3,Betatika chara nusun leka main adat basa nitihka batang enteli.,4040300,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.4.4,Nengkebang leka main adat basa.,4040400,True
+BAHASA IBAN,IBAN,6,4.0 Bungai Jaku,4.5.1,"Bejaku enggau siru sereta bebasa. Ngena kangau basa ngagai diri sebilik, orang ke tuai, orang ke bepangkat, kaban belayan enggau mensia mayuh. Ngena jaku randau selama, jaku tanya enggau jaku perintah ti siru sereta bebasa. Ngena jaku rara ti siru ngambika orang ke ninga enda berasai ensiban ati.iv) Mansutka jaku pengaga ati enggau terima kasih",4050100,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.1,"Jaku Nama; Ngerembaika leka jaku nama ngagai frasa jaku nama. Ngena leka jaku nama enggau frasa nama, chara betimbal dikena meri penerang tambah",5010100,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.2,Atur ngena jaku adjektif. Jaku adjektif tunggal enggau tumbuh. Jaku adjektif betandu. Jaku adjektif turu enggau bekaling sebu,5010200,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.3,"Jaku adjektif banding. Tingkat Selama, Tingkat Banding enggau Tingkat Pengabis.",5010300,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.4,Ngelala lalu ngena mayuh bengkah jaku pengawa. Jaku Pengawa Transitif.,5010400,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.5,Atur ngena jaku pengawa. Jaku Pengawa Tunggal. Jaku Pengawa Tumbuh. Jaku Pengawa Turu. Jaku Pengawa Betandu.,5010500,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.6,Ngena mayuh bengkah Jaku Adverb. Penerang chara tauka gaya. Penerang tuju tauka jangka ati. Penerang nyereta. Penerang pekara ti nyadi. Penerang nyemaka.,5010600,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.1.7,Ngena mayuh bengkah jaku penempat ke nunjukka tempat tauka adap.,5010700,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.2.1,Bejantilka ayat ngena jaku penyambung.,5020100,True
+BAHASA IBAN,IBAN,6,5.0 Jalai Jaku,5.2.2,"Ngena jaku pun ayat dikena bekaulka leka jaku enggau leka jaku, frasa enggau frasa",5020200,True

@@ -1,0 +1,649 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+BAHASA MELAYU SK,BM-SK,1,Mendengar Dan Bertutur,1.1.1,"Mengajuk, dan menyebut perkataan, frasa dan ayat yang mengandungi pelbagai bunyi; Vokal; Konsonan; diftong; voakl berganding; digraf; konsonan bergabung",1010100,True
+BAHASA MELAYU SK,BM-SK,1,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan membeikan respon terhadap; Suruhan; Pesanan; soalan",1010200,True
+BAHASA MELAYU SK,BM-SK,1,Mendengar Dan Bertutur,1.2.1,Bertutur dengan sebutan yang betul dan intonasi secara bertatasusila.,1020100,True
+BAHASA MELAYU SK,BM-SK,1,Mendengar Dan Bertutur,1.2.2,Menyampaikan maklumat daripada bahan.,1020200,True
+BAHASA MELAYU SK,BM-SK,1,Membaca,2.1.1,Membaca dengan sebutan yang betul; vokal; konsonan; suku kata; frasa; perkataan; ayat,2010100,True
+BAHASA MELAYU SK,BM-SK,1,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; perkataan dua suku kata dan tiga suku kata; frasa; ayat",2010200,True
+BAHASA MELAYU SK,BM-SK,1,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan untuk mendapatkan; kosa kata; idea tersurat; idea tersirat",2020100,True
+BAHASA MELAYU SK,BM-SK,1,Membaca,2.3.1,Membaca dan mengenal pasti kandungan teks bahan sastera dan bukan sastera; cerita; pantun; lagu kanak-kanak,2030100,True
+BAHASA MELAYU SK,BM-SK,1,Membaca,2.3.2,"Membaca, memahami, dan mempersembahkan karya sastera; Membaca, memahami, dan mempersembahkan karya sastera.",2030200,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.1.1,Menulis secara mekanis; huruf; suku kata; perkataan; frasa; ayat,3010100,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.2.1,"Membina dan menulis; perkataan, frasa; ayat; perkataan",3020100,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.2.2,Membina dan menulis jawapan pemahaman berdasarkan soalan; bertumpu; bercapah,3020200,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.2.3,Mencatat maklumat tentang sesuatu perkara; Mencatat maklumat tentang sesuatu perkara.,3020300,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.2.4,Menulis secara imlak; perkataan; ayat,3020400,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; terkawal,3030100,True
+BAHASA MELAYU SK,BM-SK,1,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca,3030200,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Seni Bahasa,4.1.1,Bercerita dan menuturkan dialog yang mengandungi gaya bahasa yang indah; Simpulan bahasa,4010100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Seni Bahasa,4.2.1,Melafazkan pantun dengan intonasi yang betul; pantun empat kerat; pantun dua kerat,4020100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Seni Bahasa,4.2.2,Menyanyikan dengan sebutan dan intonasi yang betul; lagu rakyat; lagu kanak-kanak,4020200,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Seni Bahasa,4.2.3,Melagukan dengan sebutan dan intonasi yang betul; Syair -irama Selendang Delima,4020300,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Seni Bahasa,4.3.1,Mencipta secara terkawal dan mempersembahkan; pantun empat kerat; syair –irama Selendang Delima; pantun dua kerat,4030100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.1.1,"Memahami, mengenal pasti dan menggunakan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan",5010100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.1.2,"Memahami, mengenalpasti dan menggunakan kata kerja mengikut konteks; kata kerja aktif transitif; kata kerja pasif",5010200,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.1.3,"Memahami, mengenal pasti dan menggunakan kata adjektif mengikut konteks.",5010300,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.1.4,"Memahami, mengenal pasti dan menggunakan kata tugas mengikut konteks; kata sendi nama; kata arah; kata perintah; kata hubung gabungan; kata seru; MINGGU TRANSISI",5010400,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.2.1,"Memahami,mengenal pasti dan menggunakan kata terbitan mengikut konteks; kata berimbuhan akhiran; kata berimbuhan awalan",5020100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.2.2,"Memahami, mengenal pasti dan menggunakan kata majmuk mengikut konteks; kata majmuk rangkai kata bebas",5020200,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.2.3,"Memahami, mengenal pasti dan menggunakan kata ganda mengikut konteks.i) kata ganda",5020300,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.3.1,Memahami dan mengenal pasti jenis ayat mengikut konteks; ayat penyata; ayat tanya dengan kata tanya; ayat perintah; ayat seruan,5030100,True
+BAHASA MELAYU SK,BM-SK,1,Aspek Tatabahasa,5.3.2,"Memahami, mengenal pasti dan menggunakan bentuk ayat mengikut konteks.i) ayat tunggal; ayat majmuk; ayat tunggal",5030200,True
+BAHASA MELAYU SK,BM-SK,2,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam, memahami dan menyebut dengan betul dan tepat; frasa; ayat tunggal; ayat majmuk",1010100,True
+BAHASA MELAYU SK,BM-SK,2,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan memberikan respons terhadap; soalan; suruhan; pesanan; permintaan",1010200,True
+BAHASA MELAYU SK,BM-SK,2,Mendengar Dan Bertutur,1.1.3,"Mendengar, dan memberikan respons dengan membuat tafsiran terhadap; soalan bercapah; pesanan",1010300,True
+BAHASA MELAYU SK,BM-SK,2,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan sesuatu perkara secara bertatasusila mengikut konteks; Bertutur untuk menjelaskan sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+BAHASA MELAYU SK,BM-SK,2,Mendengar Dan Bertutur,1.2.2,Bertutur dan menjelaskan maklumat yang tersurat dan tersirat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+BAHASA MELAYU SK,BM-SK,2,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; perkataan; ayat; perenggan; petikan,2010100,True
+BAHASA MELAYU SK,BM-SK,2,Membaca,2.1.2,Membaca dan memahami; perkataan; ayat; perenggan; petikan,2010200,True
+BAHASA MELAYU SK,BM-SK,2,Membaca,2.2.1,"Membaca, memahami dan mengenal pasti; kosa kata; isi tersurat; isi tersirat; idea utama; idea sampingan; idea keseluruhan",2020100,True
+BAHASA MELAYU SK,BM-SK,2,Membaca,2.3.1,"Membaca, mengenal pasti dan menyatakan nilai daripada bahan sastera dan bahan bukan sastera; lagu kanak-kanak; pantun; petikan",2030100,True
+BAHASA MELAYU SK,BM-SK,2,Membaca,2.3.2,Membaca dan mempersembahkan karya sastera dan bukan sastera dengan sebutan yang betul dan intonasi yang sesuai; petikan bukan sastera; lagu kanak-kanak; pantun,2030200,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.1.1,Menulis secara mekanis; perkataan; ayat; perenggan; petikan,3010100,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.2.1,Membina dan menulis; perkataan; frasa; ayat; perenggan. perenggan,3020100,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.2.2,Membina dan menulis jawapan pemahaman dengan berdasarkan soalan; bertumpu; bercapah,3020200,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.2.3,Menyusun dan mencatat maklumat yang bermakna tentang sesuatu perkara.,3020300,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; perkataan; frasa; ayat,3020400,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; separa terkawal,3030100,True
+BAHASA MELAYU SK,BM-SK,2,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca; penggunaan kata,3030200,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.1.1,"Bercerita, dan menuturkan dialog yang mengandungi gaya bahasa yang indah; simpulan bahasa; bandingan semacam; perumpamaan",4010100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.2.1,Melafazkan dan mengenal pasti ciri-ciri pantun; pembayang dan maksud; rima akhir dan jeda; format penulisan,4020100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.2.2,Menyanyikan lagu dengan sebutan yang betul dan intonasi yang sesuai serta melakukan aksi mengikut lirik; lagu rakyat; lagu kanak-kanak,4020200,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.2.3,Mendeklamasikan dan mengenal pasti ciri-ciri sajak; bentuk bebas; rangkap,4020300,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.3.1,Mencipta secara separa terkawal dan mempersembahkan; sajak,4030100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.3.2,Mempersembahkan cerita; cerita haiwan; cerita jenaka,4030200,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Seni Bahasa,4.3.3,Mempersembahkan lagu; kanak-kanak; rakyat,4030300,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.1.1,"Memahami, mengenal pasti dan menggunakan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan",5010100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.1.2,"Memahami, mengenal pasti dan menggunakan kata kerja mengikut konteks; kata kerja aktif transitif; Memahami, mengenal pasti dan menggunakan kata kerja mengikut konteks dan menggunakan kata kerja mengikut konteks; kata kerja pasif",5010200,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.1.3,"Memahami, mengenal pasti dan menggunakan kata adjektif mengikut konteks; sifat; warna; ukuran; bentuk; waktu",5010300,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.1.4,"Memahami, mengenal pasti dan menggunakan kata tugas mengikut konteks; kata tanya; kata kerja aktif transitif; kata hubung; kata sendi nama; kata arah; kata perintah; kata seru",5010400,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.2.1,"Memahami, mengenal pasti dan menggunakan kata mengikut konteks; kata dasar; kata tunggal; kata berimbuhan awalan; kata berimbuhan akhiran",5020100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.2.2,"Memahami, mengenal pasti dan menggunakan kata majmuk mengikut konteks",5020200,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.2.3,"Memahami, mengenal pasti dan menggunakan kata ganda mengikut konteks.",5020300,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.3.1,"Memahami, mengenal pasti dan menggunakan ayat mengikut konteks; pola ayat; ayat penyata; ayat tanya dengan kata tanya; ayat perintah",5030100,True
+BAHASA MELAYU SK,BM-SK,2,Aspek Tatabahasa,5.3.2,"Memahami, mengenal pasti dan menggunakan ayat mengikut konteks; ayat dasar; ayat tunggal; ayat majmuk",5030200,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; ayat tunggal; ayat majmuk",1010100,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan memberikan respons terhadap; suruhan dan permintaan; silaan dan larangan",1010200,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir, dan memberikan respons terhadap; soalan bertumpu; soalan bercapah",1010300,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+BAHASA MELAYU SK,BM-SK,3,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk mendapatkan dan menyampaikan maklumat.,1020300,True
+BAHASA MELAYU SK,BM-SK,3,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; ayat tunggal dan ayat majmuk; perenggan; petikan,2010100,True
+BAHASA MELAYU SK,BM-SK,3,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; pelbagai jenis ayat; perenggan; petikan",2010200,True
+BAHASA MELAYU SK,BM-SK,3,Membaca,2.2.1,"Membaca, memahami, dan mengecam; maksud kosa kata; idea utama dan idea sampingan; idea keseluruhan",2020100,True
+BAHASA MELAYU SK,BM-SK,3,Membaca,2.3.1,"Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; label; manual; cerita; pantun",2030100,True
+BAHASA MELAYU SK,BM-SK,3,Membaca,2.3.2,Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; label; manual; cerita; pantun,2030200,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; huruf; perkataan; frasa,3010100,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.2.1,Membina dan menulis; ayat; perenggan,3020100,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.2.2,Menghasilkan jawapan pemahaman berdasarkan soalan; bertumpu; bercapah,3020200,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.2.3,Membanding bezakan dan mencatat maklumat tentang sesuatu perkara.,3020300,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; ayat,3020400,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.3.1,"Menghasilkan kerangka dan penulisan karangan naratif, dan bukan naratif; berpandu; separa berpandu",3030100,True
+BAHASA MELAYU SK,BM-SK,3,Menulis,3.3.2,"Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan, tanda baca dan penggunaan imbuhan; penggunaan kata; struktur ayat",3030200,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.1.1,Bercerita dengan menggunakan gaya bahasa yang indah dan santun; simpulan bahasa; bandingan semacam; perumpamaan,4010100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.2.1,Melafazkan pantun yang mengandungi bahasa yang indah dan menjelaskan maksud.,4020100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu kanak-kanak, dan lagu rakyat serta menjelaskan maksud bahasa yang indah dalam lirik lagu.",4020200,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.2.3,Melagukan syair dan mendeklamasikan sajak serta memahami maksud; syair; sajak,4020300,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.3.1,Mencipta bahan sastera secara berpandu dan mempersembahkan secara kreatif; pantun empat kerat; sajak,4030100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita yang mempunyai unsur pengajaran secara berpandu dan mempersembahkan cerita secara kreatif.,4030200,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu secara berpandu dan mempersembahkan lagu secara kreatif.,4030300,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan golongan kata nama mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks; kata kerja aktif – transitif dan tak transitif; kata kerja pasif,5010200,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks; jarak; perasaan; pancaindera,5010300,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks; kata hubung; kata sendi nama; kata arah; kata tanya; kata perintah; kata seru; kata pemeri; kata penguat; kata nafi; kata bantu; kata bilangan,5010400,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata mengikut konteks; kata dasar; kata berimbuhan awalan; kata berimbuhan akhiran,5020100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan kata majmuk mengikut konteks.,5020200,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks; kata ganda penuh; kata ganda separa; kata ganda berentak,5020300,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.3.1,Memahami dan membina ayat mengikut konteks; ayat seruan; ayat perintah; ayat tanya dengan kata tanya; ayat tanya tanpa kata tanya,5030100,True
+BAHASA MELAYU SK,BM-SK,3,Aspek Tatabahasa,5.3.2,Memahami dan menggunakan ayat mengikut konteks; ayat tunggal; ayat majmuk,5030200,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut sesuatu yang diujarkan semula dalam situasi tidak formal.",1010100,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap ujaran yang terdapat dalam situasi tidak formal.",1010200,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis.",1010300,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.2.1,"Bertutur untuk menilai, dan memberikan alasan tentang sesuatu perkara secara bertatasusila mengikut konteks.",1020100,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dan tersirat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk mendapatkan penjelasan.,1020300,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.3.1,Bercerita dengan sebutan dan intonasi yang sesuai.,1030100,True
+BAHASA MELAYU SK,BM-SK,4,Mendengar Dan Bertutur,1.3.2,Menceritakan sesuatu bahan yang ditonton dengan sebutan dan intonasi yang sesuai.,1030200,True
+BAHASA MELAYU SK,BM-SK,4,Membaca,2.1.1,Membaca dan memahami petikan dengan sebutan yang betul dan intonasi yang sesuai.,2010100,True
+BAHASA MELAYU SK,BM-SK,4,Membaca,2.2.1,Membaca dan memahami bahan grafik daripada multimedia untuk membuat gambaran.,2020100,True
+BAHASA MELAYU SK,BM-SK,4,Membaca,2.3.1,"Membaca dan menganalisis kandungan teks karya sastera, dan karya bukan sastera.",2030100,True
+BAHASA MELAYU SK,BM-SK,4,Membaca,2.3.2,"Membaca karya sastera, dan karya bukan sastera dengan gaya penyampaian yang sesuai.",2030200,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk ayat.,3010100,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.2.1,"Membina dan menulis ayat, dan perenggan daripada bahan multimedia.",3020100,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.2.2,Menghasilkan jawapan pemahaman berdasarkan soalan bertumpu dan bercapah secara kritis dan kreatif.,3020200,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.2.3,Menganalisis dan mencatat maklumat tentang sesuatu perkara yang dirujuk.,3020300,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.2.4,Menulis ayat dalam perenggan yang diimlakkan.,3020400,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.3.1,Menulis draf dan menghasilkan penulisan imaginatif dan deskriptif.,3030100,True
+BAHASA MELAYU SK,BM-SK,4,Menulis,3.3.2,"Mengedit dan memurnikan ayat daripada aspek ejaan, tanda baca dan penggunaan imbuhan.",3030200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa.,4010100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.2.1,Melafazkan dan menjelaskan maksud sajak,4020100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu rakyat, dan menjelaskan maksud lirik lagu.",4020200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.3.1,"Mengubah suai puisi secara berpandu, dan mempersembahkannya secara kreatif.",4030100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.3.2,"Mengubah suai cerita secara berpandu, dan mempersembahkannya secara kreatif.",4030200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dan mempersembahkannya secara kreatif.,4030300,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam, dan menyebut huruf tunggal yang ditulis mengikut seni khat dalam simpulan bahasa dan mempersembahkannya dalam bentuk tulisan.",4040100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni khat melalui simpulan bahasa.,4040200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata nama am; Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata nama khas; Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata ganti nama; Memahami dan menggunakan kata nama mengikut konteks tidak formal: penjodoh bilangan,5010100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks: kata kerja aktif – transitif dan tak transitif; Memahami dan menggunakan kata kerja mengikut konteks: kata kerja pasif,5010200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks: cara; Memahami dan menggunakan kata adjektif mengikut konteks: pancaindera; Memahami dan menggunakan kata adjektif mengikut konteks: waktu; Memahami dan menggunakan kata adjektif mengikut konteks: perasaan,5010300,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks: kata hubung; Memahami dan menggunakan kata tugas mengikut konteks: kata sendi nama; Memahami dan menggunakan kata tugas mengikut konteks: kata nafi; Memahami dan menggunakan kata tugas mengikut konteks: kata bilangan,5010400,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan awalan; Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan akhiran; Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan apitan,5020100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.2.2,(I) Memahami dan menggunakan kata majmuk mengikut konteks: kata majmuk bebas; Memahami dan menggunakan kata majmuk mengikut konteks: kata majmuk mantap,5020200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks: kata ganda penuh; Memahami dan menggunakan kata ganda mengikut konteks: kata ganda separa,5020300,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.3.1,Memahami dan membina pelbagai ayat tunggal dan ayat majmuk mengikut konteks.,5030100,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks: ayat penyata; Memahami dan membina pelbagai jenis ayat mengikut konteks: ayat tanya,5030200,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.3.3,Memahami dan membina ayat aktif.,5030300,True
+BAHASA MELAYU SK,BM-SK,4,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang.,5030400,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut semula ujaran yang terdapat dalam situasi formal",1010100,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yang diujarkan dalam situasi formal",1010200,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis dan kreatif.",1010300,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menyatakan pertimbangan dan keputusan tentang bahan multimedia secara bertatasusila mengikut konteks,1020100,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.2.2,Bertutur dan menghuraikan maklumat tersurat dan tersirat yang dikenal pasti dengan menggunakan idea yang kritis dan kreatif,1020200,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk menjana idea tentang sesuatu perkara,1020300,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi dan gaya yang sesuai",1030100,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton dan dibaca dengan sebutan yang betul dan intonasi serta gaya yang sesuai",1030200,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.4.2,Berbual tentang sesuatu perkara daripada pelbagai sumber menggunakan kata gelaran yang sesuai dalam situasi formal secara bertatasusila.,1040200,True
+BAHASA MELAYU SK,BM-SK,5,Mendengar Dan Bertutur,1.6.1,Berbicara untuk mendapatkan maklumat yang tersurat dan tersirat dengan tepat tentang sesuatu perkara secara bertatasusila.,1060100,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.1.1,Membaca dan memahami maklumat tersurat dan tersirat untuk memberikan respons,2010100,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.1.2,Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan dan meneliti ejaan yang tepat mengikut susunan perkataan,2010200,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.2.1,Membaca dan memahami maklumat berdasarkan bahan multimedia untuk membuat pertimbangan dan keputusan,2020100,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.3.1,Membaca dan meneliti kandungan teks karya sastera dan karya bukan sastera untuk membuat rumusan.,2030100,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.3.2,Membaca dan mempersembahkan karya sastera dan karya bukan sastera dengan pelbagai bentuk penyampaian,2030200,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.4.3,Membaca dan memahami maklumat yang tersurat dan tersirat dengan tepat daripada pelbagai bahan untuk membuat ulasan yang betul.,2040300,True
+BAHASA MELAYU SK,BM-SK,5,Membaca,2.6.2,Membaca dan memahami pelbagai bahan bukan sastera untuk memperkaya laras bahasa.,2060200,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.1.1,Menulis ayat dalam perenggan secara mekanis dalam bentuk tulisan berangkai,3010100,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.2.1,Membina dan menulis ayat untuk menyatakan pendapat daripada sesuatu bahan multimedia; Membina dan menulis ayat untuk menyatakan pendapat daripada sesuatu bahan multimedia.,3020100,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan alasan secara kritis dan kreatif,3020200,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.2.3,"Mencatat maklumat berdasarkan bahan yang dibaca, dilihat, dan didengar",3020300,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.2.4,Menulis teks prosa yang diimlakkan,3020400,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.3.1,"Mendraf dan menghasilkan penulisan berformat, dan tidak berformat",3030100,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.3.2,"Mengedit dan memurnikan perenggan dari aspek ejaan, tanda baca, penggunaan imbuhan, penggunaan kata, dan struktur ayat",3030200,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.4.1,Menulis pelbagai jenis kata ganda dengan ejaan yang tepat secara imlak.,3040100,True
+BAHASA MELAYU SK,BM-SK,5,Menulis,3.6.2,"Menulis untuk menyampaikan maklumat yang betul berbentuk syarahan, ucapan dan pidato dengan betul serta menggunakan bahasa yang santun.",3060200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun.,4010100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.2.1,Mengujarkan ayat dengan sebutan yang jelas dan intonasi yang betul serta menggunakan laras bahasa yang sesuai semasa bercerita. Melafazkan dan melagukan syair dengan irama yang sesuai serta menyatakan idea keseluruhan syair,4020100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.2.2,Mendeklamasikan sajak dengan nada yang sesuai dan menyatakan maksud sajak; Mendeklamasikan sajak dengan nada yang sesuai dan menyatakan maksud sajak.,4020200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.3.1,Mengubah suai puisi dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif; Mengujarkan dialog dengan sebutan yang jelas dan intonasi yang betul serta menggunakan bahasa badan yang kreatif melalui lakonan.,4030100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif,4030200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dengan menggunakan diksi yang sesuai dan mempersembahkannya dengan gaya yang kreatif,4030300,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam dan menyebut huruf tunggal yang ditulis mengikut tulisan Jawi dalam perumpamaan dan mempersembahkannya",4040100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni tulisan jawi melalui perumpamaan,4040200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.1.1,"Memahami dan menggunakan kata nama mengikut konteks; Memahami dan menggunakan kata nama am mengikut konteks; kata nama khas; (i-iv) Memahami dan menggunakan kata nama am, kata nama khas, kata ganti nama dan penjodoh bilangan mengikut konteks",5010100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks.,5010200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks,5010300,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.1.4,"(i-iii) Memahami dan menggunakan kata pemeri, kata penguat dan kata bantu mengikut konteks; Memahami dan menggunakan kata penguat mengikut konteks; Memahami dan menggunakan kata bantu mengikut konteks",5010400,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.1.5,Memahami dan menggunakan kata adjektif dan kata bantu mengikut konteks dengan betul.,5010500,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.2.1,"(i-iv) Memahami dan menggunakan kata berimbuhan awalan, akhiran, apitan dan sisipan mengikut konteks; Memahami dan menggunakan kata berimbuhan sisipan mengikut konteks; Memahami dan menggunakan kata berimbuhan apitan mengikut konteks",5020100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.2.2,"(i-ii) Memahami dan menggunakan kata majmuk bebas, kata majmuk mantap dan kata majmuk kiasan mengikut konteks; Memahami dan menggunakan kata majmuk bebas dan kata majmuk mantap mengikut konteks; Memahami dan menggunakan kata majmuk kiasan mengikut konteks",5020200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.2.3,"Memahami dan menggunakan kata majmuk istilah khusus dalam bidang ilmiah dan kata majmuk yang mendukung maksud kiasan dengan betul dalam pelbagai situasi. Memahami dan menggunakan kata ganda penuh mengikut konteks; Memahami dan menggunakan kata ganda separa mengikut konteks; Memahami dan menggunakan kata ganda berentak mengikut konteks; (i-iii) Memahami dan menggunakan kata ganda penuh, kata ganda separa dan kata ganda berentak mengikut konteks",5020300,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.3.1,Memahami dan membina ayat tunggal dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks,5030100,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.3.2,(i-ii) Memahami dan membina pelbagai jenis ayat seruan dan ayat perintah mengikut konteks,5030200,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks",5030300,True
+BAHASA MELAYU SK,BM-SK,5,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks,5030400,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan dan menyebut semula ujaran yang terdapat dalam pelbagai situasi.",1010100,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yangdiujarkan dalam pelbagai situasi.",1010200,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap penyataan secara kritis dan kreatif.",1010300,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.2.1,Bertutur untuk membuat rumusan dan ramalan tentang sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.2.2,Bertutur untuk menghujahkan sesuatu perkara menggunakan idea yang kritis dan kreatif berdasarkan maklumat yang tersurat dan tersirat.,1020200,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk membuat rumusan dan keputusan tentang sesuatu perkara.,1020300,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030100,True
+BAHASA MELAYU SK,BM-SK,6,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton, dan dibaca dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030200,True
+BAHASA MELAYU SK,BM-SK,6,Membaca,2.1.1,"Membaca, memahami, dan mentafsir bahan sastera dan bahan bukan sastera.",2010100,True
+BAHASA MELAYU SK,BM-SK,6,Membaca,2.1.2,"Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan, sebutan yang betul, ejaan dan penggunaan perkataan yang tepat.",2010200,True
+BAHASA MELAYU SK,BM-SK,6,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan multimedia untuk membuat rumusan, dan ramalan.",2020100,True
+BAHASA MELAYU SK,BM-SK,6,Membaca,2.3.1,Membaca dan menganalisis kandungan teks karya sastera dan karya bukan sastera untuk membuat ramalan.,2030100,True
+BAHASA MELAYU SK,BM-SK,6,Membaca,2.3.2,"Membaca dan menghargai ilmu dan nilai daripada pelbagai bahan sastera dan bahan bukan sastera, dan dipersembahkan dalam pelbagai bentuk.",2030200,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.1.1,Menulis puisi secara mekanis dalam bentuk tulisan berangkai.,3010100,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.2.1,Membina dan menulis perenggan untuk menyatakan pendapat yang kritis dan kreatif daripada sesuatu bahan multimedia.,3020100,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan cadangan secara kritis dan kreatif.,3020200,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.2.3,Mencatat maklumat dan menjana idea berdasarkan bahan.,3020300,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.2.4,"Menulis teks prosa, dan teks puisi yang diimlakkan.",3020400,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.3.1,"Menghasilkan penulisan berformat, dan tidak berformat secara koheren dan kohesi.",3030100,True
+BAHASA MELAYU SK,BM-SK,6,Menulis,3.3.2,Mengedit dan memurnikan teks.,3030200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun dalam bentuk persembahan.,4010100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.2.1,Melafazkan dan melagukan seloka dengan nada yang sesuai serta menyatakan pengajaran.,4020100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.2.2,Mepersembahkan puisi dengan penuh penghayatan dan keindahan bahasa.,4020200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.3.1,Menghasilkan puisi dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.3.2,Menghasilkan cerita dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.3.3,Menghasilkan seni kata lagu berdasarkan bahan rangsangan dan mempersembahkannya dengan gaya yang kreatif.,4030300,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam, menyebut, dan menulis huruf tunggal yang ditulis mengikut tulisan jawi dalam kata-kata hikmat dan mempersembahkannya.",4040100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni tulisan jawi melalui kata-kata hikmat.,4040200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks.,5010200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks.,5010300,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan pelbagai kata tugas mengikut konteks.,5010400,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan pelbagai kata berimbuhan mengikut konteks.,5020100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan pelbagai kata majmuk mengikut konteks.,5020200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan pelbagai jenis kata ganda mengikut konteks.,5020300,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.3.1,"Memahami dan membina ayat tunggal, dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks.",5030100,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks.,5030200,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks.",5030300,True
+BAHASA MELAYU SK,BM-SK,6,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks.,5030400,True
+Bahasa Melayu SJKC,BM-SJKC,1,Mendengar Dan Bertutur,1.1.1,"Mengajuk, dan menyebut; nama abjad; bunyi abjad",1010100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Mendengar Dan Bertutur,1.1.2,"Mengajuk, dan menyebut perkataan, frasa dan ayat yang mengandungi pelbagai bunyi; vokal dan konsonan; diftong dan vokal berganding; digraf dan konsonan bergabung",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Mendengar Dan Bertutur,1.1.3,"Mendengar, memahami, dan memberikan respons terhadap; soalan dengan kata tanya; suruhan",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,1,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menyampaikan pesanan dengan sebutan dan intonasi yang betul secara bertatasusila,1020100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Mendengar Dan Bertutur,1.2.2,Menyampaikan maklumat tersurat daripada bahan.,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; suku kata; perkataan; ayat,2010100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; perkataan; frasa; ayat dalam perenggan",2010200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan untuk mendapatkan; kosa kata umum; ideal tersurat",2020100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Membaca,2.3.1,"Membaca bahan sastera dengan sebutan yang betul dan intonasi yang sesuai, serta mempersembahkannya dengan penuh penghayatan; cerita; pantun; lagu kanak-kanak",2030100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Membaca,2.3.2,"Membaca bahan bukan sastera dengan sebutan yang betul dan intonasi yang sesuai, serta mempersembahkannya dengan penuh penghayatan; label",2030200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.1.1,Menulis secara mekanis; huruf; suku kata; perkataan; frasa; ayat,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.2.1,Membina dan menulis; perkataan; frasa; ayat,3020100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.2.2,Membina dan menulis jawapan pemahaman dengan berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.2.3,Mencatat maklumat tentang sesuatu perkara.,3020300,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; perkataan; frasa,3020400,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; terkawal,3030100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca,3030200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Seni Bahasa,4.2.1,Menghayati keindahan bahasa; pantun dua kerat dengan sebutan dan intonasi yang sesuai. pantun empat kerat dengan sebutan dan intonasi yang sesuai.,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Seni Bahasa,4.2.2,Menyanyikan lagu dengan sebutan yang betul dan intonasi yang sesuai; lagu berdasarkan melodi lagu kanak-kanak,4020200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Seni Bahasa,4.3.1,Mencipta pantun secara separa terkawal dan mempersembahkan; pantun dua kerat; pantun empat kerat,4030100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Seni Bahasa,4.4.1,Bercerita secara spontan dengan sebutan yang betul dan intonasi yang sesuai.,4040100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.1.1,Memahami dan mengenal pasti penggunaan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama diri pertama dan kedua; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.1.2,"Memahami, mengenal pasti dan menggunakan kata kerja mengikut konteks; kata kerja transitif",5010200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.1.3,"Memahami, mengenal pasti dan menggunakan kata adjektif mengikut konteks; sifat / keadaan; warna; bentuk",5010300,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.1.4,"Memahami, mengenal pasti dan menggunakan kata tugas mengikut konteks; kata hubung gabungan; kata sendi nama; kata arah",5010400,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.2.1,"Memahami, mengenal pasti dan menggunakan kata terbitan mengikut konteks; kata berimbuhan awalan",5020100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.2.2,"Memahami, mengenal pasti dan meggunakan kata majmuk mengikut konteks; kata majmuk rangkai kata bebas",5020200,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.2.3,"Memahami, mengenal pasti dan menggunakan kata ganda mengikut konteks; kata ganda penuh",5020300,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.3.1,"Memahami, mengenal pasti dan menggunakan jenis ayat mengikut konteks; ayat penyata; ayat tanya dengan kata tanya",5030100,True
+Bahasa Melayu SJKC,BM-SJKC,1,Aspek Tatabahasa,5.3.2,"Memahami, mengenal pasti dan menggunakan bentuk ayat mengikut konteks; ayat tunggal; ayat majmuk",5030200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam, memahami dan menyebut; frasa; ayat tunggal; ayat majmuk dengan betul dan tepat",1010100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan memberikan respons terhadap; soalan; suruhan; pesanan; permintaan",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Mendengar Dan Bertutur,1.1.3,"Mendengar, dan memberikan respons dengan membuat tafsiran terhadap; soalan bercapah; pesanan",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,2,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Mendengar Dan Bertutur,1.2.2,Bertutur dan menjelaskan maklumat yang tersurat dan tersirat dengan menggunakan idea yang kritis dan kreatif,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; perkataan; ayat; perenggan; petikan,2010100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Membaca,2.1.2,Membaca dan memahami; perkataan; ayat; perenggan; petikan,2010200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Membaca,2.2.1,"Membaca, memahami dan mengenal pasti; kosa kata; isi tersurat; isi tersirat",2020100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Membaca,2.3.1,"Membaca, mengenal pasti dan menyatakan nilai daripada bahan sastera dan bahan bukan sastera; lagu kanak-kanak; cerita; pantun; petikan",2030100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Membaca,2.3.2,Membaca dan mempersembahkan karya sastera dan bukan sastera dengan sebutan yang betul dan intonasi yang sesuai; lagu kanak-kanak; cerita; pantun; petikan bukan sastera,2030200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.1.1,Menulis secara mekanis; perkataan; ayat; perenggan; petikan,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.2.1,Membina dan menulis; perkataan; frasa; ayat; perenggan,3020100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.2.2,Membina dan menulis jawapan pemahaman dengan berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.2.3,Menyusun dan mencatat maklumat yang bermakna tentang sesuatu perkara; perkataan; frasa; ayat,3020300,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; separa terkawal; berpandu,3030100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca; penggunaan kata,3030200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.1.1,"Bercerita, dan menuturkan dialog yang mengandungi gaya bahasa yang indah; simpulan bahasa dan bandingan semacam",4010100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.2.1,Melafazkan dan mengenal pasti ciri-ciri pantun; pembayang dan maksud; rima akhir dan jeda; format penulisan,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.2.2,Menyanyikan lagu dengan sebutan yang betul dan intonasi yang sesuai serta melakukan aksi mengikut lirik; melodi lagu kanak-kanak; melodi lagu rakyat,4020200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.3.1,Mencipta secara separa terkawal dan mempersembahkan; pantun dua kerat; pantun empat kerat,4030100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.3.2,Mempersembahkan cerita; cerita haiwan; cerita jenaka,4030200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Seni Bahasa,4.3.3,Mempersembahkan lagu; kanak-kanak; rakyat,4030300,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.1.1,Memahami dan mengenal pasti penggunaan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.1.2,Memahami dan mengenal pasti penggunaan kata kerja mengikut konteks; kata kerja aktif transitif; kata kerja pasif,5010200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.1.3,Memahami dan mengenal pasti penggunaan kata adjektif mengikut konteks. sifat / keadaan; warna; bentuk; waktu,5010300,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.1.4,Memahami dan mengenal pasti penggunaan kata tugas mengikut konteks; kata hubung; kata sendi nama; kata arah; kata tanya; kata perintah; kata seru,5010400,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.2.1,Memahami dan mengenal pasti penggunaan kata mengikut konteks; kata dasar; kata tunggal; kata berimbuhan awalan,5020100,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.2.2,Memahami dan mengenal pasti peggunaan kata majmuk mengikut konteks.,5020200,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.2.3,Memahami dan mengenal pasti penggunaan kata ganda mengikut konteks.,5020300,True
+Bahasa Melayu SJKC,BM-SJKC,2,Aspek Tatabahasa,5.3.1,Memahami dan mengenal pasti penggunaan ayat mengikut konteks; pola ayat; ayat penyata; ayat tanya dengan kata tanya,5030100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.1.2,"Mendengar, mengecam, memahami, dan menyebut dengan betul dan tepat; ayat tunggal; ayat majmuk",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.1.3,"Mendengar, memahami dan memberikan respons terhadap; suruhan dan permintaan; silaan dan larangan",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.1.4,"Mendengar, mentafsir, dan memberikan respons terhadap; soalan bertumpu; soalan bercapah",1010400,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea secara kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Mendengar Dan Bertutur,1.2.3,Mengemukakan soalan untuk mendapatkan maklumat.,1020300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; ayat tunggal dan ayat majmuk; perenggan; teks,2010100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; pelbagai jenis ayat; perenggan; teks",2010200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Membaca,2.2.1,"Membaca, memahami, dan menerangkan; maksud kosa kata; idea keseluruhan; idea utama dan idea sampingan",2020100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Membaca,2.3.1,"Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; label; manual; pantun; cerita",2030100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Membaca,2.3.2,Membaca dan menghayati karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; label; manual; pantun; cerita,2030200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; huruf; perkataan; frasa,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.2.1,Membina dan menulis; ayat; perenggan,3020100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.2.2,Membina dan menulis jawapan pemahaman secara kritis berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.2.3,Membanding beza dan mencatat maklumat tentang sesuatu perkara.,3020300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; perkataan dan frasa; ayat,3020400,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.3.1,"Menghasilkan kerangka, penulisan karangan naratif, dan bukan naratif secara; berpandu; separa berpandu",3030100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan dan tanda baca; penggunaan imbuhan,3030200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.1.1,Bercerita dengan menggunakan gaya bahasa yang indah dan santun; simpulan bahasa; bandingan semacam; perumpamaan,4010100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.2.1,Melafazkan pantun yang mengandungi bahasa yang indah dan menjelaskan maksud.,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu kanak-kanak, dan lagu rakyat serta menjelaskan maksud bahasa yang indah dalam lirik lagu.",4020200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.3.1,Mencipta bahan sastera secara berpandu dan mempersembahkan secara kreatif; pantun dua kerat; pantun empat kerat,4030100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita yang mempunyai unsur pengajaran secara berpandu dan mempersembahkan cerita secara kreatif.,4030200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu secara berpandu dan mempersembahkan lagu secara kreatif.,4030300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan golongan kata nama mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks; kata kerja aktif – transitif dan tak transitif; kata kerja pasif,5010200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks; waktu; ukuran; pancaindera,5010300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks; kata hubung dan kata sendi nama; kata arah; kata tanya; kata perintah; kata seru; kata nafi,5010400,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata mengikut konteks; kata dasar; kata berimbuhan awalan; kata berimbuhan akhiran,5020100,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan kata majmuk mengikut konteks.,5020200,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks; kata ganda penuh; kata ganda separa; kata ganda berentak/berirama,5020300,True
+Bahasa Melayu SJKC,BM-SJKC,3,Aspek Tatabahasa,5.3.2,Memahami dan menggunakan ayat mengikut konteks; ayat tunggal; ayat majmuk,5030200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut sesuatu yang diujarkan semula dalam situasi tidak formal.",1010100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap ujaran yang terdapat dalam situasi tidak formal.",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis.",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.2.1,"Bertutur untuk menilai, dan memberikan alasan tentang sesuatu perkara secara bertatasusila mengikut konteks.",1020100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dan tersirat dengan menggunakan idea kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.2.3,Memberi respons terhadap soalan yang dikemukakan.,1020300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.3.1,Bercerita dengan sebutan dan intonasi yang sesuai.,1030100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Mendengar Dan Bertutur,1.3.2,Menceritakan sesuatu bahan yang ditonton dengan sebutan dan intonasi yang sesuai.,1030200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Membaca,2.1.1,Membaca dan memahami petikan dengan sebutan yang betul dan intonasi yang sesuai.,2010100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Membaca,2.2.1,Membaca dan memahami bahan grafik daripada multimedia untuk membuat gambaran.,2020100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Membaca,2.3.1,"Membaca dan menganalisis kandungan teks karya sastera, dan karya bukan sastera.",2030100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Membaca,2.3.2,"Membaca karya sastera, dan karya bukan sastera dengan gaya penyampaian yang sesuai.",2030200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk ayat.,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.2.1,"Membina dan menulis ayat, dan perenggan daripada bahan multimedia.",3020100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.2.2,Menghasilkan jawapan pemahaman berdasarkan soalan bertumpu dan bercapah secara kritis dan kreatif.,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.2.3,Menganalisis dan mencatat maklumat tentang sesuatu perkara yang dirujuk.,3020300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.2.4,Menulis ayat dalam perenggan yang diimlakkan.,3020400,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.3,"2Mengedit dan memurnikan ayat daripada aspek ejaan, tanda baca, dan penggunaan imbuhan.",3030000,True
+Bahasa Melayu SJKC,BM-SJKC,4,Menulis,3.3.1,"Menulis draf, dan menghasilkan penulisan imaginatif dan deskriptif.",3030100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa.,4010100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.2.1,Melafazkan dan menjelaskan maksud sajak.,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu rakyat, dan menjelaskan maksud lirik lagu.",4020200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.3.1,"Mengubah suai puisi secara berpandu, dan mempersembahkannya secara kreatif.",4030100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.3.2,"Mengubah suai cerita secara berpandu, dan mempersembahkannya secara kreatif.",4030200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dan mempersembahkannya secara kreatif.,4030300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.4.1,"Mengenal tulisan jawi yang terdapat dalam sesuatu objek kehidupan harian. (duit kertas, setem, jata dan lain-lain)",4040100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Seni Bahasa,4.4.2,"Mempamerkan tulisan jawi melalui perkataan yang terdapat dalam sesuatu objek kehidupan harian (duit kertas, setem, jata dan lain-lain)",4040200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks tidak formal; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks; kata kerja pasif,5010200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks; jarak; ukuran; perasaan; pancaindera,5010300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks; kata sendi nama; kata nafi; kata bilangan,5010400,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata berimbuhan mengikut konteks; kata berimbuhan akhiran; kata berimbuhan apitan,5020100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan kata majmuk mengikut konteks; kata majmuk mantap,5020200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks; kata ganda separa,5020300,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.3.1,Memahami dan membina pelbagai ayat tunggal dan ayat majmuk mengikut konteks.,5030100,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks; ayat tanya,5030200,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat aktif.,5030400,True
+Bahasa Melayu SJKC,BM-SJKC,4,Aspek Tatabahasa,5.3.5,Memahami dan membina ayat susunan biasa dan susunan songsang.,5030500,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut semula ujaran yang terdapat dalam situasi formal",1010100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yang diujarkan dalam situasi formal.",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis dan kreatif.",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menyatakan pertimbangan dan keputusan tentang bahan multimedia secara bertatasusila mengikut konteks,1020100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.2.2,Bertutur untuk menghuraikan maklumat tersurat dan tersirat yang dikenal pasti dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk menjana idea tentang sesuatu perkara,1020300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi dan gaya yang sesuai.",1030100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton dan dibaca dengan sebutan yang betul dan intonasi serta gaya yang sesuai",1030200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Membaca,2.1.1,Membaca dan memahami maklumat tersurat dan tersirat untuk memberikan respons,2010100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Membaca,2.1.2,Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan dan meneliti ejaan yang tepat mengikut susunan perkataan.,2010200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Membaca,2.2.1,Membaca dan memahami maklumat berdasarkan bahan multimedia untuk membuat pertimbangan dan keputusan.,2020100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Membaca,2.3.1,Membaca dan meneliti kandungan teks karya sastera dan karya bukan sastera untuk membuat rumusan,2030100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Membaca,2.3.2,"Membaca dan mempersembahkan karya sastera, dan karya bukan sastera dengan gaya penyampaian dan sebutan yang sesuai",2030200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.1.1,Menulis ayat dalam perenggan secara mekanis dalam bentuk tulisan berangkai.,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.2.1,Membina dan menulis ayat untuk menyatakan pendapat daripada sesuatu bahan multimedia.,3020100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan alasan secara kritis dan kreatif.,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.2.3,"Mencatat maklumat berdasarkan bahan yang dibaca, dilihat, dan didengar",3020300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.2.4,Menulis teks prosa yang diimlakkan.,3020400,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.3.1,"Mendraf dan menghasilkan penulisan berformat, dan tidak berformat",3030100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Menulis,3.3.2,"Mengedit dan memurnikan perenggan dari aspek ejaan, tanda baca, penggunaan imbuhan, penggunaan kata, dan struktur ayat.",3030200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun,4010100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.2.1,Melafazkan dan melagukan syair dengan irama yang sesuai serta menyatakan idea keseluruhan syair.,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.2.2,Mendeklamasikan sajak dengan nada yang sesuai dan menyatakan maksud sajak.,4020200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.3.1,Mengubah suai puisi dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif,4030100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif,4030200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dengan menggunakan diksi yang sesuai dan mempersembahkannya dengan gaya yang kreatif.,4030300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.4.1,"Mengenal tulisan jawi yang terdapat dalam sesuatu objek kehidupan harian. (tugu negara, label halal, papan tanda jalan dan lain-lain)",4040100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Seni Bahasa,4.4.2,"Mempamerkan tulisan jawi melalui perkataan yang terdapat dalam sesuatu objek kehidupan harian. (tugu negara, label halal, papan tanda jalan dan lain-lain)",4040200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks; kata nama am(ii) kata nama khas(iii) kata ganti nama(iv) penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks,5010200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks.,5010300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks; kata pemeri(ii) kata penguat(iii) kata bantu,5010400,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata berimbuhan mengikut konteks; kata berimbuhan awalan(ii) kata berimbuhan akhiran(iii) kata berimbuhan apitan(iv) kata berimbuhan sisipan,5020100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan kata majmuk mengikut konteks; kata majmuk bebas dan kata majmuk mantap(ii) kata majmuk kiasan,5020200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks; kata ganda penuh(ii) kata ganda separa(iii) kata ganda berentak,5020300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.3.1,Memahami dan membina ayat tunggal dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks.,5030100,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks; ayat seruan(ii) ayat perintah,5030200,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks",5030300,True
+Bahasa Melayu SJKC,BM-SJKC,5,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks,5030400,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan dan menyebut semula ujaran yang terdapat dalam pelbagai situasi.",1010100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yang diujarkan dalam pelbagai situasi.",1010200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap penyataan secara kritis dan kreatif.",1010300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.2.1,Bertutur untuk membuat rumusan dan ramalan tentang sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.2.2,Bertutur untuk menghujahkan sesuatu perkara menggunakan idea yang kritis dan kreatif berdasarkan maklumat yang tersurat dan tersirat.,1020200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk membuat rumusan dan keputusan tentang sesuatu perkara.,1020300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton, dan dibaca dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Membaca,2.1.1,"Membaca, memahami, dan mentafsir bahan sastera dan bahan bukan sastera.",2010100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Membaca,2.1.2,"Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan, sebutan yang betul, ejaan dan penggunaan perkataan yang tepat.",2010200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan multimedia untuk membuat rumusan, dan ramalan.",2020100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Membaca,2.3.1,Membaca dan menganalisis kandungan teks karya sastera dan karya bukan sastera untuk membuat ramalan.,2030100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Membaca,2.3.2,"Membaca dan menghargai ilmu dan nilai daripada pelbagai bahan sastera dan bahan bukan sastera, serta dipersembahkan dalam pelbagai bentuk.",2030200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.1.1,Menulis puisi secara mekanis dalam bentuk tulisan berangkai.,3010100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.2.1,Membina dan menulis perenggan untuk menyatakan pendapat yang kritis dan kreatif daripada sesuatu bahan multimedia.,3020100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan cadangan secara kritis dan kreatif.,3020200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.2.3,Mencatat maklumat dan menjana idea berdasarkan bahan.,3020300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.2.4,"Menulis teks prosa, dan teks puisi yang diimlakkan.",3020400,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.3.1,"Menghasilkan penulisan berformat, dan tidak berformat secara koheren dan kohesi.",3030100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Menulis,3.3.2,Mengedit dan memurnikan teks.,3030200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun dalam bentuk persembahan.,4010100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.2.1,Melafazkan dan melagukan seloka dengan nada yang sesuai serta menyatakan pengajaran.,4020100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.2.2,Mempersembahkan puisi dengan penuh penghayatan dan keindahan bahasa.,4020200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.3.1,Menghasilkan puisi dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.3.2,Menghasilkan cerita dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.3.3,Menghasilkan seni kata lagu berdasarkan bahan rangsangan danmempersembahkannya dengan gaya yang kreatif.,4030300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.4.1,"Mengenal tulisan jawi yang terdapat dalam sesuatu objek kehidupan harian. (slogan, nama bangunan, pintu gerbang dan lain-lain)",4040100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Seni Bahasa,4.4.2,"Mempamerkan tulisan jawi melalui perkataan yang terdapat dalam sesuatu objek kehidupan harian. (slogan, nama bangunan, pintu gerbang dan lain-lain)",4040200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks; kata nama am(ii) kata nama khas(iii) kata ganti nama(iv) penjodoh bilangan,5010100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks.,5010200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks.,5010300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan pelbagai kata tugas mengikut konteks.,5010400,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan pelbagai kata berimbuhan mengikut konteks.,5020100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan pelbagai kata majmuk mengikut konteks.,5020200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan pelbagai kata ganda mengikut konteks.,5020300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.3.1,"Memahami dan membina ayat tunggal, dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks.",5030100,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks.,5030200,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks.",5030300,True
+Bahasa Melayu SJKC,BM-SJKC,6,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks.,5030400,True
+Bahasa Melayu SJKT,BM-SJKT,1,Mendengar Dan Bertutur,1.1.1,"Mengajuk, dan menyebut perkataan, frasa dan ayat yang mengandungi pelbagai bunyi; Vokal; Konsonan; diftong; voakl berganding; digraf; konsonan bergabung",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan membeikan respon terhadap; Suruhan; Pesanan; soalan",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Mendengar Dan Bertutur,1.2.1,Bertutur dengan sebutan yang betul dan intonasi secara bertatasusila.,1020100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Mendengar Dan Bertutur,1.2.2,Menyampaikan maklumat daripada bahan.,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Membaca,2.1.1,Membaca dengan sebutan yang betul; vokal; konsonan; suku kata; frasa; perkataan; ayat,2010100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; perkataan dua suku kata dan tiga suku kata; frasa; ayat",2010200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan untuk mendapatkan; kosa kata; idea tersurat; idea tersirat",2020100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Membaca,2.3.1,Membaca dan mengenal pasti kandungan teks bahan sastera dan bukan sastera; cerita; pantun; lagu kanak-kanak,2030100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Membaca,2.3.2,"Membaca, memahami, dan mempersembahkan karya sastera; Membaca, memahami, dan mempersembahkan karya sastera.",2030200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.1.1,Menulis secara mekanis; huruf; suku kata; perkataan; frasa; ayat,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.2.1,"Membina dan menulis; perkataan, frasa; ayat; perkataan",3020100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.2.2,Membina dan menulis jawapan pemahaman berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.2.3,Mencatat maklumat tentang sesuatu perkara; Mencatat maklumat tentang sesuatu perkara.,3020300,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.2.4,Menulis secara imlak; perkataan; ayat,3020400,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; terkawal,3030100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca,3030200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Seni Bahasa,4.1.1,Bercerita dan menuturkan dialog yang mengandungi gaya bahasa yang indah; Simpulan bahasa,4010100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Seni Bahasa,4.2.1,Melafazkan pantun dengan intonasi yang betul; pantun empat kerat; pantun dua kerat,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Seni Bahasa,4.2.2,Menyanyikan dengan sebutan dan intonasi yang betul; lagu rakyat; lagu kanak-kanak,4020200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Seni Bahasa,4.2.3,Melagukan dengan sebutan dan intonasi yang betul; Syair -irama Selendang Delima,4020300,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Seni Bahasa,4.3.1,Mencipta secara terkawal dan mempersembahkan; pantun empat kerat; syair –irama Selendang Delima; pantun dua kerat,4030100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.1.1,"Memahami, mengenal pasti dan menggunakan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan",5010100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.1.2,"Memahami, mengenalpasti dan menggunakan kata kerja mengikut konteks; kata kerja aktif transitif; kata kerja pasif",5010200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.1.3,"Memahami, mengenal pasti dan menggunakan kata adjektif mengikut konteks.",5010300,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.1.4,"Memahami, mengenal pasti dan menggunakan kata tugas mengikut konteks; kata sendi nama; kata arah; kata perintah; kata hubung gabungan; kata seru; MINGGU TRANSISI",5010400,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.2.1,"Memahami,mengenal pasti dan menggunakan kata terbitan mengikut konteks; kata berimbuhan akhiran; kata berimbuhan awalan",5020100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.2.2,"Memahami, mengenal pasti dan menggunakan kata majmuk mengikut konteks; kata majmuk rangkai kata bebas",5020200,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.2.3,"Memahami, mengenal pasti dan menggunakan kata ganda mengikut konteks.i) kata ganda",5020300,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.3.1,Memahami dan mengenal pasti jenis ayat mengikut konteks; ayat penyata; ayat tanya dengan kata tanya; ayat perintah; ayat seruan,5030100,True
+Bahasa Melayu SJKT,BM-SJKT,1,Aspek Tatabahasa,5.3.2,"Memahami, mengenal pasti dan menggunakan bentuk ayat mengikut konteks.i) ayat tunggal; ayat majmuk; ayat tunggal",5030200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam, memahami dan menyebut dengan betul dan tepat; frasa; ayat tunggal; ayat majmuk",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan memberikan respons terhadap; soalan; suruhan; pesanan; permintaan",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Mendengar Dan Bertutur,1.1.3,"Mendengar, dan memberikan respons dengan membuat tafsiran terhadap; soalan bercapah; pesanan",1010300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan sesuatu perkara secara bertatasusila mengikut konteks; Bertutur untuk menjelaskan sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Mendengar Dan Bertutur,1.2.2,Bertutur dan menjelaskan maklumat yang tersurat dan tersirat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; perkataan; ayat; perenggan; petikan,2010100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Membaca,2.1.2,Membaca dan memahami; perkataan; ayat; perenggan; petikan,2010200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Membaca,2.2.1,"Membaca, memahami dan mengenal pasti; kosa kata; isi tersurat; isi tersirat; idea utama; idea sampingan; idea keseluruhan",2020100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Membaca,2.3.1,"Membaca, mengenal pasti dan menyatakan nilai daripada bahan sastera dan bahan bukan sastera; lagu kanak-kanak; pantun; petikan",2030100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Membaca,2.3.2,Membaca dan mempersembahkan karya sastera dan bukan sastera dengan sebutan yang betul dan intonasi yang sesuai; petikan bukan sastera; lagu kanak-kanak; pantun,2030200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.1.1,Menulis secara mekanis; perkataan; ayat; perenggan; petikan,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.2.1,Membina dan menulis; perkataan; frasa; ayat; perenggan. perenggan,3020100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.2.2,Membina dan menulis jawapan pemahaman dengan berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.2.3,Menyusun dan mencatat maklumat yang bermakna tentang sesuatu perkara.,3020300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; perkataan; frasa; ayat,3020400,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.3.1,Menghasilkan penulisan naratif dan bukan naratif secara; separa terkawal,3030100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Menulis,3.3.2,Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan; tanda baca; penggunaan kata,3030200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.1.1,"Bercerita, dan menuturkan dialog yang mengandungi gaya bahasa yang indah; simpulan bahasa; bandingan semacam; perumpamaan",4010100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.2.1,Melafazkan dan mengenal pasti ciri-ciri pantun; pembayang dan maksud; rima akhir dan jeda; format penulisan,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.2.2,Menyanyikan lagu dengan sebutan yang betul dan intonasi yang sesuai serta melakukan aksi mengikut lirik; lagu rakyat; lagu kanak-kanak,4020200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.2.3,Mendeklamasikan dan mengenal pasti ciri-ciri sajak; bentuk bebas; rangkap,4020300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.3.1,Mencipta secara separa terkawal dan mempersembahkan; sajak,4030100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.3.2,Mempersembahkan cerita; cerita haiwan; cerita jenaka,4030200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Seni Bahasa,4.3.3,Mempersembahkan lagu; kanak-kanak; rakyat,4030300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.1.1,"Memahami, mengenal pasti dan menggunakan golongan kata mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan",5010100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.1.2,"Memahami, mengenal pasti dan menggunakan kata kerja mengikut konteks; kata kerja aktif transitif; Memahami, mengenal pasti dan menggunakan kata kerja mengikut konteks dan menggunakan kata kerja mengikut konteks; kata kerja pasif",5010200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.1.3,"Memahami, mengenal pasti dan menggunakan kata adjektif mengikut konteks; sifat; warna; ukuran; bentuk; waktu",5010300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.1.4,"Memahami, mengenal pasti dan menggunakan kata tugas mengikut konteks; kata tanya; kata kerja aktif transitif; kata hubung; kata sendi nama; kata arah; kata perintah; kata seru",5010400,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.2.1,"Memahami, mengenal pasti dan menggunakan kata mengikut konteks; kata dasar; kata tunggal; kata berimbuhan awalan; kata berimbuhan akhiran",5020100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.2.2,"Memahami, mengenal pasti dan menggunakan kata majmuk mengikut konteks",5020200,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.2.3,"Memahami, mengenal pasti dan menggunakan kata ganda mengikut konteks.",5020300,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.3.1,"Memahami, mengenal pasti dan menggunakan ayat mengikut konteks; pola ayat; ayat penyata; ayat tanya dengan kata tanya; ayat perintah",5030100,True
+Bahasa Melayu SJKT,BM-SJKT,2,Aspek Tatabahasa,5.3.2,"Memahami, mengenal pasti dan menggunakan ayat mengikut konteks; ayat dasar; ayat tunggal; ayat majmuk",5030200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; ayat tunggal; ayat majmuk",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami, dan memberikan respons terhadap; suruhan dan permintaan; silaan dan larangan",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir, dan memberikan respons terhadap; soalan bertumpu; soalan bercapah",1010300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk mendapatkan dan menyampaikan maklumat.,1020300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Membaca,2.1.1,Membaca dengan sebutan yang betul dan intonasi yang sesuai; ayat tunggal dan ayat majmuk; perenggan; petikan,2010100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Membaca,2.1.2,"Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; pelbagai jenis ayat; perenggan; petikan",2010200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Membaca,2.2.1,"Membaca, memahami, dan mengecam; maksud kosa kata; idea utama dan idea sampingan; idea keseluruhan",2020100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Membaca,2.3.1,"Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; label; manual; cerita; pantun",2030100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Membaca,2.3.2,Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; label; manual; cerita; pantun,2030200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; huruf; perkataan; frasa,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.2.1,Membina dan menulis; ayat; perenggan,3020100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.2.2,Menghasilkan jawapan pemahaman berdasarkan soalan; bertumpu; bercapah,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.2.3,Membanding bezakan dan mencatat maklumat tentang sesuatu perkara.,3020300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.2.4,Menulis sesuatu yang diimlakkan; ayat,3020400,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.3.1,"Menghasilkan kerangka dan penulisan karangan naratif, dan bukan naratif; berpandu; separa berpandu",3030100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Menulis,3.3.2,"Mengedit dan memurnikan hasil penulisan daripada aspek; ejaan, tanda baca dan penggunaan imbuhan; penggunaan kata; struktur ayat",3030200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.1.1,Bercerita dengan menggunakan gaya bahasa yang indah dan santun; simpulan bahasa; bandingan semacam; perumpamaan,4010100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.2.1,Melafazkan pantun yang mengandungi bahasa yang indah dan menjelaskan maksud.,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu kanak-kanak, dan lagu rakyat serta menjelaskan maksud bahasa yang indah dalam lirik lagu.",4020200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.2.3,Melagukan syair dan mendeklamasikan sajak serta memahami maksud; syair; sajak,4020300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.3.1,Mencipta bahan sastera secara berpandu dan mempersembahkan secara kreatif; pantun empat kerat; sajak,4030100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita yang mempunyai unsur pengajaran secara berpandu dan mempersembahkan cerita secara kreatif.,4030200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu secara berpandu dan mempersembahkan lagu secara kreatif.,4030300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan golongan kata nama mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks; kata kerja aktif – transitif dan tak transitif; kata kerja pasif,5010200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks; jarak; perasaan; pancaindera,5010300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks; kata hubung; kata sendi nama; kata arah; kata tanya; kata perintah; kata seru; kata pemeri; kata penguat; kata nafi; kata bantu; kata bilangan,5010400,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata mengikut konteks; kata dasar; kata berimbuhan awalan; kata berimbuhan akhiran,5020100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan kata majmuk mengikut konteks.,5020200,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks; kata ganda penuh; kata ganda separa; kata ganda berentak,5020300,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.3.1,Memahami dan membina ayat mengikut konteks; ayat seruan; ayat perintah; ayat tanya dengan kata tanya; ayat tanya tanpa kata tanya,5030100,True
+Bahasa Melayu SJKT,BM-SJKT,3,Aspek Tatabahasa,5.3.2,Memahami dan menggunakan ayat mengikut konteks; ayat tunggal; ayat majmuk,5030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut sesuatu yang diujarkan semula dalam situasi tidak formal.",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap ujaran yang terdapat dalam situasi tidak formal.",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis.",1010300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.2.1,"Bertutur untuk menilai, dan memberikan alasan tentang sesuatu perkara secara bertatasusila mengikut konteks.",1020100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.2.2,Menjelaskan dan membanding beza maklumat tersurat dan tersirat dengan menggunakan idea yang kritis dan kreatif.,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk mendapatkan penjelasan.,1020300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.3.1,Bercerita dengan sebutan dan intonasi yang sesuai.,1030100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Mendengar Dan Bertutur,1.3.2,Menceritakan sesuatu bahan yang ditonton dengan sebutan dan intonasi yang sesuai.,1030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Membaca,2.1.1,Membaca dan memahami petikan dengan sebutan yang betul dan intonasi yang sesuai.,2010100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Membaca,2.2.1,Membaca dan memahami bahan grafik daripada multimedia untuk membuat gambaran.,2020100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Membaca,2.3.1,"Membaca dan menganalisis kandungan teks karya sastera, dan karya bukan sastera.",2030100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Membaca,2.3.2,"Membaca karya sastera, dan karya bukan sastera dengan gaya penyampaian yang sesuai.",2030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.1.1,Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk ayat.,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.2.1,"Membina dan menulis ayat, dan perenggan daripada bahan multimedia.",3020100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.2.2,Menghasilkan jawapan pemahaman berdasarkan soalan bertumpu dan bercapah secara kritis dan kreatif.,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.2.3,Menganalisis dan mencatat maklumat tentang sesuatu perkara yang dirujuk.,3020300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.2.4,Menulis ayat dalam perenggan yang diimlakkan.,3020400,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.3.1,Menulis draf dan menghasilkan penulisan imaginatif dan deskriptif.,3030100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Menulis,3.3.2,"Mengedit dan memurnikan ayat daripada aspek ejaan, tanda baca dan penggunaan imbuhan.",3030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa.,4010100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.2.1,Melafazkan dan menjelaskan maksud sajak,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.2.2,"Menyanyikan lagu mengikut irama lagu rakyat, dan menjelaskan maksud lirik lagu.",4020200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.3.1,"Mengubah suai puisi secara berpandu, dan mempersembahkannya secara kreatif.",4030100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.3.2,"Mengubah suai cerita secara berpandu, dan mempersembahkannya secara kreatif.",4030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dan mempersembahkannya secara kreatif.,4030300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam, dan menyebut huruf tunggal yang ditulis mengikut seni khat dalam simpulan bahasa dan mempersembahkannya dalam bentuk tulisan.",4040100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni khat melalui simpulan bahasa.,4040200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata nama am; Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata nama khas; Memahami dan menggunakan kata nama mengikut konteks tidak formal: kata ganti nama; Memahami dan menggunakan kata nama mengikut konteks tidak formal: penjodoh bilangan,5010100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja mengikut konteks: kata kerja aktif – transitif dan tak transitif; Memahami dan menggunakan kata kerja mengikut konteks: kata kerja pasif,5010200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan kata adjektif mengikut konteks: cara; Memahami dan menggunakan kata adjektif mengikut konteks: pancaindera; Memahami dan menggunakan kata adjektif mengikut konteks: waktu; Memahami dan menggunakan kata adjektif mengikut konteks: perasaan,5010300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan kata tugas mengikut konteks: kata hubung; Memahami dan menggunakan kata tugas mengikut konteks: kata sendi nama; Memahami dan menggunakan kata tugas mengikut konteks: kata nafi; Memahami dan menggunakan kata tugas mengikut konteks: kata bilangan,5010400,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan awalan; Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan akhiran; Memahami dan menggunakan kata berimbuhan mengikut konteks: kata berimbuhan apitan,5020100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.2.2,(I) Memahami dan menggunakan kata majmuk mengikut konteks: kata majmuk bebas; Memahami dan menggunakan kata majmuk mengikut konteks: kata majmuk mantap,5020200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan kata ganda mengikut konteks: kata ganda penuh; Memahami dan menggunakan kata ganda mengikut konteks: kata ganda separa,5020300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.3.1,Memahami dan membina pelbagai ayat tunggal dan ayat majmuk mengikut konteks.,5030100,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks: ayat penyata; Memahami dan membina pelbagai jenis ayat mengikut konteks: ayat tanya,5030200,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.3.3,Memahami dan membina ayat aktif.,5030300,True
+Bahasa Melayu SJKT,BM-SJKT,4,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang.,5030400,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan, dan menyebut semula ujaran yang terdapat dalam situasi formal",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yang diujarkan dalam situasi formal",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap soalan secara kritis dan kreatif.",1010300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.2.1,Bertutur untuk menyatakan pertimbangan dan keputusan tentang bahan multimedia secara bertatasusila mengikut konteks,1020100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.2.2,Bertutur dan menghuraikan maklumat tersurat dan tersirat yang dikenal pasti dengan menggunakan idea yang kritis dan kreatif,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk menjana idea tentang sesuatu perkara,1020300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi dan gaya yang sesuai",1030100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton dan dibaca dengan sebutan yang betul dan intonasi serta gaya yang sesuai",1030200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.4.2,Berbual tentang sesuatu perkara daripada pelbagai sumber menggunakan kata gelaran yang sesuai dalam situasi formal secara bertatasusila.,1040200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Mendengar Dan Bertutur,1.6.1,Berbicara untuk mendapatkan maklumat yang tersurat dan tersirat dengan tepat tentang sesuatu perkara secara bertatasusila.,1060100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.1.1,Membaca dan memahami maklumat tersurat dan tersirat untuk memberikan respons,2010100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.1.2,Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan dan meneliti ejaan yang tepat mengikut susunan perkataan,2010200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.2.1,Membaca dan memahami maklumat berdasarkan bahan multimedia untuk membuat pertimbangan dan keputusan,2020100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.3.1,Membaca dan meneliti kandungan teks karya sastera dan karya bukan sastera untuk membuat rumusan.,2030100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.3.2,Membaca dan mempersembahkan karya sastera dan karya bukan sastera dengan pelbagai bentuk penyampaian,2030200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.4.3,Membaca dan memahami maklumat yang tersurat dan tersirat dengan tepat daripada pelbagai bahan untuk membuat ulasan yang betul.,2040300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Membaca,2.6.2,Membaca dan memahami pelbagai bahan bukan sastera untuk memperkaya laras bahasa.,2060200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.1.1,Menulis ayat dalam perenggan secara mekanis dalam bentuk tulisan berangkai,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.2.1,Membina dan menulis ayat untuk menyatakan pendapat daripada sesuatu bahan multimedia; Membina dan menulis ayat untuk menyatakan pendapat daripada sesuatu bahan multimedia.,3020100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan alasan secara kritis dan kreatif,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.2.3,"Mencatat maklumat berdasarkan bahan yang dibaca, dilihat, dan didengar",3020300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.2.4,Menulis teks prosa yang diimlakkan,3020400,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.3.1,"Mendraf dan menghasilkan penulisan berformat, dan tidak berformat",3030100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.3.2,"Mengedit dan memurnikan perenggan dari aspek ejaan, tanda baca, penggunaan imbuhan, penggunaan kata, dan struktur ayat",3030200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.4.1,Menulis pelbagai jenis kata ganda dengan ejaan yang tepat secara imlak.,3040100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Menulis,3.6.2,"Menulis untuk menyampaikan maklumat yang betul berbentuk syarahan, ucapan dan pidato dengan betul serta menggunakan bahasa yang santun.",3060200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun.,4010100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.2.1,Mengujarkan ayat dengan sebutan yang jelas dan intonasi yang betul serta menggunakan laras bahasa yang sesuai semasa bercerita. Melafazkan dan melagukan syair dengan irama yang sesuai serta menyatakan idea keseluruhan syair,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.2.2,Mendeklamasikan sajak dengan nada yang sesuai dan menyatakan maksud sajak; Mendeklamasikan sajak dengan nada yang sesuai dan menyatakan maksud sajak.,4020200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.3.1,Mengubah suai puisi dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif; Mengujarkan dialog dengan sebutan yang jelas dan intonasi yang betul serta menggunakan bahasa badan yang kreatif melalui lakonan.,4030100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.3.2,Mengubah suai cerita dengan bahasa yang indah dan santun secara separa berpandu dan mempersembahkannya secara kreatif,4030200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.3.3,Mengubah suai seni kata lagu dengan menggunakan diksi yang sesuai dan mempersembahkannya dengan gaya yang kreatif,4030300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam dan menyebut huruf tunggal yang ditulis mengikut tulisan Jawi dalam perumpamaan dan mempersembahkannya",4040100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni tulisan jawi melalui perumpamaan,4040200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.1.1,"Memahami dan menggunakan kata nama mengikut konteks; Memahami dan menggunakan kata nama am mengikut konteks; kata nama khas; (i-iv) Memahami dan menggunakan kata nama am, kata nama khas, kata ganti nama dan penjodoh bilangan mengikut konteks",5010100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks.,5010200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks,5010300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.1.4,"(i-iii) Memahami dan menggunakan kata pemeri, kata penguat dan kata bantu mengikut konteks; Memahami dan menggunakan kata penguat mengikut konteks; Memahami dan menggunakan kata bantu mengikut konteks",5010400,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.1.5,Memahami dan menggunakan kata adjektif dan kata bantu mengikut konteks dengan betul.,5010500,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.2.1,"(i-iv) Memahami dan menggunakan kata berimbuhan awalan, akhiran, apitan dan sisipan mengikut konteks; Memahami dan menggunakan kata berimbuhan sisipan mengikut konteks; Memahami dan menggunakan kata berimbuhan apitan mengikut konteks",5020100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.2.2,"(i-ii) Memahami dan menggunakan kata majmuk bebas, kata majmuk mantap dan kata majmuk kiasan mengikut konteks; Memahami dan menggunakan kata majmuk bebas dan kata majmuk mantap mengikut konteks; Memahami dan menggunakan kata majmuk kiasan mengikut konteks",5020200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.2.3,"Memahami dan menggunakan kata majmuk istilah khusus dalam bidang ilmiah dan kata majmuk yang mendukung maksud kiasan dengan betul dalam pelbagai situasi. Memahami dan menggunakan kata ganda penuh mengikut konteks; Memahami dan menggunakan kata ganda separa mengikut konteks; Memahami dan menggunakan kata ganda berentak mengikut konteks; (i-iii) Memahami dan menggunakan kata ganda penuh, kata ganda separa dan kata ganda berentak mengikut konteks",5020300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.3.1,Memahami dan membina ayat tunggal dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks,5030100,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.3.2,(i-ii) Memahami dan membina pelbagai jenis ayat seruan dan ayat perintah mengikut konteks,5030200,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks",5030300,True
+Bahasa Melayu SJKT,BM-SJKT,5,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks,5030400,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.1.1,"Mendengar, mengecam sebutan dan menyebut semula ujaran yang terdapat dalam pelbagai situasi.",1010100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.1.2,"Mendengar, memahami dan memberikan respons terhadap maklumat yangdiujarkan dalam pelbagai situasi.",1010200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.1.3,"Mendengar, mentafsir dan memberikan respons terhadap penyataan secara kritis dan kreatif.",1010300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.2.1,Bertutur untuk membuat rumusan dan ramalan tentang sesuatu perkara secara bertatasusila mengikut konteks.,1020100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.2.2,Bertutur untuk menghujahkan sesuatu perkara menggunakan idea yang kritis dan kreatif berdasarkan maklumat yang tersurat dan tersirat.,1020200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.2.3,Bersoal jawab untuk membuat rumusan dan keputusan tentang sesuatu perkara.,1020300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.3.1,"Bercerita dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Mendengar Dan Bertutur,1.3.2,"Menceritakan sesuatu perkara yang didengar, ditonton, dan dibaca dengan sebutan yang betul, intonasi, gaya dan ekspresi yang sesuai.",1030200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Membaca,2.1.1,"Membaca, memahami, dan mentafsir bahan sastera dan bahan bukan sastera.",2010100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Membaca,2.1.2,"Membaca dan merujuk kamus serta media elektronik untuk mencari makna perkataan, sebutan yang betul, ejaan dan penggunaan perkataan yang tepat.",2010200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Membaca,2.2.1,"Membaca, memahami, dan menaakul bahan multimedia untuk membuat rumusan, dan ramalan.",2020100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Membaca,2.3.1,Membaca dan menganalisis kandungan teks karya sastera dan karya bukan sastera untuk membuat ramalan.,2030100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Membaca,2.3.2,"Membaca dan menghargai ilmu dan nilai daripada pelbagai bahan sastera dan bahan bukan sastera, dan dipersembahkan dalam pelbagai bentuk.",2030200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.1.1,Menulis puisi secara mekanis dalam bentuk tulisan berangkai.,3010100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.2.1,Membina dan menulis perenggan untuk menyatakan pendapat yang kritis dan kreatif daripada sesuatu bahan multimedia.,3020100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.2.2,Menghasilkan jawapan dengan memberikan cadangan secara kritis dan kreatif.,3020200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.2.3,Mencatat maklumat dan menjana idea berdasarkan bahan.,3020300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.2.4,"Menulis teks prosa, dan teks puisi yang diimlakkan.",3020400,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.3.1,"Menghasilkan penulisan berformat, dan tidak berformat secara koheren dan kohesi.",3030100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Menulis,3.3.2,Mengedit dan memurnikan teks.,3030200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.1.1,Bercerita dan mengujarkan dialog yang mengandungi peribahasa dan bahasa yang santun dalam bentuk persembahan.,4010100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.2.1,Melafazkan dan melagukan seloka dengan nada yang sesuai serta menyatakan pengajaran.,4020100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.2.2,Mepersembahkan puisi dengan penuh penghayatan dan keindahan bahasa.,4020200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.3.1,Menghasilkan puisi dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.3.2,Menghasilkan cerita dengan bahasa yang indah dan santun berdasarkan bahan rangsangan dan mempersembahkannya secara kreatif.,4030200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.3.3,Menghasilkan seni kata lagu berdasarkan bahan rangsangan dan mempersembahkannya dengan gaya yang kreatif.,4030300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.4.1,"Mengenal, mengecam, menyebut, dan menulis huruf tunggal yang ditulis mengikut tulisan jawi dalam kata-kata hikmat dan mempersembahkannya.",4040100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Seni Bahasa,4.4.2,Mempersembahkan keindahan seni tulisan jawi melalui kata-kata hikmat.,4040200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.1.1,Memahami dan menggunakan kata nama mengikut konteks; kata nama am; kata nama khas; kata ganti nama; penjodoh bilangan,5010100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.1.2,Memahami dan menggunakan kata kerja transitif dan kata kerja tak transitif mengikut konteks.,5010200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.1.3,Memahami dan menggunakan pelbagai kata adjektif mengikut konteks.,5010300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.1.4,Memahami dan menggunakan pelbagai kata tugas mengikut konteks.,5010400,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.2.1,Memahami dan menggunakan pelbagai kata berimbuhan mengikut konteks.,5020100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.2.2,Memahami dan menggunakan pelbagai kata majmuk mengikut konteks.,5020200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.2.3,Memahami dan menggunakan pelbagai jenis kata ganda mengikut konteks.,5020300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.3.1,"Memahami dan membina ayat tunggal, dan ayat majmuk dengan peluasan subjek dan predikat mengikut konteks.",5030100,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.3.2,Memahami dan membina pelbagai jenis ayat mengikut konteks.,5030200,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.3.3,"Memahami dan membina ayat aktif, dan ayat pasif mengikut konteks.",5030300,True
+Bahasa Melayu SJKT,BM-SJKT,6,Aspek Tatabahasa,5.3.4,Memahami dan membina ayat susunan biasa dan susunan songsang mengikut konteks.,5030400,True

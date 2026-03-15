@@ -1,0 +1,1291 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.1.1,Menyatakan kuantiti melalui perbandingan.,1010100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.2.1,Menamakan nombor hingga 100; Membilang objek dalam kumpulan. Menamakan nombor bagi kumpulan objek sebagai mewakili kuantiti. Membandingkan kuantiti dua kumpulan objek.,1020100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.2.2,Menentukan nilai nombor hingga 100; Menunjukkan kuantiti bagi nombor yang diberi. Memadankan kumpulan objek dengan nombor. Membandingkan nilai dua nombor. Menyusun kumpulan objek mengikut tertib menaik dan tertib menurun.,1020200,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.3.1,Menulis nombor dalam angka dan perkataan.,1030100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.4.1,Menyatakan kombinasi nombor satu digit.,1040100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.5.1,Membilang nombor.,1050100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.5.2,Melengkapkan sebarang rangkaian nombor.,1050200,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.6.1,Menyatakan nilai tempat dan nilai digit bagi sebarang nombor.,1060100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.7.1,Memberi anggaran bilangan objek yang munasabah.,1070100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.8.1,Membundarkan nombor bulat kepada puluh terdekat.,1080100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.9.1,Mengenal pasti pola bagi siri nombor yang diberi.,1090100,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.9.2,Melengkapkan pelbagai pola nombor yang mudah.,1090200,True
+MATEMATIK SK,MT-SK,1,1.0 Nombor Bulat Hingga 100,1.10.1,Menyelesaikan masalah yang melibatkan situasi harian.,1100100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.1.1,Menggguna dan mempelbagaikan perbendaharaan kata yang relevan dalam konteks tambah dan tolak.,2010100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.1.2,"Memperkenalkan simbol bagi tambah, tolak dan sama dengan.",2010200,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.1.3,"Menggunakan simbol tambah, tolak dan sama dengan bagi menulis ayat matematik berdasarkan situasi yang diberi.",2010300,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.2.1,Menambah dalam lingkungan fakta asas.,2020100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.2.2,Menambah dua nombor hasil tambah dalam lingkungan 100.,2020200,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.3.1,Menolak dalam lingkungan fakta asas.,2030100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.3.2,Menolak dua nombor dalam lingkungan 100.,2030200,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.4.1,Mereka cerita masalah tambah dan tolak dalam lingkungan 100.,2040100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.4.2,Menyelesaikan masalah tambah dan tolak yang melibatkan situasi harian.,2040200,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.5.1,"Menulis ayat matematik tambah berulang dua-dua, lima-lima, sepuluh-sepuluh dan empat-empat.",2050100,True
+MATEMATIK SK,MT-SK,1,2.0 Operasi Asas,2.6.1,"Menulis ayat matematik tolak berturut- turut dua-dua, lima-lima, sepuluh- sepuluh dan empat-empat.",2060100,True
+MATEMATIK SK,MT-SK,1,3.0 Pecahan,3.1.1,"Mengenal pasti satu perdua, satu perempat, dua perempat dan tiga perempat.",3010100,True
+MATEMATIK SK,MT-SK,1,3.0 Pecahan,3.2.1,Menyelesaikan masalah yang melibatkan situasi harian.,3020100,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.1.1,Mengenal pasti mata wang Malaysia dalam bentuk syiling dan wang kertas.,4010100,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.1.2,Mewakilkan nilai wang; Sen hingga RM1. Ringgit hingga RM10.,4010200,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.1.3,Menukar wang; Syiling hingga RM1. Ringgit hingga RM10.,4010300,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.2.1,Mengenal pasti sumber kewangan dan simpanan.,4020100,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.2.2,Merekod simpanan dan perbelanjaan daripada sumber kewangan.,4020200,True
+MATEMATIK SK,MT-SK,1,4.0 Wang,4.3.1,Menyelesaikan masalah harian melibatkan penambahan dan penolakan wang.,4030100,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.1.1,Menyatakan waktu dalam sehari.,5010100,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.1.2,Menyatakan dalam urutan peristiwa dalam sehari.,5010200,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.1.3,Menamakan hari dalam seminggu.,5010300,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.1.4,Menamakan bulan dalam setahun.,5010400,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.2.1,Mengenal pasti jarum jam pada muka jam.,5020100,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.2.2,"Mengenal pasti dan menyatakan ‘setengah’, ‘satu perempat‘ dan ‘tiga perempat’ berdasarkan muka jam.",5020200,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.2.3,"Menyebut dan menulis waktu dalam jam, setengah dan satu perempat jam sahaja dengan menggunakan jam analog.",5020300,True
+MATEMATIK SK,MT-SK,1,5.0 Masa Dan Waktu,5.3.1,Menyelesaikan masalah yang melibatkan situasi harian.,5030100,True
+MATEMATIK SK,MT-SK,1,6.0 Ukuran Dan Sukatan,6.1.1,"Mengggunakan dan mempelbagaikan perbendahaaan kata ukuran panjang, jisim dan isi padu cecair dalam konteks.",6010100,True
+MATEMATIK SK,MT-SK,1,6.0 Ukuran Dan Sukatan,6.1.2,"Membuat pengukuran, jisim dan menyukat objek menggunakan unit bukan piawai.",6010200,True
+MATEMATIK SK,MT-SK,1,6.0 Ukuran Dan Sukatan,6.1.3,"Membanding dua atau lebih ukuran, jisim dan isi padu cecair objek menggunakan unit bukan piawai.",6010300,True
+MATEMATIK SK,MT-SK,1,6.0 Ukuran Dan Sukatan,6.2.1,Menyelesaikan masalah yang melibatkan situasi harian.,6020100,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.1.1,"Menamakan bentuk kuboid, kubus, kon, piramid tapak segiempat sama, silinder dan sfera.",7010100,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.1.2,"Memperihalkan permukaan, sisi dan bucu bagi bentuk tiga dimensi.",7010200,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.1.3,Menyusun objek mengikut pola.,7010300,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.1.4,Menghasilkan bentuk baru dari gabungan bentuk tiga dimensi.,7010400,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.2.1,"Menamakan bentuk segiempat sama, segiempat tepat, segitiga dan bulatan.",7020100,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.2.2,"Memperihalkan garis lurus, sisi, bucu dan lengkung bagi bentuk dua dimensi.",7020200,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.2.3,Menyusun bentuk dua dimensi mengikut pola.,7020300,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.2.4,Menghasilkan corak berasaskan bentuk dua dimensi.,7020400,True
+MATEMATIK SK,MT-SK,1,7.0 Ruang,7.3.1,Menyelesaikan masalah yang melibatkan situasi harian.,7030100,True
+MATEMATIK SK,MT-SK,1,8.0 Pengurusan Data,8.1.1,Mengumpul data berdasarkan situasi harian.,8010100,True
+MATEMATIK SK,MT-SK,1,8.0 Pengurusan Data,8.2.1,Membaca dan mendapatkan maklumat dari piktograf.,8020100,True
+MATEMATIK SK,MT-SK,1,8.0 Pengurusan Data,8.3.1,Menyelesaikan masalah yang melibatkan situasi harian.,8030100,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,0.1,hingga,10000,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,0.9,,90000,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.1.1,Menamakan nombor hingga 1000; Membaca sebarang nombor yang diberi dalam perkataan. Menyebut sebarang nombor yang diberi dalam bentuk angka. Memadan angka dengan namanya dalam perkataan.,1010100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.1.2,Menentukan nilai nombor hingga 1000; Menunjukkan kuantiti bagi nombor yang diberi. Memadankan kumpulan objek dengan nombor. Membandingkan nilai dua nombor. Menyusun kumpulan objek mengikut tertib menaik dan tertib menurun.,1010200,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.2.1,Menulis nombor dalam angka dan perkataan.,1020100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.3.1,Membilang nombor.,1030100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.3.2,Melengkapkan sebarang rangkaian nombor.,1030200,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.4.1,Menyatakan nilai tempat dan nilai digit bagi sebarang nombor.,1040100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.4.2,Mencerakin sebarang nombor mengikut nilai tempat dan nilai digit.,1040200,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.5.1,Memberi anggaran bilangan objek yang munasabah.,1050100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.6.1,Membundarkan nombor bulat hingga ratus terdekat.,1060100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.7.1,Mengenal pasti pola bagi siri nombor yang diberi.,1070100,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.7.2,Melengkapkan pelbagai pola nombor yang mudah.,1070200,True
+MATEMATIK SK,MT-SK,2,1.0 Nombor Bulat Hingga 1000,1.8.1,Menyelesaikan masalah yang melibatkan situasi harian.,1080100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.1.1,Menambah dua nombor hasil tambah dalam lingkungan 1000.,2010100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.1.2,Menambah tiga nombor hasil tambah dalam lingkungan 1000.,2010200,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.2.1,Menolak dua nombor dalam lingkungan 1000.,2020100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.2.2,Menolak dua nombor dari satu nombor dalam lingkungan 1000.,2020200,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.3.1,Mendarab dalam lingkungan fakta asas.,2030100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.3.2,Mendarab nombor satu digit dengan 10.,2030200,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.4.1,Membahagi dalam lingkungan fakta asas.,2040100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.4.2,Membahagi sebarang nombor dua digit dengan 10.,2040200,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.5.1,"Mereka cerita masalah tambah, tolak, darab dan bahagi dalam lingkungan 1000.",2050100,True
+MATEMATIK SK,MT-SK,2,2.0 Operasi Asas,2.5.2,"Menyelesaikan masalah tambah, tolak, darab dan bahagi yang melibatkan situasi harian.",2050200,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.1.1,Mengenal pasti dan menyebut pecahan wajar yang pengangkanya 1 dan penyebutnya hingga 10.,3010100,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.1.2,Menamakan pecahan wajar yang pengangkanya hingga 9 dan penyebutnya hingga 10.,3010200,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.1.3,Mewakilkan gambar rajah mengikut pecahan yang diberi.,3010300,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.1.4,Menulis pecahan wajar yang diberi.,3010400,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.1.5,Membanding nilai dua pecahan wajar yang diberi.,3010500,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.1,Menukar pecahan persepuluh kepada perpuluhan.,3020100,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.2,Menyebut perpuluhan sifar perpuluhan satu hingga sifar perpuluhan sembilan.,3020200,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.3,Menunjuk nombor perpuluhan,3020300,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.4,Mewakilkan gambar rajah mengikut perpuluhan diberi.,3020400,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.5,Menulis perpuluhan yang diberi.,3020500,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.2.6,Membanding nilai dua perpuluhan yang diberi.,3020600,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.3.1,Membanding nilai pecahan dan nilai perpuluhan yang diberi.,3030100,True
+MATEMATIK SK,MT-SK,2,3.0 Pecahan Dan Perpuluhan,3.4.1,Menyelesaikan masalah yang melibatkan situasi harian.,3040100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.1.1,Mengenal pasti mata wang Malaysia hingga RM100.,4010100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.1.2,Menentukan nilai wang hingga RM100.,4010200,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.2.1,Menambah dua nilai wang hasil tambahnya hingga RM100.,4020100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.2.2,Menambah tiga nilai wang hasil tambahnya hingga RM100.,4020200,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.3.1,Menolak dua nilai wang dalam lingkungan RM100.,4030100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.3.2,Menolak dua nilai wang dari satu nilai wang dalam lingkungan RM100.,4030200,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.4.1,Mendarab nilai wang dan hasil darabnya hingga RM100.,4040100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.5.1,Membahagi nilai wang dalam lingkungan RM100.,4050100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.6.1,Menguruskan kewangan secara efektif sebagai asas kepada simpanan dan perbelanjaan.,4060100,True
+MATEMATIK SK,MT-SK,2,4.0 Wang,4.7.1,Menyelesaikan masalah harian yang melibatkan situasi harian.,4070100,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.1.1,Mengenal tanda senggatan minit pada muka jam.,5010100,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.1.2,Menyatakan dan menunjukkan waktu dalam jam dan minit.,5010200,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.1.3,Menukar waktu dalam jam dan minit daripada perkataan kepada angka dan sebaliknya.,5010300,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.1.4,Merekod waktu dalam jam dan minit.,5010400,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.2.1,Menyatakan perkaitan hari dengan jam dan jam dengan minit.,5020100,True
+MATEMATIK SK,MT-SK,2,5.0 Masa Dan Waktu,5.3.1,Menyelesaikan masalah yang melibatkan situasi harian.,5030100,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.1.1,Mengenal unit panjang.,6010100,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.1.2,Mengukur panjang.,6010200,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.1.3,Menganggar panjang.,6010300,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.2.1,Mengenal unit jisim.,6020100,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.2.2,Menimbang objek.,6020200,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.2.3,Menganggar jisim.,6020300,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.3.1,Mengenal unit isi padu cecair.,6030100,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.3.2,Menyukat isi padu cecair.,6030200,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.3.3,Menganggar isi padu cecair.,6030300,True
+MATEMATIK SK,MT-SK,2,6.0 Ukuran Dan Sukatan,6.4.1,Menyelesaikan masalah yang melibatkan situasi harian.,6040100,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.1.1,Mengenal pasti bentuk tiga dimensi berdasarkan huraian ciri-cirinya.,7010100,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.1.2,Mengenal pasti bentuk asas bagi bentuk tiga dimensi.,7010200,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.1.3,Mengenal pasti pelbagai bentangan bentuk tiga dimensi.,7010300,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.2.1,Mengenal pasti bentuk dua dimensi berdasarkan huraian ciri-cirinya.,7020100,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.2.2,Melukis bentuk asas bagi bentuk dua dimensi.,7020200,True
+MATEMATIK SK,MT-SK,2,7.0 Ruang,7.3.1,Menyelesaikan masalah yang melibatkan situasi harian.,7030100,True
+MATEMATIK SK,MT-SK,2,8.0 Pengurusan Data,8.1.1,Mengumpul data berdasarkan situasi harian.,8010100,True
+MATEMATIK SK,MT-SK,2,8.0 Pengurusan Data,8.2.1,Membaca dan mendapatkan maklumat dari carta palang.,8020100,True
+MATEMATIK SK,MT-SK,2,8.0 Pengurusan Data,8.3.1,Menyelesaikan masalah melibatkan situasi harian.,8030100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.1.1,Menamakan nombor hingga 10 000; Membaca sebarang nombor yang diberi dalam perkataan. Menyebut sebarang nombor yang diberi dalam bentuk angka. Memadankan angka dengan perkataan dalam perkataan.,1010100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.1.2,Menentukan nilai nombor hingga 10 000; Menunjukkan kuantiti bagi nombor yang diberi. Memadankan kumpulan objek dengan nombor. Membandingkan nilai dua nombor. Menyusun kumpulan objek mengikut tertib menaik dan tertib menurun.,1010200,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.2.1,Menulis nombor dalam angka dan perkataan.,1020100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.3.1,"Membilang satu-satu hingga sepuluh-sepuluh, seratus-seratus dan seribu-seribu secara tertib menaik dan menurun.",1030100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.3.2,Melengkapkan sebarang rangkaian nombor secara tertib menaik dan menurun.,1030200,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.4.1,Menyatakan nilai tempat dan nilai digit bagi sebarang nombor.,1040100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.4.2,Mencerakin sebarang nombor mengikut nilai tempat dan nilai digit.,1040200,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.5.1,"Memberi anggaran kuantiti yang munasabah dengan menggunakan perkataan ‘lebih kurang’, ‘kurang daripada’ dan ‘lebih daripada’ berdasarkan set rujukan.",1050100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.6.1,Membundarkan nombor bulat hingga ribu terdekat.,1060100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.7.1,"Mengenal pasti pola bagi siri nombor yang diberi secara tertib menaik dan menurun satu-satu hingga sepuluh-sepuluh, seratus-seratus dan seribu-seribu.",1070100,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.7.2,"Melengkapkan pelbagai pola nombor yang diberi secara tertib menaik dan menurun satu-satu hingga sepuluh-sepuluh, seratus-seratus dan seribu-seribu.",1070200,True
+MATEMATIK SK,MT-SK,3,1.0 Nombor Bulat Hingga 10 000,1.8.1,Menyelesaikan masalah melibatkan nombor bulat hingga 10 000 dalam situasi harian.,1080100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.1.1,Menyelesaikan ayat matematik tambah melibatkan dua nombor hasil tambah dalam lingkungan 10 000.,2010100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.1.2,"Menyelesaikan ayat matematik tambah melibatkan tiga nombor, hasil tambah dalam lingkungan 10 000.",2010200,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.2.1,Menyelesaikan ayat matematik tolak melibatkan dua nombor dalam lingkungan 10 000.,2020100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.2.2,Menyelesaikan ayat matematik tolak melibatkan dua nombor dari satu nombor dalam lingkungan 10 000.,2020200,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.3.1,"Menyelesaikan ayat matematik darab bagi sebarang nombor hingga empat digit dengan nombor satu digit, 10, 100 dan 1000, dan hasil darabnya hingga 10 000.",2030100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.4.1,"Menyelesaikan ayat matematik bahagi bagi sebarang nombor dalam lingkungan 10 000 dengan nombor satu digit, 10, 100 dan 1000.",2040100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.5.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak dalam lingkungan 10 000.,2050100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.6.1,Mengenal pasti anu yang melibatkan operasi asas dalam ayat matematik.,2060100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.6.2,Mewakilkan situasi harian melibatkan operasi asas dan satu anu kepada ayat matematik.,2060200,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.7.1,Mereka cerita berdasarkan ayat matematik melibatkan dua nombor bagi operasi asas dalam lingkungan 10 000.,2070100,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.7.2,Mereka cerita berdasarkan ayat matematik melibatkan operasi bergabung tambah dan tolak dalam lingkungan 10 000.,2070200,True
+MATEMATIK SK,MT-SK,3,2.0 Operasi Asas,2.7.3,Menyelesaikan masalah operasi asas dan operasi bergabung tambah dan tolak dalam lingkungan 10 000 melibatkan situasi harian.,2070300,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.1,Mengenal pasti pecahan wajar sebagai sebahagian daripada satu kumpulan.,3010100,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.2,Menyatakan pecahan setara bagi pecahan wajar yang penyebutnya hingga 10.,3010200,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.3,"Menukar pecahan wajar kepada bentuk termudah, penyebutnya hingga 10.",3010300,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.4,Menyatakan pecahan perseratus.,3010400,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.5,"Menambah dua pecahan wajar melibatkan; penyebut yang sama, penyebutnya 2 dengan 4, 6, 8 dan 10, penyebutnya 3 dengan 6 dan 9, penyebutnya 5 dengan 10, penyebutnya 4 dengan 8, dan hasil tambahnya melibatkan pecahan wajar.",3010500,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.6,"Menolak dua pecahan wajar melibatkan; penyebut yang sama, penyebutnya 2 dengan 4, 6, 8 dan 10, penyebutnya 3 dengan 6 dan 9, penyebutnya 5 dengan 10, penyebutnya 4 dengan 8.",3010600,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.1.7,Mengenal pasti pecahan tak wajar dan nombor bercampur melibatkan penyebutnya hingga 10.,3010700,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.2.1,Menyatakan sifar perpuluhan sifar satu hingga sifar perpuluhan sembilan sembilan dalam angka dan perkataan.,3020100,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.2.2,Mewakilkan perpuluhan dengan petak seratus dan sebaliknya.,3020200,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.2.3,Membanding nilai dua perpuluhan melibatkan hingga dua tempat perpuluhan berpandukan petak seratus dan garis nombor.,3020300,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.2.4,"Menambah dua perpuluhan melibatkan hingga dua tempat perpuluhan, hasil tambahnya sehingga sifar perpuluhan sembilan sembilan.",3020400,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.2.5,"Menolak dua perpuluhan melibatkan hingga dua tempat perpuluhan, dalam lingkungan sifar perpuluhan sembilan sembilan.",3020500,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.3.1,Menama dan menyebut peratus.,3030100,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.3.2,Mengenal simbol peratus.,3030200,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.3.3,Mewakilkan peratus dalam petak seratus dan sebaliknya.,3030300,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.3.4,Menulis satu peratus hingga seratus peratus.,3030400,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.4.1,Mewakilkan pecahan perseratus dengan perpuluhan dan sebaliknya.,3040100,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.4.2,Mewakilkan pecahan perseratus dengan peratus dan sebaliknya.,3040200,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.4.3,Mewakilkan peratus dengan perpuluhan dan sebaliknya.,3040300,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.5.1,"Mereka cerita berdasarkan ayat matematik melibatkan pecahan, perpuluhan dan peratus.",3050100,True
+MATEMATIK SK,MT-SK,3,"3.0 Pecahan, Perpuluhan Dan Peratus",3.5.2,"Menyelesaikan masalah pecahan, perpuluhan dan peratus.",3050200,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.1.1,Menyelesaikan ayat matematik tambah melibatkan dua nilai wang dan hasil tambahnya hingga RM10 000.,4010100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.1.2,Menyelesaikan ayat matematik tambah melibatkan tiga nilai wang dan hasil tambahnya hingga RM10 000.,4010200,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.2.1,Menyelesaikan ayat matematik tolak melibatkan dua nilai wang dalam lingkungan RM10 000.,4020100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.2.2,Menyelesaikan ayat matematik tolak melibatkan dua nilai wang dari satu nilai wang dalam lingkungan RM10 000.,4020200,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.3.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak dalam lingkungan RM10 000.,4030100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.4.1,"Menyelesaikan ayat matematik darab melibatkan nilai wang dengan nombor satu digit, 10, 100 dan 1000 dan hasil darabnya hingga RM10 000.",4040100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.5.1,"Menyelesaikan ayat matematik bahagi melibatkan nilai wang dalam lingkungan RM10 000 dengan nombor satu digit, 10, 100 dan 1000.",4050100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.6.1,Mengenal mata wang negara ASEAN.,4060100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.6.2,Menyatakan nilai wang RM1 dengan nilai mata wang semasa negara lain.,4060200,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.7.1,Menjelaskan keperluan dan kehendak sebagai asas kepada simpanan dan perbelanjaan.,4070100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.7.2,Menjelaskan keperluan menyimpan dan melabur.,4070200,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.8.1,"Mereka cerita berdasarkan ayat matematik tambah, tolak, darab dan bahagi melibatkan wang.",4080100,True
+MATEMATIK SK,MT-SK,3,4.0 Wang,4.8.2,Menyelesaikan masalah wang dalam lingkungan RM10 000 melibatkan operasi asas dan operasi bergabung tambah dan tolak dalam situasi harian.,4080200,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.1.1,Membaca dan mendapatkan maklumat daripada jadual waktu sesuatu aktiviti.,5010100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.1.2,"Membaca dan merekod waktu sebelum, semasa dan selepas sesuatu aktiviti.",5010200,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.2.1,"Menyatakan perkaitan minggu dengan hari, tahun dengan bulan, dan minit dengan saat.",5020100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.2.2,"Menukar unit masa melibatkan jam dengan minit, dan minit dengan saat.",5020200,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.3.1,Membaca dan mendapatkan maklumat daripada kalendar Masihi.,5030100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.4.1,"Menyelesaikan ayat matematik tambah hingga tiga nilai masa; jam dengan jam, minit dengan minit, saat dengan saat, jam dan minit dengan jam dan minit, minit dan saat dengan minit dan saat.",5040100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.5.1,"Menyelesaikan ayat matematik tolak hingga tiga nilai masa; jam dengan jam, minit dengan minit, saat dengan saat, jam dan minit dengan jam dan minit, minit dan saat dengan minit dan saat.",5050100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.6.1,"Menyelesaikan ayat matematik operasi bergabung tambah dan tolak nilai masa; jam dengan jam, minit dengan minit, saat dengan saat, jam dan minit dengan jam dan minit, minit dan saat dengan minit dan saat.",5060100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.7.1,"Menyelesaikan ayat matematik darab melibatkan masa; jam, minit, saat, jam dan minit, minit dan saat.",5070100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.8.1,"Menyelesaikan ayat matematik bahagi melibatkan masa; jam, minit, saat, jam dan minit, minit dan saat.",5080100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.9.1,Mereka cerita berdasarkan ayat matematik operasi asas melibatkan masa.,5090100,True
+MATEMATIK SK,MT-SK,3,5.0 Masa Dan Waktu,5.9.2,Menyelesaikan masalah berkaitan masa dan waktu dalam situasi harian.,5090200,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.1.1,Menukar unit ukuran panjang melibatkan meter dan sentimeter.,6010100,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.1.2,Menyelesaikan ayat matematik tambah hingga tiga ukuran panjang melibatkan meter dan sentimeter.,6010200,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.1.3,Menyelesaikan ayat matematik tolak ukuran panjang hingga dua nilai dari satu nilai melibatkan meter dan sentimeter.,6010300,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.1.4,Menyelesaikan ayat matematik darab melibatkan ukuran panjang dengan nombor satu digit berkaitan meter dan sentimeter.,6010400,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.1.5,Menyelesaikan ayat matematik bahagi melibatkan ukuran panjang dengan nombor satu digit berkaitan meter dan sentimeter.,6010500,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.2.1,Menukar unit ukuran jisim melibatkan kilogram dan gram.,6020100,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.2.2,Menyelesaikan ayat matematik tambah hingga tiga ukuran jisim melibatkan kilogram dan gram.,6020200,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.2.3,Menyelesaikan ayat matematik tolak ukuran jisim hingga dua nilai dari satu nilai melibatkan kilogram dan gram.,6020300,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.2.4,Menyelesaikan ayat matematik darab melibatkan ukuran jisim dengan nombor satu digit berkaitan kilogram dan gram.,6020400,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.2.5,Menyelesaikan ayat matematik bahagi melibatkan ukuran jisim dengan nombor satu digit berkaitan kilogram dan gram.,6020500,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.3.1,Menukar unit isi padu cecair melibatkan liter dan mililiter.,6030100,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.3.2,Menyelesaikan ayat matematik tambah hingga tiga isi padu cecair melibatkan liter dan mililiter.,6030200,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.3.3,Menyelesaikan ayat matematik tolak isi padu cecair hingga dua nilai dari satu nilai melibatkan liter dan mililiter.,6030300,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.3.4,Menyelesaikan ayat matematik darab melibatkan isi padu cecair dengan nombor satu digit berkaitan liter dan mililiter.,6030400,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.3.5,Menyelesaikan ayat matematik bahagi melibatkan isi padu cecair dengan nombor satu digit berkaitan liter dan mililiter.,6030500,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.4.1,Mereka cerita berdasarkan ayat matematik melibatkan ukuran dan sukatan.,6040100,True
+MATEMATIK SK,MT-SK,3,6.0 Ukuran Dan Sukatan,6.4.2,Menyelesaikan masalah berkaitan ukuran dan sukatan dalam situasi harian.,6040200,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.1.1,"Mengenal prisma segi empat sama, prisma segi empat tepat dan prisma segi tiga.",7010100,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.1.2,"Mencirikan prisma dan melabelkan prisma segi empat sama, prisma segi empat tepat dan prisma segi tiga berdasarkan permukaan, tapak, bucu dan tepi.",7010200,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.2.1,"Membandingkan prisma dan bukan prisma berdasarkan permukaan, tapak, bucu dan tepi.",7020100,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.3.1,"Mengenal pasti bentuk poligon sekata bagi pentagon, heksagon, heptagon dan oktagon.",7030100,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.3.2,Menghasilkan corak berasaskan bentuk poligon sekata.,7030200,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.4.1,Mengenal pasti dan melukis paksi simetri.,7040100,True
+MATEMATIK SK,MT-SK,3,7.0 Ruang,7.5.1,Menyelesaikan masalah melibatkan prisma dan paksi simetri bentuk dua dimensi.,7050100,True
+MATEMATIK SK,MT-SK,3,8.0 Koordinat,8.1.1,Mengenal pasti kedudukan objek berdasarkan titik rujukan dengan menggunakan perbendaharaan kata yang sesuai.,8010100,True
+MATEMATIK SK,MT-SK,3,8.0 Koordinat,8.1.2,Menamakan objek berdasarkan kedudukan pada paksi mengufuk dan paksi mencancang.,8010200,True
+MATEMATIK SK,MT-SK,3,8.0 Koordinat,8.1.3,Menentukan kedudukan objek pada paksi mengufuk dan paksi mencancang.,8010300,True
+MATEMATIK SK,MT-SK,3,8.0 Koordinat,8.2.1,Menyelesaikan masalah melibatkan koordinat.,8020100,True
+MATEMATIK SK,MT-SK,3,9.0 Pengurusan Data,9.1.1,"Mengumpul, mengelas dan menyusun data berdasarkan situasi harian.",9010100,True
+MATEMATIK SK,MT-SK,3,9.0 Pengurusan Data,9.2.1,Membaca dan mendapatkan maklumat dari carta pai.,9020100,True
+MATEMATIK SK,MT-SK,3,9.0 Pengurusan Data,9.3.1,"Membuat perkaitan antara piktograf, carta palang dan carta pai bagi mewakili suatu maklumat.",9030100,True
+MATEMATIK SK,MT-SK,3,9.0 Pengurusan Data,9.4.1,Menyelesaikan masalah melibatkan pengurusan data dalam situasi harian.,9040100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.1.1,Menyatakan nombor hingga 100 000: Membaca sebarang nombor yang diberi dalam perkataan. Menyatakan nombor hingga 100 000: Menyebut sebarang nombor yang diberi dalam bentuk angka. Menyatakan nombor hingga 100 000: Menulis nombor dalam angka dan perkataan,1010100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.1.2,Menentukan nilai nombor hingga 100 000: Menyatakan nilai tempat dan nilai digit bagi sebarang nombor. Mencerakin sebarang nombor mengikut nilai tempat dan nilai digit. Membandingkan nilai dua nombor. Menyusun nombor mengikut tertib menaik dan tertib menurun. Melengkapkan sebarang rangkaian nombor secara tertib menaik dan tertib menurun. Menentukan nilai nombor hingga 100 000: Mencerakin sebarang nombor mengikut nilai tempat dan nilai digit. Menentukan nilai nombor hingga 100 000: Membandingkan nilai dua nombor. Menentukan nilai nombor hingga 100 000: Menyusun nombor mengikut tertib menaik dan tertib menurun. Menentukan nilai nombor hingga 100 000: Melengkapkan sebarang rangkaian nombor secara tertib menaik dan tertib menurun.,1010200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.2.1,Mencirikan nombor genap dan nombor ganjil.,1020100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.2.2,Mengelaskan nombor genap dan nombor ganjil.,1020200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.3.1,Memberi anggaran kuantiti berdasarkan set rujukan yang diberi dan menentukan kewajaran jawapan.,1030100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.4.1,Membundarkan nombor bulat hingga puluh ribu terdekat.,1040100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.5.1,"Mengenal pasti pola bagi siri nombor yang diberi secara tertib menaik dan tertib menurun satu-satu hingga sepuluh-sepuluh, seratusseratus, seribu-seribu dan sepuluh ribu-sepuluh ribu.",1050100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.5.2,"Melengkapkan pelbagai pola nombor yang diberi secara tertib menaik dan tertib menurun satu-satu hingga sepuluh-sepuluh, seratusseratus, seribu-seribu dan sepuluh ribu-sepuluh ribu.",1050200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.6.1,"Menyelesaikan ayat matematik tambah hingga empat nombor, hasil tambahnya dalam lingkungan 100 000.",1060100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.6.2,Menyelesaikan ayat matematik tolak melibatkan dua nombor dalam lingkungan 100 000.,1060200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.6.3,Menyelesaikan ayat matematik tolak melibatkan dua nombor dari satu nombor dalam lingkungan 100 000.,1060300,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.6.4,"Menyelesaikan ayat matematik darab bagi sebarang nombor hingga lima digit dengan nombor hingga dua digit, 100, 1000, hasil darabnya hingga 100 000.",1060400,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.6.5,"Menyelesaikan ayat matematik bahagi bagi sebarang nombor dalam lingkungan 100 000 dengan nombor hingga dua digit, 100 dan 1000.",1060500,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.7.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak dalam lingkungan 100 000.,1070100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.7.2,Menyelesaikan ayat matematik operasi bergabung darab dan bahagi dalam lingkungan 100 000.,1070200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.8.1,Menentukan nilai anu bagi ayat matematik tambah melibatkan dua nombor hingga dua digit dengan satu anu.,1080100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.8.2,Menentukan nilai anu bagi ayat matematik tolak melibatkan dua nombor hingga dua digit dengan satu anu.,1080200,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.9.1,"Menyelesaikan masalah melibatkan nombor bulat, operasi bergabung tambah dan tolak serta operasi bergabung darab dan bahagi dalam lingkungan 100 000 melibatkan situasi harian.",1090100,True
+MATEMATIK SK,MT-SK,4,1.0 Nombor Bulat Dan Operasi,1.9.2,Menyelesaikan masalah tambah dan tolak dalam situasi harian melibatkan satu anu.,1090200,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.1,Menukarkan pecahan tak wajar kepada nombor bercampur dan sebaliknya.,2010100,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.2,"Menambah hingga tiga nombor melibatkan pecahan wajar, nombor bulat dan nombor bercampur.",2010200,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.3,"Penolakan pecahan: Menolak sebarang dua nombor melibatkan nombor bulat, pecahan wajar dan nombor bercampur. Penolakan pecahan: Menolak sebarang dua nombor daripada satu nombor melibatkan nombor bulat, pecahan wajar dan nombor bercampur.",2010300,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.4,"Operasi bergabung tambah dan tolak melibatkan nombor bulat, pecahan wajar dan nombor bercampur.",2010400,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.5,Menentukan nilai bagi pecahan wajar dan nombor bercampur daripada sesuatu kuantiti.,2010500,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.1,Menambah hingga tiga perpuluhan hingga tiga tempat perpuluhan.,2020100,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.2,Menolak hingga dua perpuluhan daripada satu perpuluhan hingga tiga tempat perpuluhan.,2020200,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.3,"Mendarab perpuluhan dengan nombor satu digit, 10, 100 dan 1000, hasil darabnya hingga tiga tempat perpuluhan.",2020300,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.4,"Membahagi perpuluhan dengan nombor satu digit, 10, 100 dan 1000, hasil bahaginya hingga tiga tempat perpuluhan.",2020400,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.1,Menukarkan pecahan kepada peratus dan sebaliknya.,2030100,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.2,Mengira peratusan daripada suatu kuantiti objek.,2030200,True
+MATEMATIK SK,MT-SK,4,"2.0 Pecahan, Perpuluhan Dan Peratus",2.4.1,"Menyelesaikan masalah pecahan, perpuluhan dan peratus.",2040100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.1.1,Menyelesaikan ayat matematik tambah hingga tiga nilai wang dan hasil tambahnya hingga RM100 000.,3010100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.1.2,Menyelesaikan ayat matematik tolak hingga dua nilai wang dari satu nilai wang dalam lingkungan RM100 000.,3010200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.1.3,"Menyelesaikan ayat matematik darab melibatkan nilai wang dengan nombor hingga dua digit, hasil darabnya hingga RM100 000.",3010300,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.1.4,Menyelesaikan ayat matematik bahagi melibatkan nilai wang dalam lingkungan RM100 000 dengan nombor hingga dua digit.,3010400,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.2.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak dalam lingkungan RM100 000.,3020100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.2.2,Menyelesaikan ayat matematik operasi bergabung darab dan bahagi dalam lingkungan RM100 000.,3020200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.3.1,"Merancang bajet harian, mingguan dan bulanan bagi mencapai matlamat kewangan jangka pendek.",3030100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.3.2,Merekodkan simpanan dan perbelanjaan bagi mencapai matlamat kewangan.,3030200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.3.3,Menjelaskan keperluan menyimpan rekod simpanan dan perbelanjaan.,3030300,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.4.1,Menjelaskan kesan sesuatu keputusan kewangan yang dibuat.,3040100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.4.2,Membuat keputusan kewangan berdasarkan keutamaan keperluan dan kehendak.,3040200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.4.3,Membuat keputusan kewangan dengan menganalisis maklumat kewangan yang diperolehi daripada pelbagai sumber.,3040300,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.5.1,Mengenal mata wang negara utama dunia.,3050100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.5.2,Menyatakan nilai wang RM1 dengan nilai mata wang semasa negara lain.,3050200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.6.1,Mengenal pelbagai instrumen pembayaran.,3060100,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.6.2,Menjelaskan penggunaan pelbagai instrumen pembayaran dalam transaksi barangan dan perkhidmatan.,3060200,True
+MATEMATIK SK,MT-SK,4,3.0 Wang,3.7.1,Menyelesaikan masalah wang dalam lingkungan RM100 000 melibatkan operasi asas dan operasi bergabung dalam situasi harian.,3070100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.1.1,Mengetahui perkaitan antara sistem 12 jam dengan sistem 24 jam.,4010100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.2.1,Menentukan tempoh masa melibatkan unit jam dan minit dalam tempoh 24 jam.,4020100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.3.1,Memberi anggaran masa melibatkan jam dan minit berdasarkan set rujukan yang diberi dalam situasi harian.,4030100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.4.1,"Menyatakan perkaitan antara alaf, abad, dekad dan tahun.",4040100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.4.2,"Menukar unit masa melibatkan: jam dan hari; Menukar unit masa melibatkan: hari dan minggu; Menukar unit masa melibatkan: bulan dan tahun; Menukar unit masa melibatkan: tahun, dekad dan abad.",4040200,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.5.1,"Menyelesaikan ayat matematik tambah dan tolak hingga tiga nilai masa melibatkan: jam dan hari; Menyelesaikan ayat matematik tambah dan tolak hingga tiga nilai masa melibatkan: hari dan minggu; Menyelesaikan ayat matematik tambah dan tolak hingga tiga nilai masa melibatkan: bulan dan tahun; Menyelesaikan ayat matematik tambah dan tolak hingga tiga nilai masa melibatkan: tahun, dekad dan abad.",4050100,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.5.2,"Menyelesaikan ayat matematik darab dan bahagi melibatkan masa: jam dan hari, hari dan minggu, bulan dan tahun, tahun dan dekad, tahun dan abad, dengan nombor hingga dua digit. Menyelesaikan ayat matematik darab dan bahagi melibatkan masa: hari dan minggu; Menyelesaikan ayat matematik darab dan bahagi melibatkan masa: bulan dan tahun; Menyelesaikan ayat matematik darab dan bahagi melibatkan masa: tahun dan dekad; Menyelesaikan ayat matematik darab dan bahagi melibatkan masa: tahun dan abad, dengan nombor hingga dua digit.",4050200,True
+MATEMATIK SK,MT-SK,4,4.0 Masa Dan Waktu,4.6.1,Menyelesaikan masalah berkaitan masa dan waktu dalam situasi harian.,4060100,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.1,Mengenal unit panjang milimeter dan kilometer.,5010100,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.2,Menyatakan perkaitan melibatkan unit ukuran panjang milimeter dan sentimeter serta meter dan kilometer.,5010200,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.3,Menukar unit ukuran panjang melibatkan milimeter dan sentimeter serta meter dan kilometer.,5010300,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.4,Mengukur objek dalam unit milimeter.,5010400,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.5,Menganggar jarak dalam unit kilometer.,5010500,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.6,Menyelesaikan ayat matematik tambah hingga tiga ukuran panjang melibatkan milimeter dan sentimeter serta meter dan kilometer.,5010600,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.7,Menyelesaikan ayat matematik tolak ukuran panjang hingga dua nilai dari satu nilai melibatkan milimeter dan sentimeter serta meter dan kilometer.,5010700,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.8,"Menyelesaikan ayat matematik darab melibatkan ukuran panjang dengan nombor satu digit berkaitan milimeter, sentimeter, meter dan kilometer.",5010800,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.1.9,"Menyelesaikan ayat matematik bahagi melibatkan ukuran panjang dengan nombor satu digit berkaitan milimeter, sentimeter, meter dan kilometer.",5010900,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.2.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak jisim melibatkan unit gram dan kilogram.,5020100,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.2.2,Menyelesaikan ayat matematik operasi bergabung darab dan bahagi jisim melibatkan unit gram dan kilogram.,5020200,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.3.1,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak isi padu cecair melibatkan unit mililiter dan liter.,5030100,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.3.2,Menyelesaikan ayat matematik operasi bergabung bergabung darab dan bahagi isi padu cecair melibatkan unit mililiter dan liter.,5030200,True
+MATEMATIK SK,MT-SK,4,5.0 Ukuran Dan Sukatan,5.4.1,Menyelesaikan masalah berkaitan ukuran dan sukatan dalam situasi harian.,5040100,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.1.1,"Mengenal dan menamakan sudut tegak, sudut tirus dan sudut cakah pada bentuk segi empat tepat, segi empat sama dan segi tiga.",6010100,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.2.1,Mengenal dan menamakan garis selari dan garis serenjang.,6020100,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.2.2,Melukis garis selari dan garis serenjang.,6020200,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.3.1,Menentukan perimeter bagi bentuk poligon sehingga lapan sisi.,6030100,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.3.2,"Menentukan luas segi empat sama, segi empat tepat, segi tiga bersudut tegak, segi tiga sama sisi dan segi tiga sama kaki menggunakan petak segi empat sama 1 unit persegi dan rumus.",6030200,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.4.1,Menentukan isi padu kubus dan kuboid menggunakan kubus 1 unit padu dan rumus.,6040100,True
+MATEMATIK SK,MT-SK,4,6.0 Ruang,6.5.1,Menyelesaikan masalah melibatkan ruang.,6050100,True
+MATEMATIK SK,MT-SK,4,"7.0 Koordinat, Nisbah Dan Kadaran",7.1.1,"Mengenal paksi-x, paksi-y dan asalan (O).",7010100,True
+MATEMATIK SK,MT-SK,4,"7.0 Koordinat, Nisbah Dan Kadaran",7.1.2,Menentukan koordinat bagi sesuatu titik pada sukuan pertama dan juga sebaliknya.,7010200,True
+MATEMATIK SK,MT-SK,4,"7.0 Koordinat, Nisbah Dan Kadaran",7.3.1,Menentukan suatu nilai yang tidak diketahui menggunakan kaedah unitari.,7030100,True
+MATEMATIK SK,MT-SK,4,"7.0 Koordinat, Nisbah Dan Kadaran",7.4.1,"Menyelesaikan masalah melibatkan koordinat, nisbah dan kadaran dalam situasi harian.",7040100,True
+MATEMATIK SK,MT-SK,4,8.0 Pengurusan Data,8.1.1,Membina piktograf dan carta palang bagi data tak terkumpul.,8010100,True
+MATEMATIK SK,MT-SK,4,8.0 Pengurusan Data,8.1.2,Mentafsir piktograf dan carta palang yang dibina.,8010200,True
+MATEMATIK SK,MT-SK,4,8.0 Pengurusan Data,8.2.1,Menyelesaikan masalah melibatkan pengurusan data dalam situasi harian.,8020100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.1.1,Menyatakan nombor hingga 1 000 000:(i) Membaca sebarang nombor dalam perkataan(ii) Menyebut sebarang nombor dalam bentuk angka(iii) Menulis nombor dalam angka dan perkataan,1010100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.1.2,Menentukan nilai nombor hingga 1 000 000:(i) Menyatakan nilai tempat dan nilai digit bagi sebarang nombor.(ii) Mencerakinkan sebarang nombor mengikut nilai tempat dan nilai digit.(iii) Membandingkan nilai dua nombor.(iv) Menyusun nombor mengikut tertib menaik dan tertib menurun.(v) Melengkapkan sebarang rangkaian nombor secara tertib menaik dan menurun,1010200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.2.1,Mengenal pasti nombor perdana dalam lingkungan 100.,1020100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.3.1,Menganggar suatu kuantiti berdasarkan set rujukan yang diberi dan menentukan kewajaran jawapan,1030100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.4.1,Membundarkan nombor bulat hingga ratus ribu terdekat,1040100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.4.2,Mengenal pasti nombor yang mungkin diwakili oleh suatu nombor yang telah dibundarkan hingga ratus ribu terdekat,1040200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.5.1,"Mengenal pasti pola bagi siri nombor yang diberi secara tertib menaik dan menurun satu-satu hingga sepuluh-sepuluh, seratusseratus, seribu-seribu, sepuluh ribu-sepuluh ribu dan seratus ribu-seratus ribu",1050100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.5.2,Melengkapkan pelbagai pola nombor yang diberi secara tertib menaik dan menurun,1050200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.6.1,Menyelesaikan ayat matematik tambah hingga lima nombor melibatkan nombor hingga enam digit dan hasil tambahnya dalam lingkungan 1 000 000,1060100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.6.2,Menyelesaikan ayat matematik tolak melibatkan hingga tiga nombor dalam lingkungan 1 000 000,1060200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.6.3,"Menyelesaikan ayat matematik darab bagi sebarang nombor hingga enam digit dengan nombor hingga dua digit, 100 dan 1000, hasil darabnya hingga 1 000 000",1060300,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.6.4,"Menyelesaikan ayat matematik bahagi melibatkan sebarang nombor dalam lingkungan 1 000 000 dengan nombor hingga dua digit, 100 dan 1000",1060400,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.7.1,"Mengira operasi bergabung, dalam lingkungan 1 000 000, tanpa dan dengan tanda kurung:(i) Tambah dan darab(ii) Tolak dan darab(iii) Tambah dan bahagi(iv) Tolak dan bahagi",1070100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.8.1,Menentukan nilai satu anu bagi ayat matematik darab melibatkan satu kali pendaraban dengan hasil darabnya hingga 1 000 000,1080100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.8.2,"Menentukan nilai satu anu bagi ayat matematik bahagi melibatkan sebarang nombor dengan nombor hingga dua digit, 100 dan 1000 dalam lingkungan 1 000 000",1080200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.9.1,Menyelesaikan masalah melibatkan nombor bulat hingga 1 000 000 dalam situasi harian,1090100,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.9.2,"Menyelesaikan masalah harian bagi operasi asas dan operasi bergabung, hasilnya dalam lingkungan 1 000 000",1090200,True
+MATEMATIK SK,MT-SK,5,1.0 Nombor Bulat Dan Operasi Asas,1.9.3,Menyelesaikan masalah operasi darab dan bahagi dalam situasi harian melibatkan satu anu,1090300,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.1,"Mendarab pecahan bagi dua nombor melibatkan nombor bulat, pecahan wajar dan nombor bercampur",2010100,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.1,Pembundaran perpuluhan hingga tiga tempat perpuluhan,2020100,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.2,Menyelesaikan ayat matematik operasi bergabung tambah dan tolak perpuluhan hingga tiga tempat perpuluhan,2020200,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.3,"Mendarab perpuluhan hingga tiga tempat perpuluhan dengan nombor hingga dua digit, 100 dan 1000",2020300,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.4,"Membahagi perpuluhan dengan nombor hingga dua digit,100, 1000, hasil bahaginya hingga tiga tempat perpuluhan",2020400,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.1,Menukar nombor bercampur kepada peratus dan sebaliknya,2030100,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.2,Mengira suatu kuantiti daripada peratus hingga melebihi 100% dan sebaliknya,2030200,True
+MATEMATIK SK,MT-SK,5,"2.0 Pecahan, Perpuluhan Dan Peratus",2.4.1,"Menyelesaikan masalah harian melibatkan pecahan, perpuluhan dan peratus",2040100,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.1.1,Menyelesaikan ayat matematik tambah hingga tiga nilai wang dan hasil tambahnya hingga RM1 000 000,3010100,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.1.2,Menyelesaikan ayat matematik tolak melibatkan dua nilai wang daripada satu nilai wang dalam lingkungan RM1 000 000,3010200,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.1.3,"Menyelesaikan ayat matematik darab melibatkan nilai wang dengan nombor hingga dua digit, 100, 1000 dan hasil darabnya hingga RM1 000 000",3010300,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.1.4,"Menyelesaikan ayat matematik bahagi melibatkan nilai wang dalam lingkungan RM1 000 000 dengan nombor hingga dua digit, 100 dan 1000",3010400,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.2.1,"Menyelesaikan ayat matematik bagi operasi bergabung melibatkan wang, dalam lingkungan RM1 000 000, tanpa dan dengan tanda kurung:(i) Tambah dan darab(ii) Tolak dan darab(iii) Tambah dan bahagi(iv) Tolak dan bahagi",3020100,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.3.1,Menerangkan maksud simpanan dan pelaburan.,3030100,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.3.2,Menerangkan maksud faedah mudah dan faedah kompaun dalam simpanan.,3030200,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.4.1,Menerangkan maksud kredit dan hutang,3040100,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.4.2,Menerangkan perbezaan harga barangan sekiranya pembelian secara kredit dan tunai,3040200,True
+MATEMATIK SK,MT-SK,5,3.0 Wang,3.5.1,Menyelesaikan masalah melibatkan wang dalam lingkungan RM1 000 000 dalam situasi harian,3050100,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.1.1,"Menentukan tempoh masa melibatkan:(i) Hari dan jam(ii) Bulan dan hari(iii) Tahun, bulan dan hari",4010100,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.2.1,Menukar unit masa melibatkan pecahan:(i) Jam ke minit(ii) Hari ke jam(iii) Tahun ke bulan(iv) Dekad ke tahun(v) Abad ke dekad(vi) Abad ke tahun,4020100,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.2.2,Menukar unit masa melibatkan perpuluhan:(i) Jam ke minit(ii) Hari ke jam(iii) Tahun ke bulan(iv) Dekad ke tahun(v) Abad ke dekad(vi) Abad ke tahun,4020200,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.3.1,"Menyelesaikan ayat matematik tambah dan tolak masa melibatkan pecahan; jam dan minit,(ii) hari dan jam,(iii) tahun dan bulan,(iv) dekad dan tahun,(v) abad dan dekad,(vi) abad dan tahun,tanpa dan dengan melibatkan penukaran unit",4030100,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.3.2,"Menyelesaikan ayat matematik tambah dan tolak masa melibatkan perpuluhan; jam dan minit,(ii) hari dan jam,(iii) tahun dan bulan,(iv) dekad dan tahun,(v) abad dan dekad,(vi) abad dan tahun,tanpa dan dengan melibatkan penukaran unit",4030200,True
+MATEMATIK SK,MT-SK,5,4.0 Masa Dan Waktu,4.4.1,Menyelesaikan masalah berkaitan masa dan waktu dalam situasi harian,4040100,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.1,"Menukar unit ukuran panjang melibatkan; milimeter dan sentimeter,(ii) sentimeter dan meter,(iii) meter dan kilometer,dalam perpuluhan hingga tiga tempat perpuluhan.",5010100,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.2,"Menukar unit ukuran panjang melibatkan; milimeter dan sentimeter,(ii) sentimeter dan meter,(iii) meter dan kilometer,dalam pecahan",5010200,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.3,Menambah hingga tiga ukuran panjang melibatkan perpuluhan dan pecahan tanpa dan dengan penukaran unit,5010300,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.4,Menolak melibatkan hingga tiga ukuran panjang melibatkan perpuluhan dan pecahan tanpa dan dengan penukaran unit,5010400,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.5,"Mendarab ukuran panjang melibatkan perpuluhan dan pecahan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit",5010500,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.1.6,"Membahagi ukuran panjang melibatkan perpuluhan dan pecahan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit",5010600,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.2.1,Menukar unit jisim melibatkan gram dan kilogram dalam bentuk pecahan dan perpuluhan,5020100,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.2.2,Menambah hingga tiga jisim dalam pecahan dan perpuluhan tanpa dan dengan penukaran unit,5020200,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.2.3,Menolak melibatkan hingga tiga jisim dalam pecahan dan perpuluhan tanpa dan dengan penukaran unit,5020300,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.2.4,"Mendarab jisim dalam pecahan dan perpuluhan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit hingga tiga tempat perpuluhan",5020400,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.2.5,"Membahagi jisim dalam pecahan dan perpuluhan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit",5020500,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.3.1,Menukar unit isi padu melibatkan mililiter dan liter dalam bentuk pecahan dan perpuluhan,5030100,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.3.2,Menambah hingga tiga isi padu cecair dalam pecahan dan perpuluhan tanpa dan dengan penukaran unit,5030200,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.3.3,Menolak melibatkan hingga tiga isi padu cecair dalam pecahan dan perpuluhan tanpa dan dengan penukaran unit,5030300,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.3.4,"Mendarab isi padu cecair dalam pecahan dan perpuluhan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit",5030400,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.3.5,"Membahagi isi padu cecair dalam pecahan dan perpuluhan dengan nombor hingga dua digit, 100 dan 1000 tanpa dan dengan penukaran unit",5030500,True
+MATEMATIK SK,MT-SK,5,5.0 Ukuran Dan Sukatan,5.4.1,Menyelesaikan masalah berkaitan ukuran dan sukatan dalam situasi harian,5040100,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.1.1,"Menyatakan ciri-ciri poligon sekata dengan merujuk kepada sisi, penjuru, paksi simetri, sudut dan pepenjuru",6010100,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.2.1,Mengukur sudut pada poligon sekata hingga lapan sisi,6020100,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.3.1,"Menentukan perimeter gabungan dua bentuk poligon sekata hingga lapan sisi termasuk segi tiga bersudut tegak, segi tiga sama kaki dan segi empat tepat",6030100,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.3.2,"Menentukan luas gabungan dua bentuk melibatkan segi empat tepat, segi empat sama, segi tiga sama sisi, segi tiga sama kaki dan segi tiga bersudut tegak",6030200,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.4.1,Menentukan isi padu gabungan dua bentuk melibatkan kubus dan kuboid,6040100,True
+MATEMATIK SK,MT-SK,5,6.0 Ruang,6.5.1,Menyelesaikan masalah melibatkan ruang,6050100,True
+MATEMATIK SK,MT-SK,5,"7.0 Koordinat, Nisbah Dan Kadaran",7.1.1,Menentukan jarak mengufuk dan jarak mencancang antara dua koordinat,7010100,True
+MATEMATIK SK,MT-SK,5,"7.0 Koordinat, Nisbah Dan Kadaran",7.2.1,Mewakilkan nisbah dua kuantiti dalam bentuk a: b yang melibatkan nisbah:(i) Bahagian kepada bahagian(ii) Bahagian kepada keseluruhan(iii) Keseluruhan kepada bahagian,7020100,True
+MATEMATIK SK,MT-SK,5,"7.0 Koordinat, Nisbah Dan Kadaran",7.3.1,Menentukan suatu nilai yang tidak diketahui menggunakan kadaran,7030100,True
+MATEMATIK SK,MT-SK,5,"7.0 Koordinat, Nisbah Dan Kadaran",7.4.1,"Menyelesaikan masalah melibatkan koordinat, nisbah dan kadaran dalam situasi harian",7040100,True
+MATEMATIK SK,MT-SK,5,8.0 Pengurusan Data,8.1.1,Mentafsir carta pai,8010100,True
+MATEMATIK SK,MT-SK,5,8.0 Pengurusan Data,8.2.1,"Mengenal dan menentukan mod, median, min, dan julat daripada data tak terkumpul",8020100,True
+MATEMATIK SK,MT-SK,5,8.0 Pengurusan Data,8.3.1,Menyelesaikan masalah melibatkan pengurusan data dalam situasi harian,8030100,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.1.1,"Membaca, menyebut dan menulis sebarang nombor hingga 10 000 000.",1010100,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.1.2,Mewakilkan nombor hingga 10 000 000 dan menentukan pola nombor.,1010200,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.1.3,"Membaca, menyebut dan menulis sebarang nombor hingga 10 000 000 dalam pecahan juta yang penyebutnya 2, 4, 5, 8 dan 10 melibatkan situasi harian.",1010300,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.1.4,"Membaca, menyebut dan menulis sebarang nombor hingga 10 000 000 dalam perpuluhan juta hingga tiga tempat perpuluhan melibatkan situasi harian.",1010400,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.1.5,Menukar nombor dalam perpuluhan juta dan pecahan juta kepada nombor bulat dan sebaliknya.,1010500,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.2.1,"Menyelesaikan ayat matematik melibatkan nombor bulat, pecahan juta dan perpuluhan juta bagi operasi asas dan operasi bergabung tanpa dan dengan tanda kurung termasuk penggunaan anu.",1020100,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.3.1,Mengelaskan nombor dalam lingkungan 100 kepada nombor perdana dan nombor gubahan.,1030100,True
+MATEMATIK SK,MT-SK,6,1.0 Nombor Bulat Dan Operasi Asas,1.4.1,"Menyelesaikan masalah harian yang melibatkan nombor bulat, nombor perdana, nombor gubahan, pecahan juta dan perpuluhan juta bagi operasi asas dan operasi bergabung, tanpa dan dengan tanda kurung termasuk penggunaan anu.",1040100,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.1.1,"Membahagi pecahan bagi dua nombor melibatkan pecahan wajar, nombor bulat dan nombor bercampur.",2010100,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.1,"Mendarab perpuluhan dengan perpuluhan, hasilnya hingga tiga tempat perpuluhan.",2020100,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.2.2,"Membahagi perpuluhan dengan perpuluhan, hasilnya hingga tiga tempat perpuluhan.",2020200,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.1,Menukar perpuluhan kepada peratus melebihi 100% dan sebaliknya.,2030100,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.2,Menyelesaikan ayat matematik operasi tambah dan tolak melibatkan peratus.,2030200,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.3.3,Menentukan nilai bagi peratus hingga melebihi 100% daripada kuantiti dalam perpuluhan dan sebaliknya.,2030300,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.4.1,"Menyelesaikan ayat matematik operasi bergabung bagi sebarang dua operasi asas melibatkan nombor bulat, perpuluhan dan pecahan tanpa dan dengan tanda kurung.",2040100,True
+MATEMATIK SK,MT-SK,6,"2.0 Pecahan, Perpuluhan Dan Peratus",2.5.1,"Menyelesaikan masalah harian melibatkan nombor bulat, pecahan, perpuluhan dan peratus.",2050100,True
+MATEMATIK SK,MT-SK,6,3.0 Wang,3.1.1,"Mengenal harga kos, harga jual, untung, rugi, diskaun, rebat, baucer, bil, resit, invois, aset, liabiliti, faedah, dividen dan cukai perkhidmatan.",3010100,True
+MATEMATIK SK,MT-SK,6,3.0 Wang,3.1.2,"Menentukan harga kos, harga jual, untung, rugi, diskaun, rebat, faedah, dividen dan cukai perkhidmatan.",3010200,True
+MATEMATIK SK,MT-SK,6,3.0 Wang,3.2.1,Mengenal insurans dan takaful.,3020100,True
+MATEMATIK SK,MT-SK,6,3.0 Wang,3.2.2,Menerangkan tujuan dan kepentingan perlindungan insurans dan takaful.,3020200,True
+MATEMATIK SK,MT-SK,6,3.0 Wang,3.3.1,"Menyelesaikan masalah harian melibatkan harga kos, harga jual, untung, rugi, diskaun, rebat, baucer, bil, resit, invois, aset, liabiliti, faedah, dividen dan cukai perkhidmatan, pengurusan kewangan dan risiko dalam situasi harian.",3030100,True
+MATEMATIK SK,MT-SK,6,4.0 Masa Dan Waktu,4.1.1,Mengenal zon masa.,4010100,True
+MATEMATIK SK,MT-SK,6,4.0 Masa Dan Waktu,4.1.2,Menentukan perbezaan masa antara dua bandar terletak dalam zon masa yang berbeza.,4010200,True
+MATEMATIK SK,MT-SK,6,4.0 Masa Dan Waktu,4.2.1,Menyelesaikan masalah harian melibatkan zon masa.,4020100,True
+MATEMATIK SK,MT-SK,6,5.0 Ukuran Dan Sukatan,5.1.1,"Menyelesaikan masalah harian melibatkan perkaitan antara panjang, jisim dan isi padu cecair; Panjang dan jisim; Panjang dan isi padu cecair; Jisim dan isi padu cecair",5010100,True
+MATEMATIK SK,MT-SK,6,6.0 Ruang,6.1.1,"Melukis bentuk poligon sekata hingga lapan sisi pada grid segi empat sama, grid segi tiga sama sisi atau perisian komputer dan mengukur sudut pedalaman yang terbentuk.",6010100,True
+MATEMATIK SK,MT-SK,6,6.0 Ruang,6.1.2,Membentuk sudut berdasarkan nilai sudut yang diberi.,6010200,True
+MATEMATIK SK,MT-SK,6,6.0 Ruang,6.2.1,"Mengenal pusat bulatan, diameter dan jejari.",6020100,True
+MATEMATIK SK,MT-SK,6,6.0 Ruang,6.2.2,"Melukis bulatan berdasarkan ukuran jejari yang diberi dan melabelkan pusat bulatan, jejari dan diameter.",6020200,True
+MATEMATIK SK,MT-SK,6,6.0 Ruang,6.3.1,Menyelesaikan masalah harian yang melibatkan ruang.,6030100,True
+MATEMATIK SK,MT-SK,6,"7.0 Koordinat, Nisbah Dan Kadaran",7.1.1,Menentukan jarak mengufuk dan mencancang antara dua lokasi berdasarkan skala yang diberi.,7010100,True
+MATEMATIK SK,MT-SK,6,"7.0 Koordinat, Nisbah Dan Kadaran",7.2.1,Mewakilkan nisbah dua kuantiti dalam bentuk termudah,7020100,True
+MATEMATIK SK,MT-SK,6,"7.0 Koordinat, Nisbah Dan Kadaran",7.3.1,Menentukan kuantiti yang berkadaran dengan berdasarkan nisbah yang diberi.,7030100,True
+MATEMATIK SK,MT-SK,6,"7.0 Koordinat, Nisbah Dan Kadaran",7.4.1,"Menyelesaikan masalah harian melibatkan koordinat, nisbah dan kadaran.",7040100,True
+MATEMATIK SK,MT-SK,6,8.0 Pengurusan Data Dan Kebolehjadian,8.1.1,"Melengkapkan carta pai berdasarkan nilai sudut 450, 900 dan 1800 dengan kuantiti diberikan serta mentafsir data.",8010100,True
+MATEMATIK SK,MT-SK,6,8.0 Pengurusan Data Dan Kebolehjadian,8.2.1,"Menyatakan sama ada suatu peristiwa mungkin berlaku atau tidak mungkin berlaku, dan memberi sebab yang munasabah.",8020100,True
+MATEMATIK SK,MT-SK,6,8.0 Pengurusan Data Dan Kebolehjadian,8.2.2,"Menyatakan kebolehjadian suatu peristiwa sebagai mustahil, kecil kemungkinan, sama kemungkinan, besar kemungkinan atau pasti, serta memberi sebab yang munasabah.",8020200,True
+MATEMATIK SK,MT-SK,6,8.0 Pengurusan Data Dan Kebolehjadian,8.3.1,Menyelesaikan masalah melibatkan pengurusan data dan kebolehjadian dalam situasi harian.,8030100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.1.1,,1010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.1.2,,1010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.1.3,,1010300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.1.4,"-Memadankan objek berdasarkan; warna, bentuk, saiz",1010400,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.2.1,-Membandingkan dua kumpulan objek untuk menyatakan:(i) banyak atau sedikit(ii)sama banyak atau tidak sama banyak(iii) lebihatau kurang,1020100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.3.1,-Menyusun objek mengikut kriteria berikut:(i)kecil ke besar(ii)pendek ke panjang(iii)rendah ke tinggi(iv)nipis ke tebal dan sebaliknya,1030100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.4.1,,1040100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.4.2,,1040200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 1.0  Pengalaman Pranombor,1.5.1,-Menjelaskan ketekalan:(i)Panjang(ii)Jisim(iii) Isipadu,1050100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.1,-Menyebut nombor 1 hingga 10 mengikut urutan,2010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.2,,2010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.3,,2010300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.4,,2010400,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.5,,2010500,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.6,,2010600,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.7,,2010700,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.8,,2010800,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.9,,2010900,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.1.10,,2011000,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.2.1,,2020100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.2.2,& 5+MA,2020200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.2.3,,2020300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.3.1,-Membilang terus dari 11 hingga ke 20,2030100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.3.2,-Membandingkan; 11 dengan 12 (12 adalah 1 lebih daripada; 12 dengan 13 (13 adalah 1 lebih daripada; dan seterusnya,2030200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.3.3,-Menulis nombor 11 hingga 20,2030300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 2.0  Konsep Nombor,2.4.1,,2040100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.1,,3010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.2,,3010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.3,,3010300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.4,-Menulis dan menyatakan ayat matematik dengan menggunakan simbol tambah (+) dan sama dengan (=),3010400,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.5,,3010500,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.1.6,,3010600,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.2.1,,3020100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.2.2,,3020200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.2.3,-Menyatakan baki berdasarkan situasi yang diberi dengan menggunakan objek; -Menulis dan menyatakan ayat matematik dengan menggunakan simbol tolak (-) dan sama dengan (=),3020300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.2.4,,3020400,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 3.0  Operasi Nombor,3.2.5,,3020500,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 4.0  Nilai Wang,4.1.1,,4010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 4.0  Nilai Wang,4.1.2,,4010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 4.0  Nilai Wang,4.1.3,,4010300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 5.0  Konsep Masa Dan Waktu,5.1.1,,5010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 5.0  Konsep Masa Dan Waktu,5.1.2,,5010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 5.0  Konsep Masa Dan Waktu,5.1.3,,5010300,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.1.1,,6010100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.1.2,,6010200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.2.1,,6020100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.2.2,,6020200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.3.1,,6030100,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.3.2,,6030200,True
+MATEMATIK SK,MT-SK,PRA SEKOLAH,Ma 6.0  Bentuk Dan Ruang,6.3.3,,6030300,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.2.1,说出 100 以内的数目; 数出成组物体的数量。; 说出成组物体所表示的数量；; 比较两组物体的数量。,1020100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.2.2,确定 100 以内的数值; 根据所给予的数目，展示数量；; 把成组的物体与相应的数目配对； (iii)比较两个数目的值； (iv)以顺序和逆序排列成组的物体。,1020200,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.3.1,以数字和文字写出数目。,1030100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.4,1讲述组成一位数的组合。,1040000,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.5.1,数出数目。,1050100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.5.2,完成任何数列。,1050200,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.6.1,讲述任何数目的数位和数值。,1060100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.7.1,合理地估算物体的数量。,1070100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.8.1,找出整数的十位近似值。,1080100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.9.1,确认数列的规律。,1090100,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.9.2,完成各种简易有规律的数列。,1090200,True
+Matematik SJKC,MT-SJKC,1,数目与运算  1.0  100 以内的整数,1.10.1,解答涉及日常生活的应用题。,1100100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.1.1,使用各种与加法和减法有关联的词汇。,2010100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.1.2,介绍“加” 、“减”和“等于”的符 号。,2010200,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.1.3,根据所给予的情境，使用“加”、 “减”和“等于”的符号写出算式。,2010300,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.2.1,进行基本加法。,2020100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.2.2,进行和在 100 以内两个数目的加法。,2020200,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.3.1,进行基本减法。,2030100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.3.2,进行 100 以内两个数目的减法。,2030200,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.4.1,编写涉及100以内的加法和减法的故 事。,2040100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.4.2,解答涉及日常生活与加法和减法有关的 应用题。,2040200,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.5.1,写出两个两个、五个五个、十个十个和 四个四个地加的算式。,2050100,True
+Matematik SJKC,MT-SJKC,1,数与运算  2. 0 基本运算,2.6.1,写出两个两个，五个五个，十个十个和 四个四个地减的算式。,2060100,True
+Matematik SJKC,MT-SJKC,1,数与运算  3.0 分数,3.1.1,确认 1/2 、 1/4 、 2/4 和3 /4。,3010100,True
+Matematik SJKC,MT-SJKC,1,数与运算  3.0 分数,3.2.1,解答涉及日常生活与分数有关的应用 题。,3020100,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.1.1,确认马来西亚的硬币和纸币。,4010100,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.1.2,表示币值，涉及; 以仙(sen)为单位表示 RM1以内的币 值；; 以令吉(RM) 为单位表示 RM10以内 的币值。,4010200,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.1.3,进行钱币的换算，涉及; RM1 以内的硬币；; RM10以内的纸币。,4010300,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.2.1,确认经济的来源和储蓄。,4020100,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.2.2,根据经济的来源，记录储蓄和消费。,4020200,True
+Matematik SJKC,MT-SJKC,1,数与运算  4. 0 钱币,4.3.1,解答涉及日常生活与钱币有关的加法和 减法应用题。,4030100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.1.1,讲述一天内的时刻。,5010100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.1.2,依序讲述一天内所发生的事件。,5010200,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.1.3,说出一个星期里各天的名称。,5010300,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.1.4,说出一年里各月份的名称。,5010400,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.2.1,确认钟面上的时针和分针。,5020100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.2.2,确认并讲述钟面上分针所指的 “半”、“一刻 ”和 “三刻” 。,5020200,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.2.3,使用模拟钟讲出及写出 ：“时”、 “一刻”、“半小时” 和“ 三刻”。,5020300,True
+Matematik SJKC,MT-SJKC,1,测量与几何  5.0 时间与时刻,5.3.1,解答涉及日常生活与时间有关的应用 题。,5030100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  6.0 度量衡,6.1.1,使用各种有关度量衡的词汇。,6010100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  6.0 度量衡,6.1.2,使用非标准单位来测量物体的长度、质 量和液体的体积。,6010200,True
+Matematik SJKC,MT-SJKC,1,测量与几何  6.0 度量衡,6.1.3,使用非标准单位来比较两个或两个以上物 体的长度、质量和液体的体积。,6010300,True
+Matematik SJKC,MT-SJKC,1,测量与几何  6.0 度量衡,6.2.1,解答涉及日常生活与度量衡有关的应用 题。,6020100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  6.0 度量衡,7.1,1说出长方体、正方体、圆锥体、正方棱锥 体、圆柱体和球体的名称。,7010000,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.1.2,解说立体图形的面、边 和顶点。,7010200,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.1.3,根据规律排列物体。,7010300,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.1.4,综合各种立体制作新模型。,7010400,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.2.1,说出正方形、长方形、三角形和圆的名 称,7020100,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.2.2,解说平面图形的直线、边、角和曲线。,7020200,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.2.3,根据规律排列平面图形。,7020300,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.2.4,以平面图形创作图案。,7020400,True
+Matematik SJKC,MT-SJKC,1,测量与几何  7.0 空间,7.3.1,解答涉及日常生活与空间有关的应用题。,7030100,True
+Matematik SJKC,MT-SJKC,1,统计与概率   8.0 数据处理,8.1.1,根据日常生活的情境收集数据。,8010100,True
+Matematik SJKC,MT-SJKC,1,统计与概率   8.0 数据处理,8.2.1,读出和获取象形统计图中的资料,8020100,True
+Matematik SJKC,MT-SJKC,1,统计与概率   8.0 数据处理,8.3.1,解答涉及日常生活与数据处理有关的应 用题。,8030100,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,0.1,至,10000,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,0.9,的小数。,90000,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.1.1,说出1000以内的数目: (i) 读出任何以文字写成的数目; 说出任何以数字写成的数目; 把数字与文字配对。,1010100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.1.2,"确定1000 以内的数值: (i) 根据所给予的数目,展示数量; 把成组的物体与数目配对; 比较两个数目的值; 以顺序和逆序排列成组的物体。",1010200,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.2.1,以数字和文字写出数目。,1020100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.3.2,完成任何数列。,1030200,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.4.1,讲述任何数目的数位和数值。,1040100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.4.2,根据数位和数值分析任何数目。,1040200,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.5.1,合理地估算物体的数量。,1050100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.6.1,找出至百位的近似值。,1060100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.7.1,确认数列的规律。,1070100,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.7.2,完成各种简易的有规律数列。,1070200,True
+Matematik SJKC,MT-SJKC,2,1000以内的整数   1.0 1000以内的整数,1.8.1,解答涉及日常生活与 1000 以内的整数有关的应 用题。,1080100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.1.1,进行和在 1000 以内的两个数目加法。,2010100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.1.2,进行和在1000以内的三个数目连加法。,2010200,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.2.1,进行 1000 以内两个数目的减法。,2020100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.2.2,进行 1000 以内三个数目的连减法。,2020200,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.3.1,进行基本乘法。,2030100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.3.2,进行一位数与 10 的乘法。,2030200,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.4.1,进行基本除法。,2040100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.4.2,进行任何二位数与10的除法。,2040200,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.5.1,编写在1000以内涉及四则运算的故事。,2050100,True
+Matematik SJKC,MT-SJKC,2,基本运算 2.0  基本运算,2.5.2,解答涉及日常生活与四则运算有关的应用题。,2050200,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.1.1,确认和说出分子是 1 和分母至 10 的真分数。,3010100,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.1.2,说出分子至 9 和分母至 10 的真分数。,3010200,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.1.3,以图表表示所给予的真分数。,3010300,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.1.4,写出所给予的真分数。,3010400,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.1.5,比较两个真分数的值。,3010500,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.2.1,将分母是 10 的真分数化为小数。,3020100,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.2.2,说出零点一至零点九的小数。,3020200,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.2.3,展示,3020300,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.3.1,比较分数与小数的值。,3030100,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.3.4,以图表表示所给予的小数。,3030400,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.3.5,写出所给予的小数。,3030500,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.3.6,比较两个小数的值。,3030600,True
+Matematik SJKC,MT-SJKC,2,数与运算 3.0 分数与小数,3.4.1,解答涉及日常生活有关分数与小数的应用题。,3040100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.1.1,确认RM100以内的马币。,4010100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.1.2,确定RM100以内的币值。,4010200,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.2.1,进行和在RM100以内涉及两个币值的加法。,4020100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.2.2,进行和在RM100以内涉及三个币值的加法。,4020200,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.3.1,进行RM100以内涉及两个币值的减法。,4030100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.3.2,进行RM100以内涉及三个币值的连减法。,4030200,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.4.1,进行积在RM100以内的乘法。,4040100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.5.1,进行RM100以内的除法。,4050100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.6.1,以有效的理财作为储蓄与消费的基础。,4060100,True
+Matematik SJKC,MT-SJKC,2,数与运算 4.0  钱币,4.7.1,解答涉及日常生活与钱币有关的应用题。,4070100,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.1.1,确认钟面上分钟的刻度。,5010100,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.1.2,讲述和展示涉及时和分的时刻。,5010200,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.1.3,把以文字书写涉及时和分的时刻改写成数字 或反之。,5010300,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.1.4,以时和分记录时刻。,5010400,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.2,1讲述天与时和时与分之间的关系。,5020000,True
+Matematik SJKC,MT-SJKC,2,测量与几何  5.0 时间与时刻,5.3.1,解答涉及日常生活与时间有关的应用题。,5030100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.1.1,认识长度单位。,6010100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.1.2,测量长度。,6010200,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.1.3,估算长度。,6010300,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.2.1,认识质量单位。,6020100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.2.2,称物体。,6020200,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.2.3,估算质量。,6020300,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.3.1,认识液体的体积单位。,6030100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.3.2,测量液体的体积。,6030200,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.3.3,估算液体的体积。,6030300,True
+Matematik SJKC,MT-SJKC,2,测量与几何 6.0  度量衡,6.4.1,解答涉及日常生活与度量衡有关的应用 题。,6040100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.1.1,"根据所描述的特征,确认立体图形。",7010100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.1.2,确认立体的基本图形。,7010200,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.1.3,确认各种立体的展开图。,7010300,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.2.1,"根据所描述的特征,确认平面图形。",7020100,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.2.2,画出基本的平面图形。,7020200,True
+Matematik SJKC,MT-SJKC,2,测量与几何 7.0  空间,7.3.1,解答涉及日常生活与空间有关的应用题。,7030100,True
+Matematik SJKC,MT-SJKC,2,统计与概率  8.0 8.0 数据处理,8.1.1,根据日常生活的情境收集数据。,8010100,True
+Matematik SJKC,MT-SJKC,2,统计与概率  8.0 8.0 数据处理,8.2.1,解读和获取条形统计图中的资料。,8020100,True
+Matematik SJKC,MT-SJKC,2,统计与概率  8.0 8.0 数据处理,8.3.1,解答涉及日常生活与数据处理有关的应用题。,8030100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,0.99,。; 之内至两位小数的减法。,990000,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.1.1,说出 10 000 以内的数目: (i) 读出任何以文字写成的数目; 说出任何以数字写成的数目; 把数字与文字配对。,1010100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.1.2,"确定 10 000 以内的数值: (i) 根据所给予的数目,展示数量; 把成组的物体与数目配对; 比较两个数目的值; 以顺序和逆序排列成组的物体。",1010200,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.2.1,以数字和文字写出数目。,1020100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.3.1,以顺序和逆序一个一个至十个十个、百个百个和 千个千个地数。,1030100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.3.2,以顺序和逆序完成任何数列。,1030200,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.4.1,讲述任何数目的数位和数值。,1040100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.4.2,根据数位和数值分析任何数目。,1040200,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.5.1,"根据参考物,以“大约”、“少于”和“多 于”合理地估算物体的数量。",1050100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.6.1,找出整数至千位的近似值。,1060100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.7.1,确认以顺序和逆序一个一个至十个十个、百个 百个和千个千个排列的数列规律。,1070100,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.7.2,完成各种以顺序和逆序一个一个至十个十个、 百个百个和千个千个排列有规律的数列。,1070200,True
+Matematik SJKC,MT-SJKC,3,数与运算 (1.0) 10 000 以内的整数,1.8.1,解答涉及日常生活与 10 000 以内的整数有关的 应用题。,1080100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.1.1,解答和在 10 000 以内的两个数目的加法算式。,2010100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.1.2,解答和在 10 000 以内的三个数目的连加法算式。,2010200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.2.1,解答涉及10 000以内的两个数目的减法算式。,2020100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.2.2,解答涉及10 000以内三个数目的连减法算式。,2020200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.3.1,"进行任何至四位数与一位数、10、100 和 1 000 的乘法算式,其积至 10 000。",2030100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.4.1,进行任何 10 000 以内的数目与一位数、10、100 和 1 000 的除法算式。,2040100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.5.1,进行 10 000 以内的加法和减法的混合运算算式。,2050100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.6.1,确认涉及基本运算算式中的未知数。,2060100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.6.2,以算式表示日常生活中涉及基本运算和一个未知 数的情境。,2060200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.7.1,根据所给予在10 000以内涉及两个数目的基本运 算算式编写故事。,2070100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.7.2,根据所给予在10 000以内涉及加减混合运算的算 式编写故事。,2070200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (2.0)  基本运算,2.7.3,解答涉及日常生活在10 000以内与基本运算和加 减混合运算有关的应用题。,2070300,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.1,确认真分数为一个组合内的其中一部分。,3010100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.2,讲述分母至 10 的真分数的等值分数。,3010200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.3,把分母至 10 的真分数写成最简分数。,3010300,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.4,讲述百分数。,3010400,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.5,"进行两个真分数的加法,其和是真分数,涉及: (i) 同分母; 分母 2 与 4、6、8 和 10; 分母 3 与 6 和 9; 分母 5 与 10; 分母 4 与 8。",3010500,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.6,"进行两个真分数的减法,涉及: (i) 同分母; 分母 2 与 4、6、8 和 10; 分母 3 与 6 和 9; 分母 5 和 10; 分母 4 和 8。",3010600,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.1.7,确认涉及分母至 10 的假分数和带分数。,3010700,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.2.1,以数字和文字讲述零点零一至零点九九。,3020100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.2.2,以百格图展示小数或反之。,3020200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.2.3,"依据百格图和数轴比较两个小数,涉及至两位小 数。",3020300,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.2.4,"进行两个至两位小数的加法,其和至",3020400,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.2.5,进行两个在,3020500,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.3.1,说出百分比。,3030100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.3.2,认识百分号。,3030200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.3.3,以百格图展示百分比或反之。,3030300,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.3.4,写出 1%至 100%。,3030400,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.4.1,以百分数表示小数或反之。,3040100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.4.2,以百分数表示百分比或反之。,3040200,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.4.3,以百分比表示小数或反之。,3040300,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.5.1,根据涉及分数、小数和百分比的算式编写故事。,3050100,True
+Matematik SJKC,MT-SJKC,3,数与运算  (3.0）分数、小数与百分比,3.5.2,解答涉及分数、小数和百分比的应用题。,3050200,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.1.1,进行和在 RM10 000 以内涉及两个币值的加法。,4010100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.1.2,进行和在 RM10 000 以内涉及三个币值的连加 法。,4010200,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.2.1,进行在 RM10 000 以内涉及两个币值的减法。,4020100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.2.2,进行在 RM10 000 以内涉及三个币值的连减法。,4020200,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.3.1,进行在 RM10 000 以内涉及加减的混合运算。,4030100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.4.1,进行积在 RM10 000 以内涉及币值与一位数、 10、100 和 1000 的乘法。,4040100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.5.1,进行在 RM10 000 以内涉及币值与一位数、10、 100 和 1000 的除法。,4050100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.6.1,认识东南亚国家联盟各国的货币。,4060100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.6.2,说出当前一令吉与外币的兑换率。,4060200,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.7.1,说明需求和需要是储蓄和消费的基础。,4070100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.7.2,说明储蓄和投资的需要。,4070200,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.8.1,根据涉及钱币的加减乘除的数学算式编写故事。,4080100,True
+Matematik SJKC,MT-SJKC,3,数与运算   4.0 钱币,4.8.2,解答涉及日常生活与 RM10 000 以内基本运算和 加减混合运算有关的应用题。,4080200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.1.1,通过某个活动时间表读出和获取资料,5010100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.1.2,读出和记录某个活动之前、正在进行和之后的时 刻。,5010200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.2.1,讲述星期与天、年与月和分钟与秒之间的关系。,5020100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.2.2,涉及小时与分钟和分钟与秒的时间单位之间的换 算。,5020200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.3.1,从公历读出和获取资料。,5030100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.4.1,"进行至三个时间单位的加法,涉及: (i) 小时与小时; 分钟与分钟; 秒与秒; 小时和分钟与小时和分钟; 分钟和秒与分钟和秒。",5040100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.5.1,"进行至三个时间单位的减法, 涉及: (i) 小时与小时; 分钟与分钟; 秒与秒; 小时和分钟与小时和分钟; 分钟和秒与分钟和秒。",5050100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.6.1,"进行时间的加减混合运算,涉及: (i) 小时与小时; 分钟与分钟; 秒与秒; 小时和分钟与小时和分钟; 分钟和秒与分钟和秒。",5060100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.7.1,"进行时间与一位数的乘法, 涉及: (i) 小时; 分钟; 秒; 小时和分钟; 分钟和秒。",5070100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.8.1,"进行时间与一位数的除法, 涉及: (i) 小时; 分钟; 秒; 小时和分钟; 分钟和秒。",5080100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.9.1,根据涉及时间与时刻的基本运算的算式编写故 事。,5090100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  5.0 时间与时刻,5.9.2,解答涉及日常生活与时间和时刻有关的应用题。,5090200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.1.1,进行涉及米和厘米的长度单位换算。,6010100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.1.2,进行至三个涉及米和厘米的长度加法。,6010200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.1.3,进行至三个涉及米和厘米的长度减法。,6010300,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.1.4,进行涉及米和厘米与一位数的长度乘法。,6010400,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.1.5,进行涉及米和厘米与一位数的长度除法。,6010500,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.2.1,进行涉及公斤和克的质量单位换算。,6020100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.2.2,进行至三个涉及公斤和克的质量加法。,6020200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.2.3,进行至三个涉及公斤和克的质量减法。,6020300,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.2.4,进行涉及公斤和克与一位数的质量乘法。,6020400,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.2.5,进行涉及公斤和克与一位数的质量除法。,6020500,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.3.1,进行涉及升和毫升的液体的体积单位换算。,6030100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.3.2,进行至三个涉及升和毫升的液体的体积加法。,6030200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.3.3,进行至三个涉及升和毫升的液体的体积减法。,6030300,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.3.4,进行涉及升和毫升与一位数的液体的体积乘法。,6030400,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.3.5,进行涉及升和毫升与一位数的液体的体积除法。,6030500,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.4.1,根据涉及度量衡的算式编写故事。,6040100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  6.0 度量衡,6.4.2,解答涉及日常生活与度量衡有关的应用题。,6040200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.1.1,认识正方棱柱体、长方棱柱体和三角棱柱体。,7010100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.1.2,"根据棱柱体的表面、底面、顶点和边,标示和说 出正方棱柱体、长方棱柱体和三角棱柱体的特 征。",7010200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.2.1,根据侧面、底面、顶点和边比较棱柱体和非棱柱 体。,7020100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.3.1,确认正五边形、正六边形、正七边形和正八边 形。,7030100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.3.2,以正多边形设计图案。,7030200,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.4.1,确认和画出对称轴。,7040100,True
+Matematik SJKC,MT-SJKC,3,测量与几何  7.0 空间,7.5.1,解答涉及日常生活与棱柱体和对称轴有关的应用 题。,7050100,True
+Matematik SJKC,MT-SJKC,3,联系与代数  8.0 坐标,8.1.1,"根据参考点,以适当的词汇确认物体的位置。",8010100,True
+Matematik SJKC,MT-SJKC,3,联系与代数  8.0 坐标,8.1.2,"根据横轴和纵轴上的位置,说出物体的名称。",8010200,True
+Matematik SJKC,MT-SJKC,3,联系与代数  8.0 坐标,8.1.3,确定物体在横轴和纵轴上的位置。,8010300,True
+Matematik SJKC,MT-SJKC,3,联系与代数  8.0 坐标,8.2.1,解答涉及日常生活与坐标有关的应用题。,8020100,True
+Matematik SJKC,MT-SJKC,3,统计与概率  9.0 数据处理,9.1.1,根据日常生活的情境收集、分类和整理数据。,9010100,True
+Matematik SJKC,MT-SJKC,3,统计与概率  9.0 数据处理,9.2.1,解读和获取饼分图中的资料。,9020100,True
+Matematik SJKC,MT-SJKC,3,统计与概率  9.0 数据处理,9.3.1,在象形统计图、条形统计图和饼分图所表示的资 料之间进行联系。,9030100,True
+Matematik SJKC,MT-SJKC,3,统计与概率  9.0 数据处理,9.4.1,解答涉及日常生活与数据处理有关的应用题。,9040100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.1.1,讲述 100 000以内的数目：(i) 读出任何以文字写成的数目；; 讲述 100 000以内的数目：(ii) 说出任何以数字写成的数目；; 讲述 100 000以内的数目：(iii) 以数字和文字写出数目。,1010100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.1.2,确定 100 000以内的数值：(i) 讲述任何数目的数位和数值；; 确定 100 000以内的数值：(ii) 根据数位和数值分析任何数目；; 确定 100 000以内的数值：(iii) 比较两个数目的值；; 确定 100 000以内的数值：(iv) 以顺序和逆序排列数目；; 确定 100 000以内的数值：(v) 以顺序和逆序完成任何数列。,1010200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.2.1,讲述偶数和奇数的特征。,1020100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.2.2,进行偶数和奇数的分类。,1020200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.3.1,根据参照物，估算数量并确定答案的合理性。,1030100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.4.1,找出整数至万位的近似值。,1040100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.5.1,确认以顺序和逆序一个一个至十个十个、百个百个、千个千个和万个万个排列的数列规律。,1050100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.5.2,完成各种所给予一个一个至十个十个、百个百个、千个千个和万个万个以顺序和逆序排列有规律的数列。,1050200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.6.1,完成至4个数目的加法算式，其和在100 000以内。,1060100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.6.2,完成100 000以内涉及两个数目的减法算式 。,1060200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.6.3,完成100 000以内涉及三个数目的连减法算式。,1060300,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.6.4,完成任何至五位数与至二位数、100、1 000的乘法算式，其积在100 000以内。,1060400,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.6.5,完成任何100 000以内的数目与至二位数、100和1 000的除法算式。,1060500,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.7.1,完成100 000以内涉及加减混合运算的算式。,1070100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.7.2,完成100 000以内涉及乘除混合运算的算式。,1070200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.8.1,确定两个至二位数加法算式里的未知数的值，只涉及一个未知数 。,1080100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.8.2,确定两个至二位数减法算式里的未知数的值，只涉及一个未知数。,1080200,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.9.1,解答涉及日常生活与100 000以内的整数、加减混合运算和乘除混合运算有关的应用题。,1090100,True
+Matematik SJKC,MT-SJKC,4,1.0 整数与运算,1.9.2,解答日常生活涉及一个未知数的加法和减法的应用题。,1090200,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.1.1,进行假分数与带分数的换算或反之。,2010100,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.1.2,进行至三个数目的加法运算，涉及真分数、整数和带分数的加法。,2010200,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.1.3,分数的减法：(i) 进行任何二个数目的减法运算，涉及整数、真分数和带分数；; 分数的减法：(ii) 进行任何三个数目的连减法运算，涉及整数、真分数和带分数。,2010300,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.1.4,进行加减混合运算，涉及整数、真分数和带分数。,2010400,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.1.5,确定真分数和带分数在某数量中的值。,2010500,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.2.1,进行至三个小数至三位小数的加法运算。,2020100,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.2.2,进行至三个小数至三位小数的减法运算。,2020200,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.2.3,进行小数与一位数、10、100 和1 000 的乘法运算，其积至三位小数。,2020300,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.2.4,进行小数与一位数、10、100 和1 000 的除法运算，其商至三位小数。,2020400,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.3.1,进行分数与百分比的换算或反之。,2030100,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.3.2,计算某个数量的百分比。,2030200,True
+Matematik SJKC,MT-SJKC,4,2.0 分数、小数与百分比,2.4.1,解答涉及分数、小数和百分比的应用题。,2040100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.1.1,完成至三个RM100 000以内的币值的加法算式。,3010100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.1.2,完成至三个RM100 000以内的币值的减法算式。,3010200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.1.3,完成一个币值与至二位数的乘法算式，其积在RM100 000以内。,3010300,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.1.4,完成RM100 000以内的币值与至二位数的除法算式。,3010400,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.2.1,完成RM100 000以内币值的加减混合运算算式。,3020100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.2.2,完成RM100 000以内币值的乘除混合运算算式。,3020200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.3.1,计划天、周和月的财务预算以达至短期财务目标。,3030100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.3.2,记录储蓄和开支以达至财务目标。,3030200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.3.3,解说收存储蓄和开支记录的需要。,3030300,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.4.1,解说财务决策所带来的影响。,3040100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.4.2,根据需要和需求的优先做出财务决策。,3040200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.4.3,分析各种来源的理财资料以做出理财决策。,3040300,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.5.1,认识世界主要国家的货币。,3050100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.5.2,讲述RM 1与世界主要国家的货币当前兑换率。,3050200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.6.1,认识各种付款工具。,3060100,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.6.2,解说货物和服务交易时各种付款工具的应用。,3060200,True
+Matematik SJKC,MT-SJKC,4,3.0 钱币,3.7.1,解答涉及日常生活与 RM100 000 以内的基本运算与混合运算有关的应用题。,3070100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.1.1,认识12时计时法和24时计时法之间的关系。,4010100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.2.1,确定24小时内涉及小时与分钟的时间。,4020100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.3.1,根据参照物，估算涉及日常生活与小时和分钟有关的时间。,4030100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.4.1,讲述千禧、世纪、年代和年之间的关系。,4040100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.4.2,进行时间单位之间的换算，涉及：(i) 时和天；; 进行时间单位之间的换算，涉及：(ii) 天和星期；; 进行时间单位之间的换算，涉及：(iii) 月和年；; 进行时间单位之间的换算，涉及：(iv) 年、年代和世纪。,4040200,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.5.1,完成与时间有关至三个时间单位的加法和减法算式，涉及：(i) 时和天；; 完成与时间有关至三个时间单位的加法和减法算式，涉及：(ii) 天和星期；; 完成与时间有关至三个时间单位的加法和减法算式，涉及：(iii) 月和年；; 完成与时间有关至三个时间单位的加法和减法算式，涉及：(iv) 年、年代和世纪。,4050100,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.5.2,完成与时间至二位数的乘法和除法算式，涉及：(i) 时和天；; 完成与时间至二位数的乘法和除法算式，涉及：(ii) 天和星期；; 完成与时间至二位数的乘法和除法算式，涉及：(iii) 月和年；; 完成与时间至二位数的乘法和除法算式，涉及：(iv) 年和年代；; 完成与时间至二位数的乘法和除法算式，涉及：(iv) 年和世纪。,4050200,True
+Matematik SJKC,MT-SJKC,4,4.0 时间与时刻,4.6.1,解答涉及日常生活与时间有关的应用题。,4060100,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.1,认识毫米与公里的长度单位。,5010100,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.2,说出涉及毫米与厘米及米与公里的长度单位的关系。,5010200,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.3,进行涉及毫米与厘米及米与公里的长度单位的换算。,5010300,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.4,以毫米为单位测量物体。,5010400,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.5,以公里为单位估算距离。,5010500,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.6,完成至三个长度单位，涉及毫米与厘米及米与公的加法算式。,5010600,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.7,完成至三个长度单位，涉及毫米与厘米及米与公里的减法算式。,5010700,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.8,完成长度单位，涉及毫米、厘米、米和公里与一位数的乘法算式。,5010800,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.1.9,完成长度单位，涉及毫米、厘米、米和公里与一位数的除法算式。,5010900,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.2.1,完成质量的加减混合运算，涉及克和公斤为单位。,5020100,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.2.2,完成质量的乘除混合运算，涉及克和公斤为单位。,5020200,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.3.1,完成液体的体积的加减混合运算，涉及毫升和升为单位。,5030100,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.3.2,完成液体的体积的乘除混合运算，涉及毫升和升为单位。,5030200,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,5.4.1,解答涉及日常生活与度量衡有关的应用题。,5040100,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,6.1,1认识和说出正方形、长方形和三角形的直角、锐角和钝角。,6010000,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,6.2,1认识和说出平行线和垂直线。; 2画出平行线和垂直线。,6020000,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,6.3,1确定至八条边的多边形的周长。; 2运用一个平方单位的正方格和公式来确定正方形、长方形、直角三角形、等边三角形和等腰三角形的面积。,6030000,True
+Matematik SJKC,MT-SJKC,4,5.0 度量衡,6.4,1运用 1 立方单位的立方体和公式来确定正方体和长方体的体积。,6040000,True
+Matematik SJKC,MT-SJKC,4,6.0 空间,6.5.1,解决涉及空间的问题。,6050100,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,7.1.1,认识x轴、y轴和原点（0）。,7010100,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,7.1.2,确定第一象限中某个点的坐标或反之。,7010200,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,7.2.1,以1:1至1:10、 1:100 和 1:1000来表示两个数量之间的比。,7020100,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,7.3.1,以归一法找出某个值。,7030100,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,7.4,1解答涉及日常生活与坐标、比与比例有关的应用题。,7040000,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,8.1,1根据非分组数据建构出象形统计图和条形统计图。; 2分析所建构的象形统计图和条形统计图。,8010000,True
+Matematik SJKC,MT-SJKC,4,7.0 坐标和比与比例,8.2,1解答涉及日常生活与数据处理有关的应用题。,8020000,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.1.1,讲述 1 000 000 以内的数目：(i) 读出任何以文字写成的数目；; 讲述 1 000 000 以内的数目：(ii) 说出任何以数字写成的数目；; 讲述 1 000 000 以内的数目：(iii) 以数字和文字写出数目。,1010100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.1.2,确定 1 000 000 以内数目的值：(i) 讲述任何数目的数位和数值；; 确定 1 000 000 以内数目的值：(ii) 根据数位和数值分析任何数目；; 确定 1 000 000 以内数目的值：(iii) 比较两个数目的值；; 确定 1 000 000 以内数目的值：(iv) 以顺序和逆序排列数目；; 确定 1 000 000 以内数目的值：(v) 以顺序和逆序完成任何的数列。,1010200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.2.1,确认 100 以内的质数。,1020100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.3.1,根据参照物，估算数量并确定答案的合理性。,1030100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.4.1,找出整数至十万位的近似值。,1040100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.4.2,确认某个已写成至十万位近似值的数目的可能数目。,1040200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.5.1,确认以顺序和逆序一个一个至十个十个、百个百个、千个千个、万个万个和十万个十万个排列的数列规律。,1050100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.5.2,完成各种以顺序和逆序排列的有规律的数列。,1050200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.6.1,完成至五个数目涉及至六位数的加法算式，其和在1 000 000以内。,1060100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.6.2,完成1 000 000以内涉及至三个数目的减法算式 。,1060200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.6.3,完成任何至六位数与至二位数、100、1 000 的乘法算式，其积在 1 000 000 以内。,1060300,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.6.4,完成任何 1 000 000 以内的数目与至二位数、100 和 1 000 的除法算式。,1060400,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.7.1,进行 1 000 000 以内有括号和无括号的混合运算， 涉及: i. 加法和乘法；; 进行 1 000 000 以内有括号和无括号的混合运算， 涉及: ii. 减法和乘法；; 进行 1 000 000 以内有括号和无括号的混合运算， 涉及: iii. 加法和除法；; 进行 1 000 000 以内有括号和无括号的混合运算， 涉及: iv. 减法和除法。,1070100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.8.1,在只乘一次的乘法算式中，确定一个未知数的值，其积至 1 000 000。,1080100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.8.2,确定任何在 1 000 000 以内的数目除以至二位数、100 和 1 000 的除法算式中的一个未知数的值。,1080200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.9.1,解答涉及日常生活与 1 000 000 以内的整数有关的应用题。,1090100,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.9.2,解答涉及日常生活与基本运算和混合运算有关的应用题，其在 1 000 000 以内。,1090200,True
+Matematik SJKC,MT-SJKC,5,1.0 整数与基本运算,1.9.3,解答只有一个未知数涉及日常生活与乘法和除法有关的应用题。,1090300,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.1.1,进行二个数目的分数乘法运算，涉及整数、真分数和带分数。,2010100,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.2.1,找出至三位小数的近似值。,2020100,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.2.2,完成至三位小数的加减混合运算的算式。,2020200,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.2.3,完成至三位小数涉及至二位数、100 和1 000 的乘法算式。,2020300,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.2.4,完成小数与至二位数、100 和 1 000 的除法算式，其商至三位小数。,2020400,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.3.1,把带分数化为百分比和反之。,2030100,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.3.2,从100%以内和超过100%的百分比中计算数量和反之。,2030200,True
+Matematik SJKC,MT-SJKC,5,2.0 分数、小数与百分比,2.4.1,解答涉及日常生活与分数、小数和百分比有关的应用题。,2040100,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.1.1,完成至三个币值的加法算式，其和至RM1 000 000。,3010100,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.1.2,完成至三个币值的减法算式，其差在 RM1 000 000以内。,3010200,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.1.3,完成币值与至二位数、100和1000的乘法算式，其积至RM1 000 000。,3010300,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.1.4,完成在RM1 000 000以内的币值与至二位数、100和1000的除法算式。,3010400,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.2.1,完成 RM1 000 000 以内有括号和没有括号的混合运算， 涉及：(i) 加法和乘法；; 完成 RM1 000 000 以内有括号和没有括号的混合运算， 涉及：(ii) 减法和乘法；; 完成 RM1 000 000 以内有括号和没有括号的混合运算， 涉及：(iii) 加法和除法；; 完成 RM1 000 000 以内有括号和没有括号的混合运算， 涉及：(iv) 减法和除法。,3020100,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.3.1,说明储蓄和投资的意思。,3030100,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.3.2,说明单利储蓄和复利储蓄的意思。,3030200,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.4.1,说明贷款和负债的意思。,3040100,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.4.2,说明贷款与现金购物的物品差价。,3040200,True
+Matematik SJKC,MT-SJKC,5,3.0 钱币,3.5.1,解答涉及日常生活与 RM1 000 000 以内的钱币有关的应用题。,3050100,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.1.1,确定相隔时间，涉及：(i) 天和小时; 月和天; 年、月和天,4010100,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.2.1,换算涉及分数的时间单位：(i) 小时换算成分钟; 换算涉及分数的时间单位：(ii) 天换算成小时; 换算涉及分数的时间单位：(iii) 年换算成月; 换算涉及分数的时间单位：(iv) 年代换算成年; 换算涉及分数的时间单位：(v) 世纪换算成年代; 换算涉及分数的时间单位：（vi）世纪换算成年,4020100,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.2.2,换算涉及小数的时间单位：(i) 小时换算成分钟; 换算涉及小数的时间单位：(ii) 天换算成小时; 换算涉及小数的时间单位：(iii) 年换算成月; 换算涉及小数的时间单位：(iv) 年代换算成年; 换算涉及小数的时间单位：(v) 世纪换算成年代; 换算涉及小数的时间单位：（vi）世纪换算成年,4020200,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.3.1,完成换算和不换算单位有关分数的时间的加法和减法算式，涉及; 小时和分钟; 天和小时; 年和月; 年代和年; 世纪和年代; 完成换算和不换算单位有关分数的时间的加法和减法算式，涉及: （vi）世纪和年,4030100,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.3.2,完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(i) 小时和分钟; 完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(ii) 天和小时; 完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(iii) 年和月; 完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(iv) 年代和年; 完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(v) 世纪和年代; 完成换算和不换算单位有关时间的小数的加法和减法算式，涉及：(vi) 世纪和年,4030200,True
+Matematik SJKC,MT-SJKC,5,4.0 时间与时刻,4.4.1,解答涉及日常生活有关时间与时刻的应用题。,4040100,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.1,换算有小数的长度，答案至三位小数，涉及 ：(i) 毫米和厘米；; 换算有小数的长度，答案至三位小数，涉及 ：(ii) 厘米和米；; 换算有小数的长度，答案至三位小数，涉及 ：(iii) 米和公里。,5010100,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.2,换算有分数的长度，涉及：(i) 毫米和厘米；; 换算有分数的长度，涉及：(ii) 厘米和米；; 换算有分数的长度，涉及：(iii) 米和公里。,5010200,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.3,进行至三个有分数和小数的长度加法，涉及换算和不换算单位。,5010300,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.4,进行至三个有小数和分数的长度减法，涉及换算和不换算单位。,5010400,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.5,进行有小数和分数的长度与至二位数、100和1 000的乘法，涉及换算和不换算单位。,5010500,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.1.6,进行有小数和分数的长度与至二位数、100和1 000的除法，涉及换算和不换算单位。,5010600,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.2.1,进行有分数和小数，涉及克和公斤的质量单位换算。,5020100,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.2.2,进行至三个有分数和小数的质量加法，涉及换算与不换算单位。,5020200,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.2.3,进行至三个有分数和小数的质量减法，涉及换算与不换算单位。,5020300,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.2.4,进行有分数和小数的质量与至二位数、100和1 000的乘法，涉及换算和不换算单位。,5020400,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.2.5,进行有分数和小数的质量与至二位数、100和 1 000的除法，涉及换算和不换算单位。,5020500,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.3.1,进行有分数和小数，涉及毫升和升的液体体积单位换算。,5030100,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.3.2,进行至三个有分数和小数的液体体积加法，涉及换算和不换算单位。,5030200,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.3.3,进行至三个有分数和小数的液体体积减法，涉及换算和不换算单位。,5030300,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.3.4,进行有分数和小数的液体体积与至二位数、100和1 000的乘法，涉及换算和不换算单位。,5030400,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.3.5,进行有分数和小数的液体体积与至二位数、100和1 000的除法，涉及换算和不换算单位。,5030500,True
+Matematik SJKC,MT-SJKC,5,5.0 度量衡,5.4.1,解答涉及日常生活与度量衡有关的应用题。,5040100,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.1.1,以边、角、对称轴、角度和对角线讲述正多边形的特征。,6010100,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.2.1,测量至八边的正多边形的角度。,6020100,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.3.1,确定由两个至八边的正多边形所组成的综合图形的周长，包括直角三角形、等腰三角形和长方形。,6030100,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.3.2,确定由两个图形形成的综合图形的面积，涉及长方形、正方形、等边三角形、等腰三角形和直角三角形。,6030200,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.4.1,确定由两个图形形成的综合立体的体积，涉及正方体和长方体。,6040100,True
+Matematik SJKC,MT-SJKC,5,6.0 空间,6.5.1,解答涉及空间的应用题。,6050100,True
+Matematik SJKC,MT-SJKC,5,7.0 坐标、比与比例,7.1.1,确定两个坐标之间的横向和直向距离。,7010100,True
+Matematik SJKC,MT-SJKC,5,7.0 坐标、比与比例,7.2.1,以a: b 的形式表示两个数量的比，涉及：; 部分比部分；; 以a: b 的形式表示两个数量的比，涉及：(b) 部分比整体；; 以a: b 的形式表示两个数量的比，涉及：(c) 整体比部分。,7020100,True
+Matematik SJKC,MT-SJKC,5,7.0 坐标、比与比例,7.3.1,以比例确定未知的值。,7030100,True
+Matematik SJKC,MT-SJKC,5,7.0 坐标、比与比例,7.4.1,解答涉及日常生活与坐标、比与比例有关的应用题。,7040100,True
+Matematik SJKC,MT-SJKC,5,8.0 数据处理,8.1.1,诠释饼分图。,8010100,True
+Matematik SJKC,MT-SJKC,5,8.0 数据处理,8.2.1,从非分组数据中认识和确定众数、中位数、平均数和极差。,8020100,True
+Matematik SJKC,MT-SJKC,5,8.0 数据处理,8.3.1,解答涉及日常生活与数据处理有关的应用题。,8030100,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.1.1,读出、说出和写出任何 10 000 000 以内的数目。,1010100,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.1.2,表示 10 000 000 以内的数目和确定有规律的数 列。,1010200,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.1.3,读出、说出和写出任何涉及日常生活在 10 000 000 以内，以百万为单位的分数， 其分母为 2、 4、5、8 和 10。,1010300,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.1.4,读出、说出和写出任何涉及日常生活在 10 000 000 以内，以百万为单位的小数，其 小数位至三位小数。,1010400,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.1.5,换算以百万为单位的小数和分数为整数和反 之。,1010500,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.2.1,完成涉及整数、百万为单位的分数和百万为单位的小数，包括未知数的基本运算及有括号和无括号的混合运算的算式。,1020100,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.3.1,将 100 以内的数目归类为质数和合数。,1030100,True
+Matematik SJKC,MT-SJKC,6,1.0 整数与基本运算,1.4.1,解答涉及日常生活与整数、质数、合数、百万 为单位的分数和百万为单位的小数，包括未知数的基本运算及有括号和无括号的混合运算有关的问题。,1040100,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.1.1,进行二个数的除法，涉及真分数、整数和带分 数。,2010100,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.2.1,进行小数与小数的乘法，其答案至三位小 数。,2020100,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.2.2,进行小数与小数的除法，其答案至三位小数。,2020200,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.3.1,把小数化为大于100%的百分比和反之。,2030100,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.3.2,解答百分比的加法和减法的算式。,2030200,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.3.3,从有小数的数量确定至大于100%的百分比和 反之。,2030300,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.4.1,完成整数、小数、分数及有括号和无括号的混合运算算式，并涉及任何两个基本运算。,2040100,True
+Matematik SJKC,MT-SJKC,6,2.0  分数、小数与百分比,2.5.1,解答涉及日常生活与整数、分数、小数和百分比有关的应用题。,2050100,True
+Matematik SJKC,MT-SJKC,6,3.0  钱币,3.1.1,认识成本、售价、盈利、亏损、折扣、回扣、礼卷、账单、收据、发票、资产、负债、利息、股息和服务税。,3010100,True
+Matematik SJKC,MT-SJKC,6,3.0  钱币,3.1.2,确定成本、售价、盈利、亏损、折扣、回扣、利息、股息和服务税。,3010200,True
+Matematik SJKC,MT-SJKC,6,3.0  钱币,3.2.1,认识保险与回教保险。,3020100,True
+Matematik SJKC,MT-SJKC,6,3.0  钱币,3.2.2,说明保险与回教保险的目的和保障的重要 性。,3020200,True
+Matematik SJKC,MT-SJKC,6,3.0  钱币,3.3.1,解答涉及日常生活与成本、售价、盈利、亏损、折扣、回扣、礼卷、账单、收据、发票、资产、负债、利息、股息、服务税、钱财管理和风险有关的应用题,3030100,True
+Matematik SJKC,MT-SJKC,6,4.0  时间与时刻,4.1.1,认识时区。,4010100,True
+Matematik SJKC,MT-SJKC,6,4.0  时间与时刻,4.1.2,确定两个不同时区的城市之间的时差。,4010200,True
+Matematik SJKC,MT-SJKC,6,4.0  时间与时刻,4.2.1,解答涉及日常生活与时区有关的应用题。,4020100,True
+Matematik SJKC,MT-SJKC,6,5.0  度量衡,5.1.1,解答涉及日常生活与长度、质量和液体的体积之间的关系有关的问题， 涉及：; 长度与质量；; 长度与液体的体积；; 质量与液体的体积；,5010100,True
+Matematik SJKC,MT-SJKC,6,6.0  空间,6.1.1,在正方形格子图、等边三角形格子图或电脑软件中画出至八边的正多边形，并测量所形成的内角。,6010100,True
+Matematik SJKC,MT-SJKC,6,6.0  空间,6.1.2,根据所给予的角度值画出角度。,6010200,True
+Matematik SJKC,MT-SJKC,6,6.0  空间,6.2.1,认识圆心、直径和半径。,6020100,True
+Matematik SJKC,MT-SJKC,6,6.0  空间,6.2.2,根据所给予的半径值画出圆，并标示圆心、半径和直径。,6020200,True
+Matematik SJKC,MT-SJKC,6,6.0  空间,6.3.1,解答涉及日常生活与空间有关的应用题,6030100,True
+Matematik SJKC,MT-SJKC,6,7.0  坐标、比与比例,7.1.1,根据比例尺确定两个位置之间的横向和直向距离。,7010100,True
+Matematik SJKC,MT-SJKC,6,7.0  坐标、比与比例,7.2.1,以最简化的形式表示两个数量的比,7020100,True
+Matematik SJKC,MT-SJKC,6,7.0  坐标、比与比例,7.3.1,根据所给予的比，确定按比例的数量,7030100,True
+Matematik SJKC,MT-SJKC,6,7.0  坐标、比与比例,7.4.1,解答涉及日常生活有关坐标及比与比例的 应用题。,7040100,True
+Matematik SJKC,MT-SJKC,6,8.0  数据处理与可能性,8.1.1,根据 45°、90°和 180°的角度值和所给予的数量完成饼分图，并诠释数据。,8010100,True
+Matematik SJKC,MT-SJKC,6,8.0  数据处理与可能性,8.2.1,讲述某事件可能或不可能发生， 并给予合理的理由。,8020100,True
+Matematik SJKC,MT-SJKC,6,8.0  数据处理与可能性,8.2.2,讲述某事件发生的可能性：不可能、可能性小、可能性相同、可能性大或肯定，并给予合理的理由。,8020200,True
+Matematik SJKC,MT-SJKC,6,8.0  数据处理与可能性,8.3.1,解答涉及日常生活与数据处理和可能性有关的应用题。,8030100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.1.1,ஒப்பிடுதலின் வழி எண்ணிக்கையைக் குறிப்பிடுவர்,1010100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.2.1,100 வரையிலான எண்களைப் பெயரிடுவர்.,1020100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.2.2,100 வரையிலான எண்களின் மதிப்பை உறுதிப்படுத்துவர்.,1020200,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.3.1,எண்களை எண் குறிப்பிலும் எண்மானத்திலும் எழுதுவர்.,1030100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.4.1,ஓர் இலக்க எண்ணின் இணை எண்ணைக் குறிப்பிடுவர்.,1040100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.5.1,எண்களை எண்ணுவர்,1050100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.5.2,எண் தொடர்களை நிறைவுச் செய்வர்.,1050200,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.6.1,எண்ணின் இடமதிப்பையும் இலக்க மதிப்பையும் குறிப்பிடுவர்.,1060100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.7.1,ஏற்புடைய வகையில் பொருள்களின் எண்ணிக்கையை அனுமானிப்பர்.,1070100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.8.1,முழு எண்ணைக் கிட்டிய பத்துக்கு மாற்றுவர்.,1080100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.9.1,கொடுக்கப்பட்ட எண் தொடரின் தோரணியை அடையாளம் காண்பர்.,1090100,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.9.2,எளிமையான பல்வேறு எண் தோரணியை நிறைவு செய்வர்.,1090200,True
+Matematik SJKT,MT-SJKT,1,100 வரையிலான முழு எண்கள்,1.10.1,அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,1100100,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.1.1,"சேர்த்தல், கழித்தல் பல்வேறு வகையான ஏற்புடைய சொற்களஞ்சியத்தைப் பயன்படுத்துவர்.",2010100,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.1.2,"சேர்த்தல், கழித்தல், சமம் ஆகிய குறியீடுகளை அறிமுகப்படுத்துவர்.",2010200,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.1.3,"சூழலுக்கு ஏற்ப கணிதத் தொடரை ஏழுத சேர்த்தல், கழித்தல், சமம் ஆகிய குறியீடுகளைப் பயன்படுத்துவர்.",2010300,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.2.1,அடிப்படை கூற்றுக்கு உட்பட்ட எண்களைச் சேர்ப்பர். அடிப்படை கூற்றுக்கு உட்பட்ட எண்களைக் கழிப்பர்.,2020100,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.2.2,100க்குட்பட்ட இரண்டு எண்களைச் சேர்ப்பர். 100க்குட்பட்ட இரண்டு எண்களைக் கழிப்பர்.,2020200,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.4.1,"100 வரையிலான சேர்த்தல், கழித்தல் பிரச்சனைத் தொடர்பான கதையை உருவாக்குவர்.",2040100,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.4.2,"அன்றாட சூழல் தொடர்பான சேர்த்தல், கழித்தல் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",2040200,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.5.1,"இரண்டு இரண்டாக, ஐந்து ஐந்தாக, பத்து பத்தாக மற்றும் நான்கு நான்காகத் தொடர்ந்தாற்போல் சேர்த்தல் கணித வாக்கியத்தை எழுதுவர்.",2050100,True
+Matematik SJKT,MT-SJKT,1,அடிப்படை விதிகள்,2.6.1,"இரண்டு இரண்டாக, ஐந்து ஐந்தாக, பத்து பத்தாக மற்றும் நான்கு நான்காகத் தொடர்ந்தாற்போல் கழித்தல் கணித வாக்கியத்தை எழுதுவர்.",2060100,True
+Matematik SJKT,MT-SJKT,1,பின்னம்,3.1.1,"இரண்டில் ஒன்று, நான்கில் ஒன்று, நான்கில் மூன்று ஆகியப் பின்னங்களை அடையாளங்காண்பர்.",3010100,True
+Matematik SJKT,MT-SJKT,1,பின்னம்,3.2.1,அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,3020100,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.1.1,மலேசிய நாணயத்தைச் சில்லறைக் காசுகளிலும் நோட்டிலும் அடையாளங்காண்பர்.,4010100,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.1.2,பணத்தின் மதிப்பைப் பிரதிநிதித்தல்.,4010200,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.1.3,பணத்தை மாற்றுவர்.,4010300,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.2.1,பணத்தின் மூலத்தையும் சேமிப்பையும் அடையாளங்காண்பர்.,4020100,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.2.2,பணத்தின் மூலத்திலிருந்து சேமிப்பையும் செலவையும் பதிவு செய்வர்.,4020200,True
+Matematik SJKT,MT-SJKT,1,பணம்,4.3.1,"சேர்த்தல், கழித்தல் ஆகியவற்றை உள்ளடக்கிய பணம் தொடர்பான அன்றாட பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காணுதல்.",4030100,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.1.1,ஒரு நாளிலுள்ள நேரத்தைக் கூறுவர்.,5010100,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.1.2,ஒரு நாளிலுள்ள நடவடிக்கைகளை வரிசைக்கிரமமாகப் பெயரிடுவர்.,5010200,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.1.3,ஒரு வாரத்திலுள்ள நாள்களைப் பெயரிடுவர்.,5010300,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.1.4,ஒரு வருடத்திலுள்ள மாதங்களைப் பெயரிடுவர்.,5010400,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.2.1,கடிகார முகப்பில் மணி முள்ளை அடையாளங்காண்பர்.,5020100,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.2.2,"கடிகார முகப்பில் 'அரை, நான்கில் ஒன்று, நான்கில் மூன்று' ஆகியவற்றை அடையாளங்கண்டு கூறுவர்.",5020200,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.2.3,பற்சக்கர கடிகாரத்தின் துணையுடன் அரை மற்றும் நான்கில் ஒன்று நேரத்தை மட்டும் கூறி எழுடுவர்.,5020300,True
+Matematik SJKT,MT-SJKT,1,காலமும் நேரமும்,5.3.1,அன்றாட சூழல் தொடர்பான பிரச்சனை கணக்குகளுக்குத் தீர்வு காண்பர்.,5030100,True
+Matematik SJKT,MT-SJKT,1,அளவை,6.1.1,"நீட்டலளவை, பொருண்மை, கொள்ளளவு தொடர்பான சொற்களஞ்சியத்தைப் பலவகைபடுத்திச் சூழலுக்கேற்ப பயன்படுத்துவர்.",6010100,True
+Matematik SJKT,MT-SJKT,1,அளவை,6.1.2,"நீட்டலளவை, பொருண்மை, கொள்ளளவு ஆகியவற்றை தர அளவு அல்லாத அளவை கொண்டு அளப்பர்.",6010200,True
+Matematik SJKT,MT-SJKT,1,அளவை,6.1.3,"இரண்டு அல்லது அதற்கு மேற்பட்ட நீட்டலளவை, பொருண்மை, கொள்ளளவு ஆகியவற்றை தர அளவு அல்லாத அளவை கொண்டு ஒப்பிடுவர்.",6010300,True
+Matematik SJKT,MT-SJKT,1,அளவை,6.2.1,அன்றாட சூழல் தொடர்பான பிரச்சனை கணக்குகளுக்குத் தீர்வு காண்பர்.,6020100,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.1.1,"கனச்சதுரம், கனச்செவ்வகம், கூம்பு, சதுர அடித்தள கூம்பகம், உருளை, உருண்டை ஆகிய வடிவங்களைப் பெயரிடுவர்.",7010100,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.1.2,"முப்பரிமாண வடிவங்களின் விளிம்பு, மேற்பரப்பு மற்றும் முனை ஆகியவற்றை விளக்குவர்.",7010200,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.1.3,பொருள்களைத் தோரணிக்கேற்ப வரிசைப்படுத்துவர்.,7010300,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.1.4,இணைக்கப்பட்ட முப்பரிமாண வடிவங்களைக் கொண்டு புதிய வடிவத்தை உருவாக்குவர்.,7010400,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.2.1,"சதுரம், செவ்வகம், முக்கோணம், வட்டம் ஆகிய வடிவங்களைப் பெயரிடுவர்.",7020100,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.2.2,"இருபரிமாண வடிவத்தை உருவாக்க, நேர்க்கோடு, பக்கம், முனை, வளைவு ஆகியவற்றை விவரிப்பர்.",7020200,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.2.3,இருபரிமாண வடிவங்களைத் தோரணிக்கேற்ப வரிசைப்படுத்துவர்.,7020300,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.2.4,இருபரிமாண வடிவங்களைக் கொண்டு வடிவமைப்பை உருவாக்குவர்.,7020400,True
+Matematik SJKT,MT-SJKT,1,வடிவியல்,7.3.1,அன்றாட வாழ்க்கை தொடர்பான பிரச்சனை கணக்குகளுக்குத் தீர்வு காண்பர்.,7030100,True
+Matematik SJKT,MT-SJKT,1,தரவைக் கையாளுதல்,8.1.1,அன்றாட சூழல் தொடர்பான தரவுகளைச் சேகரிப்பர்.,8010100,True
+Matematik SJKT,MT-SJKT,1,தரவைக் கையாளுதல்,8.2.1,"படக்குறிவரைவைப் படித்து, தகவலைச் சேகரிப்பர்.",8020100,True
+Matematik SJKT,MT-SJKT,1,தரவைக் கையாளுதல்,8.3.1,அன்றாட சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,8030100,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,0.1,முதல்,10000,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,0.9,வரையிலான தசம எண்களைக் காண்பிப்பர்.,90000,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.1.1,1000 வரையிலான எண்களைப் பெயரிடுவர்.,1010100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.1.2,1000 வரையிலான எண்களின் மதிப்பை உறுதிப்படுத்துவர்.,1010200,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.2.1,எண்களை எண்மானத்திலும் எண்குறிப்பிலும் எழுதுவர்.,1020100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.3.1,எண்களை எண்ணுவர்,1030100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.3.2,ஏதாவது ஓர் எண் தொடரை முழுமைப்படுத்துவர்.,1030200,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.4.1,ஏதாவது ஓர் எண்ணின் இடமதிப்பையும் இலக்க மதிப்பையும் கூறுவர்.,1040100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.4.2,"ஏதாவது ஓர் எண்ணின் இடமதிப்பு, இலக்க மதிப்பிற்கேற்ப பிரிப்பர்.",1040200,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.5.1,பொருளின் எண்ணிக்கையை ஏற்புடைய வகையில் அனுமானிப்பர்.,1050100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.6.1,முழு எண்களைக் கிட்டிய நூறு வரை எழுதுவர்.,1060100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.7.1,கொடுக்கப்பட்ட எண் தொடர்களின் தோரணியை அடையாளங்காண்பர்.,1070100,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.7.2,பல்வகை எளிய எண் தோரணிகளை நிறைவு செய்வர்.,1070200,True
+Matematik SJKT,MT-SJKT,2,1000 வரையிலான முழு எண்கள்,1.8.1,அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,1080100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.1.1,கூட்டுத்தொகை 1000 வரையிலான இரு எண்களைச் சேர்ப்பர்.,2010100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.1.2,கூட்டுத்தொகை 1000 வரையிலான மூன்று எண்களை சேர்ப்பர்.,2010200,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.2.1,1000 வரையிலான இரண்டு எண்களைக் கழிப்பர்.,2020100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.2.2,1000 வரையிலான ஏதாவது ஓர் எண்ணிலிருந்து இரண்டு எண்களைக் கழிப்பர்.,2020200,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.3.1,அடிப்படை கூற்றுக்கு ஏற்ப பெருக்குவர்.,2030100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.3.2,ஓர் இலக்க எண்ணை 10உடன் பெருக்குவர்.,2030200,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.4.1,அடிப்படை கூற்றுக்கு ஏற்ப வகுப்பர்.,2040100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.4.2,ஏதாவது ஈரிலக்க எண்ணை 10ஆல் வகுப்பர்.,2040200,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.5.1,"1000 வரையிலான சேர்த்தல், கழித்தல், பெருக்கல், வகுத்தல் தொடர்பான சூழலை உருவாக்குவர்.",2050100,True
+Matematik SJKT,MT-SJKT,2,அடிப்படை விதிகள்,2.5.2,"அன்றாட சூழல் தொடர்பான சேர்த்தல், கழித்தல், பெருக்கல், வகுத்தல் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",2050200,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.1.1,தொகுதி எண் ஒன்றாகவும் பகுதி எண் பத்து வரையிலும் உள்ள தகு பின்னத்தை அடையாளங்கண்டு கூறுவர்.,3010100,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.1.2,தொகுதி எண் 9 வரையிலும் பகுதி எண் 10 வரையிலும் உள்ள தகு பின்னத்தைப் பெயரிடுவர்.,3010200,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.1.3,கொடுக்கப்பட்ட பின்னத்தைப் படத்தில் பிரதிநிதிப்பர்.,3010300,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.1.4,கொடுக்கப்பட்ட தகு பின்னத்தை எழுதுவர்.,3010400,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.1.5,கொடுக்கப்பட்ட இரு தகு பின்னத்தின் மதிப்பை ஒப்பிடுவர்.,3010500,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.2.1,பத்தைப் பகுதியாகக் கொண்ட பின்னத்தைத் தசமத்திற்கு மாற்றுவர்.,3020100,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.2.2,சுழியம் தசமம் ஒன்று முதல் சுழியம் தசமம் ஒன்பது வரையிலான தசமத்தைக் கூறுவர்.,3020200,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.2.4,கொடுக்கப்பட்ட தசமத்திற்கு ஏற்ப படத்தைப் பிரதிநிதிப்பர்.,3020400,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.2.5,கொடுக்கப்பட்ட தசமத்தை எழுதுவர்.,3020500,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.2.6,கொடுக்கப்பட்ட இரண்டு தசம மதிப்பை ஒப்பிடுவர்.,3020600,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.3.1,கொடுக்கப்பட்ட பின்ன மதிப்பையும் தசம மதிப்பையும் ஒப்பிடுவர்.,3030100,True
+Matematik SJKT,MT-SJKT,2,பின்னமும் தசமமும்,3.4.1,அன்றாடச் சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,3040100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.1.1,RM100 வரையிலான மலேசிய நாணயங்களை அடையாளங்காண்பர்.,4010100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.1.2,RM100 வரையிலான பணத்தின் மதிப்பை உறுதிப்படுத்துவர்.,4010200,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.2.1,கூட்டுத்தொகை RM100 வரையிலான இரண்டு பணத்தின் மதிப்பைச் சேர்ப்பர்.,4020100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.2.2,கூட்டுத்தொகை RM100 வரயிலான மூன்று பணத்தின் மதிப்பைச் சேர்ப்பர்.,4020200,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.3.1,RM100 வரையிலான இரண்டு பணத்தின் மதிப்பைக் கழிப்பர்.,4030100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.3.2,RM100 வரயிலான பணத்தின் மதிப்பிலிருந்து தொடர்ந்தாற்போல் இரு பணத்தின் மதிப்பைக் கழிப்பர்.,4030200,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.4.1,பெருக்குத் தொகை RM100 வரையிலான பணத்தின் மதிப்பைப் பெருக்குவர்.,4040100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.5.1,RM100 வரையிலான பணத்தின் மதிப்பை வகுப்பர்.,4050100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.6.1,சேமிப்பிற்கும் முதலீட்டுக்கும் அடிப்படையான நிதியை திறம்பட நிர்வகிப்பர்.,4060100,True
+Matematik SJKT,MT-SJKT,2,பணம்,4.7.1,அன்றாடச் சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,4070100,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.1.1,கடிகார முகப்பில் காணப்படும் நிமிட அளவின் குறிகளை அறிவர்.,5010100,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.1.2,நேரத்தை மணியிலும் நிமிடத்திலும் கூறுவர்; காட்டுவர்.,5010200,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.1.3,"எண்மானத்தில் உள்ள மணி, நிமிட நேரத்தை எண்குறிப்பிலும், எண்குறிப்பில் உள்ளவற்றை என்மானத்திலும் மாற்றுவர்.",5010300,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.1.4,நேரத்தை மணி மற்றும் நிமிடத்தில் குறிப்பெடுப்பர்.,5010400,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.2.1,நாளுக்கும் மணிக்கும்; மணிக்கும் நிமிடத்திற்கும் உள்ள தொடர்பைக் கூறுவர்.,5020100,True
+Matematik SJKT,MT-SJKT,2,காலமும் நேரமும்,5.3.1,அன்றாட சூழல் தொடர்பான பிரச்சனை கணக்குகளுக்குத் தீர்வு காண்பர்.,5030100,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.1.1,நீட்டலளவையை அடையாளங்காண்பர்,6010100,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.1.2,நீட்டலளவையை அளப்பர்.,6010200,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.1.3,நீட்டலளவையை அனுமானிப்பர்.,6010300,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.2.1,பொருண்மையின் அளவை அடையாளங்காண்பர்.,6020100,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.2.2,பொருண்மையை அளப்பர்,6020200,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.2.3,பொருண்மையை அனுமானிப்பர்.,6020300,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.3.1,கொள்ளளவையை அடையாளங்காண்பர்.,6030100,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.3.2,கொள்ளளவையை அளப்பர்.,6030200,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.3.3,கொள்ளளவையை அனுமானிப்பர்.,6030300,True
+Matematik SJKT,MT-SJKT,2,அளவை,6.4.1,அன்றாடச் சூழல் தொடர்பான பிரச்சனைக்குத் தீர்வு காண்பர்.,6040100,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.1.1,கொடுக்கப்பட்ட தன்மைக்கேற்ப முப்பரிமாண வடிவங்களை அடையாளங்காண்பர்.,7010100,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.1.2,முப்பரிமாண வடிவங்களின் அடிப்படை வடிவங்களை அடையாளங்காண்பர்.,7010200,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.1.3,முப்பரிமாண வடிவங்களின் பல வகையான விரிப்புகளை அடையாளங்காண்பர்.,7010300,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.2.1,கொடுக்கப்பட்ட விளக்கத்திற்கேற்ப இருபரிமாண வடிவங்களை அடையாளங்காண்பர்.,7020100,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.2.2,இருபரிமாண அடிப்படை வடிவங்களை வரைவர்.,7020200,True
+Matematik SJKT,MT-SJKT,2,வடிவியல்,7.3.1,அன்றாடச் சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,7030100,True
+Matematik SJKT,MT-SJKT,2,தரவைக் கையாளுதல்,8.1.1,அன்றாடச் சூழலுக்கு ஏற்ப தரவுகளைச் சேகரிப்பர்.,8010100,True
+Matematik SJKT,MT-SJKT,2,தரவைக் கையாளுதல்,8.2.1,பட்டைக் குறிவரைவைப் படித்துத் தகவலைச் சேகரிப்பர்.,8020100,True
+Matematik SJKT,MT-SJKT,2,தரவைக் கையாளுதல்,8.3.1,அன்றாடச் சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,8030100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.1.1,10 000 வரையிலான எண்களைப் பெயரிடுவர். 10 000 வரையிலான எண்களை எண்மாணதில் கொடுக்கப்பட்டுள்ள ஏதாவது எண்ணை வாசிப்பர். 10 000 வரையிலான எண்களை எண்குறிப்பில் கொடுக்கப்பட்டுள்ள ஏதாவது எண்ணைக் கூறுவர். 10 000 வரையிலான எண்களை எண்மானத்திற்கேற்ப எண்ணை இணைப்பர்.,1010100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.1.2,"10 000 வரையிலான எண்களின் மதிப்பை உறுதிப்படுத்துவர். 10 000 வரையிலான எண்களின் மதிப்பை கூறப்படும் எண்களின் எண்ணிக்கையைக் காண்பிப்பர். 10 000 வரையிலான எண்களின் மதிப்பை பொருள் குவியல்களை எண்களுடன் இணைப்பர். 10 000 வரையிலான எண்களின் மதிப்பை இரு எண்களின் மதிப்பை ஒப்பிடுவர். 10 000 வரையிலான எண்களின் மதிப்பை, பொருள்களை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் நிரல்படுத்துவர்.",1010200,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.2.1,எண்களை எண்மானத்திலும் எண்குறிப்பிலும் எழுதுவர்.,1020100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.3.1,எண்களை ஒன்று ஒன்றாக முதல் பத்து பத்தாக வரையிலும் நூறு நூறாக ஆயிரம் ஆயிரமாக ஏறுவரிசையிலும் இறங்கு வரிசையிலும் எண்ணுவர்.,1030100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.3.2,ஏதாவதொரு எண் தொடரை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் முழுமைப்படுத்துவர்.,1030200,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.4.1,ஏதவது ஓர் எண்ணின் இடமதிப்பையும் இலக்க மதிப்பையும் குறிப்பிடுவர்.,1040100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.4.2,"ஏதாவதொரு எண்ணை இடமதிப்பு, இலக்க மதிப்பிற்கேற்ப பிரிப்பர்.",1040200,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.5.1,"'ஏறக்குறைய', 'விட குறைவு' மற்றும் 'விட அதிகம்' ஆகியவற்றைப் பயன்படுத்திப் பொருளின் எண்ணிக்கையை ஏற்புடைய வககயில் அனுமானிப்பர்.",1050100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.6.1,முழு எண்களைக் கிட்டிய ஆயிரம் வரை எழுதுவர்.,1060100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.7.1,"எண் தோரணிகளை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் ஒன்று ஒன்றாக முதல் பத்து பத்தாக வரை, நூறு நூறாக, ஆயிரம் ஆயிரமாக அடடயாளம் காண்பர்.",1070100,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.7.2,"எண் தோரணிகளை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் ஒன்று ஒன்றாக முதல் பத்து பத்தாக வரை நூறு நூறாக, ஆயிரம் ஆயிரமமக பூர்த்தி செய்வர்.",1070200,True
+Matematik SJKT,MT-SJKT,3,1.0 10 000 வரையிலான முழு எண்கள்,1.8.1,10 000 வரையிலான முழு எண் தொடர்பான அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,1080100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.1.1,கூட்டுத்தொகை 10 000 வரையிலான இரு எண்கள் சேர்த்தல் கணித வாக்கியத்துக்குத் தீர்வு காண்பர்.,2010100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.1.2,கூட்டுத்தொகை 10 000 வரையிலான மூன்று எண்கள் உட்படுத்திய சேர்த்தல் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,2010200,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.2.1,10 000 க்குள் இரு எண்கள் உட்படுத்திய கழித்தல் கணித வாக்கியத்துக்குத் தீர்வு காண்பர்.,2020100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.2.2,10 000க்குள் ஓர் எண்ணில் இருந்து இரு எண்களை கழிக்கும் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,2020200,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.3.1,"பெருக்குத் தொகை 10 000 வரை வரும் வகையில் ஏதாவதொரு நான்கு இலக்க வரையிலான எண்ணை ஓர் இலக்கம், 10, 100, 1000 ஆகியவற்றுடன் பெருக்கும் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.",2030100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.4.1,"10 000 க்குள் ஏதாவதொரு நான்கு இலக்கம் வரையிலான எண்ணை ஓர் இலக்கம், 10, 100, 1 000 ஆகியவற்றால் வகுக்கும் கணித வாக்கியத்துக்குத் தீர்வு காண்பர்.",2040100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.5.1,10 000 க்குள் சேர்த்தல் கழித்தல் கலவை கணக்கு கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,2050100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.6.1,கணித வாக்கியத்தில் அடிப்படை விதிகளை உள்ளடக்கிய நிகரியை அடையாளம் காண்பர்.,2060100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.6.2,அடிப்படை விதிகளையும் ஒரு நிகரியையும் கொண்ட கணித வாக்கியத்துக்கு அன்றாட குழுவில் பிரதிநிதிப்பர்.,2060200,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.7.1,10 000 வரையிலான அடிப்படை விதிகள் தொடர்பான கணித வாக்கியத்துக்கு ஏற்ப குழுவை உருவாக்குவர்.,2070100,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.7.2,"10 000 வரையிலான சேர்த்தல், கழித்தல் தொடர்பான கலவை கணித வாக்கியத்துக்கு ஏற்ப குழுவை உருவாக்குவர்.",2070200,True
+Matematik SJKT,MT-SJKT,3,2.0 அடிப்படை விதிகள்,2.7.3,"அன்றாட சூழல் தொடர்பான அடிப்படை விதிகள் மற்றும் சேர்த்தல், கழித்தலை உள்ளடக்கிய கலவைக் கணக்கு பிரச்சனைகளுக்குத் தீர்வு காண்பர்.",2070300,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.1,ஒரு குழுவிலிருந்து ஒரு பகுதி தகு பின்னம் என அடையாளம் காண்பர்.,3010100,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.2,பகுதி எண் 10 வரையிலான தகு பின்னத்தின் சம பின்னத்தைக் குறிப்பிடுவர்.,3010200,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.3,பகுதி எண் 10 வரையிலான தகு பின்னத்தை மிகச் சுருங்கிய பின்னமாக மாற்றுவர்.,3010300,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.4,நூறில் ஒன்று பின்னத்தக் குறிப்பிடுவர்.,3010400,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.5,"இரு தகு பின்னத்தைச் சேர்ப்பர். இரு தகு பின்னத்தைச் சேர்ப்பர்: மமான பகுதி; இரு தகு பின்னத்தைச் சேர்ப்பர். பகுதி எண் 2 உடன் 4,6,8,10; இரு தகு பின்னத்தைச் சேர்ப்பர். பகுதி எண் 3 உடன் 6,9; இரு தகு பின்னத்தைச் சேர்ப்பர். பகுதி எண் 5 உடன் 10; இரு தகு பின்னத்தைச் சேர்ப்பர். பகுதி எண் 4 உடன் 8",3010500,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.6,"தகு பின்னத்தைக் கழிப்பர். தகு பின்னத்தைக் கழிப்பர். பகுதி எண் 2 உடன் 4,6,8,10; தகு பின்னத்தைக் கழிப்பர். பகுதி எண் 3 உடன் 6,9; தகு பின்னத்தைக் கழிப்பர். பகுதி எண் 5 உடன் 10; தகு பின்னத்தைக் கழிப்பர். பகுதி எண் 4 உடன் 8",3010600,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.1.7,பகுதி எண் 10 வரையிலான தகாப் பின்னத்தையும் கலப்புப் பின்னத்தையும் அடையாளம் காண்பர்.,3010700,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.2.1,எண்குறிப்பிலும் எண்மானத்திலும் சுழியம் தசமம் ஒன்று முதல் ஒன்பது ஒன்பது வரை குறிப்பிடுவர்.,3020100,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.2.2,தசமத்தைப் படத்திலும் படத்தைத் தசமத்திலும் பிரதிநிதிப்பர். விழுக்காட்டின் குறியீட்டை அறிந்து கொள்வர்.,3020200,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.2.3,"இரு தசம இடங்கள் வரையிலான இரு தசம எண்களை நூறு கட்ட பலகை, எண் கோடு ஆகியவற்றின் அடிப்படையில் ஒப்பிடுவர்.",3020300,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.2.4,கூட்டுத்தொகை சுழியம் தசமம் ஒன்பது ஒன்பது வரை இரு தசம இடங்கள் வரையிலான இரு தசம எண்களைக் கழிப்பர்.,3020400,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.2.5,சுழியம் தசமம் ஒன்பது ஒன்பதுக்கு உட்பட்ட இரு தசம இடங்கள் வரையிலான இரு தசம எண்களைக் கழிப்பர்.,3020500,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.3.1,"விழுக்காட்டைப் பெயரிடுவர், கூறுவர்.",3030100,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.3.3,"நூறு கட்ட பலகையில் விழுக்காட்டையும் விழுக்காட்டை நூறு கட்ட பலகையிலும் பிரதிநிதிப்பர்,",3030300,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.3.4,ஒரு விழுக்காட்டிலிருந்து நூறு விழுக்காடு வரை எழுதுவர்.,3030400,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.4.1,நூறில் ஒன்று பின்னத்தைத் தசமத்திலும் தசமத்தை நூறில் ஒன்று பின்னத்தைலும் பிரதிநிதிப்பு செய்வர்.,3040100,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.4.2,தசமத்தை விழுக்காட்டிலும் விழுக்காட்டைத் தசமத்திலும் பிரதிநிதிப்புச் செய்வர்.,3040200,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.5.1,"பின்னம், தசமம், விழுக்காடு தொடர்பான கணித வாக்கியத்தின் அடிப்படையில் சூழலை உருவாக்குவர்.",3050100,True
+Matematik SJKT,MT-SJKT,3,"3.0 பின்னம், தசமம், விழுக்காடு",3.5.2,"பின்னம், தசமம், விழுக்காடு தொடர்பான அன்றாட சூழலில் காணும் பிரச்சனைக்குத் தீர்வு காண்பர்.",3050200,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.1.1,கூட்டுத்தொகை RM10 000 வரையிலான இரு பண மதிப்பில் சேர்த்தல் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,4010100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.1.2,கூட்டுத்தொகை RM10 000 வரையிலான மூன்று பண மதிப்பில் சேர்த்தல் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,4010200,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.2.1,கூட்டுத்தொகை RM10 000 வரையிலான இரு பண மதிப்பில் கழித்தல் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,4020100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.2.2,கூட்டுத்தொகை RM10 000 வரையிலான மூன்று பண மதிப்பில் கழித்தல் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,4020200,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.3.1,RM10 000 க்குள் பணம் தொடர்பான சேர்த்தல் கழித்தல் கலவை கணித வாக்கியத்துக்கு தீர்வு காண்பர்.,4030100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.4.1,"பெருக்குத்தொகை RM10 000 வரையிலான பண மதிப்பை ஓர் இலக்க எண், 10, 100, 1000 உடன் பெருக்கும் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.",4040100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.5.1,"RM10 000க்குள் பண மதிப்பை ஓர் இலக்க எண், 10,100, 1000 ஆல் வகுக்கும் கணித வாக்கியத்துக்கு தீர்வு காண்பர்.",4050100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.6.1,ஆசியான் நாடுகளின் நாணயத்தை அறிவர்.,4060100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.6.2,தற்போதைய மதிப்பிற்கு ஏற்ப RM1 ஐ பிற நாடுகளின் நாணய மதிப்பிற்கு மாற்றுவர்.,4060200,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.7.1,தேவையும் விருப்பமும் சேமிப்பு மற்றும் முதலீட்டின் அடிப்படை என்பதை விளக்குவர்.,4070100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.7.2,சேமிப்பு மற்றும் முதலீட்டின் அவசியத்தை விளக்குவர்.,4070200,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.8.1,"பணத்தை உள்ளடக்கிய சேர்த்தல், கழித்தல், பெருக்கல், வகுத்தல் தொடர்பான கணித வாக்கியத்தின் அடிப்படையில் சூழல் உருவாக்குவர்.",4080100,True
+Matematik SJKT,MT-SJKT,3,4.0 பணம்,4.8.2,"10 000 வரையிலான பணத்தை உள்ளடக்கிய அடிப்படை விதிகள் மற்றும் சேர்த்தல், கழித்தல் கலவை கணக்குத் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",4080200,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.1.1,ஒரு நடவடிக்கை தொடர்பான அட்டவணையை வாசிப்பர்.,5010100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.1.2,"ஏதாவதொரு நடவடிக்கையின் அப்போதைய, முந்தைய, பிந்தையக் கால நேரத்தை வாசிப்பர், குறிப்பெடுப்பர்.",5010200,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.2.1,"வாரத்திற்கும் நாளுக்கும், வருடத்திற்கும் மாதத்திற்கும், நிமிடத்திற்கும் வினாடிக்கும் இடையே உள்ள தொடர்பைக் கூறுவர்.",5020100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.2.2,"மணி நிமிடம், நிமிடம் வினாடி ஆகியவற்றுக்கிடையே உள்ள நேரத்தை மாற்றுவர்.",5020200,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.3.1,நாள்காட்டியை வாசித்து தகவல்களைப் பெறுவர்.,5030100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.4.1,மூன்று கால அளவைகள் வரை சேர்ப்பர். மூன்று கால அளவைகள் வரை சேர்ப்பர். மணி மற்றும் மணி; மூன்று கால அளவைகள் வரை சேர்ப்பர். நிமிடம் மற்றும் நிமிடம்; மூன்று கால அளவைகள் வரை சேர்ப்பர். வினாடி மற்றும் வினாடி; மூன்று கால அளவைகள் வரை சேர்ப்பர். மணி நிமிடம் மற்றும் மணி நிமிடம்; மூன்று கால அளவைகள் வரை சேர்ப்பர். நிமிடம் வினாடி மற்றும் நிமிடம் வினாடி,5040100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.5.1,மூன்று கால அளவைகள் வரை கழிப்பர். மூன்று கால அளவைகள் வரை கழிப்பர். மணி மற்றும் மணி; மூன்று கால அளவைகள் வரை கழிப்பர். நிமிடம் மற்றும் நிமிடம்; மூன்று கால அளவைகள் வரை கழிப்பர். வினாடி மற்றும் வினாடி; மூன்று கால அளவைகள் வரை கழிப்பர். மணி நிமிடம் மற்றும் மணி நிமிடம்; மூன்று கால அளவைகள் வரை கழிப்பர். நிமிடம் வினாடி மற்றும் நிமிடம் வினாடி,5050100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.6.1,மணி மற்றும் மணி ஆகிய கால அளவைகளில் சேர்த்தல் கழித்தல் கலவைக் கணக்குகளுக்குத் தீர்வு காண்பர். நிமிடம் மற்றும் நிமிடம் ஆகிய கால அளவைகளில் சேர்த்தல் கழித்தல் கலவைக் கணக்குகளுக்குத் தீர்வு காண்பர். வினாடி மற்றும் வினாடி ஆகிய கால அளவைகளில் சேர்த்தல் கழித்தல் கலவைக் கணக்குகளுக்குத் தீர்வு காண்பர். மணி நிமிடம் மற்றும் மணி நிமிடம் ஆகிய கால அளவைகளில் சேர்த்தல் கழித்தல் கலவைக் கணக்குகளுக்குத் தீர்வு காண்பர். நிமிடம் வினாடி மற்றும் நிமிடம் வினாடி ஆகிய கால அளவைகளில் சேர்த்தல் கழித்தல் கலவைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,5060100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.7.1,மணி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணுடன் பெருக்குவர். நிமிடம் ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணுடன் பெருக்குவர். வினாடி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணுடன் பெருக்குவர். மணி நிமிடம் ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணுடன் பெருக்குவர். நிமிடம் வினாடி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணுடன் பெருக்குவர்.,5070100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.8.1,மணி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணால் வகுப்பர். நிமிடம் ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணால் வகுப்பர். வினாடி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணால் வகுப்பர். மணி நிமிடம் ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணால் வகுப்பர். நிமிடம் வினாடி ஆகிய கால அளவைகளளை ஓர் இலக்க எண்ணால் வகுப்பர்.,5080100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.9.1,காலமும் நேரமும் தொடர்பான கணித வாக்கியத்தின் அடிப்படையில் சூழலை உருவாக்குவர்.,5090100,True
+Matematik SJKT,MT-SJKT,3,5.0 காலமும் நேரமும்,5.9.2,காலமும் நேரமும் தொடர்பான அன்றாட பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,5090200,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.1.1,"சென்டிமீட்டர், மீட்டர் உள்ளடக்கிய நீட்டலளவையை மாற்றுவர்.",6010100,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.1.2,"சென்டிமீட்டர், மீட்டர் உள்ளடக்கிய மூன்று நீட்டலளவையை வரையிலான சேர்த்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6010200,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.1.3,"சென்டிமீட்டர், மீட்டர் உள்ளடக்கிய ஒரு மதிப்பில் இருந்து இரு மதிப்பு வரையிலான நீட்டலளவை கழித்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6010300,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.1.4,"சென்டிமீட்டர், மீட்டர் உள்ளடக்கிய நீட்டலளவையை ஓர் இலக்கத்துடன் பெருக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6010400,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.1.5,"சென்டிமீட்டர், மீட்டர் உள்ளடக்கிய நீட்டலளவையை ஓர் இலக்கத்தால் வகுக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6010500,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.2.1,"கிராம், கிலோகிராம் உள்ளடக்கிய பொருண்மையை மாற்றுவர்.",6020100,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.2.2,"கிராம், கிலோகிராம் உள்ளடக்கிய மூன்று பொருண்மை வரையிலான சேர்த்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6020200,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.2.3,"கிராம், கிலோகிராம் உள்ளடக்கிய ஒரு மதிப்பில் இருந்து இரு மதிப்பு வரையிலான பொருண்மை கழித்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6020300,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.2.4,"கிராம், கிலோகிராம் உள்ளடக்கிய பொருண்மையை ஓர் இலக்கத்துடன் பெருக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6020400,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.2.5,"கிராம், கிலோகிராம் உள்ளடக்கிய பொருண்மையை ஓர் இலக்கத்தால் வகுக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6020500,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.3.1,"லிட்டர், மில்லிலிட்டர் உள்ளடக்கிய கொள்ளளவை மாற்றுவர்.",6030100,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.3.2,"லிட்டர், மில்லிலிட்டர் உள்ளடக்கிய மூன்று கொள்ளளவு வரையிலான சேர்த்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6030200,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.3.3,"லிட்டர், மில்லிலிட்டர் உள்ளடக்கிய ஒரு மதிப்பில் இருந்து இரு மதிப்பு வரையிலான கொள்ளளவு கழித்தல் கணித வாக்கியத்திற்கு தீர்வு காண்பர்.",6030300,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.3.4,லிட்டர் மற்றும் மில்லிலிட்டர் உள்ளடக்கிய கொள்ளளவை ஓர் இலக்கத்துடன் பெருக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.,6030400,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.3.5,லிட்டர் மற்றும் மில்லிலிட்டர் உள்ளடக்கிய கொள்ளளவை ஓர் இலக்கத்தால் வகுக்கும் கணித வக்கியத்துக்கு கணித வாக்கியத்திற்கு தீர்வு காண்பர்.,6030500,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.4.1,அளவை தொடர்பான கணித வாக்கியத்தின் அடிப்படையில் சூழலை உருவாக்குவர்.,6040100,True
+Matematik SJKT,MT-SJKT,3,6.0 நீட்டலளவை,6.4.2,அளவை தொடர்பான அன்றாட சூழலில் காணும் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,6040200,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.1.1,"சதுரப் பட்டகம், செவ்வகப் பட்டகம், முக்கோணப்பட்டகம் ஆகியவற்றை அடையாளம் காண்பர்.",7010100,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.1.2,"மேற்பரப்பு, அடித்தளம், முனை,விளிம்பு ஆகியவற்றின் அடிப்படையில் பட்டகம் மற்றும் பட்டகம் அல்லாதவையைத் தன்மைகேற்ப பெயரிடுவர்.",7010200,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.2.1,"மேற்பரப்பு, அடித்தளம், முனை,விளிம்பு ஆகியவற்றின் அடிப்படையில் பட்டகம் மற்றும் பட்டகம் அல்லாதவையைத் தன்மைகேற்ப ஒப்பிடுவர்.",7020100,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.3.1,"ஐங்கோணம், அறுங்கோணம், எழுகோணம், எண்கோணம் ஆகிய பல்கோண வடிவத்தை அடையாளம் காண்பர்.",7030100,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.3.2,பல்கோண புனை வடிவத்தை உருவாக்குவர்.,7030200,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.4.1,இருபரிமாண வடிவங்களில் சமச்சீர்க் கோட்டை அடையாளம் காண்பர்; வரைவர்.,7040100,True
+Matematik SJKT,MT-SJKT,3,7.0 வடிவியல்,7.5.1,பட்டகத்தையும் இருபரிமாண வடிவங்களின் சமச்சீர்க் கோட்டையும் உள்ளடக்கிய பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,7050100,True
+Matematik SJKT,MT-SJKT,3,8.0 அச்சுதூரம்,8.1.1,ஏற்புடைய சொற்களஞ்சியங்களைக் கொண்டு குறிப்பு புள்ளியின் அடிப்படையில் பொருளின் நிலையை அடையாளம் காண்பர்.,8010100,True
+Matematik SJKT,MT-SJKT,3,8.0 அச்சுதூரம்,8.1.2,"கிடை நிலை அச்சு, செங்குத்து அச்சில் காணும் பொருளின் நிலையை அடிப்படையாகக் கொண்டு பொருளைப் பெயரிடுவர்.",8010200,True
+Matematik SJKT,MT-SJKT,3,8.0 அச்சுதூரம்,8.1.3,"கிடை நிலை அச்சு, செங்குத்து அச்சில் காணும் பொருளின் நிலையை உறுதிப்படுதுவர்.",8010300,True
+Matematik SJKT,MT-SJKT,3,8.0 அச்சுதூரம்,8.2.1,அச்சுத்தூரம் தொடர்பான பிரச்சனை கணக்குகளுக்குத் தீர்வு காண்பர்.,8020100,True
+Matematik SJKT,MT-SJKT,3,9.0 தரவைக் கையாளுதல்,9.1.1,"அன்றாட சூழலுக்கு ஏற்ப தரவை சேகரிப்பர், வகைபடுத்துவர், நிரல்படுத்துவர்.",9010100,True
+Matematik SJKT,MT-SJKT,3,9.0 தரவைக் கையாளுதல்,9.2.1,வட்டக்குறிவரைவைப் படித்துத் தகவலைப் பெறுவர்.,9020100,True
+Matematik SJKT,MT-SJKT,3,9.0 தரவைக் கையாளுதல்,9.3.1,"ஒரு தகவலைப் பிரதிநிதிக்கப் படக்குறிவரைவு, பட்டைக்குறிவரைவு, வட்டக்குறிவரைவு ஆகியவற்றைத் தொடர்புப்படுத்துவர்.",9030100,True
+Matematik SJKT,MT-SJKT,3,9.0 தரவைக் கையாளுதல்,9.4.1,அன்றாட சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,9040100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.1.1,100 000 வரையிலான எண்களைக் குறிப்பிடுவர்,1010100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.1.2,100 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்.,1010200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.2.1,"ஒற்றைப்படை, இரட்டைப்படை எண்களைத் தன்மைப்படுத்துவர்.",1020100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.2.2,"ஒற்றைப்ப்டை, இரட்டைப்படை எண்களை வகைப்படுத்துவர்.",1020200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.3.1,கொடுக்கப்பட்ட மேற்கோள் விபரத்தைக் கொண்டு பெருளின் எண்ணிக்கையின் மதிப்பை அனுமானித்து விடையின் ஏற்புடைமையை உறுதிப்படுத்துவர்.,1030100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.4.1,முழு எண்களைக் கிட்டிய பத்தாயிரம் வரை எழுதுவர்.,1040100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.5.1,"ஒன்று ஒன்று முதல் பத்து பத்தாக, நூறு நூறாக, ஆயிரம் ஆயிரமாக, பத்தாயிரம் பத்தாயிரமாக ஏறு வரிசையிலும் இறங்கு வரிசையிலும் உள்ள எண் தோரணியை அடையாளம் காண்பர்.",1050100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.5.2,"ஒன்று ஒன்று முதல் பத்து பத்தாக, நூறு நூறாக, ஆயிரம் ஆயிரமாக, பத்தாயிரம் பத்தாயிரமாக ஏறு வரிசையிலும் இறங்கு வரிசையிலும் கொடுக்கப்பட்டுள்ள பல்வகையான எண் தோரணிகளை நிறைவு செய்வர்.",1050200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.6.1,கூட்டுத்தொகை 100 000க்குள் உட்பட்ட நான்கு எண்கள் வரையிலான சேர்த்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.6.2,100 000 க்கு உட்பட்ட இரு எண்கள் கழித்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.6.3,100 000 க்கு உட்பட்ட ஓர் எண்ணிலிருந்து இரு எண்கள் கழித்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060300,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.6.4,"பெருக்குத் தொகை 100 000க்குள் ஏதாவது ஐந்து இலக்கம் வரையிலான எண்ணை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் பெருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",1060400,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.6.5,"100 000க்குள் ஏதாவது எண்ணை ஈரிலக்கம் வரையிலும், 100, 1000 ஆகியவற்றால் வகுக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",1060500,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.7.1,100 000க்குள் சேர்த்தல் கழித்தல் கலவைக் கணக்கு தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1070100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.7.2,100 000க்குள் பெருக்கல் வகுத்தல் கலவைக் கணக்கு தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1070200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.8.1,சேர்த்தல் கணித வாக்கியத்தில் இரு இலக்கம் வரயிலான இரு எண்களில் ஒரு நிகரியின் மதிப்பை உறுதிப்படுத்துவர்.,1080100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.8.2,கழித்தல் கணித வாக்கியத்தில் இரு இலக்கம் வரயிலான இரு எண்களில் ஒரு நிகரியின் மதிப்பை உறுதிப்படுத்துவர்.,1080200,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.9.1,"100 000 வரையிலான அன்றாடச் சூழல் தொடர்பான முழு எண்கள், சேர்த்தல் கழித்தல், பெருக்கல் வகுத்தல் உள்ளடக்கிய கலவைக் கணக்கு தொடர்பான பிரச்சனைகளுக்குத் தீர்வு காண்பர்.",1090100,True
+Matematik SJKT,MT-SJKT,4,1.0 முழு எண்களும் அடிப்படை விதிகளும்,1.9.2,அன்றாடச் சூழல் ஒரு நிகரியை உள்ளடக்கிய சேர்த்தல் கழித்தல் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காணபர்.,1090200,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.1.1,"தகாப் பின்னத்தைக் கலப்பு பின்னமாகவும், கலப்புப் பின்னத்தைத் தகாப் பின்னமாகவும் மாற்றுவர்.",2010100,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.1.2,"தகு பின்னம், முழு எண், கலப்புப் பின்னம் ஆகியவை உள்ளடக்கிய மூன்று எண்கள் வரை சேர்ப்பர்.",2010200,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.1.3,பின்னத்தில் கழித்தல்,2010300,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.1.4,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவை உள்ளடக்கிய சேர்த்தல் கழித்தல் கலவைக் கணக்குகளைச் செய்வர்.",2010400,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.1.5,"குறிப்பிட்ட எண்ணிக்கையிலிருந்து தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றின் மதிப்பை உறுதிப்படுத்துவர்.",2010500,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.2.1,மூன்று தசம இடங்கள் வரையிலான மூன்று தசம எண்களைச் சேர்ப்பர்.,2020100,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.2.2,மூன்று தசம இடங்கள் வரையிலான ஒரு தசம எண்ணிலிருந்து இரு தசம எண்களைக் கழிப்பர்.,2020200,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.2.3,"பெருக்குத் தொகை மூன்று இடங்கள் வரையிலான தசம எண்ணை ஓரிலக்க எண், 10, 100, 1000 ஆல் பெருக்குவர்.",2020300,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.2.4,"ஈவு தொகை மூன்று தசம இடங்கள் வரும்படி ஓரிலக்க எண், 10, 100, 1000 ஆல் வகுப்பர்.",2020400,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.3.1,"பின்னத்தை விழுக்காட்டிற்கும், விழுக்காட்டைப் பின்னத்திற்கும் மாற்றுவர்.",2030100,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.3.2,குறிப்பிட்ட பொருளின் எண்ணிக்கையின் விழுக்காட்டைக் கணக்கிடுவர்.,2030200,True
+Matematik SJKT,MT-SJKT,4,"2.0 பின்னம், தசமம், விழுக்காடு",2.4.1,"பின்னம், தசமம், விழுக்காடு தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",2040100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.1.1,கூட்டுத்தொகை 100 000க்குள் மூன்று பண மதிப்பு வரையிலான சேர்த்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3010100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.1.2,100 000க்குள் ஒரு பண மதிப்பிலிருந்து இரு பண மடிப்பு வரையிலான கழித்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3010200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.1.3,பெருக்குத் தொகை 100 000க்குள் பண மதிப்பை ஈரிலக்கம் வரையிலான எண்களுடன் பெருக்கும் கணித வாக்கியத்திற்க்குத் தீர்வு காண்பர்.,3010300,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.1.4,100 000க்குள் ஏதாவது பண மதிப்பை ஈரிலக்கம் வரையிலான எண்களால் வகுக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3010400,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.2.1,100 000க்குள் சேர்த்தல் கழித்தல் கலவைக் கணக்குகள் தொரடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3020100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.2.2,100 000க்குள் பெருக்கல் வகுத்தல் கலவைக் கணக்குகள் தொரடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3020200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.3.1,"குறிகிய கால நிதி இலக்கை அடைய நாள், வாராந்திர, மாதாந்திர வரவு செலவைத் திட்டமிடுவர்.",3030100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.3.2,"நிதி இலக்கை அடைய சேமிப்பு, செலவு ஆகியவற்றின் குறிப்பைத் தயாரிப்பர்.",3030200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.3.3,"சேமிப்பு, செலவு ஆகியவற்றைக் குறிப்பெடுப்பதன் அவசித்தை விளக்குவர்.",3030300,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.4.1,நிதி தொடர்பான முடிவெடுப்பதன் விளைவுகளை விளக்குவர்.,3040100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.4.2,முக்கிய தேவையையும் விருப்பத்தையும் அடிப்படையாகக் கொண்டு நிதி தொடர்பாக முடிவெடுப்பர்.,3040200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.4.3,பல்வகை மூலங்களிலிருந்து கிடைக்கப் பெறும் தகவல்களைப் பகுப்பாய்வு செய்து நிதி தொடர்பான முடிவெடுப்பர்.,3040300,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.5.1,உலகின் முக்கிய நாடுகளின் நாணயத்தை அறிவர்.,3050100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.5.2,தற்போதைய மதிப்பிற்கு ஏற்ப 1ஐ பிற நாடுகளின் நாணய மதிப்பில் குறிப்பிடுவர்.,3050200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.6.1,கட்டணத்தைச் செலுத்தும் பல்வகை கருவிகளை அடையாளம் காண்பர்.,3060100,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.6.2,சேவைகளுக்கும் பொருள்களுக்கும் கட்டணத்தைச் செலுத்தப் பயன்படுத்தும் பல்வேறு கருவிகளைப் பற்றி விளக்குவர்.,3060200,True
+Matematik SJKT,MT-SJKT,4,3.0 பணம்,3.7.1,"100 000 வரையிலான பணத்தை உள்ளடக்கிய அடிப்படை விதிகள், கலவைக் கணக்கு ஆகியவை தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",3070100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.1.1,12 மணி முறைமைக்கும் 24 மணி முறைமைக்கும் உள்ள தொடர்பை அடையாளம் காண்பர்.,4010100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.2.1,24 மணி நேரத்திற்குட்பட்ட கால அளவையை மணியிலும் நிமிட த்திலும் உறுதிப்படுத்துவர்.,4020100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.3.1,அன்றாடச் சூழலில் கொடுக்கப்பட்ட மேற்கோள் விபரத்தை அடிப்படையாகக் கொண்டு நேரத்தை மணியிலும் நிமிட த்திலும் அனுமானித்து குறிப்பிடுவர்.,4030100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.4.1,"சகத்திராண்டு, நூற்றாண்டு, பத்தாண்டு, ஆண்டு ஆகியவற்றுக்கிடையே உள்ள தொடர்பைக் குறிப்பிடுவர்.",4040100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.4.2,நேரத்தை மாற்றுவர்.,4040200,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.5.1,"மூண்று கால அளவைகள் வரை சேர்த்தல், கழித்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",4050100,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.5.2,"கணித வாக்கியத்திற்குத் தீர்வு காண்பர்; ஈரிலக்க எண்ணால் பெருக்குவர், வகுப்பர்.",4050200,True
+Matematik SJKT,MT-SJKT,4,4.0 காலமும் நேரமும்,4.6.1,காலமும் நேரமும் தொடர்பான அன்றாடப் பிரச்சனைக்குத் தீர்வு காண்பர்.,4060100,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.1,"மில்லிமீட்டர், கிலோமீட்டர் ஆகிய நீட்டலளவையை அறிவர்.",5010100,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.2,"மில்லிமீட்டர், சென்டிமீட்டர்; மீட்டர், கிலோமீட்டர்; ஆகியவற்றுக்கிடையே உள்ள தொடர்பைக் குறிப்பிடுவர்.",5010200,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.3,"மில்லிமீட்டர், சென்டிமீட்டர்; மீட்டர், கிலோமீட்டர்; ஆகியவற்றுக்கிடையே உள்ள நீட்டலளவையை மாற்றுவர்.",5010300,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.4,மில்லிமீட்டரில் பொருளின் நீளத்தை அளப்பர்.,5010400,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.5,கிலோமீட்டரில் தூரத்தை அனுமானிப்பர்.,5010500,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.6,"மில்லிமீட்டர், சென்டிமீட்டர்; மீட்டர், கிலோமீட்டர்; உள்ளடக்கிய மூன்று நீட்டலளவை வரையிலான சேர்த்தல் கணித் வாக்கியத்திற்குத் தீர்வு காண்பர். உள்ளடக்கிய ஒரு மதிப்பில் இருந்து இரு மதிப்பு வரையிலான நீட்டலளவை கழித்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5010600,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.8,"மில்லிமீட்டர், சென்டிமீட்டர்; மீட்டர், கிலோமீட்டார்; உள்ளடக்கிய நீட்டலளவையை ஓர் இலக்கத்துடன் பெருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5010800,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.1.9,"மில்லிமீட்டர், சென்டிமீட்டர்; மீட்டர், கிலோமீட்டர்; உள்ளடக்கிய நீட்டலளவையை ஓர் இலக்கத்தால் வகுக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5010900,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.2.1,"பொருண்மை தொடர்பான கிராம், கிலோகிராம் உள்ளடக்கிய சேர்த்தல் கழித்தல் கலவைக் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5020100,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.2.2,"பொருண்மை தொடர்பான கிராம், கிலோகிராம் உள்ளடக்கிய பெருக்கல் வகுத்தல் கலவைக் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5020200,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.3.1,"மில்லிலிட்டர், லிட்டர் உள்ளடக்கிய கொள்ளளவு தொடர்பான சேர்த்தல் கழித்தல் கலவைக் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5030100,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.3.2,"மில்லிலிட்டர், லிட்டர் உள்ளடக்கிய கொள்ளளவு தொடர்பான பெருக்கல் வகுத்தல் கலவைக் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",5030200,True
+Matematik SJKT,MT-SJKT,4,5.0 அளவை,5.4.1,அளவை தொடர்பான அன்றாடச் சூழலில் காணும் பிரச்சனைக்குத் தீர்வு காண்பர்.,5040100,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.1.1,"செவ்வகம், சதுரம், முக்கோணம் ஆகியவற்றில் உள்ள செங்கோணம், குறுங்கோணம், விரிகோணம் ஆகியவற்றை அடையாளம் காண்பர்; பெயரிடுவர்.",6010100,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.2.1,"இணைக்கோடு, செங்குத்துக்கோடு ஆகியவற்றை அடையாளம் காண்பர்; பெயரிடுவர்.",6020100,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.2.2,"இணைக்கோடு, செங்குத்துக்கோடு ஆகியவற்றை வரைவர்.",6020200,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.3.1,எட்டு வரையிலான பல்கோணத்தின் சுற்றளவை கணக்கிடுவர்.,6030100,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.3.2,"சதுரம், செவ்வகம், செங்கோண முக்கோணம், சமபக்க முக்கோணம், இரு சமபக்க முக்கோணம் ஆகியவற்றின் பரப்பளவைக் கணக்கிட 1 அலகு கொண்ட சதுரக் கட்டங்களையும் சூத்திரங்களையும் கொண்டு உறுதிபடுத்துவர்.",6030200,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.4.1,"கனச்சதுரம், கனச்செவ்வகம் ஆகியவற்றின் கன அளவுகளைக் கணக்கிட 1 அலகு கொண்ட கனச்சதுரங்களையும் சூத்திரங்களையும் கொண்டு உறுதிப்படுத்துவர்.",6040100,True
+Matematik SJKT,MT-SJKT,4,6.0 வடிவியல்,6.5.1,வடிவியல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,6050100,True
+Matematik SJKT,MT-SJKT,4,"7.0 அச்சுத் தூரம், விகிதம், வீதம்",7.1.1,"அச்சு, அச்சு மற்றும் ஆதிப்புள்ளியை (ஒ) அறிந்து கொள்வர்.",7010100,True
+Matematik SJKT,MT-SJKT,4,"7.0 அச்சுத் தூரம், விகிதம், வீதம்",7.1.2,முதல் கால் வட்டத்தில் உள்ள புள்ளியின் அச்சுத் தூரத்தையும் அச்சுத் தூரத்திற்கான புள்ளியையும் உறுதிச் செய்வர்.,7010200,True
+Matematik SJKT,MT-SJKT,4,"7.0 அச்சுத் தூரம், விகிதம், வீதம்",7.2.1,"இரு எண்ணிக்கையின் மதிப்பை 1:1 முதல் 1:10 வரை, 1:100 மற்றும் 1:1000 ஆகியவற்றின் விகித அடிப்படையில் பிரதிநிதிப்புச் செய்வர்.",7020100,True
+Matematik SJKT,MT-SJKT,4,"7.0 அச்சுத் தூரம், விகிதம், வீதம்",7.3.1,ஒன்றைச் சார்ந்த முறைமையில் ஏதாவதொரு மதிப்பை உறுதிப்படுத்துவர்.,7030100,True
+Matematik SJKT,MT-SJKT,4,"7.0 அச்சுத் தூரம், விகிதம், வீதம்",7.4.1,"அச்சுத் தூரம், விகிதம், வீதம் ஆகியவற்றை உள்ளடக்கிய அன்றாடச் சூழல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",7040100,True
+Matematik SJKT,MT-SJKT,4,8.0 தரவைக் கையாளுதல்,8.1.1,"தொகுக்கப்படாத தரவுகளைக் கொண்டு படக்குறிவரைவு, பட்டைக்குறிவரைவு ஆகியவற்றை உருவாக்குவர்.",8010100,True
+Matematik SJKT,MT-SJKT,4,8.0 தரவைக் கையாளுதல்,8.1.2,"உருவாக்கப்பட்ட படக்குறிவரைவு, பட்டைக்குறிவரைவு ஆகியவற்றிலுள்ள தரவுகளைப் பொருட்பெயர்ப்பர்.",8010200,True
+Matematik SJKT,MT-SJKT,4,8.0 தரவைக் கையாளுதல்,8.2.1,அன்றாடச் சூழலில் தரவைக் கையாளுதல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,8020100,True
+Matematik SJKT,MT-SJKT,5,எண்மானத்தை வாசிப்போம்.,1.1.1,1 000 000 வரையிலான எண்களைக் குறிப்பிடுவர்: (அ) எண்மானத்தில் கொடுக்கப்பட்டுள்ள ஏதாவது எண்ணை வாசிப்பர். (ஆ) எண்குறிப்பில் கொடுக்கப்பட்டுள்ள ஏதாவது எண்ணைக் கூறுவர்.,1010100,True
+Matematik SJKT,MT-SJKT,5,எண்மானத்திலும் எண்குறிப்பிலும் எண்களை அறிவோம்.,1.1.1,1 000 000 வரையிலான எண்களைக் குறிப்பிடுவர்: (அ) எண்மானத்தில் கொடுக்கப்பட்டுள்ள ஏதாவது எண்ணை வாசிப்பர். (இ) எண்ணை எண்குறிப்பிலும் எண்மானத்திலும் எழுதுவர்.,1010100,True
+Matematik SJKT,MT-SJKT,5,இடமதிப்பையும் இலக்கமதிப்பையும் அறிவோம்.,1.1.2,1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (அ) ஏதாவதொரு எண்ணின் இடமதிப்பையும் இலக்கமதிப்பையும் குறிப்பிடுவர்.,1010200,True
+Matematik SJKT,MT-SJKT,5,எண்களைப் பிரித்திடுவோம்.,1.1.2,1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (ஆ) ஏதாவதொரு எண்னை இடமதிப்பிற்கும் இலக்கமதிப்பிற்கும் ஏற்ப பிரிப்பர்.,1010200,True
+Matematik SJKT,MT-SJKT,5,எண்களை ஒப்பிடுவோம்.,1.1.2,1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (இ) இரு எண்ணின் மதிப்பை ஒப்பிடுவர்.,1010200,True
+Matematik SJKT,MT-SJKT,5,இரண்டு எண்களை ஒப்பிடுவோம்.,1.1.2,1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (இ) இரு எண்ணின் மதிப்பை ஒப்பிடுவர்.,1010200,True
+Matematik SJKT,MT-SJKT,5,ஏறு வரிசையிலும் இறங்கு வரிசையிலும் நிரல்படுத்துவோம்.,1.1.2,1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (ஈ) எண்களை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் நிரல்படுத்துவர்.,1010200,True
+Matematik SJKT,MT-SJKT,5,எண்தொடரை நிறைவு செய்வோம்.,1.1.2,"1000 000 வரையிலான எண்ணின் மதிப்பை உறுதிப்படுத்துவர்: (உ) ஏதாவதொரு எண் தொடரை ஏறு வரிசையிலும் இறங்கு வரிசையிலும் பூர்த்திச் செய்வர்,",1010200,True
+Matematik SJKT,MT-SJKT,5,பகா எண்களை அறிவோம்.,1.2.1,100க்குட்பட்ட பகா எண்களை அடையாளம் காண்பர்.,1020100,True
+Matematik SJKT,MT-SJKT,5,பொருள்களின் எண்ணிக்கையை அனுமானிப்போம்.,1.3.1,"கொடுக்கப்பட்ட மேற்கோள் விபரத்தைக் கொண்டு ஏதாவதொரு எண்ணிக்கையின் வழங்கப்படும் எடுத்துக்காட்டுகள் மாணவர்களின் மதிப்பை அனுமானித்து விடையின் ஏற்புடைமையை புறுதிப்படுத்துவர்,",1030100,True
+Matematik SJKT,MT-SJKT,5,எண்களைக் கிட்டிய மதிப்பிற்கு மாற்றுவோம்.,1.4.1,முழு எண்களைக் கிட்டிய நூறாயிரம் வரை மாற்றுவர்.,1040100,True
+Matematik SJKT,MT-SJKT,5,எண்களைக் கிட்டிய மதிப்பிற்கு மாற்றுவோம்.,1.4.2,கிட்டிய நூறாயிரம் வரை மாற்றிய ஏதாவதொரு எண் பிரதிநிதிக்கக்கூடிய எண்களை அடையாளம் காண்பர்.,1040200,True
+Matematik SJKT,MT-SJKT,5,எண் தோரணியை அடையாளம் காண்போம்.,1.5.1,"ஒன்று ஒன்று முதல் பத்து பத்தாக, நூறு நூறாக, ஆயிரம் ஆயிரமாக, பத்தாயிரம் பத்தாயிரமாக, நூறாயிரம் நாறாயிரமாக ஏறு வரிசையிலும் ஆறு எண்கள் வரையிலான என் தொடரை இறங்கு வரிசையிலும் உள்ள எண் தொடரின் தோரணியை அடையாளம் காண்பர்.",1050100,True
+Matematik SJKT,MT-SJKT,5,எண் தோரணியை அடையாளம் காண்போம்.,1.5.2,ஏறு வரிசையிலும் இறங்கு வரிசையிலும் உள்ள எண் தோரணியைப் பூர்த்திச் செய்வர்.,1050200,True
+Matematik SJKT,MT-SJKT,5,சேர்த்திடுவோம்.,1.6.1,கூட்டுத்தொகை 1 000 000க்குள் உட்பட்ட ஆறு இலக்கம் வரையிலான ஐந்து எண்கள் வரையில் சேர்த்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060100,True
+Matematik SJKT,MT-SJKT,5,வகுத்திடுவோம்.,1.6.1,கூட்டுத்தொகை 1 000 000க்குள் உட்பட்ட ஆறு இலக்கம் வரையிலான ஐந்து எண்கள் வரையில் சேர்த்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060100,True
+Matematik SJKT,MT-SJKT,5,கழித்திடுவோம்.,1.6.2,1000 000க்கு உட்பட்ட மூன்று எண்கள் வரையிலான கழித்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060200,True
+Matematik SJKT,MT-SJKT,5,வகுத்திடுவோம்.,1.6.2,1000 000க்கு உட்பட்ட மூன்று எண்கள் வரையிலான கழித்தல் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,1060200,True
+Matematik SJKT,MT-SJKT,5,பெருக்கிடுவோம்.,1.6.3,"பெருக்குத் தொகை 1 000 000க்குள் ஏதாவதொரு எண்ணை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் பெருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",1060300,True
+Matematik SJKT,MT-SJKT,5,வகுத்திடுவோம்.,1.6.3,"பெருக்குத் தொகை 1 000 000க்குள் ஏதாவதொரு எண்ணை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் பெருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",1060300,True
+Matematik SJKT,MT-SJKT,5,வகுத்திடுவோம்.,1.6.4,"1000 000க்குபட்ட ஏதாவதொரு எண்ணை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் வருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",1060400,True
+Matematik SJKT,MT-SJKT,5,கலவைக் கணக்குகள் அறிவோம்.,1.7.1,"அடைப்புக்குறி இன்றியும் அடைப்புக்குறியுடனும் 1 000 000க்குட்பட்ட கலவைக் கணக்குத் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்; சேர்த்தலும் பெருக்கலும், அடைப்புக்குறி இன்றியும் அடைப்புக்குறியுடனும் 1 000 000க்குட்பட்ட கலவைக் கணக்குத் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்: கழித்தலும் பெருக்கலும், சேர்த்ததும் வருத்தலும்.",1070100,True
+Matematik SJKT,MT-SJKT,5,பெருக்கலில் நிகரியைக் கணக்கிடுவோம்.,1.8.1,பெருக்குத் தொகை 1 000 000க்குள் பெருக்கல் கணித வாக்கியத்தில் ஒரு முறை பெருக்களில் ஒரு நிகரியின் மதிப்பை உறுதிப்படுத்துவர்.,1080100,True
+Matematik SJKT,MT-SJKT,5,வகுத்தலில் நிகரியைக் கணக்கிடுவோம்.,1.8.2,"1000 000 வரையிலான ஏதாவது ஓர் எண்னை ஈரிலக்கம் வரையிலான எண், 100, 1000 ஆல் வகுத்தலில் ஒரு நிகரியின் மதிப்பை உறுதிப்படுத்துவர்.",1080200,True
+Matematik SJKT,MT-SJKT,5,முழு எண் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்போம்.,1.9.1,1000 000 வரையிலான முழு எண்களை உள்ளடக்கிய அன்றாட குழல் பிரச்சனைகளுக்குத் தீர்வு காண்பர்.,1090100,True
+Matematik SJKT,MT-SJKT,5,பெருக்கல் பிரச்சனைக் கணக்குகளில் நிகரி பயன்பாடு அறிவோம்.,1.9.2,"1000 000 வரையிலான அன்றாட குழல் தொடர்பான அடிப்படை விதிகள், கலவைக் கணக்கு உள்ளடக்கிய பிரச்சனைகளுக்குத் தீர்வு காண்பர்.",1090200,True
+Matematik SJKT,MT-SJKT,5,பெருக்கல் பிரச்சனைக் கணக்குகளில் நிகரி பயன்பாடு அறிவோம்.,1.9.3,"அன்றாட சூழலில், ஒரு நிகரியை உள்ளடக்கிய பெருக்கல்; வகுத்தல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",1090300,True
+Matematik SJKT,MT-SJKT,5,வகுத்தல் பிரச்சனைக் கணக்குகளில் நிகரி பயன்பாடு அறிவோம்.,1.9.3,"அன்றாட சூழலில், ஒரு நிகரியை உள்ளடக்கிய பெருக்கல்; வகுத்தல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",1090300,True
+Matematik SJKT,MT-SJKT,5,"பின்னம், தசமம், விழுக்காடு",2.1.1,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றை உள்ளடக்கிய இரு எண்களைப் பெருக்குவர்.",2010100,True
+Matematik SJKT,MT-SJKT,5,பின்னத்தில் பெருக்குவோம்.,2.1.1,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றை உள்ளடக்கிய இரு எண்களைப் பெருக்குவர்.",2010100,True
+Matematik SJKT,MT-SJKT,5,தகு பின்னத்தையும் தகு பின்னத்தையும் பெருக்குவோம்.,2.1.1,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றை உள்ளடக்கிய இரு எண்களைப் பெருக்குவர்.",2010100,True
+Matematik SJKT,MT-SJKT,5,தகு பின்னத்தையும் கலப்புப் பின்னத்தையும் பெருக்குவோம்.,2.1.1,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றை உள்ளடக்கிய இரு எண்களைப் பெருக்குவர்.",2010100,True
+Matematik SJKT,MT-SJKT,5,கலப்புப் பின்னத்தையும் கலப்புப் பின்னத்தையும் பெருக்குதல்,2.1.1,"முழு எண், தகு பின்னம், கலப்புப் பின்னம் ஆகியவற்றை உள்ளடக்கிய இரு எண்களைப் பெருக்குவர்.",2010100,True
+Matematik SJKT,MT-SJKT,5,தசம எண்களைக் கிட்டிய மதிப்பில் எழுதுவோம்.,2.2.1,மூன்று தசம இடம் வரையிலான தசமத்தைக் கிட்டிய மதிப்பிற்கு மாற்றுவர்.,2020100,True
+Matematik SJKT,MT-SJKT,5,சேர்த்தல் கழித்தல் தசம கலவைக் கணக்குகள் அறிவோம்.,2.2.2,மூன்று தசம இடம் வரையிலான சேர்த்தல் கழித்தல் தசம் கலவைக் கணக்குத் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,2020200,True
+Matematik SJKT,MT-SJKT,5,தசம எண்களில் பெருக்குவோம்.,2.2.3,"மூன்று தசம இடம் வரையியான தசம எண்னை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் பெருக்குவர்.",2020300,True
+Matematik SJKT,MT-SJKT,5,தசமத்தில் வகுத்திடுவோம்.,2.2.4,"ஈவு தொகை மூன்று தசம இடம் மிகாமல் தசம எண்ணை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் வகுப்பர்.",2020400,True
+Matematik SJKT,MT-SJKT,5,கலப்புப் பின்னத்தை விழுக்காட்டிற்கு மாற்றுவோம்.,2.3.1,கலப்புப் பின்னத்தை விழுக்காட்டிற்கும் விழுக்காட்டைக் கலப்புப் பள்ளத்திற்கும் மாற்றுவர்.,2030100,True
+Matematik SJKT,MT-SJKT,5,ஏதாவதோர் எண்ணிக்கையிலிருந்து விழுக்காட்டைக் கணக்கிடுவோம்.,2.3.2,100% வரையிலும் அதற்கும் மேற்பட்ட விழுக்காட்டின் எண்ணிக்கையைக் கணக்கிடுவர். குறிப்பிட்ட எண்ணிக்கையிலிருந்து 100% வரையிலும் அதற்கு மேற்பட்டும் விழுக்காட்டைக் கணக்கிடுவர்.,2030200,True
+Matematik SJKT,MT-SJKT,5,"பின்னம், தசமம், விழுக்காடு தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்போம்.",2.4.1,"பின்னம், தசமம், விழுக்காடு ஆகியவை தொடர்பான அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.",2040100,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.1.1,கூட்டுத்தொகை FM1 OOO OOO வரையிலான மூன்று பண மதிப்பு வரையில் சேர்த்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3010100,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.1.2,RM1 000 000க்குள் ஒரு பண மதிப்பிலிருந்து இரு பண மதிப்பு வரையிலான கழித்தல் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.,3010200,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.1.3,"பெருக்குத் தொகை RM1 0OO 000 வரையிலான பண மதிப்பை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆகியவற்றுடன் பெருக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்டர்.",3010300,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.1.4,"RM10OO 000க்குள் ஏதாவது பண மதிப்பை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆல் வகுக்கும் கணித வாக்கியத்திற்குத் தீர்வு காண்பர்.",3010400,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.2.1,"அடைப்புக்குறி இன்றியும் அடைப்புக்குறியுடனும் RMI000 000க்குட்பட்ட கலவைக் கணக்குத் தொடர்பான கணித க்கியத்திற்குத் தீர்வு காண்பர்: சேர்த்தலும், பெருக்கலும்; அடைப்புக்குறி இன்றியும் அடைப்புக்குறியுடனும் RMI000 000க்குட்பட்ட கலவைக் கணக்குத் தொடர்பான கணித வாக்கியத்திற்குத் தீர்வு காண்பர்:",3020100,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.3.1,"சேமிப்பு, முதலீடு ஆகியவற்றின் பொருளை விளக்குவர்.",3030100,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.3.2,"சேமிப்பில் வட்டி, கூட்டு வட்டி ஆகியவற்றின் பொருளை வாக்குவர்.",3030200,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.4.1,கடன் என்பதன் பொருளை விளக்குவர்.,3040100,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.4.2,கடனாகவும் ரொக்கமாகவும் பொருள்களை வாங்குவதால் விலையில் ஏற்படும் வேறுபாட்டை விளக்குவர்.,3040200,True
+Matematik SJKT,MT-SJKT,5,பணத்தை அறிதல்,3.5.1,RM1 000 000 வரையிலான பணம் தொடர்பான அன்றாடப் பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்,3050100,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.1.1,"(i), (ii), (iii), (iv); நாளும் மணியும். மாதமும் நாளும். ஆண்டு, மாதம், நாள்.",4010100,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.2.1,"பத்தாண்டிலிருந்து ஆண்டுக்கும்.(v) நூற்றாண்டிலிருந்து பத்தாண்டிற்கும்,(vi) நூற்றாண்டிலிருந்து ஆண்டுக்கும். மணியை நிமிடத்திற்கும்.(ii) நாளிலிருந்து மணிக்கும்.(iii)ஆண்டிலிருந்து மாதத்திற்கும்.",4020100,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.2.2,"[jv) பத்தாண்டிலிருந்து ஆண்டுக்கும்.(v) நூற்றாண்டிலிருந்து பத்தாண்டிற்கும்.(VI) நூற்றாண்டிலிருந்து ஆண்டுக்கும். மணியை நிமிடத்திற்கும்.(1i) நாளிலிருந்து மணிக்கும்.(1ii) ஆண்டிலிருந்து மாதத்திற்கும்,",4020200,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.3.1,"தர அளவையை மாற்றியும் மாற்றாமலும்; மணியும் நிமிடமும்,(ii) நாளும் மணியும், ஆண்டும் மாதமும், நூற்றாண்டும் ஆண்டும்.",4030100,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.3.2,"தர அளவையை மாற்றியும் மாற்றாமலும்; மணியும் நிமிடமும், (i1) நாளும் மணியும், (1i1) ஆண்டும் மாதமும், நூற்றாண்டும் பத்தாண்டும், நூற்றாண்டும் ஆண்டும்,",4030200,True
+Matematik SJKT,MT-SJKT,5,காலமும் நேரமும்,4.4.1,காலமும் நேரமும் தொடர்பான அன்றாட சூழலை உள்ளடக்கிய பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,4040100,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.1,"நீட்டலளவையை உள்ளடக்கிய தர அளவை மூன்று இடம் வரையிலான தசமத்திற்கு மாற்றுவர்; மில்லி மீட்டர் மற்றும் சென்டிமீட்டர், சென்டிமீட்டர் மற்றும் மீட்டர், மீட்டர் மற்றும் கிலோ மீட்டர்,",5010100,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.2,"நீட்டலளவையை உள்ளடக்கிய தர அளவை பின்னத்திற்கு மாற்றுவர்; மில்லிமீட்டர் மற்றும் சென்டிமீட்டர், சென்டிமீட்டர் மற்றும் மீட்டர், மீட்டர் மற்றும் கிலோமீட்டர்,",5010200,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.3,பின்னம் மற்றும் தசமம் உள்ளடக்கிய மூன்று நீட்டலளவை வரையில் தர அைளவை மாற்றாமலும் மாற்றியும் சேர்ப்பர்.,5010300,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.4,பின்னம் மற்றும் தசமம் உள்ளடக்கிய மூன்று நீட்டலளவை வரையில் தர அளவை மாற்றாமலும் மாற்றியும் கழிப்பர்.,5010400,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.5,"பின்னம் மற்றும் தசமம் உள்ளடக்கிய நீட்டலளவையில் ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 வரை தர அளவை மாற்றாமலும் மாற்றியும் பெருக்குவர்.",5010500,True
+Matematik SJKT,MT-SJKT,5,நீட்டலளவை,5.1.6,"பின்னம் மற்றும் தசமம் உள்ளடக்கிய நீட்டலளவையில் சரிலக்கம் வரையிலான எண்கள், 100, 1000 வரை தர அளவை மாற்றாமலும் மாற்றியும் வகுப்பர்.",5010600,True
+Matematik SJKT,MT-SJKT,5,பொருண்மையைத் தசமத்திற்கும் பின்னத்திற்கும் மாற்றிடுவோம்.,5.2.1,கிராம் மற்றும் கிலோகிராமில் உள்ள பொருண்மையைப் பின்னத்திற்கும் தசமத்திற்கும் மாற்றுவர்.,5020100,True
+Matematik SJKT,MT-SJKT,5,பொருண்மையைத் தசமத்திற்கும் பின்னத்திற்கும் மாற்றிடுவோம்.,5.2.2,தர அளவையை மாற்றாமலும் மாற்றியும் மூன்று பொருண்மை வரையில் பின்னத்திலும் தசமத்திலும் சேர்ப்பர்.,5020200,True
+Matematik SJKT,MT-SJKT,5,பொருண்மையைத் தசமத்திற்கும் பின்னத்திற்கும் மாற்றிடுவோம்.,5.2.3,தர அளவையை மாற்றாமலும் மாற்றியும் பொருண்மை வரைபில் பின்னத்திலும் தசமத்திலும் கழிப்பர்.,5020300,True
+Matematik SJKT,MT-SJKT,5,பொருண்மையைத் தசமத்திற்கும் பின்னத்திற்கும் மாற்றிடுவோம்.,5.2.4,"தர அளவையை மாற்றாமலும் மாற்றியும் பின்னத்திலும் தசமத்திலும் மூன்று தசம இடங்கள் வரையிலான பொருண்மையை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆல் பெருக்குவர்.",5020400,True
+Matematik SJKT,MT-SJKT,5,பொருண்மையைத் தசமத்திற்கும் பின்னத்திற்கும் மாற்றிடுவோம்.,5.2.5,"தர அளவையை மாற்றாமலும் மாற்றியும் பின்னத்திலும் தசமத்திலும் மூன்று நாம் இடங்கள் வரையிலான பொருண்மையை ஈரிலக்கம் வரையிலான எண்கள்,100, 1000 ஆல் வகுப்பர்.",5020500,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.3.1,மில்லிலிட்டர் மற்றும் விட்டரில் உள்ள கொள்ளளவைப் பின்னத்திற்கும் தசமத்திற்கும் மாற்றுவர்.,5030100,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.3.2,தர அளவையை மாற்றாமலும் மாற்றியும் மூன்று கொள்ளளவு வரையில் பின்னத்திலும் தசமத்திலும் சேர்ப்பர்.,5030200,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.3.3,தர அளவையை மாற்றாமலும் மாற்றியும் மூன்று கொள்ளளவு வரையில் பின்னத்திலும் தசமத்திலும் கழிப்பர்.,5030300,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.3.4,"தர அளவையை மாற்றாமலும் மாற்றியும் பின்னத்திலும் தசமத்திலும் மூன்று தசம் இடங்கள் வரையிலான கொள்ளளவை சரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆல் பெருக்குவர்.",5030400,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.3.5,"தர அளவையை மாற்றாமலும் மாற்றியும் பின்னத்திலும் தசமத்திலும் மூன்று தசம் இடங்கள் வரையிலான கொள்ளளவை ஈரிலக்கம் வரையிலான எண்கள், 100, 1000 ஆல் வகுப்பர்.",5030500,True
+Matematik SJKT,MT-SJKT,5,கொள்ளளவு,5.4.1,அளவை தொடர்பான அன்றாட குழலை உள்ளடக்கிய பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,5040100,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.1.1,"பக்கம், முலை, சமன்சர்கோடு, கோணம், மூலைவிட்டம் ஆகியவற்றின் அடிப்படையில் தன்மைகளைக் குறிப்பிடுவர்",6010100,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.2.1,எட்டுப் பக்கம் வரையிலான சமபக்க பல்கோணத்தின்கோணத்தை அளப்பர்,6020100,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.3.1,"எட்டுப் பக்கம் வரையிலான சமபக்க பல்கோணம், செங்கோண முக்கோணம், இரு சமபக்க முக்கோணம் செவ்வகம் ஆகிய இரு வடிவங்களைக் கொண்டு இணைக்கப்பட்ட வடிவத்தின் சுற்றளவைக் கணக்கிடுவர்",6030100,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.3.2,"செவ்வகம், சதுரம், சமயக்க முக்கோணம், இரு சமபக்க முக்கோணம், செங்கோண முக்கோணம் ஆகியவற்றில் ஏதேனும் இரண்டு வடிவங்களைக் கொண்டு இணைக்கப்பட்ட வடிவத்தின் பரப்பளவைக் கணக்கிடுவர்.",6030200,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.4.1,"கனச்சதுரம், களச்செய்வகத்தைக் கொண்டு இணைக்கப்பட்ட வடிவத்தின் கன அளவைக் கணக்கிடுவர்.",6040100,True
+Matematik SJKT,MT-SJKT,5,வடிவியல்,6.5.1,வடிவியல் தொடர்பான பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்.,6050100,True
+Matematik SJKT,MT-SJKT,5,"அச்சுத்தூரம், விகிதம் விதமும்",7.1.1,"இத அச்சுத்தூரங்களில் கிடைநிலை அச்சு, செங்குத்து அச்சு ஆகியவற்றைக் கணக்கிடுவர்.",7010100,True
+Matematik SJKT,MT-SJKT,5,"அச்சுத்தூரம், விகிதம் விதமும்",7.2.1,பின்வரும் விகிதத்தை உட்படுத்திய இரு எண்ணிக்கையை a:b விகிதத்தில் பிரதிநிதிப்பர் -; பாகத்திலிருந்து பாகத்திற்கு; பாகத்திலிருந்து மொத்தத்திற்கு; மொத்தத்திலிருந்து பாகத்திற்கு,7020100,True
+Matematik SJKT,MT-SJKT,5,"அச்சுத்தூரம், விகிதம் விதமும்",7.3.1,விதத்தைப் பயன்படுத்தி அறியப்படாத மதிப்பைக் கண்டறிவர்.,7030100,True
+Matematik SJKT,MT-SJKT,5,"அச்சுத்தூரம், விகிதம் விதமும்",7.4.1,"அச்சுத்தூரம், விகிதமும் விதமும் உட்படுத்திய அன்றாட பிரச்சனைக் கணக்குகளுக்குத் தீர்வு காண்பர்",7040100,True
+Matematik SJKT,MT-SJKT,5,தரவைக் கையாளுதல்,8.1.1,வட்டக்குறிவரைவை பொருட்பெயர்ப்பர்.,8010100,True
+Matematik SJKT,MT-SJKT,5,தரவைக் கையாளுதல்,8.2.1,"சேகரிக்கப்படாத தரவுகளில் முகடு எண், நடுவெண், சராசரி, பெரும் என், குறும் எண், விச்சகம் ஆகியவற்றை அறிவர்; கணக்கிடுவர்.",8020100,True
+Matematik SJKT,MT-SJKT,5,தரவைக் கையாளுதல்,8.3.1,,8030100,True
