@@ -98,7 +98,7 @@ export default function ProgressClient() {
         getClassById(uid, csData.classId)
       ]);
 
-      setStudents(studentList.sort((a, b) => a.fullName.localeCompare(b.fullName)));
+      setStudents(studentList.sort((a: any, b: any) => a.fullName.localeCompare(b.fullName)));
       setStandards(lsList);
       setClassData(classInfo);
 
@@ -722,7 +722,8 @@ const StudentCard = memo(({
         <div className="divide-y divide-slate-50">
           {filteredStandards.map((s: any) => {
             const record = records[`${student.id}_${s.id}`];
-            const hasEvidence = record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
+            const evidenceCount = record?.evidenceCount || 0;
+            const hasEvidence = evidenceCount > 0 || record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
             
             return (
               <div key={s.id} className="p-4 flex items-center justify-between gap-4">
@@ -743,25 +744,28 @@ const StudentCard = memo(({
                 <Button
                   variant="outline"
                   size="sm"
-                  className={`h-10 w-10 p-0 flex items-center justify-center rounded-xl border-2 transition-all ${
+                  className={`relative h-10 w-10 p-0 flex items-center justify-center rounded-xl border-2 transition-all ${
                     hasEvidence 
-                      ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100" 
+                      ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100 shadow-sm shadow-emerald-100" 
                       : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
                   }`}
                   onClick={() => onOpenEvidence({
+                    uid: user.uid,
+                    recordId: record?.id || `${classSubject.id}_${student.id}_${s.id}`,
                     studentId: student.id,
                     studentName: student.fullName,
-                    standardId: s.id,
-                    standardCode: s.spCode,
-                    standardDescription: s.spDescription,
-                    tp: record?.tp || "",
-                    evidenceUrl: record?.evidenceUrl,
-                    evidenceUrls: record?.evidenceUrls || [],
+                    classId: classSubject.classId,
                     classSubjectId: classSubject.id,
-                    teacherId: user.uid
+                    spCode: s.spCode,
+                    tpGiven: record?.tp || "",
                   })}
                 >
-                  {hasEvidence ? <Paperclip size={16} /> : <Camera size={16} />}
+                  <Camera size={18} className={hasEvidence ? "text-emerald-600" : "text-slate-400"} />
+                  {evidenceCount > 0 && (
+                    <span className="absolute -top-1.5 -right-1.5 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-600 text-[10px] font-bold text-white border-2 border-white">
+                      {evidenceCount}
+                    </span>
+                  )}
                 </Button>
               </div>
             );
@@ -843,7 +847,8 @@ const StudentRow = memo(({
       </td>
       {filteredStandards.map((s: any) => {
         const record = records[`${student.id}_${s.id}`];
-        const hasEvidence = record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
+        const evidenceCount = record?.evidenceCount || 0;
+        const hasEvidence = evidenceCount > 0 || record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
         
         return (
           <td key={s.id} className="border-r border-slate-100 px-3 py-3 text-center">
@@ -857,25 +862,28 @@ const StudentRow = memo(({
               <Button
                 variant="outline"
                 size="sm"
-                className={`h-8 w-8 p-0 rounded-lg border transition-all ${
+                className={`relative h-8 w-8 p-0 rounded-lg border transition-all ${
                   hasEvidence 
-                    ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100" 
+                    ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100 shadow-sm shadow-emerald-100" 
                     : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
                 }`}
                 onClick={() => onOpenEvidence({
+                  uid: user.uid,
+                  recordId: record?.id || `${classSubject.id}_${student.id}_${s.id}`,
                   studentId: student.id,
                   studentName: student.fullName,
-                  standardId: s.id,
-                  standardCode: s.spCode,
-                  standardDescription: s.spDescription,
-                  tp: record?.tp || "",
-                  evidenceUrl: record?.evidenceUrl,
-                  evidenceUrls: record?.evidenceUrls || [],
+                  classId: classSubject.classId,
                   classSubjectId: classSubject.id,
-                  teacherId: user.uid
+                  spCode: s.spCode,
+                  tpGiven: record?.tp || "",
                 })}
               >
-                {hasEvidence ? <Paperclip size={14} /> : <Camera size={14} />}
+                <Camera size={14} className={hasEvidence ? "text-emerald-600" : "text-slate-400"} />
+                {evidenceCount > 0 && (
+                  <span className="absolute -top-1 -right-1 flex h-4 w-4 items-center justify-center rounded-full bg-emerald-600 text-[8px] font-bold text-white border border-white">
+                    {evidenceCount}
+                  </span>
+                )}
               </Button>
             </div>
           </td>

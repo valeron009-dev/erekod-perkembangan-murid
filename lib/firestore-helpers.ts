@@ -9,6 +9,7 @@ import {
   updateDoc, 
   deleteDoc,
   serverTimestamp,
+  increment,
   orderBy,
   Timestamp
 } from "firebase/firestore";
@@ -78,7 +79,7 @@ export const checkAllowedTeacher = async (email: string) => {
   if (!teachers) {
     const teachersRef = collection(db, "allowedTeachers");
     const snap = await getDocs(teachersRef);
-    teachers = snap.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    teachers = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() }));
     cache[cacheKey] = teachers;
   }
   
@@ -159,7 +160,7 @@ export const getClassesByTeacher = async (uid: string, sessionId: string) => {
     where("sessionId", "==", safeSessionId)
   );
   const querySnapshot = await getDocs(q);
-  return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  return querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
 };
 
 // Class Subjects
@@ -174,7 +175,7 @@ export const getClassSubjectsByTeacher = async (uid: string, sessionId: string) 
     where("sessionId", "==", safeSessionId)
   );
   const querySnapshot = await getDocs(q);
-  const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
@@ -187,7 +188,7 @@ export const getStudentsByClass = async (uid: string, classId: string) => {
   const studentsRef = collection(db, "users", uid, "students");
   const q = query(studentsRef, where("classId", "==", classId));
   const querySnapshot = await getDocs(q);
-  const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
@@ -202,7 +203,7 @@ export const syncStudents = async (
   
   // 1. Load existing students
   const existingStudents = await getStudentsByClass(uid, classId);
-  const existingMap = new Map(existingStudents.map(s => [s.normalizedFullName, s]));
+  const existingMap = new Map<string, any>(existingStudents.map((s: any) => [s.normalizedFullName, s]));
   
   const csvNormalizedNames = new Set(studentNames.map(normalize));
   
@@ -260,13 +261,13 @@ export const syncStudents = async (
 
   // 4. Update student count in classSubjects
   const allStudents = await getStudentsByClass(uid, classId);
-  const activeCount = allStudents.filter(s => s.isActive).length;
+  const activeCount = allStudents.filter((s: any) => s.isActive).length;
   
   const classSubjectsRef = collection(db, "users", uid, "classSubjects");
   const qSubjects = query(classSubjectsRef, where("classId", "==", classId));
   const subjectsSnap = await getDocs(qSubjects);
   
-  const subjectUpdates = subjectsSnap.docs.map(sDoc => 
+  const subjectUpdates = subjectsSnap.docs.map((sDoc: any) => 
     updateDoc(doc(db, "users", uid, "classSubjects", sDoc.id), {
       studentCount: activeCount,
       updatedAt: serverTimestamp()
@@ -342,13 +343,13 @@ export const toggleStudentStatus = async (uid: string, studentId: string, classI
 
 const updateClassStudentCount = async (uid: string, classId: string) => {
   const students = await getStudentsByClass(uid, classId);
-  const activeCount = students.filter(s => s.isActive).length;
+  const activeCount = students.filter((s: any) => s.isActive).length;
   
   const classSubjectsRef = collection(db, "users", uid, "classSubjects");
   const qSubjects = query(classSubjectsRef, where("classId", "==", classId));
   const subjectsSnap = await getDocs(qSubjects);
   
-  const batch = subjectsSnap.docs.map(sDoc => 
+  const batch = subjectsSnap.docs.map((sDoc: any) => 
     updateDoc(doc(db, "users", uid, "classSubjects", sDoc.id), {
       studentCount: activeCount,
       updatedAt: serverTimestamp()
@@ -372,7 +373,7 @@ export const getLearningStandardsBySubject = async (subjectId: string, year: num
     orderBy("sortOrder", "asc")
   );
   const querySnapshot = await getDocs(q);
-  const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
@@ -382,7 +383,7 @@ export const getProgressRecordsByClassSubject = async (uid: string, classSubject
   const recordsRef = collection(db, "users", uid, "progressRecords");
   const q = query(recordsRef, where("classSubjectId", "==", classSubjectId));
   const querySnapshot = await getDocs(q);
-  return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  return querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
 };
 
 // Update Progress Record
@@ -409,17 +410,38 @@ export const getEvidencesForRecord = async (uid: string, recordId: string) => {
   const evidencesRef = collection(db, "users", uid, "progressRecords", recordId, "evidences");
   const q = query(evidencesRef, orderBy("createdAt", "desc"));
   const querySnapshot = await getDocs(q);
-  return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  return querySnapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
 };
 
 export const addEvidenceToRecord = async (uid: string, recordId: string, data: any) => {
   const evidencesRef = collection(db, "users", uid, "progressRecords", recordId, "evidences");
-  await setDoc(doc(evidencesRef), {
-    ...data,
-    recordId, // Also store recordId for easier mapping
-    classSubjectId: data.classSubjectId, // Store classSubjectId for collection group filtering
-    createdAt: serverTimestamp()
-  });
+  const recordRef = doc(db, "users", uid, "progressRecords", recordId);
+  
+  await Promise.all([
+    setDoc(doc(evidencesRef), {
+      ...data,
+      recordId, // Also store recordId for easier mapping
+      classSubjectId: data.classSubjectId, // Store classSubjectId for collection group filtering
+      createdAt: serverTimestamp()
+    }),
+    updateDoc(recordRef, {
+      evidenceCount: increment(1),
+      updatedAt: serverTimestamp()
+    }).catch(async (err) => {
+      // If record doesn't exist yet (unlikely but possible), create it
+      if (err.code === 'not-found') {
+        await setDoc(recordRef, {
+          uid,
+          recordId,
+          studentId: data.studentId,
+          classSubjectId: data.classSubjectId,
+          evidenceCount: 1,
+          createdAt: serverTimestamp(),
+          updatedAt: serverTimestamp()
+        });
+      }
+    })
+  ]);
 };
 
 // Admin Operations
@@ -448,14 +470,14 @@ export const getAllowedTeachers = async () => {
   if (cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "allowedTeachers"));
-  const data = snap.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
 
 export const getAllUsers = async () => {
   const snap = await getDocs(collection(db, "users"));
-  return snap.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  return snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
 };
 
 export const updateTeacherSubscription = async (uid: string, action: 'activate' | 'expire' | 'reset') => {
@@ -503,7 +525,7 @@ export const getSubjects = async () => {
   if (cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "subjects"));
-  const data = snap.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
@@ -517,7 +539,7 @@ export const getLearningStandards = async () => {
   if (cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "learningStandards"));
-  const data = snap.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };
@@ -533,7 +555,15 @@ export const saveLearningStandard = async (data: any) => {
 
 export const deleteEvidence = async (uid: string, recordId: string, evidenceId: string) => {
   const evidenceRef = doc(db, "users", uid, "progressRecords", recordId, "evidences", evidenceId);
-  await deleteDoc(evidenceRef);
+  const recordRef = doc(db, "users", uid, "progressRecords", recordId);
+  
+  await Promise.all([
+    deleteDoc(evidenceRef),
+    updateDoc(recordRef, {
+      evidenceCount: increment(-1),
+      updatedAt: serverTimestamp()
+    })
+  ]);
 };
 
 export const getAcademicSessions = async () => {
@@ -541,7 +571,7 @@ export const getAcademicSessions = async () => {
   if (cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "academicSessions"));
-  const data = snap.docs.map(doc => ({ id: doc.id, ...doc.data() } as any));
+  const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
   cache[cacheKey] = data;
   return data;
 };

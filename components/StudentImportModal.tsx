@@ -45,14 +45,14 @@ export const StudentImportModal = ({
     const reader = new FileReader();
     reader.onload = (event) => {
       const text = event.target?.result as string;
-      const lines = text.split(/\r?\n/).filter(line => line.trim());
+      const lines = text.split(/\r?\n/).filter((line: string) => line.trim());
       
       if (lines.length < 2) {
         setError("Fail CSV kosong atau tidak mempunyai data.");
         return;
       }
 
-      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+      const headers = lines[0].split(",").map((h: string) => h.trim().toLowerCase());
       const nameIndex = headers.indexOf("studentname");
 
       if (nameIndex === -1) {
@@ -60,7 +60,7 @@ export const StudentImportModal = ({
         return;
       }
 
-      const names = lines.slice(1).map(line => {
+      const names = lines.slice(1).map((line: string) => {
         const cols = line.split(",");
         return cols[nameIndex]?.trim();
       }).filter(Boolean);

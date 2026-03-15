@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useCallback, useMemo } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { X, Upload, Image as ImageIcon, Loader2, Trash2 } from "lucide-react";
 import Image from "next/image";
 import { Button } from "@/components/ui/Button";
@@ -33,53 +33,35 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
   const [note, setNote] = useState("");
   const [loading, setLoading] = useState(false);
   const [fetching, setFetching] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const [evidences, setEvidences] = useState<any[]>([]);
   const [previewImage, setPreviewImage] = useState<string | null>(null);
   const [deletingId, setDeletingId] = useState<string | null>(null);
-  const [error, setError] = useState<string | null>(null);
-
-  // Normalize recordData to handle prop mismatches from caller
-  const normalizedRecordData = useMemo(() => {
-    const data = recordData as any;
-    const uid = recordData.uid || data.teacherId;
-    const studentId = recordData.studentId;
-    const classSubjectId = recordData.classSubjectId;
-    const standardId = data.standardId;
-    const recordId = recordData.recordId || (classSubjectId && studentId && standardId ? `${classSubjectId}_${studentId}_${standardId}` : null);
-    const classId = recordData.classId || (classSubjectId ? classSubjectId.split('_')[0] : '');
-    const spCode = recordData.spCode || data.standardCode;
-    const tpGiven = recordData.tpGiven || data.tp;
-    
-    return { ...recordData, uid, recordId, classId, spCode, tpGiven };
-  }, [recordData]);
 
   const fetchEvidences = useCallback(async () => {
-    const { uid, recordId } = normalizedRecordData;
-    if (!recordId || !uid) return;
+    if (!recordData.recordId) return;
     setFetching(true);
     try {
-      const data = await getEvidencesForRecord(uid, recordId);
+      const data = await getEvidencesForRecord(recordData.uid, recordData.recordId);
       setEvidences(data);
     } catch (error) {
       console.error("Error fetching evidences", error);
     } finally {
       setFetching(false);
     }
-  }, [normalizedRecordData]);
+  }, [recordData.uid, recordData.recordId]);
 
   useEffect(() => {
-    if (isOpen) {
-      setError(null);
+    if (isOpen && recordData.recordId) {
+      fetchEvidences();
+      // Reset state when opening for a new record
       setFile(null);
       setNote("");
-      if (normalizedRecordData.recordId) {
-        fetchEvidences();
-      }
+      setError(null);
     }
-  }, [isOpen, normalizedRecordData.recordId, fetchEvidences]);
+  }, [isOpen, recordData.recordId, fetchEvidences]);
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setError(null);
     if (e.target.files && e.target.files[0]) {
       const selectedFile = e.target.files[0];
       
@@ -102,21 +84,14 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
 
   const handleUpload = async () => {
     if (isReadOnly) return;
-    
-    const { uid, recordId, classId, studentId, studentName, classSubjectId, spCode, tpGiven } = normalizedRecordData;
-
-    if (!file || !recordId || !uid) {
-      setError("Maklumat rekod tidak lengkap. Gagal menyimpan.");
-      return;
-    }
-
+    if (!file || !recordData.recordId) return;
     if (evidences.length >= 3) {
-      setError("Had maksimum 3 evidens telah dicapai.");
+      alert("Had maksimum 3 evidens telah dicapai.");
       return;
     }
 
-    setLoading(true);
     setError(null);
+    setLoading(true);
     try {
       // Compress image before upload
       const compressedBlob = await compressImage(file);
@@ -129,7 +104,7 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
       }
 
       const timestamp = Date.now();
-      const storagePath = `evidences/${uid}/${classId}/${studentId}/${timestamp}.jpg`;
+      const storagePath = `evidences/${recordData.uid}/${recordData.classId}/${recordData.studentId}/${timestamp}.jpg`;
       const storageRef = ref(storage, storagePath);
       
       await uploadBytes(storageRef, compressedBlob);
@@ -139,15 +114,15 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
         imageUrl,
         storagePath,
         note,
-        tpGiven,
-        spCode,
-        studentId,
-        studentName,
-        createdBy: uid,
-        classSubjectId,
+        tpGiven: recordData.tpGiven,
+        spCode: recordData.spCode,
+        studentId: recordData.studentId,
+        studentName: recordData.studentName,
+        createdBy: recordData.uid,
+        classSubjectId: recordData.classSubjectId,
       };
 
-      await addEvidenceToRecord(uid, recordId, evidenceData);
+      await addEvidenceToRecord(recordData.uid, recordData.recordId, evidenceData);
       
       setFile(null);
       setNote("");
@@ -163,8 +138,6 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
 
   const handleDelete = async (evidenceId: string, storagePath: string) => {
     if (isReadOnly) return;
-    const { uid, recordId } = normalizedRecordData;
-    if (!uid || !recordId) return;
     if (!confirm("Padam evidens ini?")) return;
 
     setDeletingId(evidenceId);
@@ -176,7 +149,7 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
       }
 
       // 2. Delete from Firestore
-      await deleteEvidence(uid, recordId, evidenceId);
+      await deleteEvidence(recordData.uid, recordData.recordId, evidenceId);
       
       await fetchEvidences();
       onSuccess();
@@ -196,7 +169,7 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
         <div className="flex items-center justify-between border-b border-slate-100 px-4 sm:px-6 py-4 bg-slate-50 shrink-0">
           <div>
             <h2 className="text-base sm:text-lg font-bold text-slate-900">Tambah Evidens</h2>
-            <p className="text-[10px] sm:text-xs text-slate-500 truncate max-w-[200px] sm:max-w-none">{normalizedRecordData.studentName} &bull; {normalizedRecordData.spCode}</p>
+            <p className="text-[10px] sm:text-xs text-slate-500 truncate max-w-[200px] sm:max-w-none">{recordData.studentName} &bull; {recordData.spCode}</p>
           </div>
           <button onClick={onClose} className="rounded-full p-2 hover:bg-slate-200 transition-colors">
             <X size={20} className="text-slate-500" />
@@ -291,8 +264,8 @@ export function EvidenceModal({ isOpen, onClose, onSuccess, recordData, isReadOn
               </div>
 
               {error && (
-                <div className="p-3 rounded-lg bg-red-50 border border-red-100 animate-in fade-in slide-in-from-top-1 duration-200">
-                  <p className="text-xs text-red-600 font-medium">{error}</p>
+                <div className="p-3 text-xs font-medium text-red-600 bg-red-50 rounded-lg border border-red-100 animate-in fade-in slide-in-from-top-1">
+                  {error}
                 </div>
               )}
 

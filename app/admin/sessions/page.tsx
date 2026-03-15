@@ -79,7 +79,7 @@ export default function AdminSessionsPage() {
     }
   };
 
-  const activeSession = sessions.find(s => s.isActive);
+  const activeSession = sessions.find((s: any) => s.isActive);
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
@@ -140,7 +140,7 @@ export default function AdminSessionsPage() {
                       </td>
                     </tr>
                   ) : sessions.length > 0 ? (
-                    sessions.map((session) => (
+                    sessions.map((session: any) => (
                       <tr key={session.id} className="hover:bg-slate-50/50 transition-colors group">
                         <td className="px-6 py-4">
                           <p className="font-bold text-slate-900">{session.name}</p>

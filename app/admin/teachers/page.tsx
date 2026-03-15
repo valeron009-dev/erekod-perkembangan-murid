@@ -51,7 +51,7 @@ export default function AdminTeachersPage() {
       setLoading(true);
       const allUsers = await getAllUsers();
       // Filter for teachers and super admins
-      const teachers = allUsers.filter(u => u.role === "teacher" || u.role === "super_admin");
+      const teachers = allUsers.filter((u: any) => u.role === "teacher" || u.role === "super_admin");
       setUsers(teachers);
     } catch (error) {
       console.error("Error loading teachers:", error);
@@ -99,7 +99,7 @@ export default function AdminTeachersPage() {
   };
 
   const filteredTeachers = useMemo(() => {
-    return users.filter(t => {
+    return users.filter((t: any) => {
       const matchesSearch = 
         (t.email?.toLowerCase() || "").includes(searchTerm.toLowerCase()) ||
         (t.displayName?.toLowerCase() || "").includes(searchTerm.toLowerCase());
@@ -161,7 +161,7 @@ export default function AdminTeachersPage() {
                   { label: "Trial", value: "trial" },
                   { label: "Aktif", value: "active" },
                   { label: "Tamat", value: "expired" }
-                ].map((tab) => (
+                ].map((tab: any) => (
                   <button
                     key={tab.value}
                     onClick={() => setSubscriptionFilter(tab.value)}
@@ -204,7 +204,7 @@ export default function AdminTeachersPage() {
                     </td>
                   </tr>
                 ) : filteredTeachers.length > 0 ? (
-                  filteredTeachers.map((teacher) => (
+                  filteredTeachers.map((teacher: any) => (
                     <tr key={teacher.id} className="hover:bg-slate-50/50 transition-colors group">
                       <td className="px-6 py-4">
                         <div className="flex items-center gap-3">
@@ -346,7 +346,7 @@ export default function AdminTeachersPage() {
                 <p className="mt-2 text-sm text-slate-500">Memuatkan senarai guru...</p>
               </div>
             ) : filteredTeachers.length > 0 ? (
-              filteredTeachers.map((teacher) => (
+              filteredTeachers.map((teacher: any) => (
                 <div key={teacher.id} className="p-4 space-y-4">
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">

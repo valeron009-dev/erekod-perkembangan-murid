@@ -102,23 +102,23 @@ export default function AdminStandardsPage() {
     const reader = new FileReader();
     reader.onload = (event) => {
       const text = event.target?.result as string;
-      const lines = text.split(/\r?\n/).filter(line => line.trim());
+      const lines = text.split(/\r?\n/).filter((line: string) => line.trim());
       
       if (lines.length < 2) {
         setCsvError("Fail CSV kosong atau tidak mempunyai data.");
         return;
       }
 
-      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+      const headers = lines[0].split(",").map((h: string) => h.trim().toLowerCase());
       const required = ["subjectid", "year", "groupname", "spcode", "spdescription", "sortorder", "isactive"];
-      const missing = required.filter(r => headers.indexOf(r) === -1);
+      const missing = required.filter((r: string) => headers.indexOf(r) === -1);
 
       if (missing.length > 0) {
         setCsvError(`Lajur berikut tidak dijumpai: ${missing.join(", ")}`);
         return;
       }
 
-      const preview = lines.slice(1).map(line => {
+      const preview = lines.slice(1).map((line: string) => {
         const cols = line.split(",");
         
         const yearRaw = String(cols[headers.indexOf("year")] ?? "").trim();
@@ -138,7 +138,7 @@ export default function AdminStandardsPage() {
           sortOrder: isNaN(sortOrderParsed) ? null : sortOrderParsed,
           isActive: isActiveRaw === "true"
         };
-      }).filter(s => s.subjectId && s.spCode);
+      }).filter((s: any) => s.subjectId && s.spCode);
 
       setCsvPreview(preview);
     };
@@ -171,7 +171,7 @@ export default function AdminStandardsPage() {
     setBulkLoading(true);
     try {
       const batch = writeBatch(db);
-      selectedIds.forEach(id => {
+      selectedIds.forEach((id: string) => {
         const ref = doc(db, "learningStandards", id);
         batch.update(ref, { isActive });
       });
@@ -189,7 +189,7 @@ export default function AdminStandardsPage() {
     if (selectedIds.length === filteredStandards.length) {
       setSelectedIds([]);
     } else {
-      setSelectedIds(filteredStandards.map(s => s.id));
+      setSelectedIds(filteredStandards.map((s: any) => s.id));
     }
   };
 
@@ -213,7 +213,7 @@ export default function AdminStandardsPage() {
 
       for (const chunk of chunks) {
         const batch = writeBatch(db);
-        chunk.forEach(d => batch.delete(d.ref));
+        chunk.forEach((d: any) => batch.delete(d.ref));
         await batch.commit();
       }
 
@@ -226,7 +226,7 @@ export default function AdminStandardsPage() {
     }
   };
 
-  const filteredStandards = standards.filter(s => {
+  const filteredStandards = standards.filter((s: any) => {
     const matchesSearch = s.spCode.toLowerCase().includes(searchTerm.toLowerCase()) || 
                          s.spDescription.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesSubject = subjectFilter === "all" || s.subjectId === subjectFilter;
@@ -237,7 +237,7 @@ export default function AdminStandardsPage() {
   const sortedStandards = React.useMemo(() => {
     const sortableItems = [...filteredStandards];
     if (sortConfig.key) {
-      sortableItems.sort((a, b) => {
+      sortableItems.sort((a: any, b: any) => {
         const aValue = a[sortConfig.key];
         const bValue = b[sortConfig.key];
         
@@ -285,7 +285,7 @@ export default function AdminStandardsPage() {
 
   const subjectOptions = [
     { label: "Semua Subjek", value: "all" },
-    ...subjects.map(s => ({ label: s.subjectName, value: s.subjectCode }))
+    ...subjects.map((s: any) => ({ label: s.subjectName, value: s.subjectCode }))
   ];
 
   const yearOptions = [
@@ -407,7 +407,7 @@ export default function AdminStandardsPage() {
                     </td>
                   </tr>
                 ) : sortedStandards.length > 0 ? (
-                  sortedStandards.map((ls) => (
+                  sortedStandards.map((ls: any) => (
                     <tr 
                       key={ls.id} 
                       className={`hover:bg-slate-50/50 transition-colors group ${selectedIds.includes(ls.id) ? 'bg-emerald-50/30' : ''}`}

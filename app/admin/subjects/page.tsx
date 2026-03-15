@@ -95,14 +95,14 @@ export default function AdminSubjectsPage() {
     const reader = new FileReader();
     reader.onload = (event) => {
       const text = event.target?.result as string;
-      const lines = text.split(/\r?\n/).filter(line => line.trim());
+      const lines = text.split(/\r?\n/).filter((line: string) => line.trim());
       
       if (lines.length < 2) {
         setCsvError("Fail CSV kosong atau tidak mempunyai data.");
         return;
       }
 
-      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+      const headers = lines[0].split(",").map((h: string) => h.trim().toLowerCase());
       const codeIdx = headers.indexOf("subjectcode");
       const nameIdx = headers.indexOf("subjectname");
       const activeIdx = headers.indexOf("isactive");
@@ -112,14 +112,14 @@ export default function AdminSubjectsPage() {
         return;
       }
 
-      const preview = lines.slice(1).map(line => {
+      const preview = lines.slice(1).map((line: string) => {
         const cols = line.split(",");
         return {
           subjectCode: cols[codeIdx]?.trim().toUpperCase(),
           subjectName: cols[nameIdx]?.trim(),
           isActive: cols[activeIdx]?.trim().toLowerCase() === "true"
         };
-      }).filter(s => s.subjectCode && s.subjectName);
+      }).filter((s: any) => s.subjectCode && s.subjectName);
 
       setCsvPreview(preview);
     };
@@ -146,7 +146,7 @@ export default function AdminSubjectsPage() {
     }
   };
 
-  const filteredSubjects = subjects.filter(s => 
+  const filteredSubjects = subjects.filter((s: any) => 
     s.subjectCode.toLowerCase().includes(searchTerm.toLowerCase()) ||
     s.subjectName.toLowerCase().includes(searchTerm.toLowerCase())
   );
@@ -213,7 +213,7 @@ export default function AdminSubjectsPage() {
                     </td>
                   </tr>
                 ) : filteredSubjects.length > 0 ? (
-                  filteredSubjects.map((subject) => (
+                  filteredSubjects.map((subject: any) => (
                     <tr key={subject.id} className="hover:bg-slate-50/50 transition-colors group">
                       <td className="px-6 py-4">
                         <span className="font-mono font-bold text-slate-900 bg-slate-100 px-2 py-1 rounded text-sm">
@@ -257,7 +257,7 @@ export default function AdminSubjectsPage() {
                 <p className="mt-2 text-sm text-slate-500">Memuatkan senarai subjek...</p>
               </div>
             ) : filteredSubjects.length > 0 ? (
-              filteredSubjects.map((subject) => (
+              filteredSubjects.map((subject: any) => (
                 <div key={subject.id} className="p-4 flex items-center justify-between">
                   <div className="space-y-1">
                     <div className="flex items-center gap-2">

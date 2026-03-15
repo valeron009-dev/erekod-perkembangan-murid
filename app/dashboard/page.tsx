@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { 
@@ -51,24 +51,24 @@ export default function DashboardPage() {
     totalEvidences: 0
   });
 
-  const loadDashboardData = async (uid: string, sessionId: string) => {
+  const loadDashboardData = useCallback(async (uid: string, sessionId: string) => {
     try {
       // Fetch subjects and userData in parallel
       const subjects = await getClassSubjectsByTeacher(uid, sessionId);
       setClassSubjects(subjects);
 
       // Prefetch the first few classes to make transitions feel instant
-      subjects.slice(0, 5).forEach(cs => {
+      subjects.slice(0, 5).forEach((cs: any) => {
         router.prefetch(`/progress/${cs.id}`);
       });
 
       // Calculate stats
       const totalClasses = subjects.length;
-      const totalStudents = subjects.reduce((acc, cs) => acc + (cs.studentCount || 0), 0);
+      const totalStudents = subjects.reduce((acc: number, cs: any) => acc + (cs.studentCount || 0), 0);
       
       // OPTIMIZATION: Instead of fetching all records, we could use a counter or just show '-' 
       // if it's too slow, but for now let's keep it but make it parallel
-      const recordsSnapPromise = getDocs(query(collection(db, "users", uid, "progressRecords"), limit(1)));
+      // const recordsSnapPromise = getDocs(query(collection(db, "users", uid, "progressRecords"), limit(1)));
       
       setStats(prev => ({
         ...prev,
@@ -79,7 +79,7 @@ export default function DashboardPage() {
     } catch (error) {
       console.error("Error loading dashboard data:", error);
     }
-  };
+  }, [router]);
 
   const toggleStatus = async (csId: string, currentStatus: boolean) => {
     if (!user) return;
@@ -90,7 +90,7 @@ export default function DashboardPage() {
         updatedAt: serverTimestamp()
       });
       // Refresh local state
-      setClassSubjects(prev => prev.map(cs => 
+      setClassSubjects(prev => prev.map((cs: any) => 
         cs.id === csId ? { ...cs, isActive: !currentStatus } : cs
       ));
     } catch (error) {
@@ -118,9 +118,9 @@ export default function DashboardPage() {
       }
     });
     return () => unsubscribe();
-  }, [router]);
+  }, [router, loadDashboardData]);
 
-  const filteredSubjects = classSubjects.filter((cs) => {
+  const filteredSubjects = classSubjects.filter((cs: any) => {
     const matchesSearch = cs.className?.toLowerCase().includes(searchTerm.toLowerCase()) || 
                          cs.subjectId?.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesTab = activeTab === "active" ? (cs.isActive !== false) : (cs.isActive === false);
@@ -235,7 +235,7 @@ export default function DashboardPage() {
 
             <section className="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
               {filteredSubjects.length > 0 ? (
-                filteredSubjects.map((cs) => (
+                filteredSubjects.map((cs: any) => (
                   <Link 
                     href={`/progress/${cs.id}`}
                     key={cs.id} 

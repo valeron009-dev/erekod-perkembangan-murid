@@ -48,7 +48,7 @@ export const CreateClassModal = ({
         if (activeSubjects.length > 0) {
           setSelectedSubject(activeSubjects[0].subjectCode);
         }
-      } catch (err) {
+      } catch (err: any) {
         console.error("Error loading subjects:", err);
       }
     };
@@ -150,7 +150,7 @@ export const CreateClassModal = ({
 
             <Select
               label="Subjek"
-              options={subjects.map(s => ({ label: `${s.subjectCode} - ${s.subjectName}`, value: s.subjectCode }))}
+              options={subjects.map((s: any) => ({ label: `${s.subjectCode} - ${s.subjectName}`, value: s.subjectCode }))}
               value={selectedSubject}
               onChange={(e) => setSelectedSubject(e.target.value)}
               required

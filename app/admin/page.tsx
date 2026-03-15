@@ -82,7 +82,7 @@ export default function AdminDashboardPage() {
       </header>
 
       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-        {statCards.map((stat, i) => (
+        {statCards.map((stat: any, i: number) => (
           <Card key={i} className="border-none shadow-sm hover:shadow-md transition-all duration-300 group overflow-hidden">
             <CardHeader className="flex flex-row items-center justify-between pb-2">
               <div className={`p-3 rounded-2xl ${stat.bgColor} ${stat.color.replace('bg-', 'text-')} transition-transform duration-300 group-hover:scale-110`}>

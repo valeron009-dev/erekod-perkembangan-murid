@@ -77,7 +77,7 @@ export default function SummaryClient() {
         getClassById(uid, csData.classId)
       ]);
 
-      setStudents(studentList.filter(s => s.isActive).sort((a, b) => a.fullName.localeCompare(b.fullName)));
+      setStudents(studentList.filter((s: any) => s.isActive).sort((a: any, b: any) => a.fullName.localeCompare(b.fullName)));
       setStandards(lsList);
       setClassData(classInfo);
       
