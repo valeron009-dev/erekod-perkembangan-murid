@@ -72,13 +72,6 @@ export default function ProgressClient() {
   const [studentModalMode, setStudentModalMode] = useState<"add" | "edit">("add");
   const [showInactiveStudents, setShowInactiveStudents] = useState(false);
 
-  // Prefetch summary page
-  useEffect(() => {
-    if (classSubjectId) {
-      router.prefetch(`/progress/${classSubjectId}/summary`);
-    }
-  }, [classSubjectId, router]);
-
   const fetchData = useCallback(async (uid: string) => {
     if (!uid || !classSubjectId) return;
     
@@ -301,25 +294,12 @@ export default function ProgressClient() {
     setStudentToToggle(null);
   };
 
-  if (!classSubject) {
+  if (loading) {
     return (
-      <div className="min-h-screen bg-slate-50">
-        <Navbar user={user} userData={userData} />
-        <div className="mx-auto max-w-[1600px] px-4 py-8 sm:px-6 lg:px-8">
-          <div className="mb-8 space-y-4">
-            <div className="h-10 w-64 animate-pulse rounded-lg bg-slate-200" />
-            <div className="h-4 w-48 animate-pulse rounded-lg bg-slate-200" />
-          </div>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
-            {[1, 2, 3].map(i => (
-              <div key={i} className="h-24 animate-pulse rounded-2xl bg-white shadow-sm" />
-            ))}
-          </div>
-          <div className="space-y-4">
-            {[1, 2, 3, 4, 5].map(i => (
-              <div key={i} className="h-20 w-full animate-pulse rounded-2xl bg-white shadow-sm" />
-            ))}
-          </div>
+      <div className="flex min-h-screen items-center justify-center bg-slate-50">
+        <div className="flex flex-col items-center gap-4">
+          <div className="h-10 w-10 animate-spin rounded-full border-4 border-emerald-600 border-t-transparent" />
+          <p className="text-sm font-medium text-slate-600">Memuatkan rekod...</p>
         </div>
       </div>
     );

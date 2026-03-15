@@ -57,7 +57,7 @@ export default function DashboardPage() {
 
       // Calculate stats
       const totalClasses = subjects.length;
-      const totalStudents = subjects.reduce((acc: number, cs: any) => acc + (cs.studentCount || 0), 0);
+      const totalStudents = subjects.reduce((acc, cs) => acc + (cs.studentCount || 0), 0);
       
       // Fetch total records count
       const recordsSnap = await getDocs(collection(db, "users", uid, "progressRecords"));
@@ -97,18 +97,14 @@ export default function DashboardPage() {
       if (firebaseUser) {
         setUser(firebaseUser);
         try {
-          // Load user data first to get session ID
           const data = await getUserData(firebaseUser.uid);
           setUserData(data);
           
           const sessionId = data?.currentSessionId ?? "2026";
-          // Load dashboard data in background
-          loadDashboardData(firebaseUser.uid, sessionId);
-          
-          // Set loading false as soon as we have user data
-          setLoading(false);
+          await loadDashboardData(firebaseUser.uid, sessionId);
         } catch (error) {
           console.error("Error loading user data:", error);
+        } finally {
           setLoading(false);
         }
       } else {
@@ -117,15 +113,6 @@ export default function DashboardPage() {
     });
     return () => unsubscribe();
   }, [router]);
-
-  // Prefetch class pages
-  useEffect(() => {
-    if (classSubjects.length > 0) {
-      classSubjects.slice(0, 5).forEach(cs => {
-        router.prefetch(`/progress/${cs.id}`);
-      });
-    }
-  }, [classSubjects, router]);
 
   const filteredSubjects = classSubjects.filter((cs) => {
     const matchesSearch = cs.className?.toLowerCase().includes(searchTerm.toLowerCase()) || 
