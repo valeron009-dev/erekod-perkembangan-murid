@@ -25,7 +25,7 @@ import {
 } from "lucide-react";
 import { onAuthStateChange, signOutUser } from "@/lib/auth-helpers";
 import { getClassSubjectsByTeacher, getUserData, getClassById, db } from "@/lib/firestore-helpers";
-import { doc, updateDoc, serverTimestamp, collection, getDocs, query, orderBy, limit, where } from "firebase/firestore";
+import { doc, updateDoc, serverTimestamp, collection, getDocs, query, orderBy, limit, where, getCountFromServer } from "firebase/firestore";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent, CardHeader, CardFooter } from "@/components/ui/Card";
 import { Navbar } from "@/components/ui/Navbar";
@@ -66,14 +66,19 @@ export default function DashboardPage() {
       const totalClasses = subjects.length;
       const totalStudents = subjects.reduce((acc: number, cs: any) => acc + (cs.studentCount || 0), 0);
       
-      // OPTIMIZATION: Instead of fetching all records, we could use a counter or just show '-' 
-      // if it's too slow, but for now let's keep it but make it parallel
-      // const recordsSnapPromise = getDocs(query(collection(db, "users", uid, "progressRecords"), limit(1)));
+      // Fetch total PBD records count for this session
+      const recordsQuery = query(
+        collection(db, "users", uid, "progressRecords"), 
+        where("sessionId", "==", sessionId)
+      );
+      const recordsSnap = await getCountFromServer(recordsQuery);
+      const totalRecords = recordsSnap.data().count;
       
       setStats(prev => ({
         ...prev,
         totalClasses,
         totalStudents,
+        totalRecords
       }));
 
     } catch (error) {
