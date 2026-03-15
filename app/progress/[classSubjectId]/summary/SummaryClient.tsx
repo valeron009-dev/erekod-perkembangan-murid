@@ -188,6 +188,7 @@ export default function SummaryClient() {
       </div>
 
       <main className="mx-auto max-w-[1600px] px-4 py-6 sm:py-8 sm:px-6 lg:px-8">
+        {/* Action Bar - Hidden on Print */}
         <div className="mb-6 flex flex-wrap items-center justify-between no-print gap-4">
           <Button variant="outline" size="sm" onClick={() => router.back()} className="h-9 rounded-lg px-3 shrink-0">
             <ArrowLeft size={16} className="mr-2" />
@@ -201,6 +202,7 @@ export default function SummaryClient() {
           </div>
         </div>
 
+        {/* Header - Title and Class Info (Visible on Print) */}
         <header className="mb-8 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div className="space-y-2">
             <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">Ringkasan TP Murid</h1>
@@ -209,6 +211,7 @@ export default function SummaryClient() {
             </p>
           </div>
           
+          {/* Search Bar - Hidden on Print */}
           <div className="relative w-full lg:w-80 no-print">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
             <Input
@@ -220,28 +223,28 @@ export default function SummaryClient() {
           </div>
         </header>
 
-        {/* Print-only Table (Hidden on screen, visible on print) */}
-        <div className="hidden print:block">
+        {/* Dedicated Print Layout (Hidden on Screen) */}
+        <div className="print-only">
           <table className="w-full border-collapse border border-slate-300">
             <thead>
               <tr className="bg-slate-50">
-                <th className="border border-slate-300 px-2 py-2 text-left text-[10px] font-bold uppercase text-slate-700">Nama Murid</th>
+                <th className="border border-slate-300 px-3 py-2 text-left text-[11px] font-bold uppercase text-slate-700">Nama Murid</th>
                 {groupNames.map(group => (
-                  <th key={group} className="border border-slate-300 px-1 py-2 text-center text-[10px] font-bold uppercase text-slate-700">{group}</th>
+                  <th key={group} className="border border-slate-300 px-2 py-2 text-center text-[10px] font-bold uppercase text-slate-700 w-[80px]">{group}</th>
                 ))}
-                <th className="border border-slate-300 px-1 py-2 text-center text-[10px] font-bold uppercase text-slate-700">Purata</th>
+                <th className="border border-slate-300 px-2 py-2 text-center text-[10px] font-bold uppercase text-slate-700 w-[80px] bg-slate-100">Purata</th>
               </tr>
             </thead>
             <tbody>
               {filteredData.map(student => (
                 <tr key={student.id}>
-                  <td className="border border-slate-300 px-2 py-1.5 text-[10px] font-bold text-slate-900">{student.name}</td>
+                  <td className="border border-slate-300 px-3 py-2 text-[11px] font-bold text-slate-900">{student.name}</td>
                   {groupNames.map(group => (
-                    <td key={group} className="border border-slate-300 px-1 py-1.5 text-center text-[10px] font-bold">
+                    <td key={group} className="border border-slate-300 px-2 py-2 text-center text-[11px] font-bold whitespace-nowrap">
                       {student.groupTps[group]}
                     </td>
                   ))}
-                  <td className="border border-slate-300 px-1 py-1.5 text-center text-[10px] font-bold bg-slate-50">
+                  <td className="border border-slate-300 px-2 py-2 text-center text-[11px] font-bold bg-slate-50 whitespace-nowrap">
                     {student.overallTp}
                   </td>
                 </tr>
@@ -250,118 +253,128 @@ export default function SummaryClient() {
           </table>
         </div>
 
-        {/* Desktop View Table */}
-        <Card className="hidden lg:block print:hidden overflow-hidden border-slate-200 shadow-xl rounded-2xl">
-          <div className="overflow-x-auto">
-            <table className="w-full border-separate border-spacing-0">
-              <thead>
-                <tr className="bg-slate-50">
-                  <th className="sticky left-0 top-0 z-20 border-b border-r border-slate-200 bg-slate-50 px-6 py-4 text-left text-xs font-bold uppercase tracking-wider text-slate-500">
-                    Nama Murid
-                  </th>
-                  {groupNames.map((group) => (
-                    <th 
-                      key={group} 
-                      className="border-b border-r border-slate-200 bg-slate-50 px-4 py-4 text-center text-xs font-bold uppercase tracking-wider text-slate-500"
-                    >
-                      {group}
+        {/* Screen Layout (Hidden on Print) */}
+        <div className="no-print space-y-8">
+          {/* Desktop View Table */}
+          <Card className="hidden lg:block overflow-hidden border-slate-200 shadow-xl rounded-2xl">
+            <div className="overflow-x-auto">
+              <table className="w-full border-separate border-spacing-0">
+                <thead>
+                  <tr className="bg-slate-50">
+                    <th className="sticky left-0 top-0 z-20 border-b border-r border-slate-200 bg-slate-50 px-6 py-4 text-left text-xs font-bold uppercase tracking-wider text-slate-500">
+                      Nama Murid
                     </th>
+                    {groupNames.map((group) => (
+                      <th 
+                        key={group} 
+                        className="border-b border-r border-slate-200 bg-slate-50 px-4 py-4 text-center text-xs font-bold uppercase tracking-wider text-slate-500"
+                      >
+                        {group}
+                      </th>
+                    ))}
+                    <th className="border-b border-slate-200 bg-slate-100 px-4 py-4 text-center text-xs font-bold uppercase tracking-wider text-slate-700">
+                      Purata
+                    </th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100 bg-white">
+                  {visibleData.map((student) => (
+                    <SummaryRow 
+                      key={student.id} 
+                      student={student} 
+                      groupNames={groupNames} 
+                    />
                   ))}
-                  <th className="border-b border-slate-200 bg-slate-100 px-4 py-4 text-center text-xs font-bold uppercase tracking-wider text-slate-700">
-                    Purata
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-slate-100 bg-white">
-                {visibleData.map((student) => (
-                  <SummaryRow 
-                    key={student.id} 
-                    student={student} 
-                    groupNames={groupNames} 
-                  />
-                ))}
-                {filteredData.length > visibleCount && (
-                  <tr className="no-print">
-                    <td colSpan={groupNames.length + 2} className="px-6 py-4 text-center">
-                      <Button variant="ghost" onClick={() => setVisibleCount(prev => prev + 20)}>
-                        Muat lebih banyak...
-                      </Button>
-                    </td>
-                  </tr>
-                )}
-                {filteredData.length === 0 && (
-                  <tr>
-                    <td colSpan={groupNames.length + 2} className="px-6 py-12 text-center text-slate-500">
-                      Tiada data murid dijumpai.
-                    </td>
-                  </tr>
-                )}
-              </tbody>
-            </table>
+                  {filteredData.length > visibleCount && (
+                    <tr>
+                      <td colSpan={groupNames.length + 2} className="px-6 py-4 text-center">
+                        <Button variant="ghost" onClick={() => setVisibleCount(prev => prev + 20)}>
+                          Muat lebih banyak...
+                        </Button>
+                      </td>
+                    </tr>
+                  )}
+                  {filteredData.length === 0 && (
+                    <tr>
+                      <td colSpan={groupNames.length + 2} className="px-6 py-12 text-center text-slate-500">
+                        Tiada data murid dijumpai.
+                      </td>
+                    </tr>
+                  )}
+                </tbody>
+              </table>
+            </div>
+          </Card>
+
+          {/* Mobile/Tablet View Cards */}
+          <div className="lg:hidden space-y-4">
+            {visibleData.map((student) => (
+              <SummaryCard 
+                key={student.id} 
+                student={student} 
+                groupNames={groupNames} 
+              />
+            ))}
+            {filteredData.length > visibleCount && (
+              <div className="py-4 text-center">
+                <Button variant="ghost" onClick={() => setVisibleCount(prev => prev + 20)}>
+                  Muat lebih banyak...
+                </Button>
+              </div>
+            )}
+            {filteredData.length === 0 && (
+              <div className="rounded-2xl border-2 border-dashed border-slate-200 p-12 text-center bg-white">
+                <p className="text-slate-500 font-medium">Tiada data murid dijumpai.</p>
+              </div>
+            )}
           </div>
-        </Card>
 
-        {/* Mobile/Tablet View Cards */}
-        <div className="lg:hidden print:hidden space-y-4">
-          {visibleData.map((student) => (
-            <SummaryCard 
-              key={student.id} 
-              student={student} 
-              groupNames={groupNames} 
-            />
-          ))}
-          {filteredData.length > visibleCount && (
-            <div className="py-4 text-center no-print">
-              <Button variant="ghost" onClick={() => setVisibleCount(prev => prev + 20)}>
-                Muat lebih banyak...
-              </Button>
-            </div>
-          )}
-          {filteredData.length === 0 && (
-            <div className="rounded-2xl border-2 border-dashed border-slate-200 p-12 text-center bg-white">
-              <p className="text-slate-500 font-medium">Tiada data murid dijumpai.</p>
-            </div>
-          )}
-        </div>
-
-        <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 no-print">
-          <Card className="border-none shadow-sm bg-white p-6 rounded-2xl">
-            <h3 className="text-sm font-bold text-slate-900 mb-4 flex items-center gap-2">
-              <div className="p-1.5 bg-emerald-50 rounded-lg">
-                <FileText size={18} className="text-emerald-600" />
-              </div>
-              Petunjuk Tahap Penguasaan
-            </h3>
-            <div className="grid grid-cols-2 gap-3">
-              {Object.entries(TP_COLORS).filter(([tp]) => tp !== "-").map(([tp, color]) => (
-                <div key={tp} className="flex items-center gap-2">
-                  <div className={`h-4 w-8 rounded shadow-sm ${color}`}></div>
-                  <span className="text-xs font-bold text-slate-600">{tp}</span>
+          {/* Legend and Notes */}
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            <Card className="border-none shadow-sm bg-white p-6 rounded-2xl">
+              <h3 className="text-sm font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <div className="p-1.5 bg-emerald-50 rounded-lg">
+                  <FileText size={18} className="text-emerald-600" />
                 </div>
-              ))}
-            </div>
-          </Card>
-          
-          <Card className="border-none shadow-sm bg-white p-6 rounded-2xl">
-            <h3 className="text-sm font-bold text-slate-900 mb-4 flex items-center gap-2">
-              <div className="p-1.5 bg-emerald-50 rounded-lg">
-                <Download size={18} className="text-emerald-600" />
+                Petunjuk Tahap Penguasaan
+              </h3>
+              <div className="grid grid-cols-2 gap-3">
+                {Object.entries(TP_COLORS).filter(([tp]) => tp !== "-").map(([tp, color]) => (
+                  <div key={tp} className="flex items-center gap-2">
+                    <div className={`h-4 w-8 rounded shadow-sm ${color}`}></div>
+                    <span className="text-xs font-bold text-slate-600">{tp}</span>
+                  </div>
+                ))}
               </div>
-              Nota Pengiraan
-            </h3>
-            <ul className="text-xs text-slate-500 space-y-2 list-disc pl-4 font-medium">
-              <li>TP Akhir bagi setiap kemahiran dikira berdasarkan purata semua Standard Pembelajaran dalam kemahiran tersebut.</li>
-              <li>Purata Keseluruhan adalah purata dari semua TP Akhir kemahiran yang telah dinilai.</li>
-              <li>Pengiraan dibundarkan kepada integer terdekat.</li>
-            </ul>
-          </Card>
+            </Card>
+            
+            <Card className="border-none shadow-sm bg-white p-6 rounded-2xl">
+              <h3 className="text-sm font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <div className="p-1.5 bg-emerald-50 rounded-lg">
+                  <Download size={18} className="text-emerald-600" />
+                </div>
+                Nota Pengiraan
+              </h3>
+              <ul className="text-xs text-slate-500 space-y-2 list-disc pl-4 font-medium">
+                <li>TP Akhir bagi setiap kemahiran dikira berdasarkan purata semua Standard Pembelajaran dalam kemahiran tersebut.</li>
+                <li>Purata Keseluruhan adalah purata dari semua TP Akhir kemahiran yang telah dinilai.</li>
+                <li>Pengiraan dibundarkan kepada integer terdekat.</li>
+              </ul>
+            </Card>
+          </div>
         </div>
       </main>
 
       <style jsx global>{`
+        .print-only {
+          display: none;
+        }
         @media print {
           .no-print {
             display: none !important;
+          }
+          .print-only {
+            display: block !important;
           }
           body {
             background-color: white !important;
@@ -381,9 +394,11 @@ export default function SummaryClient() {
             width: 100% !important;
             border-collapse: collapse !important;
             table-layout: auto !important;
+            font-size: 10pt !important;
           }
           th, td {
             border: 1px solid #cbd5e1 !important;
+            padding: 8px !important;
           }
           tr {
             page-break-inside: avoid !important;

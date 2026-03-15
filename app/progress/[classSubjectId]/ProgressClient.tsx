@@ -215,6 +215,12 @@ export default function ProgressClient() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, [filteredStudents.length]);
 
+  const onEditStudent = useCallback((student: any) => {
+    setSelectedStudentForEdit(student);
+    setStudentModalMode("edit");
+    setIsStudentModalOpen(true);
+  }, []);
+
   const handleTPChange = async (studentId: string, standardId: string, tp: string) => {
     if (userData?.isReadOnly) return;
     
@@ -406,11 +412,7 @@ export default function ProgressClient() {
                 setSelectedRecordForEvidence(data);
                 setIsEvidenceModalOpen(true);
               }}
-              onEditStudent={(s: any) => {
-                setSelectedStudentForEdit(s);
-                setStudentModalMode("edit");
-                setIsStudentModalOpen(true);
-              }}
+              onEditStudent={onEditStudent}
               onToggleStatus={handleToggleStatus}
             />
           ))}
@@ -475,11 +477,7 @@ export default function ProgressClient() {
                       setSelectedRecordForEvidence(data);
                       setIsEvidenceModalOpen(true);
                     }}
-                    onEditStudent={(s: any) => {
-                      setSelectedStudentForEdit(s);
-                      setStudentModalMode("edit");
-                      setIsStudentModalOpen(true);
-                    }}
+                    onEditStudent={onEditStudent}
                     onToggleStatus={handleToggleStatus}
                   />
                 ))}

@@ -98,10 +98,15 @@ export function DropdownMenuContent({ children, align = "end" }: { children: Rea
 }
 
 export function DropdownMenuItem({ children, onClick, className }: { children: React.ReactNode; onClick?: () => void; className?: string }) {
+  const context = React.useContext(DropdownMenuContext);
+  if (!context) throw new Error("DropdownMenuItem must be used within DropdownMenu");
+  const { setIsOpen } = context;
+
   return (
     <button
       onClick={(e) => {
         e.stopPropagation();
+        setIsOpen(false);
         onClick?.();
       }}
       className={cn(
