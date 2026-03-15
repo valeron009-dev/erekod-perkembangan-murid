@@ -45,7 +45,7 @@ export default function SummaryClient() {
   const [classData, setClassData] = useState<any>(null);
   const [students, setStudents] = useState<any[]>([]);
   const [standards, setStandards] = useState<any[]>([]);
-  const [records, setRecords] = useState<any[]>([]);
+  const [records, setRecords] = useState<Record<string, any[]>>({});
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(20);
@@ -55,10 +55,16 @@ export default function SummaryClient() {
     
     try {
       setLoading(true);
-      const csDoc = await getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
+      
+      // Start loading records and classSubjectDoc in parallel
+      const [csDoc, recordList] = await Promise.all([
+        getDoc(doc(db, "users", uid, "classSubjects", classSubjectId)),
+        getProgressRecordsByClassSubject(uid, classSubjectId)
+      ]);
       
       if (!csDoc.exists()) {
         console.error("ClassSubject document not found:", classSubjectId);
+        setLoading(false);
         router.push("/dashboard");
         return;
       }
@@ -66,16 +72,25 @@ export default function SummaryClient() {
       const csData = csDoc.data();
       setClassSubject({ id: csDoc.id, ...csData });
 
-      const [studentList, lsList, recordList, classInfo] = await Promise.all([
+      // Load remaining data in parallel
+      const [studentList, lsList, classInfo] = await Promise.all([
         getStudentsByClass(uid, csData.classId),
         getLearningStandardsBySubject(csData.subjectId, csData.year),
-        getProgressRecordsByClassSubject(uid, classSubjectId),
         getClassById(uid, csData.classId)
       ]);
 
       setStudents(studentList.filter(s => s.isActive).sort((a, b) => a.fullName.localeCompare(b.fullName)));
       setStandards(lsList);
-      setRecords(recordList);
+      
+      // Group records by studentId and groupName for fast lookup
+      const recordsMap: Record<string, any[]> = {};
+      recordList.forEach((r: any) => {
+        const key = `${r.studentId}_${r.groupName}`;
+        if (!recordsMap[key]) recordsMap[key] = [];
+        recordsMap[key].push(r);
+      });
+      setRecords(recordsMap);
+      
       setClassData(classInfo);
     } catch (error) {
       console.error("Error fetching data", error);
@@ -88,9 +103,12 @@ export default function SummaryClient() {
     const unsubscribe = onAuthStateChange(async (firebaseUser) => {
       if (firebaseUser) {
         setUser(firebaseUser);
-        const data = await getUserData(firebaseUser.uid);
+        // Load userData and class data in parallel
+        const [data] = await Promise.all([
+          getUserData(firebaseUser.uid),
+          fetchData(firebaseUser.uid)
+        ]);
         setUserData(data);
-        await fetchData(firebaseUser.uid);
       } else {
         router.push("/login");
       }
@@ -116,14 +134,12 @@ export default function SummaryClient() {
 
   const summaryData = useMemo(() => {
     return students.map(student => {
-      const studentRecords = records.filter(r => r.studentId === student.id);
-      
       const groupTps: Record<string, string> = {};
       let totalSum = 0;
       let totalCount = 0;
 
       groupNames.forEach(group => {
-        const groupRecords = studentRecords.filter(r => r.groupName === group);
+        const groupRecords = records[`${student.id}_${group}`] || [];
         const tpNumbers = groupRecords.map(r => tpToNumber(r.tp)).filter(n => n > 0);
         
         if (tpNumbers.length > 0) {

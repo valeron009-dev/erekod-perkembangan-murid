@@ -76,22 +76,26 @@ export default function ProgressClient() {
     
     try {
       setLoading(true);
-      const csDoc = await getDoc(doc(db, "users", uid, "classSubjects", classSubjectId));
+      
+      // Start loading records and classSubjectDoc in parallel
+      const [csDoc, recordList] = await Promise.all([
+        getDoc(doc(db, "users", uid, "classSubjects", classSubjectId)),
+        getProgressRecordsByClassSubject(uid, classSubjectId)
+      ]);
       
       if (!csDoc.exists()) {
         console.error("ClassSubject document not found:", classSubjectId);
-        // Remove redirect to allow page to stay open even if doc is missing
-        // This handles cases where super_admin or others might have different access patterns
+        setLoading(false);
         return;
       }
       
       const csData = csDoc.data();
       setClassSubject({ id: csDoc.id, ...csData });
 
-      const [studentList, lsList, recordList, classInfo] = await Promise.all([
+      // Load remaining data in parallel
+      const [studentList, lsList, classInfo] = await Promise.all([
         getStudentsByClass(uid, csData.classId),
         getLearningStandardsBySubject(csData.subjectId, csData.year),
-        getProgressRecordsByClassSubject(uid, classSubjectId),
         getClassById(uid, csData.classId)
       ]);
 
@@ -113,15 +117,18 @@ export default function ProgressClient() {
     } finally {
       setLoading(false);
     }
-  }, [classSubjectId, router]);
+  }, [classSubjectId]);
 
   useEffect(() => {
     const unsubscribe = onAuthStateChange(async (firebaseUser) => {
       if (firebaseUser) {
         setUser(firebaseUser);
-        const data = await getUserData(firebaseUser.uid);
+        // Load userData and class data in parallel
+        const [data] = await Promise.all([
+          getUserData(firebaseUser.uid),
+          fetchData(firebaseUser.uid)
+        ]);
         setUserData(data);
-        await fetchData(firebaseUser.uid);
       } else {
         router.push("/login");
       }
