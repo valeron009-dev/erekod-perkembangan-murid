@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState, useMemo, useCallback, memo } from "react";
 import { useParams, useRouter } from "next/navigation";
+import { cn } from "@/lib/utils";
 import { 
   ArrowLeft, 
   Search, 
@@ -48,15 +49,6 @@ import {
   DropdownMenuTrigger 
 } from "@/components/ui/DropdownMenu";
 
-const TP_OPTIONS = [
-  { label: "-", value: "" },
-  { label: "TP1", value: "TP1" },
-  { label: "TP2", value: "TP2" },
-  { label: "TP3", value: "TP3" },
-  { label: "TP4", value: "TP4" },
-  { label: "TP5", value: "TP5" },
-  { label: "TP6", value: "TP6" },
-];
 
 export default function ProgressClient() {
   const params = useParams();
@@ -551,6 +543,36 @@ export default function ProgressClient() {
   );
 }
 
+// Tap-based TP Picker Component
+const TPPicker = ({ value, onChange, disabled }: { value: string, onChange: (val: string) => void, disabled?: boolean }) => {
+  const options = ["TP1", "TP2", "TP3", "TP4", "TP5", "TP6"];
+  
+  return (
+    <div className="flex flex-wrap gap-1 items-center justify-center max-w-[140px]">
+      {options.map((tp) => {
+        const isActive = value === tp;
+        return (
+          <button
+            key={tp}
+            type="button"
+            disabled={disabled}
+            onClick={() => onChange(isActive ? "" : tp)}
+            className={cn(
+              "px-1.5 py-1 text-[10px] font-bold rounded-md transition-all border min-w-[32px]",
+              isActive 
+                ? "bg-emerald-600 border-emerald-600 text-white shadow-sm" 
+                : "bg-white border-slate-200 text-slate-500 hover:border-emerald-300 hover:text-emerald-600",
+              disabled && "opacity-50 cursor-not-allowed"
+            )}
+          >
+            {tp}
+          </button>
+        );
+      })}
+    </div>
+  );
+};
+
 // Memoized Student Card for Mobile View
 const StudentCard = memo(({ 
   student, 
@@ -584,6 +606,15 @@ const StudentCard = memo(({
               <p className="text-lg font-black text-emerald-600 leading-none mt-1">{studentSummaries[student.id]?.finalTp}</p>
             </div>
             
+            <Button 
+              variant="ghost" 
+              size="sm" 
+              className={`h-8 w-8 p-0 ${student.isActive ? "text-slate-400 hover:text-red-600" : "text-emerald-600"}`}
+              onClick={() => onToggleStatus(student.id, student.isActive)}
+            >
+              {student.isActive ? <UserMinus size={16} /> : <UserCheck size={16} />}
+            </Button>
+
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
@@ -630,11 +661,9 @@ const StudentCard = memo(({
                     <span className="text-[10px] font-bold text-slate-500 truncate">{s.spDescription}</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <Select
-                      className="h-9 text-sm font-bold border-slate-200"
-                      options={TP_OPTIONS}
+                    <TPPicker
                       value={record?.tp || ""}
-                      onChange={(e) => handleTPChange(student.id, s.id, e.target.value)}
+                      onChange={(val) => handleTPChange(student.id, s.id, val)}
                       disabled={userData?.isReadOnly}
                     />
                   </div>
@@ -642,7 +671,7 @@ const StudentCard = memo(({
                 <Button
                   variant="outline"
                   size="sm"
-                  className={`h-9 w-9 p-0 rounded-xl border-2 transition-all ${
+                  className={`h-10 w-10 p-0 flex items-center justify-center rounded-xl border-2 transition-all ${
                     hasEvidence 
                       ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100" 
                       : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
@@ -701,35 +730,47 @@ const StudentRow = memo(({
             </div>
           </div>
 
-          <DropdownMenu>
-            <DropdownMenuTrigger asChild>
-              <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
-                <MoreVertical size={16} />
-              </Button>
-            </DropdownMenuTrigger>
-            <DropdownMenuContent align="start">
-              <DropdownMenuItem onClick={() => onEditStudent(student)} className="gap-2">
-                <Edit2 size={14} />
-                Kemaskini Nama
-              </DropdownMenuItem>
-              <DropdownMenuItem 
-                onClick={() => onToggleStatus(student.id, student.isActive)} 
-                className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}
-              >
-                {student.isActive ? (
-                  <>
-                    <UserMinus size={14} />
-                    Tandakan Pindah
-                  </>
-                ) : (
-                  <>
-                    <UserCheck size={14} />
-                    Aktifkan Semula
-                  </>
-                )}
-              </DropdownMenuItem>
-            </DropdownMenuContent>
-          </DropdownMenu>
+          <div className="flex items-center gap-1">
+            <Button 
+              variant="ghost" 
+              size="sm" 
+              className={`h-8 w-8 p-0 ${student.isActive ? "text-slate-400 hover:text-red-600" : "text-emerald-600"}`}
+              title={student.isActive ? "Tandakan Pindah" : "Aktifkan Semula"}
+              onClick={() => onToggleStatus(student.id, student.isActive)}
+            >
+              {student.isActive ? <UserMinus size={16} /> : <UserCheck size={16} />}
+            </Button>
+
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
+                  <MoreVertical size={16} />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="start">
+                <DropdownMenuItem onClick={() => onEditStudent(student)} className="gap-2">
+                  <Edit2 size={14} />
+                  Kemaskini Nama
+                </DropdownMenuItem>
+                <DropdownMenuItem 
+                  onClick={() => onToggleStatus(student.id, student.isActive)} 
+                  className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}
+                >
+                  {student.isActive ? (
+                    <>
+                      <UserMinus size={14} />
+                      Tandakan Pindah
+                    </>
+                  ) : (
+                    <>
+                      <UserCheck size={14} />
+                      Aktifkan Semula
+                    </>
+                  )}
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
+          </div>
         </div>
       </td>
       {filteredStandards.map((s: any) => {
@@ -738,19 +779,20 @@ const StudentRow = memo(({
         
         return (
           <td key={s.id} className="border-r border-slate-100 px-3 py-3 text-center">
-            <div className="flex flex-col items-center gap-2">
-              <Select
-                className={`h-9 w-24 text-center text-sm font-bold transition-all ${
-                  record?.tp 
-                    ? "border-emerald-200 bg-emerald-50/30 text-emerald-700 focus:ring-emerald-500" 
-                    : "border-slate-200 bg-white text-slate-400"
-                }`}
-                options={TP_OPTIONS}
+            <div className="flex flex-col items-center gap-3">
+              <TPPicker
                 value={record?.tp || ""}
-                onChange={(e) => handleTPChange(student.id, s.id, e.target.value)}
+                onChange={(val) => handleTPChange(student.id, s.id, val)}
                 disabled={userData?.isReadOnly}
               />
-              <button
+              <Button
+                variant="outline"
+                size="sm"
+                className={`h-8 w-8 p-0 rounded-lg border transition-all ${
+                  hasEvidence 
+                    ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100" 
+                    : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
+                }`}
                 onClick={() => onOpenEvidence({
                   studentId: student.id,
                   studentName: student.fullName,
@@ -763,24 +805,9 @@ const StudentRow = memo(({
                   classSubjectId: classSubject.id,
                   teacherId: user.uid
                 })}
-                className={`flex items-center gap-1.5 rounded-full px-2 py-1 text-[10px] font-bold transition-all ${
-                  hasEvidence 
-                    ? "bg-emerald-100 text-emerald-700 hover:bg-emerald-200" 
-                    : "bg-slate-100 text-slate-400 hover:bg-slate-200"
-                }`}
               >
-                {hasEvidence ? (
-                  <>
-                    <Paperclip size={10} />
-                    <span>Ada Bukti</span>
-                  </>
-                ) : (
-                  <>
-                    <Camera size={10} />
-                    <span>Tambah Bukti</span>
-                  </>
-                )}
-              </button>
+                {hasEvidence ? <Paperclip size={14} /> : <Camera size={14} />}
+              </Button>
             </div>
           </td>
         );
