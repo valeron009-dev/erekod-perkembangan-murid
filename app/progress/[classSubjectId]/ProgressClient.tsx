@@ -31,7 +31,7 @@ import {
   toggleStudentStatus,
   db
 } from "@/lib/firestore-helpers";
-import { doc, getDoc } from "firebase/firestore";
+import { doc, getDoc, collection, query, where, onSnapshot } from "firebase/firestore";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent, CardHeader, CardFooter } from "@/components/ui/Card";
 import { Navbar } from "@/components/ui/Navbar";
@@ -91,14 +91,13 @@ export default function ProgressClient() {
       const csData = csDoc.data();
       setClassSubject({ id: csDoc.id, ...csData });
 
-      // STAGE 1: Load students and standards in parallel
-      const [studentList, lsList, classInfo] = await Promise.all([
-        getStudentsByClass(uid, csData.classId),
+      // STAGE 1: Load standards and class info in parallel
+      // (Students will be loaded via real-time listener)
+      const [lsList, classInfo] = await Promise.all([
         getLearningStandardsBySubject(csData.subjectId, csData.year),
         getClassById(uid, csData.classId)
       ]);
 
-      setStudents(studentList.sort((a: any, b: any) => a.fullName.localeCompare(b.fullName)));
       setStandards(lsList);
       setClassData(classInfo);
 
@@ -106,7 +105,7 @@ export default function ProgressClient() {
         setSelectedGroupName(prev => prev || lsList[0].groupName);
       }
 
-      // SET LOADING FALSE HERE so student names appear immediately
+      // SET LOADING FALSE HERE so UI appears immediately
       setLoading(false);
 
       // STAGE 2: Load heavy progress records in the background (Non-blocking)
@@ -130,7 +129,7 @@ export default function ProgressClient() {
   }, [classSubjectId]);
 
   useEffect(() => {
-    const unsubscribe = onAuthStateChange(async (firebaseUser) => {
+    const unsubscribeAuth = onAuthStateChange(async (firebaseUser) => {
       if (firebaseUser) {
         setUser(firebaseUser);
         // Load userData and class data in parallel
@@ -143,8 +142,26 @@ export default function ProgressClient() {
         router.push("/login");
       }
     });
-    return () => unsubscribe();
+
+    return () => {
+      unsubscribeAuth();
+    };
   }, [classSubjectId, router, fetchData]);
+
+  // Separate effect for student listener to react to classSubject changes
+  useEffect(() => {
+    if (!user || !classSubject?.classId) return;
+
+    const studentsRef = collection(db, "users", user.uid, "students");
+    const q = query(studentsRef, where("classId", "==", classSubject.classId));
+
+    const unsubscribe = onSnapshot(q, (snapshot) => {
+      const studentList = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+      setStudents(studentList.sort((a: any, b: any) => a.fullName.localeCompare(b.fullName)));
+    });
+
+    return () => unsubscribe();
+  }, [user, classSubject?.classId]);
 
   const groupNames = useMemo(() => {
     const groups = Array.from(new Set(standards.map(s => s.groupName)));

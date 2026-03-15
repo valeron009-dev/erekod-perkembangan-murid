@@ -25,7 +25,7 @@ import {
 } from "lucide-react";
 import { onAuthStateChange, signOutUser } from "@/lib/auth-helpers";
 import { getClassSubjectsByTeacher, getUserData, getClassById, db } from "@/lib/firestore-helpers";
-import { doc, updateDoc, serverTimestamp, collection, getDocs, query, orderBy, limit, where, getCountFromServer } from "firebase/firestore";
+import { doc, updateDoc, serverTimestamp, collection, getDocs, query, orderBy, limit, where, getCountFromServer, onSnapshot } from "firebase/firestore";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent, CardHeader, CardFooter } from "@/components/ui/Card";
 import { Navbar } from "@/components/ui/Navbar";
@@ -104,7 +104,9 @@ export default function DashboardPage() {
   };
 
   useEffect(() => {
-    const unsubscribe = onAuthStateChange(async (firebaseUser) => {
+    let unsubscribeClasses: (() => void) | undefined;
+
+    const unsubscribeAuth = onAuthStateChange(async (firebaseUser) => {
       if (firebaseUser) {
         setUser(firebaseUser);
         try {
@@ -112,6 +114,32 @@ export default function DashboardPage() {
           setUserData(data);
           
           const sessionId = data?.currentSessionId ?? "2026";
+          
+          // Set up real-time listener for class subjects
+          const classSubjectsRef = collection(db, "users", firebaseUser.uid, "classSubjects");
+          const q = query(classSubjectsRef, where("sessionId", "==", sessionId));
+          
+          unsubscribeClasses = onSnapshot(q, (snapshot) => {
+            const subjects = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+            setClassSubjects(subjects);
+            
+            // Update stats when classes change
+            const totalClasses = subjects.length;
+            const totalStudents = subjects.reduce((acc: number, cs: any) => acc + (cs.studentCount || 0), 0);
+            
+            setStats(prev => ({
+              ...prev,
+              totalClasses,
+              totalStudents,
+            }));
+
+            // Prefetch
+            subjects.slice(0, 5).forEach((cs: any) => {
+              router.prefetch(`/progress/${cs.id}`);
+            });
+          });
+
+          // Load other stats (like totalRecords) which might not need real-time or are too heavy
           await loadDashboardData(firebaseUser.uid, sessionId);
         } catch (error) {
           console.error("Error loading user data:", error);
@@ -122,7 +150,11 @@ export default function DashboardPage() {
         router.push("/login");
       }
     });
-    return () => unsubscribe();
+
+    return () => {
+      unsubscribeAuth();
+      if (unsubscribeClasses) unsubscribeClasses();
+    };
   }, [router, loadDashboardData]);
 
   const filteredSubjects = classSubjects.filter((cs: any) => {
