@@ -9,6 +9,8 @@ import {
   CheckCircle2,
   Info,
   ChevronDown,
+  ChevronLeft,
+  ChevronRight,
   Upload,
   Paperclip,
   Camera,
@@ -71,6 +73,29 @@ export default function ProgressClient() {
   const [isStudentModalOpen, setIsStudentModalOpen] = useState(false);
   const [studentModalMode, setStudentModalMode] = useState<"add" | "edit">("add");
   const [showInactiveStudents, setShowInactiveStudents] = useState(false);
+  const [currentStudentIndex, setCurrentStudentIndex] = useState(0);
+  const [touchStart, setTouchStart] = useState<number | null>(null);
+  const [touchEnd, setTouchEnd] = useState<number | null>(null);
+
+  // Swipe logic
+  const minSwipeDistance = 50;
+  const onTouchStart = (e: React.TouchEvent) => {
+    setTouchEnd(null);
+    setTouchStart(e.targetTouches[0].clientX);
+  };
+  const onTouchMove = (e: React.TouchEvent) => setTouchEnd(e.targetTouches[0].clientX);
+  const onTouchEnd = () => {
+    if (!touchStart || !touchEnd) return;
+    const distance = touchStart - touchEnd;
+    const isLeftSwipe = distance > minSwipeDistance;
+    const isRightSwipe = distance < -minSwipeDistance;
+    if (isLeftSwipe && currentStudentIndex < filteredStudents.length - 1) {
+      setCurrentStudentIndex(prev => prev + 1);
+    }
+    if (isRightSwipe && currentStudentIndex > 0) {
+      setCurrentStudentIndex(prev => prev - 1);
+    }
+  };
 
   const fetchData = useCallback(async (uid: string) => {
     if (!uid || !classSubjectId) return;
@@ -259,17 +284,13 @@ export default function ProgressClient() {
     }
   };
 
-  const filteredStudents = useMemo(() => {
-    return students.filter((s) => {
-      const matchesSearch = s.fullName.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesStatus = showInactiveStudents ? !s.isActive : s.isActive;
-      return matchesSearch && matchesStatus;
-    });
-  }, [students, searchTerm, showInactiveStudents]);
+  const filteredStudents = students.filter((s) => {
+    const matchesSearch = s.fullName.toLowerCase().includes(searchTerm.toLowerCase());
+    const matchesStatus = showInactiveStudents ? !s.isActive : s.isActive;
+    return matchesSearch && matchesStatus;
+  });
 
-  const visibleStudents = useMemo(() => {
-    return filteredStudents.slice(0, visibleCount);
-  }, [filteredStudents, visibleCount]);
+  const visibleStudents = filteredStudents.slice(0, visibleCount);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -280,6 +301,11 @@ export default function ProgressClient() {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, [filteredStudents.length]);
+
+  // Reset index if it goes out of bounds - removed to avoid lint error, clamping in render instead
+  const safeStudentIndex = filteredStudents.length > 0 
+    ? Math.min(currentStudentIndex, filteredStudents.length - 1) 
+    : 0;
 
   const handleTPChange = async (studentId: string, standardId: string, tp: string) => {
     if (userData?.isReadOnly) return;
@@ -490,35 +516,71 @@ export default function ProgressClient() {
           </Card>
         </div>
 
-        {/* Mobile/Tablet View (Cards) */}
+        {/* Mobile/Tablet View (Swipeable Cards) */}
         <div className="block lg:hidden space-y-4 mb-8">
-          {visibleStudents.map((student) => (
-            <StudentCard 
-              key={student.id}
-              student={student}
-              filteredStandards={filteredStandards}
-              records={records}
-              recordsLoading={recordsLoading}
-              userData={userData}
-              studentSummaries={studentSummaries}
-              classSubject={classSubject}
-              user={user}
-              handleTPChange={handleTPChange}
-              onOpenEvidence={(data: any) => {
-                setSelectedRecordForEvidence(data);
-                setIsEvidenceModalOpen(true);
-              }}
-              onToggleStatus={handleToggleStatus}
-            />
-          ))}
-          {filteredStudents.length > visibleCount && (
-            <div className="py-4 text-center">
-              <Button variant="ghost" onClick={() => setVisibleCount(prev => prev + 20)}>
-                Muat lebih banyak...
-              </Button>
+          {filteredStudents.length > 0 ? (
+            <div 
+              className="space-y-4"
+              onTouchStart={onTouchStart}
+              onTouchMove={onTouchMove}
+              onTouchEnd={onTouchEnd}
+            >
+              {/* Navigation Controls */}
+              <div className="flex items-center justify-between bg-white p-4 rounded-2xl shadow-sm border border-slate-100 mb-4">
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  onClick={() => setCurrentStudentIndex(prev => Math.max(0, prev - 1))}
+                  disabled={safeStudentIndex === 0}
+                  className="h-10 w-10 p-0 rounded-xl"
+                >
+                  <ChevronLeft size={24} />
+                </Button>
+                
+                <div className="text-center">
+                  <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">Murid</p>
+                  <p className="text-sm font-black text-slate-900">
+                    {filteredStudents.length > 0 ? safeStudentIndex + 1 : 0} / {filteredStudents.length}
+                  </p>
+                </div>
+
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  onClick={() => setCurrentStudentIndex(prev => Math.min(filteredStudents.length - 1, prev + 1))}
+                  disabled={safeStudentIndex === filteredStudents.length - 1}
+                  className="h-10 w-10 p-0 rounded-xl"
+                >
+                  <ChevronRight size={24} />
+                </Button>
+              </div>
+
+              {/* Current Student Card */}
+              {filteredStudents[safeStudentIndex] && (
+                <StudentCard 
+                  key={filteredStudents[safeStudentIndex].id}
+                  student={filteredStudents[safeStudentIndex]}
+                  filteredStandards={filteredStandards}
+                  records={records}
+                  recordsLoading={recordsLoading}
+                  userData={userData}
+                  studentSummaries={studentSummaries}
+                  classSubject={classSubject}
+                  user={user}
+                  handleTPChange={handleTPChange}
+                  onOpenEvidence={(data: any) => {
+                    setSelectedRecordForEvidence(data);
+                    setIsEvidenceModalOpen(true);
+                  }}
+                  onToggleStatus={handleToggleStatus}
+                />
+              )}
+
+              <div className="text-center text-[10px] text-slate-400 font-medium pb-4">
+                Swipe kiri/kanan untuk tukar murid
+              </div>
             </div>
-          )}
-          {filteredStudents.length === 0 && (
+          ) : (
             <div className="py-12 text-center bg-white rounded-2xl border-2 border-dashed border-slate-200">
               <p className="text-slate-400 font-medium">Tiada murid dijumpai.</p>
             </div>
