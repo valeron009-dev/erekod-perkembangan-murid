@@ -204,7 +204,7 @@ export default function AdminTeachersPage() {
                     </td>
                   </tr>
                 ) : filteredTeachers.length > 0 ? (
-                  filteredTeachers.map((teacher: any) => (
+                  filteredTeachers.map((teacher: any, index: number) => (
                     <tr key={teacher.id} className="hover:bg-slate-50/50 transition-colors group">
                       <td className="px-6 py-4">
                         <div className="flex items-center gap-3">
@@ -212,7 +212,7 @@ export default function AdminTeachersPage() {
                             {(teacher.displayName?.[0] || teacher.email?.[0] || "?").toUpperCase()}
                           </div>
                           <div>
-                            <p className="font-bold text-slate-900">{teacher.displayName || "Cikgu"}</p>
+                            <p className="font-bold text-slate-900">{index + 1}. {teacher.displayName || "Cikgu"}</p>
                             <p className="text-[11px] text-slate-500 flex items-center gap-1">
                               <Mail size={12} />
                               {teacher.email}
@@ -346,7 +346,7 @@ export default function AdminTeachersPage() {
                 <p className="mt-2 text-sm text-slate-500">Memuatkan senarai guru...</p>
               </div>
             ) : filteredTeachers.length > 0 ? (
-              filteredTeachers.map((teacher: any) => (
+              filteredTeachers.map((teacher: any, index: number) => (
                 <div key={teacher.id} className="p-4 space-y-4">
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">
@@ -354,7 +354,7 @@ export default function AdminTeachersPage() {
                         {(teacher.displayName?.[0] || teacher.email?.[0] || "?").toUpperCase()}
                       </div>
                       <div>
-                        <p className="font-bold text-slate-900">{teacher.displayName || "Cikgu"}</p>
+                        <p className="font-bold text-slate-900">{index + 1}. {teacher.displayName || "Cikgu"}</p>
                         <p className="text-[11px] text-slate-500">{teacher.email}</p>
                       </div>
                     </div>
