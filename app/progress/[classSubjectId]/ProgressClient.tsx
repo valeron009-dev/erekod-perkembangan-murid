@@ -27,6 +27,7 @@ import {
   getLearningStandardsBySubject, 
   getProgressRecordsByClassSubject,
   updateProgressRecord,
+  updateStudent,
   getClassById,
   getUserData,
   addStudent,
@@ -72,6 +73,7 @@ export default function ProgressClient() {
   const [visibleCount, setVisibleCount] = useState(20);
   const [isStudentModalOpen, setIsStudentModalOpen] = useState(false);
   const [studentModalMode, setStudentModalMode] = useState<"add" | "edit">("add");
+  const [selectedStudentForEdit, setSelectedStudentForEdit] = useState<any>(null);
   const [showInactiveStudents, setShowInactiveStudents] = useState(false);
   const [currentStudentIndex, setCurrentStudentIndex] = useState(0);
   const [touchStart, setTouchStart] = useState<number | null>(null);
@@ -346,9 +348,12 @@ export default function ProgressClient() {
         className: classData?.className || classSubject.className,
         sessionId: classSubject.sessionId
       }, fullName);
+    } else if (studentModalMode === "edit" && selectedStudentForEdit) {
+      await updateStudent(user.uid, selectedStudentForEdit.id, fullName);
     }
     
     await fetchData(user.uid);
+    setSelectedStudentForEdit(null);
   };
 
   const [isConfirmModalOpen, setIsConfirmModalOpen] = useState(false);
@@ -574,6 +579,11 @@ export default function ProgressClient() {
                     setIsEvidenceModalOpen(true);
                   }}
                   onToggleStatus={handleToggleStatus}
+                  onEditName={(student: any) => {
+                    setSelectedStudentForEdit(student);
+                    setStudentModalMode("edit");
+                    setIsStudentModalOpen(true);
+                  }}
                 />
               )}
 
@@ -638,6 +648,11 @@ export default function ProgressClient() {
                       setIsEvidenceModalOpen(true);
                     }}
                     onToggleStatus={handleToggleStatus}
+                    onEditName={(student: any) => {
+                      setSelectedStudentForEdit(student);
+                      setStudentModalMode("edit");
+                      setIsStudentModalOpen(true);
+                    }}
                   />
                 ))}
               </tbody>
@@ -698,6 +713,7 @@ export default function ProgressClient() {
         }}
         onSave={handleStudentSave}
         mode={studentModalMode}
+        initialName={selectedStudentForEdit?.fullName || ""}
       />
 
       {/* Confirmation Modal for Tandakan Pindah */}
@@ -862,7 +878,8 @@ const StudentCard = memo(({
   user, 
   handleTPChange,
   onOpenEvidence,
-  onToggleStatus
+  onToggleStatus,
+  onEditName
 }: any) => {
   const isExpired = userData?.trialEndsAt && userData.trialEndsAt.toDate() < new Date();
   const showBanner = isExpired || userData?.subscriptionStatus === "expired";
@@ -911,6 +928,13 @@ const StudentCard = memo(({
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent align="end">
+                <DropdownMenuItem 
+                  onClick={() => onEditName(student)}
+                  className="gap-2 text-slate-700"
+                >
+                  <FileText size={14} />
+                  Kemaskini Nama
+                </DropdownMenuItem>
                 <DropdownMenuItem 
                   onClick={() => onToggleStatus(student.id, student.isActive)} 
                   className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}
@@ -969,7 +993,8 @@ const StudentRow = memo(({
   user, 
   handleTPChange,
   onOpenEvidence,
-  onToggleStatus
+  onToggleStatus,
+  onEditName
 }: any) => {
   return (
     <tr className={`hover:bg-slate-50/50 transition-colors ${!student.isActive ? "opacity-60" : ""}`}>
@@ -1003,6 +1028,13 @@ const StudentRow = memo(({
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent align="start">
+                <DropdownMenuItem 
+                  onClick={() => onEditName(student)}
+                  className="gap-2 text-slate-700"
+                >
+                  <FileText size={14} />
+                  Kemaskini Nama
+                </DropdownMenuItem>
                 <DropdownMenuItem 
                   onClick={() => onToggleStatus(student.id, student.isActive)} 
                   className={`gap-2 ${student.isActive ? "text-red-600" : "text-emerald-600"}`}

@@ -20,8 +20,10 @@ export function DropdownMenu({ children }: { children: React.ReactNode }) {
         setIsOpen(false);
       }
     };
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
+    document.addEventListener("click", handleClickOutside);
+    return () => {
+      document.removeEventListener("click", handleClickOutside);
+    };
   }, []);
 
   return (
@@ -39,19 +41,24 @@ export function DropdownMenuTrigger({ children, asChild }: { children: React.Rea
 
   const { isOpen, setIsOpen } = context;
 
-  const handleClick = (e: React.MouseEvent) => {
+  const handleTrigger = (e: React.MouseEvent | React.TouchEvent) => {
     e.stopPropagation();
     setIsOpen(!isOpen);
   };
 
   if (asChild && React.isValidElement(children)) {
     return React.cloneElement(children as React.ReactElement<any>, {
-      onClick: handleClick,
+      onClick: handleTrigger,
+      onTouchEnd: (e: React.TouchEvent) => {
+        // Prevent click from firing after touch if we handle it here
+        // But actually, standard onClick is usually fine if we don't preventDefault.
+        // Let's just stick to onClick for now but ensure it's responsive.
+      }
     });
   }
 
   return (
-    <button onClick={handleClick}>
+    <button onClick={handleTrigger}>
       {children}
     </button>
   );
@@ -73,9 +80,10 @@ export function DropdownMenuContent({ children, align = "end" }: { children: Rea
   React.useEffect(() => {
     if (isOpen && triggerRef.current) {
       const rect = triggerRef.current.getBoundingClientRect();
+      // Use fixed positioning coordinates (relative to viewport)
       setCoords({
-        top: rect.bottom + window.scrollY,
-        left: align === "end" ? rect.right + window.scrollX : rect.left + window.scrollX,
+        top: rect.bottom,
+        left: align === "end" ? rect.right : rect.left,
       });
     }
   }, [isOpen, triggerRef, align]);
@@ -85,11 +93,14 @@ export function DropdownMenuContent({ children, align = "end" }: { children: Rea
   return createPortal(
     <div 
       className={cn(
-        "fixed z-[9999] mt-2 min-w-[12rem] w-max max-w-[16rem] rounded-xl bg-white shadow-2xl ring-1 ring-black ring-opacity-5 focus:outline-none overflow-hidden border border-slate-100",
+        "fixed z-[9999] mt-2 min-w-[12rem] w-max max-w-[16rem] rounded-xl bg-white shadow-2xl ring-1 ring-black ring-opacity-5 focus:outline-none overflow-hidden border border-slate-100 animate-in fade-in zoom-in-95 duration-100",
         align === "end" ? "-translate-x-full origin-top-right" : "origin-top-left"
       )}
       style={{ top: coords.top, left: coords.left }}
-      onClick={() => setIsOpen(false)}
+      onClick={(e) => {
+        e.stopPropagation();
+        setIsOpen(false);
+      }}
     >
       <div className="py-1">{children}</div>
     </div>,
