@@ -268,7 +268,7 @@ export default function SummaryClient() {
                 {groupNames.map(group => (
                   <th key={group} className="border border-slate-300 px-2 py-2 text-center text-[10px] font-bold uppercase text-slate-700 w-[80px]">{group}</th>
                 ))}
-                <th className="border border-slate-300 px-2 py-2 text-center text-[10px] font-bold uppercase text-slate-700 w-[80px] bg-slate-100">Purata</th>
+                <th className="border border-slate-300 px-2 py-2 text-center text-[10px] font-bold uppercase text-slate-700 w-[80px] bg-slate-100">TP Akhir</th>
               </tr>
             </thead>
             <tbody>
@@ -309,7 +309,7 @@ export default function SummaryClient() {
                       </th>
                     ))}
                     <th className="border-b border-slate-200 bg-slate-100 px-4 py-4 text-center text-xs font-bold uppercase tracking-wider text-slate-700">
-                      Purata
+                      TP Akhir
                     </th>
                   </tr>
                 </thead>
@@ -395,7 +395,7 @@ export default function SummaryClient() {
               </h3>
               <ul className="text-xs text-slate-500 space-y-2 list-disc pl-4 font-medium">
                 <li>TP Akhir bagi setiap kemahiran dikira berdasarkan purata semua Standard Pembelajaran dalam kemahiran tersebut.</li>
-                <li>Purata Keseluruhan adalah purata dari semua TP Akhir kemahiran yang telah dinilai.</li>
+                <li>TP Akhir adalah purata dari semua TP Akhir kemahiran yang telah dinilai.</li>
                 <li>Pengiraan dibundarkan kepada integer terdekat.</li>
               </ul>
             </Card>

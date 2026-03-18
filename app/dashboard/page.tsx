@@ -24,7 +24,7 @@ import {
   Sparkles
 } from "lucide-react";
 import { onAuthStateChange, signOutUser } from "@/lib/auth-helpers";
-import { getClassSubjectsByTeacher, getUserData, getClassById, db } from "@/lib/firestore-helpers";
+import { getClassSubjectsByTeacher, getUserData, getClassById, db, getSubjects } from "@/lib/firestore-helpers";
 import { doc, updateDoc, serverTimestamp, collection, getDocs, query, orderBy, limit, where, getCountFromServer, onSnapshot } from "firebase/firestore";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent, CardHeader, CardFooter } from "@/components/ui/Card";
@@ -37,6 +37,7 @@ export default function DashboardPage() {
   const [user, setUser] = useState<any>(null);
   const [userData, setUserData] = useState<any>(null);
   const [classSubjects, setClassSubjects] = useState<any[]>([]);
+  const [subjectsMap, setSubjectsMap] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -115,6 +116,14 @@ export default function DashboardPage() {
           
           const sessionId = data?.currentSessionId ?? "2026";
           
+          // Fetch subjects to get names
+          const allSubjects = await getSubjects();
+          const sMap: Record<string, string> = {};
+          allSubjects.forEach((s: any) => {
+            sMap[s.id] = s.subjectName;
+          });
+          setSubjectsMap(sMap);
+          
           // Set up real-time listener for class subjects
           const classSubjectsRef = collection(db, "users", firebaseUser.uid, "classSubjects");
           const q = query(classSubjectsRef, where("sessionId", "==", sessionId));
@@ -158,8 +167,9 @@ export default function DashboardPage() {
   }, [router, loadDashboardData]);
 
   const filteredSubjects = classSubjects.filter((cs: any) => {
+    const subjectName = subjectsMap[cs.subjectId] || cs.subjectId;
     const matchesSearch = cs.className?.toLowerCase().includes(searchTerm.toLowerCase()) || 
-                         cs.subjectId?.toLowerCase().includes(searchTerm.toLowerCase());
+                         subjectName.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesTab = activeTab === "active" ? (cs.isActive !== false) : (cs.isActive === false);
     return matchesSearch && matchesTab;
   });
@@ -276,8 +286,8 @@ export default function DashboardPage() {
                   <Link 
                     href={`/progress/${cs.id}`}
                     key={cs.id} 
-                    className={`group cursor-pointer border-none shadow-sm bg-white/80 backdrop-blur-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 active:scale-[0.98] relative overflow-hidden block rounded-3xl border border-transparent ${
-                      cs.isActive === false ? "opacity-75 grayscale-[0.5]" : ""
+                    className={`group cursor-pointer bg-white border border-slate-200 shadow-sm hover:shadow-2xl hover:border-emerald-200 hover:-translate-y-1.5 transition-all duration-500 active:scale-[0.98] relative overflow-hidden block rounded-[2rem] ${
+                      cs.isActive === false ? "opacity-75 grayscale-[0.5] bg-slate-50" : ""
                     }`}
                   >
                     <div className="absolute top-0 left-0 w-1 h-full bg-emerald-500 opacity-0 group-hover:opacity-100 transition-opacity" />
@@ -320,7 +330,7 @@ export default function DashboardPage() {
                       <div className="space-y-5">
                         <div className="bg-slate-50/50 p-3 rounded-xl border border-slate-100">
                           <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1">Subjek</p>
-                          <p className="text-lg font-black text-slate-800">{cs.subjectId}</p>
+                          <p className="text-lg font-black text-slate-800">{subjectsMap[cs.subjectId] || cs.subjectId}</p>
                         </div>
                         
                         <div className="flex items-center justify-between">

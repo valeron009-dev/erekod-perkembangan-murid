@@ -224,6 +224,41 @@ export default function ProgressClient() {
     };
   }, [studentSummaries, filteredStandards]);
 
+  const lastUpdated = useMemo(() => {
+    const recordValues = Object.values(records);
+    if (recordValues.length === 0) return null;
+
+    const timestamps = recordValues
+      .map((r: any) => {
+        const ts = r.updatedAt || r.createdAt;
+        if (!ts) return 0;
+        try {
+          if (typeof ts.toMillis === 'function') return ts.toMillis();
+          if (ts instanceof Date) return ts.getTime();
+          if (ts.seconds) return ts.seconds * 1000;
+        } catch (e) {}
+        return 0;
+      })
+      .filter(t => t > 0);
+
+    return timestamps.length > 0 ? new Date(Math.max(...timestamps)) : null;
+  }, [records]);
+
+  const formatLastUpdated = (date: Date | null) => {
+    if (!date) return "Belum dikemaskini";
+    const now = new Date();
+    
+    const isToday = date.toDateString() === now.toDateString();
+    const timeStr = date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+
+    if (isToday) {
+      return `Kemaskini terakhir: ${timeStr}`;
+    } else {
+      const dateStr = date.toLocaleDateString('ms-MY', { day: 'numeric', month: 'short', year: 'numeric' });
+      return `Kemaskini terakhir: ${dateStr}, ${timeStr}`;
+    }
+  };
+
   const filteredStudents = useMemo(() => {
     return students.filter((s) => {
       const matchesSearch = s.fullName.toLowerCase().includes(searchTerm.toLowerCase());
@@ -264,6 +299,7 @@ export default function ProgressClient() {
       spCode: standard.spCode,
       tp,
       sessionId: classSubject.sessionId,
+      updatedAt: new Date(),
     };
 
     setRecords(prev => ({ ...prev, [key]: newRecord }));
@@ -400,6 +436,10 @@ export default function ProgressClient() {
               >
                 {showInactiveStudents ? "Lihat Murid Aktif" : "Lihat Murid Pindah"}
               </button>
+              <span>&bull;</span>
+              <span className="text-[11px] text-slate-400 italic font-medium">
+                {formatLastUpdated(lastUpdated)}
+              </span>
             </div>
           </div>
           
@@ -550,9 +590,14 @@ export default function ProgressClient() {
                 <span>Belum Dinilai</span>
               </div>
             </div>
-            <div className="flex items-center gap-2 text-xs font-bold text-emerald-600">
-              <CheckCircle2 size={14} />
-              Auto-simpan Aktif
+            <div className="flex items-center gap-4">
+              <div className="text-[10px] text-slate-400 italic hidden sm:block">
+                {formatLastUpdated(lastUpdated)}
+              </div>
+              <div className="flex items-center gap-2 text-xs font-bold text-emerald-600">
+                <CheckCircle2 size={14} />
+                Auto-simpan Aktif
+              </div>
             </div>
           </CardFooter>
         </Card>
@@ -664,6 +709,83 @@ const TPPicker = ({ value, onChange, disabled, loading }: { value: string, onCha
 };
 
 // Memoized Student Card for Mobile View
+// Mobile Standard Row with Expandable Description
+const StandardRowMobile = memo(({ 
+  s, 
+  student, 
+  record, 
+  recordsLoading, 
+  userData, 
+  handleTPChange, 
+  onOpenEvidence, 
+  user, 
+  classSubject 
+}: any) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const evidenceCount = record?.evidenceCount || 0;
+  const hasEvidence = evidenceCount > 0 || record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
+
+  return (
+    <div className="p-4 flex items-start justify-between gap-4">
+      <div className="flex-1 min-w-0">
+        <div className="flex flex-col gap-1 mb-2">
+          <div className="flex items-start gap-2">
+            <span className="text-[10px] font-black text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded shrink-0 mt-0.5">
+              {s.spCode}
+            </span>
+            <span 
+              className={cn(
+                "text-[10px] font-bold text-slate-500 cursor-pointer transition-all duration-200",
+                !isExpanded && "line-clamp-2"
+              )}
+              onClick={() => setIsExpanded(!isExpanded)}
+            >
+              {s.spDescription}
+            </span>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <TPPicker
+            value={record?.tp || ""}
+            onChange={(val) => handleTPChange(student.id, s.id, val)}
+            disabled={userData?.isReadOnly}
+            loading={recordsLoading}
+          />
+        </div>
+      </div>
+      <Button
+        variant="outline"
+        size="sm"
+        className={cn(
+          "relative h-10 w-10 p-0 flex items-center justify-center rounded-xl border-2 transition-all shrink-0",
+          hasEvidence 
+            ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100 shadow-sm shadow-emerald-100" 
+            : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
+        )}
+        onClick={() => onOpenEvidence({
+          uid: user.uid,
+          recordId: record?.id || `${classSubject.id}_${student.id}_${s.id}`,
+          studentId: student.id,
+          studentName: student.fullName,
+          classId: classSubject.classId,
+          classSubjectId: classSubject.id,
+          spCode: s.spCode,
+          tpGiven: record?.tp || "",
+        })}
+      >
+        <Camera size={18} className={hasEvidence ? "text-emerald-600" : "text-slate-400"} />
+        {evidenceCount > 0 && (
+          <span className="absolute -top-1.5 -right-1.5 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-600 text-[10px] font-bold text-white border-2 border-white">
+            {evidenceCount}
+          </span>
+        )}
+      </Button>
+    </div>
+  );
+});
+
+StandardRowMobile.displayName = "StandardRowMobile";
+
 const StudentCard = memo(({ 
   student, 
   filteredStandards, 
@@ -677,9 +799,19 @@ const StudentCard = memo(({
   onOpenEvidence,
   onToggleStatus
 }: any) => {
+  const isExpired = userData?.trialEndsAt && userData.trialEndsAt.toDate() < new Date();
+  const showBanner = isExpired || userData?.subscriptionStatus === "expired";
+  const stickyTop = showBanner ? "top-[116px]" : "top-16";
+
   return (
-    <Card className={`border-none shadow-sm bg-white overflow-hidden ${!student.isActive ? "opacity-60" : ""}`}>
-      <CardHeader className="bg-slate-50/50 p-4 border-b border-slate-100">
+    <Card className={cn(
+      "border-none shadow-sm bg-white overflow-visible",
+      !student.isActive && "opacity-60"
+    )}>
+      <CardHeader className={cn(
+        "sticky z-20 bg-white p-4 border-b border-slate-100 shadow-sm rounded-t-xl transition-all duration-200",
+        stickyTop
+      )}>
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className={`h-8 w-8 rounded-full flex items-center justify-center font-bold text-xs ${student.isActive ? "bg-emerald-100 text-emerald-700" : "bg-slate-200 text-slate-500"}`}>
@@ -737,56 +869,20 @@ const StudentCard = memo(({
       </CardHeader>
       <CardContent className="p-0">
         <div className="divide-y divide-slate-50">
-          {filteredStandards.map((s: any) => {
-            const record = records[`${student.id}_${s.id}`];
-            const evidenceCount = record?.evidenceCount || 0;
-            const hasEvidence = evidenceCount > 0 || record?.evidenceUrl || (record?.evidenceUrls && record.evidenceUrls.length > 0);
-            
-            return (
-              <div key={s.id} className="p-4 flex items-center justify-between gap-4">
-                <div className="flex-1 min-w-0">
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className="text-[10px] font-black text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded">{s.spCode}</span>
-                    <span className="text-[10px] font-bold text-slate-500 truncate">{s.spDescription}</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <TPPicker
-                      value={record?.tp || ""}
-                      onChange={(val) => handleTPChange(student.id, s.id, val)}
-                      disabled={userData?.isReadOnly}
-                      loading={recordsLoading}
-                    />
-                  </div>
-                </div>
-                <Button
-                  variant="outline"
-                  size="sm"
-                  className={`relative h-10 w-10 p-0 flex items-center justify-center rounded-xl border-2 transition-all ${
-                    hasEvidence 
-                      ? "bg-emerald-50 border-emerald-200 text-emerald-600 hover:bg-emerald-100 shadow-sm shadow-emerald-100" 
-                      : "bg-slate-50 border-slate-100 text-slate-400 hover:bg-slate-100"
-                  }`}
-                  onClick={() => onOpenEvidence({
-                    uid: user.uid,
-                    recordId: record?.id || `${classSubject.id}_${student.id}_${s.id}`,
-                    studentId: student.id,
-                    studentName: student.fullName,
-                    classId: classSubject.classId,
-                    classSubjectId: classSubject.id,
-                    spCode: s.spCode,
-                    tpGiven: record?.tp || "",
-                  })}
-                >
-                  <Camera size={18} className={hasEvidence ? "text-emerald-600" : "text-slate-400"} />
-                  {evidenceCount > 0 && (
-                    <span className="absolute -top-1.5 -right-1.5 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-600 text-[10px] font-bold text-white border-2 border-white">
-                      {evidenceCount}
-                    </span>
-                  )}
-                </Button>
-              </div>
-            );
-          })}
+          {filteredStandards.map((s: any) => (
+            <StandardRowMobile
+              key={s.id}
+              s={s}
+              student={student}
+              record={records[`${student.id}_${s.id}`]}
+              recordsLoading={recordsLoading}
+              userData={userData}
+              handleTPChange={handleTPChange}
+              onOpenEvidence={onOpenEvidence}
+              user={user}
+              classSubject={classSubject}
+            />
+          ))}
         </div>
       </CardContent>
     </Card>
