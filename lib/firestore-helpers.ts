@@ -446,14 +446,17 @@ export const addEvidenceToRecord = async (uid: string, recordId: string, data: a
 
 // Admin Operations
 export const getAdminStats = async () => {
-  const [teachers, subjects, ls, sessions] = await Promise.all([
-    getAllowedTeachers(),
+  const [users, subjects, ls, sessions] = await Promise.all([
+    getAllUsers(),
     getSubjects(),
     getLearningStandards(),
     getAcademicSessions()
   ]);
 
-  const activeTeachers = teachers.filter((t: any) => t.status === "active").length;
+  const activeTeachers = users.filter((u: any) => 
+    (u.role === "teacher" || u.role === "super_admin") && 
+    (u.status !== "inactive")
+  ).length;
   const activeSubjects = subjects.filter((s: any) => s.isActive).length;
   const activeSession = sessions.find((s: any) => s.isActive);
 
