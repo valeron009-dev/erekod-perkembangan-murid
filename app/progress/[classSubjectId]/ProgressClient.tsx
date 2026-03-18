@@ -559,6 +559,7 @@ export default function ProgressClient() {
               {filteredStudents[safeStudentIndex] && (
                 <StudentCard 
                   key={filteredStudents[safeStudentIndex].id}
+                  index={safeStudentIndex}
                   student={filteredStudents[safeStudentIndex]}
                   filteredStandards={filteredStandards}
                   records={records}
@@ -619,9 +620,10 @@ export default function ProgressClient() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-100 bg-white">
-                {visibleStudents.map((student) => (
+                {visibleStudents.map((student, index) => (
                   <StudentRow 
                     key={student.id}
+                    index={index}
                     student={student}
                     filteredStandards={filteredStandards}
                     records={records}
@@ -850,6 +852,7 @@ StandardRowMobile.displayName = "StandardRowMobile";
 
 const StudentCard = memo(({ 
   student, 
+  index,
   filteredStandards, 
   records, 
   recordsLoading,
@@ -880,7 +883,7 @@ const StudentCard = memo(({
               {student.fullName.charAt(0)}
             </div>
             <div>
-              <p className="text-sm font-bold text-slate-900 leading-tight">{student.fullName}</p>
+              <p className="text-sm font-bold text-slate-900 leading-tight">{index + 1}. {student.fullName}</p>
               <p className="text-[10px] text-slate-500 font-medium mt-0.5 uppercase tracking-wider">ID: {student.studentId || "N/A"}</p>
             </div>
           </div>
@@ -956,6 +959,7 @@ StudentCard.displayName = "StudentCard";
 // Memoized Student Row for Desktop View
 const StudentRow = memo(({ 
   student, 
+  index,
   filteredStandards, 
   records, 
   recordsLoading,
@@ -976,7 +980,7 @@ const StudentRow = memo(({
               {student.fullName.charAt(0)}
             </div>
             <div className="flex flex-col">
-              <span className="text-sm font-bold text-slate-900">{student.fullName}</span>
+              <span className="text-sm font-bold text-slate-900">{index + 1}. {student.fullName}</span>
               <span className="text-[10px] font-medium text-slate-400 uppercase tracking-wider">{student.studentId || "N/A"}</span>
             </div>
           </div>
