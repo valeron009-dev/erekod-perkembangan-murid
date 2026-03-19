@@ -66,12 +66,12 @@ export default function AdminStandardsPage() {
     }
   };
 
-  const loadData = async () => {
+  const loadData = async (forceRefresh = false) => {
     try {
       setLoading(true);
       const [lsData, subData] = await Promise.all([
-        getLearningStandards(),
-        getSubjects()
+        getLearningStandards(forceRefresh),
+        getSubjects(forceRefresh)
       ]);
       setStandards(lsData);
       setSubjects(subData);
@@ -157,7 +157,7 @@ export default function AdminStandardsPage() {
         successCount++;
       }
       setCsvSummary({ total: csvPreview.length, success: successCount });
-      loadData();
+      await loadData(true);
     } catch (err: any) {
       setCsvError("Gagal mengimport CSV. Sila cuba lagi.");
     } finally {
@@ -170,14 +170,20 @@ export default function AdminStandardsPage() {
 
     setBulkLoading(true);
     try {
+      console.log(`Bulk updating ${selectedIds.length} documents to isActive: ${isActive}`);
+      console.log("IDs to update:", selectedIds);
+      
       const batch = writeBatch(db);
       selectedIds.forEach((id: string) => {
         const ref = doc(db, "learningStandards", id);
         batch.update(ref, { isActive });
       });
       await batch.commit();
+      
+      console.log("Bulk update successful");
+      
       setSelectedIds([]);
-      loadData();
+      await loadData(true);
     } catch (error) {
       console.error("Error bulk updating status:", error);
     } finally {
@@ -218,7 +224,7 @@ export default function AdminStandardsPage() {
       }
 
       setIsDeleteAllModalOpen(false);
-      loadData();
+      await loadData(true);
     } catch (error) {
       console.error("Error deleting all standards:", error);
     } finally {

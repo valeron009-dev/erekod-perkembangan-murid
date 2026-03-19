@@ -2,7 +2,7 @@ import os
 import re
 import pandas as pd
 
-INPUT_FILE = "input.xlsx"
+INPUT_FILE = "input-sm.xlsx"
 OUTPUT_FILE = "clean_output.xlsx"
 
 # Support:

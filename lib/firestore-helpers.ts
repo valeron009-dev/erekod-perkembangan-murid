@@ -523,9 +523,9 @@ export const updateAllowedTeacher = async (id: string, data: Partial<{ role: str
   await updateDoc(doc(db, "allowedTeachers", id), data);
 };
 
-export const getSubjects = async () => {
+export const getSubjects = async (forceRefresh = false) => {
   const cacheKey = "subjects_all";
-  if (cache[cacheKey]) return cache[cacheKey];
+  if (!forceRefresh && cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "subjects"));
   const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
@@ -537,9 +537,9 @@ export const saveSubject = async (data: { subjectCode: string; subjectName: stri
   await setDoc(doc(db, "subjects", data.subjectCode), data);
 };
 
-export const getLearningStandards = async () => {
+export const getLearningStandards = async (forceRefresh = false) => {
   const cacheKey = "ls_all";
-  if (cache[cacheKey]) return cache[cacheKey];
+  if (!forceRefresh && cache[cacheKey]) return cache[cacheKey];
 
   const snap = await getDocs(collection(db, "learningStandards"));
   const data = snap.docs.map((doc: any) => ({ id: doc.id, ...doc.data() } as any));
