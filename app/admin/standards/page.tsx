@@ -295,13 +295,13 @@ export default function AdminStandardsPage() {
   ];
 
   const yearOptions = [
-    { label: "Semua Tahun", value: "all" },
-    { label: "Tahun 1", value: "1" },
-    { label: "Tahun 2", value: "2" },
-    { label: "Tahun 3", value: "3" },
-    { label: "Tahun 4", value: "4" },
-    { label: "Tahun 5", value: "5" },
-    { label: "Tahun 6", value: "6" },
+    { label: "Semua", value: "all" },
+    { label: "1", value: "1" },
+    { label: "2", value: "2" },
+    { label: "3", value: "3" },
+    { label: "4", value: "4" },
+    { label: "5", value: "5" },
+    { label: "6", value: "6" },
   ];
 
   return (
@@ -345,7 +345,7 @@ export default function AdminStandardsPage() {
               </div>
               <div className="w-full sm:w-48">
                 <Select
-                  label="Tahun"
+                  label="Tahun / Tingkatan"
                   options={yearOptions}
                   value={yearFilter}
                   onChange={(e) => setYearFilter(e.target.value)}
@@ -385,7 +385,7 @@ export default function AdminStandardsPage() {
                     <SortButton columnKey="subjectId" label="Subjek" />
                   </th>
                   <th className="px-6 py-4">
-                    <SortButton columnKey="year" label="Tahun" />
+                    <SortButton columnKey="year" label="Tahun / Tingkatan" />
                   </th>
                   <th className="px-6 py-4">
                     <SortButton columnKey="groupName" label="Topik/Unit" />
@@ -434,7 +434,9 @@ export default function AdminStandardsPage() {
                         <span className="font-bold text-slate-900">{ls.subjectId}</span>
                       </td>
                       <td className="px-6 py-4">
-                        <span className="text-sm font-medium text-slate-600">Tahun {ls.year}</span>
+                        <span className="text-sm font-medium text-slate-600">
+                          {ls.subjectId?.includes("-SM") ? "Tingkatan" : "Tahun"} {ls.year}
+                        </span>
                       </td>
                       <td className="px-6 py-4">
                         <p className="text-xs text-slate-500 font-medium">{ls.groupName}</p>

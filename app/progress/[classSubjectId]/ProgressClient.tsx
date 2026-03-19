@@ -457,7 +457,7 @@ export default function ProgressClient() {
               {classData?.className || classSubject?.className} &bull; {classSubject?.subjectId}
             </h1>
             <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-slate-500 text-sm">
-              <span>Tahun {classSubject?.year}</span>
+              <span>{classSubject?.subjectId?.includes("-SM") ? "Tingkatan" : "Tahun"} {classSubject?.year}</span>
               <span>&bull;</span>
               <span>Sesi {classSubject?.sessionId}</span>
               <span>&bull;</span>

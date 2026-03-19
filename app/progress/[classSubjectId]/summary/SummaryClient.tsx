@@ -233,7 +233,7 @@ export default function SummaryClient() {
             <div className="space-y-2">
               <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">Ringkasan TP Murid</h1>
               <p className="text-sm sm:text-base text-slate-500 font-medium">
-                {classData?.className || classSubject?.className} &bull; {classSubject?.subjectId} &bull; Tahun {classSubject?.year}
+                {classData?.className || classSubject?.className} &bull; {classSubject?.subjectId} &bull; {classSubject?.subjectId?.includes("-SM") ? "Tingkatan" : "Tahun"} {classSubject?.year}
               </p>
             </div>
             <Button 

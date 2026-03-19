@@ -17,12 +17,12 @@ interface CreateClassModalProps {
 }
 
 const YEAR_OPTIONS = [
-  { label: "Tahun 1", value: "1" },
-  { label: "Tahun 2", value: "2" },
-  { label: "Tahun 3", value: "3" },
-  { label: "Tahun 4", value: "4" },
-  { label: "Tahun 5", value: "5" },
-  { label: "Tahun 6", value: "6" },
+  { label: "1", value: "1" },
+  { label: "2", value: "2" },
+  { label: "3", value: "3" },
+  { label: "4", value: "4" },
+  { label: "5", value: "5" },
+  { label: "6", value: "6" },
 ];
 
 export const CreateClassModal = ({ 
@@ -131,7 +131,7 @@ export const CreateClassModal = ({
 
           <div className="space-y-4">
             <Select
-              label="Tahun"
+              label="Tahun / Tingkatan"
               options={YEAR_OPTIONS}
               value={year}
               onChange={(e) => setYear(e.target.value)}
@@ -160,7 +160,7 @@ export const CreateClassModal = ({
             <div className="p-3 bg-slate-50 rounded-lg border border-slate-100">
               <p className="text-[10px] text-slate-500 uppercase font-bold tracking-wider mb-1">Pratonton Nama Penuh</p>
               <p className="text-base sm:text-lg font-bold text-emerald-600">
-                {year} {classLabel || "..."}
+                {selectedSubject.includes("-SM") ? "Tingkatan" : "Tahun"} {year} {classLabel || "..."}
               </p>
             </div>
           </div>
