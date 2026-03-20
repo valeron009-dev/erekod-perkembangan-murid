@@ -1,0 +1,110 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.1,Mentakrif ilmu ekonomi.,1010100,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.2,Menjelaskan konsep kekurangan dan pilihan berasaskan sumber ekonomi terhad dan kehendak tidak terhad.,1010200,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.3,"Mendefinisikan faktor pengeluaran iaitu tanah, buruh, modal dan usahawan.",1010300,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.4,Mendefinisikan kos lepas.,1010400,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.5,Menganalisis sesuatu situasi untuk menerangkan kos lepas.,1010500,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.6,"Menilai implikasi pilihan yang dibuat oleh individu, kerajaan atau masyarakat dari aspek kos lepas dengan menggunakan contoh.",1010600,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.1.7,Menganalisis keluk kemungkinan pengeluaran untuk menunjukkan kos lepas,1010700,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.2.1,"Menghuraikan masalah asas ekonomi iaitu apa, berapa, bagaimana dan untuk siapa barang dikeluarkan.",1020100,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.2.2,"Mengenal pasti ciri-ciri utama sistem ekonomi pasaran bebas, sistem ekonomi perancangan pusat dan sistem ekonomi campuran.",1020200,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.2.3,Membincangkan penyelesaian masalah asas ekonomi oleh setiap sistem ekonomi tersebut.,1020300,TRUE
+Ekonomi SM,EKO-SM,4,1.0 Pengenalan Kepada Ekonomi,1.2.4,Menerangkan ciri-ciri utama ekonomi Islam,1020400,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.1,Menjelaskan hukum permintaan.,2010100,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.2,Melukis dan menjelaskan pembentukan keluk permintaan individu dan pasaran.,2010200,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.3,"Menghuraikan penentu permintaan iaitu harga barang itu, harga barang lain, cita rasa, pendapatan, musim, jangkaan harga masa depan dan dasar kerajaan.",2010300,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.4,Menjelaskan dengan gambar rajah perubahan harga mengakibatkan perubahan dalam kuantiti diminta.,2010400,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.5,Menjelaskan dengan gambar rajah penentu permintaan bukan harga menyebabkan perubahan dalam permintaan.,2010500,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.6,Menerangkan hukum penawaran.,2010600,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.7,Melukis dan menjelaskan pembentukan keluk penawaran individu dan pasaran,2010700,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.8,"Menghuraikan penentu penawaran iaitu harga barang itu, harga faktor pengeluaran, cuaca, jangkaan harga masa depan, tingkat teknologi, matlamat pengeluar dan dasar kerajaan.",2010800,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.9,Menjelaskan dengan gambar rajah perubahan harga mengakibatkan perubahan dalam kuantiti ditawar.,2010900,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.10,Menjelaskan dengan gambar rajah penentu penawaran bukan harga menyebabkan perubahan dalam penawaran.,2011000,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.11,Menerangkan konsep keseimbangan pasaran.,2011100,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.12,Melukis rajah keseimbangan pasaran berdasarkan jadual permintaan dan penawaran pasaran.,2011200,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.13,Menjelaskan kesan lebihan permintaan atau lebihan penawaran ke atas harga dan kuantiti berdasarkan jadual dan rajah.,2011300,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.1.14,Menganalisis kesan perubahan permintaan atau perubahan penawaran ke atas keseimbangan pasaran.,2011400,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.1,Menjelaskan konsep keanjalan harga permintaan dan membuat pengiraan mudah.,2020100,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.2,Menjelaskan keanjalan harga permintaan anjal dan keanjalan harga permintaan tak anjal berdasarkan rajah dan pekali keanjalan.,2020200,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.3,Menjelaskan penentu keanjalan permintaan.,2020300,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.4,Menerangkan hubungan antara perubahan dalam harga permintaan dengan perubahan dalam jumlah hasil bagi keanjalan yang berbeza.,2020400,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.5,Menjelaskan konsep keanjalan harga penawaran dan membuat pengiraan mudah.,2020500,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.6,Menjelaskan keanjalan harga penawaran anjal dan keanjalan harga penawaran tak anjal melalui gambar rajah.,2020600,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.7,Menjelaskan penentu keanjalan penawaran.,2020700,TRUE
+Ekonomi SM,EKO-SM,4,2.0   Pasaran,2.2.8,Menganalisis kepentingan keanjalan harga permintaan terhadap perubahan hasil firma dan perbelanjaan pengguna.,2020800,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.1.1,Menjelaskan fungsi wang.,3010100,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.1.2,"Menjelaskan fungsi bank pusat mengawal kestabilan nilai mata wang, jurubank kepada kerajaan dan jurubank kepada bank perdagangan.",3010200,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.1.3,"Menjelaskan fungsi bank perdagangan dalam menerima deposit, memberi pinjaman, menerima dan membuat bayaran dan perkhidmatan lain",3010300,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.2.1,Mengklasifikasikan jenis-jenis pekerjaan mengikut sektor ekonomi,3020100,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.2.2,Menjelaskan kepentingan setiap sektor ekonomi dari segi pekerjaan mengikut trend di Malaysia.,3020200,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.2.3,Membincangkan faktor- faktor yang mempengaruhi pemilihan pekerjaan.,3020300,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.2.4,"Menjelaskan jenis-jenis pendapatan individu iaitu upah, sewa, faedah, dividen, untung dan bayaran pindahan.",3020400,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.2.5,Menganalisis kaitan antara pelbagai kerjaya dengan matlamat pendapatan peribadi,3020500,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.1,Menjelaskan konsep pendapatan boleh guna individu.,3030100,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.2,Mengenal pasti pelbagai jenis potongan wajib ke atas gaji dari segi tujuan dan kesannya terhadap pendapatan semasa dan pendapatan masa hadapan pekerja.,3030200,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.3,Menjelaskan perbezaan antara keperluan dan kehendak.,3030300,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.4,Menjelaskan penggunaan pendapatan boleh guna individu.,3030400,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.5,Mengenal pasti dan menjelaskan faktor yang mempengaruhi corak perbelanjaan.,3030500,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.6,Mengenal pasti kelebihan dan kekurangan kaedah pembayaran secara tunai atau kredit.,3030600,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.7,"Menganalisis fitur ekonomi yang terdapat dalam pembelian kredit seperti deposit, kadar faedah, caj kewangan, terma dan syarat dan jumlah perlu bayar.",3030700,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.8,Menjelaskan konsep belanjawan peribadi.,3030800,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.9,"Menghasilkan belanjawan peribadi yang merangkumi simpanan, perbelanjaan, derma dan simpanan/ pelaburan yang konsisten dengan matlamat kewangan masing-masing.",3030900,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.10,Menjelaskan kepentingan belanjawan peribadi.,3031000,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.11,Mengenal pasti dan membandingkan strategi simpanan.,3031100,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.12,Menerangkan konsep risiko dan pulangan dalam pelaburan.,3031200,TRUE
+Ekonomi SM,EKO-SM,4,3.0 Pendapatan Individu,3.3.13,"Membandingkan tahap risiko, pulangan dan kecairan berkaitan pelbagai jenis pelaburan peribadi.",3031300,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.1,Menjelaskan konsep pengeluaran.,4010100,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.2,Menjelaskan fungsi pengeluaran jangka pendek secara deskriptif dengan menggunakan jadual.,4010200,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.3,"Menjelaskan kos tetap, kos berubah, jumlah kos, kos marginal dan kos purata.",4010300,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.4,"Membuat pengiraan mudah kos tetap, kos berubah, jumlah kos, kos purata dan kos marginal berdasarkan jadual.",4010400,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.5,Menganalisis situasi yang menunjukkan perubahan dalam kos purata dan jumlah kos akibat perubahan dalam jumlah output.,4010500,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.6,Menjelaskan konsep hasil dan untung.,4010600,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.7,Membuat pengiraan mudah jumlah hasil dan untung.,4010700,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.1.8,Mengenal pasti tahap pengeluaran paling cekap,4010800,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.2.1,Menerangkan konsep produktiviti.,4020100,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.2.2,"Menjelaskan faktor-faktor yang mempengaruhi produktiviti iaitu tanah, buruh, modal dan usahawan.",4020200,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.2.3,Menerangkan konsep eksternaliti.,4020300,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.2.4,Menjelaskan maksud kos sosial dan faedah sosial.,4020400,TRUE
+Ekonomi SM,EKO-SM,4,4.0 Pengeluaran,4.2.5,Menilai faedah sosial dan kos sosial berdasarkan contoh yang sesuai.,4020500,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.1.1,Menjelaskan peranan kerajaan sebagai pengeluar dan majikan.,5010100,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.1.2,"Menjelaskan peranan kerajaan untuk mencapai objektif makro ekonomi negara iaitu guna tenaga penuh, kestabilan harga, pertumbuhan ekonomi dan kestabilan imbangan pembayaran.",5010200,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.1.3,Menjelaskan peranan kerajaan dalam mengawal selia pengeluar dan eksternaliti negatif.,5010300,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.1.4,Menganalisis dan menghubungkait ketiga-tiga peranan kerajaan dalam menjaga kebajikan masyarakat dan meningkatkan kemakmuran negara.,5010400,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.1,Menjelaskan Indeks Harga Pengguna (IHP) sebagai alat ukuran inflasi.,5020100,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.2,Menerangkan jenis inflasi.,5020200,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.3,"Menganalisis kesan inflasi ke atas harga, tabungan, pendapatan, pengangguran, eksport dan kadar faedah.",5020300,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.4,Mendefinisikan pengangguran.,5020400,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.5,"Menganalisis jenis pengangguran iaitu kitaran, berstruktur dan geseran.",5020500,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.6,Mendefinisikan Keluaran Dalam Negara Kasar (KDNK).,5020600,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.7,Menjelaskan KDNK sebagai ukuran kadar pertumbuhan ekonomi Malaysia berdasarkan data.,5020700,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.2.8,Menerangkan sebab dan akibat pertumbuhan ekonomi.,5020800,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.1,Menjelaskan maksud dasar fiskal.,5030100,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.2,"Mengklasifikasi dan menjelaskan jenis hasil kerajaan iaitu cukai langsung, cukai tidak langsung dan hasil bukan cukai.",5030200,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.3,"Menganalisis kesan cukai regresif, progresif dan berkadar malar ke atas agihan pendapatan.",5030300,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.4,Menjelaskan jenis perbelanjaan kerajaan iaitu perbelanjaan mengurus dan perbelanjaan pembangunan.,5030400,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.5,Menganalisis kesan belanjawan defisit dan belanjawan lebihan terhadap ekonomi negara.,5030500,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.6,Menjelaskan maksud dasar kewangan.,5030600,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.7,Menjelaskan alat dasar kewangan yang digunakan oleh bank pusat untuk mengawal ekonomi.,5030700,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.8,Menganalisis kesan penggunaan kadar faedah sebagai alat dasar kewangan ke atas ekonomi.,5030800,TRUE
+Ekonomi SM,EKO-SM,5,5.0 Ekonomi Dan Kerajaan,5.3.9,Menilai kesan yang berbeza ke atas objektif makro ekonomi negara dengan penggunaan alat-alat dasar ekonomi.,5030900,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.1.1,Menerangkan maksud globalisasi.,6010100,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.1.2,Menerangkan operasi syarikat multinasional.,6010200,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.1.3,"Menganalisis faktor penggalak globalisasi dalam ekonomi dari aspek peranan kerajaan serta peranan teknologi komunikasi maklumat, pengangkutan dan pelancongan.",6010300,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.1.4,Menilai kesan pelaburan langsung asing ke atas ekonomi negara.,6010400,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.1,Menjelaskan konsep perdagangan antarabangsa,6020100,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.2,Menjelaskan kepentingan perdagangan antarabangsa kepada ekonomi Malaysia.,6020200,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.3,Menghuraikan bentuk dan tujuan sekatan perdagangan antarabangsa.,6020300,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.4,"Menganalisis kesan tarif, subsidi dan kuota ke atas perdagangan antarabangsa.",6020400,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.5,Menilai kebaikan dan keburukan sekatan perdagangan antarabangsa dan liberalisasi perdagangan.,6020500,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.6,Menjelaskan beberapa contoh blok ekonomi dan perjanjian perdagangan (trade agreement).,6020600,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.2.7,Menjelaskan kesan blok ekonomi dan perjanjian perdagangan ke atas negara ahli dan negara bukan ahli.,6020700,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.3.1,Mengenal pasti komposisi dagangan dan arah aliran perdagangan Malaysia.,6030100,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.3.2,Menerangkan maksud imbangan pembayaran.,6030200,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.3.3,Menjelaskan struktur akaun semasa dalam imbangan pembayaran Malaysia.,6030300,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.3.4,Menjelaskan konsep defisit dan lebihan dalam akaun semasa.,6030400,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.3.5,Menganalisis sebab dan implikasi defisit dan lebihan dalam akaun semasa.,6030500,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.4.1,Mendefinisikan kadar pertukaran asing.,6040100,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.4.2,Mengira kadar pertukaran asing berdasarkan harga jualan dan harga belian mata wang asing.,6040200,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.4.3,Menjelaskan faktor yang mempengaruhi permintaan dan penawaran mata wang asing.,6040300,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.4.4,Menganalisis penentuan dan perubahan kadar pertukaran asing menggunakan gambar rajah permintaan dan penawaran.,6040400,TRUE
+Ekonomi SM,EKO-SM,5,6.0 Malaysia Dan Ekonomi Global,6.4.5,Menerangkan kesan perubahan kadar pertukaran asing ke atas harga eksport dan import.,6040500,TRUE

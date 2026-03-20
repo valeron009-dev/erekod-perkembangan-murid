@@ -1,0 +1,367 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.1.1,Menyatakan maksud biologi.,1010100,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.1.2,"Menyenaraikan bidang kajian biologi, kerjaya dan kemajuan dalam bidang berkaitan.",1010200,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.1.3,Menjana idea tentang perkembangan bidang biologi dan sumbangan teknologi biologi kepada manusia.,1010300,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.1.4,Memberikan contoh kerjaya yang berkaitan dengan bidang biologi.,1010400,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.1,Menjelaskan peralatan perlindungan diri dan fungsinya.,1020100,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.2,Mengenal pasti dan mewajarkan bahan yang boleh dibuang ke dalam sinki.,1020200,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.3,Mengenal pasti dan mewajarkan bahan yang tidak boleh dibuang ke dalam sinki.,1020300,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.4,Memerihalkan kaedah mengurus bahan sisa biologi.,1020400,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.5,Berkomunikasi mengenai langkah-langkah mengurus kemalangan dalam makmal.,1020500,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.2.6,Merumuskan amalan-amalan dalam makmal biologi.,1020600,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.3.1,Berkomunikasi tentang data eksperimen dengan membina jadual berdasarkan data daripada eksperimen yang dijalankan.,1030100,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.3.2,Melukis graf yang sesuai berdasarkan data daripada eksperimen yang dijalankan.,1030200,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.3.3,Melakarkan lukisan biologi berdasarkan pemerhatian yang dibuat.,1030300,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.3.4,"Mengenal pasti satah badan, keratan dan istilah arah dalam organisma.",1030400,TRUE
+Biologi SM,BIO-SM,4,1.0  Pengenalan Kepada Biologi Dan Peraturan Makmal,1.4.1,Mereka bentuk eksperimen untuk menyelesaikan masalah dengan menggunakan kaedah penyiasatan saintifik.,1040100,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.1.1,Menyediakan slaid sel haiwan dan sel tumbuhan.,2010100,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.1.2,Mengenal pasti struktur sel haiwan dan sel tumbuhan berdasarkan pemerhatian menerusi mikroskop cahaya.,2010200,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.1.3,Menganalisis komponen dalam sel haiwan dan sel tumbuhan seperti yang dilihat pada mikrograf.,2010300,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.1.4,Menyatakan fungsi utama komponen dalam sel haiwan dan sel tumbuhan seperti yang dilihat pada mikrograf.,2010400,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.1.5,Membanding dan membezakan komponen antara sel haiwan dengan sel tumbuhan.,2010500,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.2.1,Mengkonsepsikan proses hidup organisma unisel seperti Amoeba sp dan Paramecium sp.,2020100,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.2.2,Mengitlak proses hidup organisma unisel seperti yang dilihat menerusi mikroskop cahaya.,2020200,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.3.1,Menghubung kait keunikan struktur sel khusus dengan fungsi sel dalam organisma multisel.,2030100,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.3.2,Mengenal pasti sel khusus dalam organisma multisel.,2030200,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.3.3,Mencerakinkan kepadatan organel tertentu dengan fungsi sel khusus dalam organisma multisel.,2030300,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.3.4,"Menghuraikan kesan kekurangan, ketiadaan atau kegagalan fungsi suatu organel bagi sel tertentu dalam organisma multisel.",2030400,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.4.1,Membuat urutan aras organisasi dalam organisasi multisel.,2040100,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.4.2,"Mengenal pasti sel, tisu atau organ dalam suatu sistem organ.",2040200,TRUE
+Biologi SM,BIO-SM,4,2.0  Biologi Sel Dan Organisasi Sel,2.4.3,Berkomunikasi tentang sistem organ dengan fungsi utamanya dalam organisma multisel.,2040300,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.1.1,Mewajarkan keperluan pergerakan bahan merentasi membran plasma.,3010100,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.1.2,Memerihalkan komponen membran plasma dan fungsinya berdasarkan model mozek bendalir.,3010200,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.1.3,Melukis dan melabelkan komponen membran plasma berdasarkan model mozek bendalir.,3010300,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.1.4,Menghuraikan ketelapan membran plasma.,3010400,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.2.1,"Menyatakan ciri bahan yang dapat merentasi membran plasma dari aspek; saiz molekul, kekutuban molekul, cas ion",3020100,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.2.2,Menjalankan eksperimen untuk mengkaji pergerakan bahan merentasi membran telap memilih dengan menggunakan; tiub visking dan; osmometer ringkas.,3020200,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.2.3,"Menghuraikan dengan contoh pergerakan bahan merentasi membran plasma; pengangkutan pasif, pengangkutan aktif",3020300,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.2.4,Membanding dan membezakan antara pengangkutan pasif dengan pengangkutan aktif.,3020400,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.3.1,Menjelaskan dengan contoh proses pengangkutan pasif dalam organisma.,3030100,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.3.2,Menjelaskan dengan contoh proses pengangkutan aktif dalam organisma.,3030200,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.3.3,"Mendefinikan larutan; hipotonik, hipertonik, isotonik.",3030300,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.3.4,Mengeksperimen untuk mengkaji kesan larutan yang berlainan kepekatan terhadap sel haiwan dan sel tumbuhan.,3030400,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.3.5,"Berkomunikasi tentang kesan larutan hipotonik, hipertonik dan isotonik terhadap sel berdasarkan pergerakan molekul air; sel haiwan, sel tumbuhan.",3030500,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.4.1,Mengeksperimen untuk menentukan kepekatan sap sel tisu tumbuhan.,3040100,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.4.2,Menghubung kait kepekatan sap sel suatu tisu tumbuhan dengan fenomena kelayuan tumbuhan.,3040200,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.4.3,Menghuraikan dengan contoh aplikasi konsep pergerakan bahan merentasi membran plasma dalam kehidupan harian.,3040300,TRUE
+Biologi SM,BIO-SM,4,3.0  Pergerakan Bahan Merentasi Membran Plasma,3.4.4,Berkomunikasi tentang proses osmosis berbalik dalam penulenan air.,3040400,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.1.1,Memerihalkan sifat molekul air.,4010100,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.1.2,Menghubung kait sifat air dengan kepentingannya dalam sel.,4010200,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.2.1,Menyenaraikan unsur dalam karbohidrat.,4020100,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.2.2,"Menjelaskan jenis karbohidrat; monosakarida, disakarida, polisakarida.",4020200,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.2.3,"Mengkonsepsikan pembentukan dan penguraian; disakarida, polisakarida.",4020300,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.2.4,Menulis dan menerangkan persamaan perkataan bagi pembentukan dan penguraian disakarida.,4020400,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.2.5,Mewajarkan kepentingan karbohidrat dalam sel.,4020500,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.3.1,Menyenaraikan unsur-unsur dalam protein.,4030100,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.3.2,Mengkonsepsikan pembentukan dan penguraian dipeptida dan polipeptida.,4030200,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.3.3,Menulis dan menerangkan persamaan perkataan bagi pembentukan dan penguraian dipeptida.,4030300,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.3.4,Mewajarkan kepentingan protein dalam sel.,4030400,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.4.1,Menyenaraikan unsur dalam lipid.,4040100,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.4.2,Menjelaskan jenis lipid yang utama.,4040200,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.4.3,Memerihalkan pembentukan dan penguraian trigliserida.,4040300,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.4.4,Menulis dan menerangkan persamaan perkataan bagi pembentukan dan penguraian trigliserida.,4040400,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.4.5,Mewajarkan kepentingan lipid dalam sel dan organisma multisel.,4040500,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.5.1,Menyenaraikan unsur dalam asid nukleik.,4050100,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.5.2,"Menerangkan struktur nukleotida; gula bes bernitrogen, ribosa atau gula deoksiribosa, fosfat",4050200,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.5.3,"Menghuraikan struktur polinukleotida; asid deoksiribonukleik (DNA), asid ribonukleik (RNA).",4050300,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.5.4,"Mewajarkan kepentingan asid nukleik dalam sel; pembawa maklumat pewarisan, penghasilan protein.",4050400,TRUE
+Biologi SM,BIO-SM,4,4.0  Komposisi Kimia Dalam Sel,4.5.5,Memerihalkan pembentukan kromosom daripada DNA dan protein.,4050500,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.1.1,Mendefinisikan metabolisme.,5010100,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.1.2,"Menyatakan jenis metabolisme dalam sel; anabolisme, katabolisme.",5010200,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.1,Mendefinisikan enzim.,5020100,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.2,Menaakul keperluan enzim dalam metabolisme.,5020200,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.3,Memerihalkan penamaan enzim dengan penambahan -ase pada substrat.,5020300,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.4,Mencirikan sifat umum enzim.,5020400,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.5,"Berkomunikasi tentang penglibatan organel khusus dalam penghasilan; enzim intrasel, enzim ekstrasel.",5020500,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.6,Menerangkan mekanisme tindakan enzim dengan menggunakan hipotesis 'mangga dan kunci'.,5020600,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.7,Mentafsir rajah tenaga untuk menerangkan mekanisme tindakan enzim.,5020700,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.8,"Menghubung kait mekanisme tindakan enzim dengan perubahan faktor berikut; suhu, pH, kepekatan substrat, kepekatan enzim.",5020800,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.2.9,Mengeksperimen untuk mengkaji kesan suhu dan pH terhadap aktiviti enzim amilase dan pepsin.,5020900,TRUE
+Biologi SM,BIO-SM,4,5.0  Metabolisme Dan Enzim,5.3.1,Menjelaskan dengan contoh aplikasi enzim dalam kehidupan harian.,5030100,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.1.1,"Memerihalkan; kariokinesis (pembahagian nukleus), sitokinesis (pembahagian sitoplasma).",6010100,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.1.2,"Memerihalkan haploid, diploid, kromatin, kromosom homolog, kromosom paternal dan kromosom maternal.",6010200,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.2.1,"Memerihalkan fasa dalam kitar sel; interfasa, fasa G1, fasa S, fasa G2, fasa M, mitosis, sitokinesis.",6020100,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.2.2,Menyusun peringkat mitosis mengikut urutan.,6020200,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.2.3,Berkomunikasi tentang struktur sel dalam setiap peringkat mitosis dan sitokinesis melalui lukisan berlabel.,6020300,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.2.4,Membanding dan membezakan mitosis dan sitokinesis antara sel haiwan dengan sel tumbuhan,6020400,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.2.5,"Membincangkan keperluan mitosis dalam; perkembangan embrio, pertumbuhan organisma, penyembuhan luka pada kulit, penjanaan semula, pembiakan aseks.",6020500,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.1,Menyatakan pengertian meiosis.,6030100,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.2,Mengenal pasti jenis sel yang menjalankan meiosis.,6030200,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.3,"Menyatakan keperluan meiosis dalam; pembentukan gamet(gametogenesis), menghasilkan variasi genetik, mengekalkan bilangan kromosom diploid dari generasi ke generasi.",6030300,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.4,"Menerangkan peringkat-peringkat dalam meiosis mengikut urutan yang betul; meiosis I, meiosis II.",6030400,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.5,Melukis dan melabel struktur sel dalam setiap peringkat meiosis I dan peringkat meiosis II dan sitokinesis.,6030500,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.3.6,Membanding dan membezakan antara meiosis dengan mitosis.,6030600,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.4.1,"Menghuraikan kesan ketidaknormalan mitosis terhadap kesihatan manusia; tumor, kanser.",6040100,TRUE
+Biologi SM,BIO-SM,4,6.0  Pembahagian Sel,6.4.2,Menilai kesan ketidaknormalan meiosis terhadap individu; sindrom Down.,6040200,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.1.1,Mewajarkan keperluan tenaga dalam proses metabolisme.,7010100,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.1.2,Mengenal pasti substrat utama dalam penghasilan tenaga.,7010200,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.1.3,"Menyenaraikan jenis respirasi sel; respirasi aerob, respirasi anaerob, fermentasi.",7010300,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.2.1,Mengkonsepsikan penghasilan tenaga daripada glukosa semasa respirasi aerob dalam sel.,7020100,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.2.2,Menulis persamaan perkataan bagi respirasi aerob dalam sel.,7020200,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.2.3,Mengeksperimen untuk mengkaji proses respirasi aerob.,7020300,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.3.1,Menyatakan faktor yang menyebabkan fermentasi berlaku dalam sel.,7030100,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.3.2,"Menjelaskan dengan contoh penghasilan tenaga daripada glukosa semasa fermentasi dalam; sel otot manusia, Lactobacillus, yis, tumbuhan seperti padi.",7030200,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.3.3,"Menulis dan menerangkan persamaan perkataan; fermentasi asid laktik, fermentasi alkohol.",7030300,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.3.4,Mengeksperimen untuk mengkaji fermentasi yis.,7030400,TRUE
+Biologi SM,BIO-SM,4,7.0  Respirasi Sel,7.3.5,Membanding dan membezakan antara respirasi aerob dengan fermentasi.,7030500,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.1.1,"Mengenal pasti struktur respirasi dalam; serangga, ikan, amfibia, manusia.",8010100,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.1.2,"Memerihalkan penyesuaian struktur respirasi dan fungsinya dalam pertukaran gas bagi; haiwan, manusia.",8010200,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.1.3,Membanding dan membezakan antara struktur respirasi manusia dengan haiwan.,8010300,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.2.1,Membanding dan membezakan antara mekanisme pernafasan dalam manusia dengan haiwan.,8020100,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.3.1,"Berkomunikasi tentang respirasi luar dan respirasi dalam; pertukaran gas antara peparu dengan darah, pertukaran gas respirasi dari peparu ke tisu, pertukaran gas antara darah dengan tisu, pengangkutan gas respirasi dari tisu ke peparu.",8030100,TRUE
+Biologi SM,BIO-SM,4,8.0  Sistem Respirasi Dalam Manusia Dan Haiwan,8.4.1,"Bercerita tentang kesan Chronic Obstructive Pulmonary Disease (COPD) terhadap sistem respirasi manusia; asma, bronkitis kronik, emfisema.",8040100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.1.1,Mengenal pasti struktur sistem pencernaan manusia.,9010100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.2.1,"memerihalkan jenis pencernaan; pencernaan fizikal, pencernaan kimia.",9020100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.2.2,Mencerakinkan proses dan hasil pencernaan karbohidrat dalam manusia.,9020200,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.2.3,Mencerakinkan proses dan hasil pencernaan protein dalam perut.,9020300,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.2.4,"Memerihalkan pencernaan karbohidrat, protein dan lipid dalam usus kecil.",9020400,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.2.5,"Mengeksperimen untuk mengkaji pencernaan kanji, protein dan lipid dalam sampel makanan.",9020500,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.3.1,Mengenal pasti struktur vilus dalam ileum.,9030100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.3.2,Berkomunikasi tentang penyesuaian ileum dan vilus dalam penyerapan makanan tercerna.,9030200,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.4.1,Memerihalkan peranan sistem peredaran dalam asimilasi makanan tercerna.,9040100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.4.2,"Membincangkan fungsi hati dalam asimilasi makanan tercerna; metabolisme makanan tercerna (karbohidrat dan protein), penyimpanan nutrien, penyahtoksinan.",9040200,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.5.1,"Menerangkan fungsi usus besar; penyerapan air dan vitamin, pembentukan tinja.",9050100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.6.1,Mengeksperimen untuk mengkaji nilai tenaga dalam sampel makanan.,9060100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.6.2,Mengeksperimen untuk menentukan kandungan vitamin C dalam jus buah-buahan atau jus sayur-sayuran.,9060200,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.6.3,"Mewajarkan pengubahsuaian diet bagi individu yang; mengalami obesiti, menghidap penyakit tertentu: diabetes melitus, kardiovaskular, kanser.",9060300,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.7.1,Meramalkan kesan mengubahsuai organ pencernaan terhadap kesihatan manusia.,9070100,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.7.2,Merangkakan isu-isu kesihatan berkaitan penyahtinjaan.,9070200,TRUE
+Biologi SM,BIO-SM,4,9.0  Nutrisi Dan Sistem Pencernaan Manusia,9.7.3,Menghubungkaitkan isu kesihatan yang berkaitan tabiat pemakanan.,9070300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.1.1,Mewajarkan keperluan sistem pengangkutan dalam organisma multisel kompleks.,10010100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.1.2,"Mengenal pasti bahan yang diangkut oleh sistem pengangkutan; bahan keperluan sel, bahan buangan sel.",10010200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.1.3,"Mengkonsepsikan jenis sistem peredaran dalam organisma multisel; terbuka, tertutup.",10010300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.1.4,"Membanding dan membezakan antara sistem peredaran dalam organisma multisel; serangga, ikan, amfibia, manusia.",10010400,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.2.1,"memerihalkan komponen sistem peredaran manusia; jantung, salur darah, darah.",10020100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.2.2,"Menerangkan komposisi darah; plasma, sel darah.",10020200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.2.3,"Membanding dan membezakan antara jenis salur darah; arteri, vena, kapilari.",10020300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.2.4,"Melabel struktur jantung manusia dan salur darah berkaitan; aorta, vena kava, arteri pulmonari dan vena pulmonari, arteri koronari dan vena koronari, injap sabit, injap bikuspid dan injap trikuspid, septum.",10020400,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.2.5,Memerihalkan fungsi bahagian jantung.,10020500,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.3.1,"Memerihalkan mekanisme denyutan jantung manusia; nodus sinoatrium (perentak jantung), nodus atrioventrikel, berkas His, gentian Purkinje.",10030100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.3.2,"Berkomunikasi tentang daya yang menyebabkan peredaran darah dalam manusia; pengepaman jantung, pengecutan otot rangka.",10030200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.4.1,Mewajarkan keperluan mekanisme pembekuan darah.,10040100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.4.2,Memerihalkan mekanisme pembekuan darah.,10040200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.4.3,"Memerihalkan isu kesihatan yang berkaitan dengan pembekuan darah; trombosis, embolisme, hemofilia.",10040300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.5.1,Memerihalkan kumpulan darah ABO.,10050100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.5.2,Menghubung kait kumpulan darah ABO dengan pendermaan darah.,10050200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.5.3,Memerihalkan faktor Rhesus.,10050300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.5.4,Menaakul faktor Rhesus yang tidak sepadan dengan kehamilan.,10050400,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.6.1,Mewajarkan keperluan sistem peredaran yang sihat.,10060100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.6.2,Berkomunikasi tentang penyakit kardiovaskular.,10060200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.7.1,Mensintesis proses pembentukan bendalir tisu dan limfa.,10070100,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.7.2,"Membanding dan membezakan antara kandungan limfa dengan; bendalir tisu, darah.",10070200,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.7.3,"Menghuraikan komponen sistem limfa; limfa, kapilari limfa, salur limfa, nodus limfa, organ limga.",10070300,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.7.4,"Mewajarkan keperluan sistem limfa; pelengkap kepada sistem peredaran darah, pengangkutan bahan larut lemak, pertahanan badan.",10070400,TRUE
+Biologi SM,BIO-SM,4,10.0 Pengangkutan Dalam Manusia Dan Haiwan,10.8.1,Memerihalkan isu kesihatan berkaitan sistem limfa.,10080100,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.1.1,"Mendefinisikan; keimunan, antigen, antibodi.",11010100,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.1.2,"Memerihalkan tiga barisan pertahanan manusia; barisan pertahanan pertama - fizikal, kimia, barisan pertahanan kedua - demam, keradangan, fagositosis, barisan pertahanan ketiga - antibodi, sel memori.",11010200,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.2.1,"Menjelaskan tindakan antibodi terhadap antigen asing; peneutralan, pengaglutinan, pemendakan, pengopsonian, penguraian.",11020100,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.3.1,"Berkomunikasi tentang jenis-jenis keimunan; keimunan pasif, keimunan aktif.",11030100,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.3.2,Membanding dan membezakan antara keimunan pasif dengan keimunan aktif.,11030200,TRUE
+Biologi SM,BIO-SM,4,11.0  Keimunan Manusia,11.4.1,Memerihalkan isu kesihatan berkaitan Acquired Immuno Deficiency Syndrome (AIDS).,11040100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.1.2,Mengenal pasti dan memerihalkan rangsangan luar dan rangsangan dalam.,12010000,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.1.1,"Membuat urutan dan memerihalkan komponen dalam koordinasi manusia; rangsangan, reseptor, pusat integrasi, efektor, gerak balas.",12010100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.1.3,"Menyenaraikan jenis reseptor deria berdasarkan rangsangan yang terlibat; kemoresptor, mekanoreseptor, fotoreseptor, termoreseptor, baroreseptor, nosireseptor.",12010300,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.1.4,Mewajarkan keperluan bergerak balas terhadap rangsangan luar dan rangsangan dalam.,12010400,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.2.1,"Membina carta organisasi dan menerangkan struktur sistem saraf manusia; sistem saraf pusat - otak, saraf tunjang, sistem saraf periferi - reseptor deria, sraf kranium, saraf spina.",12020100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.2.2,"Menerangkan fungsi bahagian sistem saraf pusat dalam koordinasi dan gerak balas; otak - serebrum, serebleum, medula oblongata, hipotalamus, kelenjar pituitari, saraf tunjang.",12020200,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.2.3,Berkomunikasi tentang fungsi bahagian sistem saraf periferi dalam koordinasi dan gerak balas.,12020300,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.3.1,"Melukis dan melabel struktur neuron deria dan neuron motor; dendrit, akson, badan sel, salut mielin, nodus Ranvier",12030100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.3.2,Mencerakinkan fungsi setiap jenis neuron dalam penghantaran impuls.,12030200,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.3.3,Menjelaskan struktur sinaps dan fungsinya.,12030300,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.3.4,Menerangkan penghantaran impuls merentasi sinaps.,12030400,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.4.1,Membanding dan membezakan antara tindakan terkawal dengan tindakan luar kawal.,12040100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.4.2,"Memerihalkan tindakan refleks yang melibatkan; dua neuron, tiga neuron.",12040200,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.4.3,Melukis arka refleks.,12040300,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.5.1,Berkomunikasi tentang isu kesihatan yang berkaitan dengan sistem saraf.,12050100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.5.2,Memerihalkan kesan penyalahgunaan dadah dan alkohol terhadap koordinasi dan gerak balas manusia.,12050200,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.6.1,Menyatakan peranan kelenjar endokrin dalam manusia.,12060100,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.6.2,Mengenal pasti dan melabel kelenjar endikrin dalam manusia.,12060200,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.6.3,"Mencerakinkan fungsi hormon yang dirembeskan oleh setiap jenis kelenjar endokrin; hipotalamus - hormon perembes gonadotrofin (GnRH), lobus anterior pituitari - hormon pertumbuhan (GH), hormon perangsang folikel (FSH), hormon peluteinan (LH), hormon perangsang tiroid (TSH), hormon adrenokortikotrof (ACTH), lobus posterior pituitari - hormon oksitosin, hormon antidiuresis (ADH), tiroid - hormon tiroksina, pankreas - hormon insulin, hormon glukagon, adrenal - hormon adrenalina, hormon aldosteron, ovari - hormon estrogen, hormon progesteron, testis - hormon testosteron.",12060300,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.6.4,Membincangkan penglibatan sistem saraf dan sistem endokrin dalam situasi cemas.,12060400,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.6.5,Membanding dan membezakan antara sistem saraf dengan sistem endokrin.,12060500,TRUE
+Biologi SM,BIO-SM,4,12.0  Koordinasi Dan Gerak Balas Dalam Manusia,12.7.1,Meramalkan kesan ketidakseimbangan hormon terhadap kesihatan manusia.,12070100,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.1.1,Menerangkan maksud homeostasis.,13010100,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.1.2,Mewajarkan keperluan untuk mengekalkan faktor fizikal dan faktor kimia persekitaran dalam.,13010200,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.1.3,Memerihalkan penglibatan pelbagai jenis sistem organ untuk mengekalkan persekitaran dalam yang optimum.,13010300,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.1.4,"Mengaplikasikan pengetahuan tentang konsep homeostasis dalam pengawalaturan; suhu badan, aras gula darah, tekanan separa karbon dioksida, tekanan darah.",13010400,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.2.1,Mengenal pasti struktur dan fungsi ginjal.,13020100,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.2.2,"Melukis, melabel dan menerangkan struktur nefron dan tubul pengumpul.",13020200,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.2.3,"Memerihalkan proses pembentukan air kencing; ultraturasan. penyerapan semula, rembesan.",13020300,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.2.4,Mensintesiskan konsep homeostasis dengan konsep suap balik negatif dalam pengosmokawalaturan.,13020400,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.2.5,Mengeksperimen untuk mengkaji kesan pengambilan isipadu air yang berbeza terhadap pembentukan air kencing.,13020500,TRUE
+Biologi SM,BIO-SM,4,13.0  Homeostasis Dan Sistem Urinari Manusia,13.3.1,Memerihalkan isu kesihatan yang berkaitan dengan sistem urinari.,13030100,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.1.1,"Menyenaraikan jenis rangka dalam manusia dan haiwan; rangka hirostatik, rangka luar, rangka dalam.",14010100,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.1.2,Mewajarkan keperluan rangka pada manusia dan haiwan.,14010200,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.2.1,"Mengenal pasti tulang yang membentuk sistem rangka manusia; rangka paksi, rangka apendaj.",14020100,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.2.2,"Mencirikan jenis vertebra dalam tulang belakang; vertebra serviks ( termasuk atlas dan axis), vertebra toraks, vertebra lumbar, vertebra sakrum, vertebra kaudal.",14020200,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.2.3,Membanding dan membezakan antara jenis vertebra.,14020300,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.2.4,"Menyatakan jenis sendi dalam sistem rangka manusia; sendi tidak bergerak, sendi bergerak sedikit, sendi bebas bergerak.",14020400,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.2.5,"Melukis, melabel dan menerangkan struktur sendi engsel lengan manusia; tulang, rawan, otot rangka, tendon, ligamen, membran sinovia, bendalir sinovia.",14020500,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.3.1,"Menerangkan mekanisme pergerakan pada; lengan manusia, kaki manusia (berjalan).",14030100,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.3.2,Memerihalkan secara ringkas mekanisme gerak alih haiwan.,14030200,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.4.1,"Memerihalkan isu kesihatan yang berkaitan dengan sistem otot rangka manusia; osteoporosis, osteomalasia, rikets, artritis, skoliosis.",14040100,TRUE
+Biologi SM,BIO-SM,4,14.0  Sokongan Dan Pergerakan Dalam Manusia Dan Haiwan,14.4.2,Mewajarkan amalan untu menjaga kesihatan sistem otot rangka.,14040200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.1.1,"Mencirikan antomi; sistem pembiakan lelaki, sistem pembiakan perempuan.",15010100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.2.1,Mewajarkan keperluan gametogenesis.,15020100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.2.2,"Memerihalkan pembentukan gamet; spermatogenesis, oogenesis.",15020200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.2.3,"Mengenal pasti struktur; sperma - kepala, bahagian tengah, ekor, folikel Graaf - oosit sekunder, sel folikel.",15020300,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.2.4,Membanding dan membezakan antara spermatogenesis dengan oogenesis.,15020400,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.3.1,"Menganalisis perubahan aras hormon yang terlibat semas; haid, perkembangan folikel, penebalan endometrium, ovulasi, pembentukan korpus luteum.",15030100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.3.2,"Menghubung kait perubahan aras hormon yang terlibat dengan; kehamilan, keguguran.",15030200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.3.3,Menyatakan maksud sindrom prahaid dan sindrom putus haid.,15030300,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.4.1,Menghuraikan proses persenyawaan dan pembentukan zigot.,15040100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.4.2,"Membuat urutan dan menerangkan perkembangan awal embrio sehingga penempelan; embrio dua sel, morula, blastosista.",15040200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.4.3,Menerangkan peranan hormon gonadotropin korion manusia (HCG) pada peringkat awal kehamilan.,15040300,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.4.4,"Berkomunikasi tentang peranan struktur berikut dalam perkembangan fetus; plasenta, tali pusat.",15040400,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.4.5,Mewajarkan keperluan sistem pereadaran darah ibu yang berasingan.,15040500,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.5.1,"Memerihalkan proses pembentukan kembar; kembar seiras, kembar tak seiras.",15050100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.5.2,Membanding dan membezakan antara kembar seiran dengan kembar tak seiras.,15050200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.5.3,Menghubung kait pembahagian sel dengan pembentukan kembar Siam.,15050300,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.6.1,Menyatakan maksud kemandulan.,15060100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.6.2,Berkomunikasi tentang punca kemandulan manusia.,15060200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.7.1,Menerangkan maksud pertumbuhan organisma.,15070100,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.7.2,Menentukan parameter untuk mengukur pertumbuhan manusia dan haiwan.,15070200,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.7.3,"Memerihalkan pertumbuhan serangga; metamorfosis lengkap, metamorfosis tidak lengkap.",15070300,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.7.4,Menganalisis fasa pertumbuhan dalam lengkung pertumbuhan sigmoid manusia dan haiwan.,15070400,TRUE
+Biologi SM,BIO-SM,4,"15.0  Pembiakan Seks, Perkembangan Dan Pertumbuhan Dalam Manusia Dan Haiwan",15.7.5,Mencerakinkan lengkung pertumbuhan berbentuk tangga bagi haiwan berangka luar.,15070500,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.1.1,Berkomunikasi tentang jenis tisu tumbuhan dan fungsi utamanya.,16010100,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.1,Mengenal pasti jenis dan bahagia dan tisu yang terlibat dalam pertumbuhan.,16020100,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.2,"Menghuraikan kedudukan zon pembahagian sel, zon pemanjangan sel dan zon pembezaan sel dalam pucuk dan akar.",16020200,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.3,"Mengenal pasti zon pembahagian sel, zon pemanjangan sel dan zon pembezaan sel dalam radikel anak benih.",16020300,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.4,Memerihalkan jenis pertumbuhan; primer. sekunder.,16020400,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.5,Mewajarkan kepentingan pertumbuhan primer dan pertumbuhan sekunder.,16020500,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.6,Membanding dan membezakan antara pertumbuhan primer dengan pertumbuhan sekunder dalam tumbuhan eudikot.,16020600,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.2.7,Menilai kepentingan tumbuhan yang mengalami pertumbuhan sekunder dari segi ekonomi.,16020700,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.3.1,Memerihalkan jenis tumbuhan berdasarkan kitar hidup.,16030100,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.3.2,Mencerakinkan lengkung pertumbuhan; tumbuhan semusim.(ii) tumbuhan dwimusim. tumbuhan saka.,16030200,TRUE
+Biologi SM,BIO-SM,5,16.0  Organisasi Tisu Tumbuhan Dan Pertumbuhan,16.3.3,Mengeksperimen untuk mengkaji lengkung pertumbuhan dalam tumbuhan.,16030300,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.1.1,Memerihalkan struktur luar daun; lamina.(ii) petiol.,17010100,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.1.2,Mengenal pasti struktur dalaman lamina daun:(i) epidermis atas.(ii) mesofil palisad.(iii) mesofil berspan.(iv) epidermis bawah.(v) berkas vaskular.,17010200,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.2.1,Mewajarkan keperluan pertukaran gas dalam tumbuhan.,17020100,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.2.2,Menjelaskan mekanisme pembukaan dan penutupan stoma berdasarkan:(i) pengambilan ion kalium. perubahan kepekatan,17020200,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.2.3,Mengeksperimen untuk membandingkan taburan stoma pada epidermis atas dan epidermis bawah daun monokotiledon dan daun eudikot.,17020300,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.2.4,Meramalkan kesan kekurangan air dalam tumbuhan terhadap pembukaan dan penutupan stoma.,17020400,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.3.1,Mewajarkan keperluan transpirasi dalam tumbuhan.,17030100,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.3.2,Memerihalkan faktor persekitaran yang mempengaruhi kadartranspirasi:(i) keamatan cahaya.(ii) suhu.(iii) pergerakan udara.(iv) kelembapan relatif udara.,17030200,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.3.3,Mengeksperimen untuk mengkaji kesan faktor persekitaran terhadap kadar transpirasi dengan menggunakan potometer.,17030300,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.1,Mewajarkan keperluan fotosintesis dalam tumbuhan.,17040100,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.2,Menghubung kait penyesuaian struktur dalaman daun dengan fotosintesis.,17040200,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.3,Mengenal pasti struktur kloroplas; granum.(ii) tilakoid. stroma.,17040300,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.4,Menghubung kait tindak balas bersandarkan cahaya dan tindak balas tidak bersandarkan cahaya dalam fotosintesis.,17040400,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.5,Menulis persamaan kimia bagi mewakili proses fotosintesis.,17040500,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.6,Membanding dan membezakan antara tindak balas bersandarkan cahaya dengan tindak balas tidak bersandarkan cahaya dalam fotosintesis.,17040600,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.7,Menerangkan faktor persekitaran yang mempengaruhi kadar fotosintesis:(i) keamatan cahaya.(ii) suhu.(iii) kepekatan karbon dioksida.,17040700,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.8,Mengeksperimen untuk mengkaji kesan faktor persekitaran terhadap kadar fotosintesis.,17040800,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.4.9,Menganalisis kesan perubahan keamatan cahaya dan warna cahaya terhadap kadar fotosintesis.,17040900,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.5.1,Memerihalkan titik pampasan.,17050100,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.5.2,Membanding dan membezakan antara fotosintesis dengan respirasi sel dalam tumbuhan.,17050200,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.5.3,Menganalisis keamatan cahaya dan pencapaian titik pampasan dengan menggunakan graf.,17050300,TRUE
+Biologi SM,BIO-SM,5,17.0 Struktur Dan Fungsi Daun,17.5.4,Meramalkan kesan kadar fotosintesis dan kadar respirasi sel yang kekal pada titik pampasan terhadap pertumbuhan dalam tumbuhan.,17050400,TRUE
+Biologi SM,BIO-SM,5,18.0 Nutrisi Dalam Tumbuhan,18.1.1,Mengenal pasti makronutrien dan mikronutrien yang diperlukan oleh tumbuhan.,18010100,TRUE
+Biologi SM,BIO-SM,5,18.0 Nutrisi Dalam Tumbuhan,18.1.2,Mewajarkan kepentingan makronutrien dan mikronutrien dalam tumbuhan.,18010200,TRUE
+Biologi SM,BIO-SM,5,18.0 Nutrisi Dalam Tumbuhan,18.2.1,Memerihalkan struktur akar dalam pengambilan air dan garam mineral.,18020100,TRUE
+Biologi SM,BIO-SM,5,18.0 Nutrisi Dalam Tumbuhan,18.2.2,Mewajarkan penyesuaian akar untuk pengambilan air dan garam mineral.,18020200,TRUE
+Biologi SM,BIO-SM,5,18.0 Nutrisi Dalam Tumbuhan,18.3.1,Menerangkan penyesuaian nutrisi dalam tumbuhan.,18030100,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.1.1,Mewajarkan keperluan pengangkutan dalam tumbuhan.,19010100,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.1.2,Menghubung kait penyesuaian struktur salur xilem dan trakeid dengan pengangkutan air dan garam mineral.,19010200,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.1.3,Menghubung kait penyesuaian struktur tiub tapis dan sel rakan dengan pengangkutan bahan organik.,19010300,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.2.1,Menghuraikan faktor yang yang terlibat dalam laluan air dan garam mineral dari tanih ke daun:(i) tekanan akar. tindakan kapilari. tarikan transpirasi.,19020100,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.2.2,Menerangkan gutasi dalam tumbuhan.,19020200,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.2.3,Membanding dan membezakan antara gutasi dengan transpirasi dalam tumbuhan.,19020300,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.2.4,Meramalkan keadaan tumbuhan yang tidak menjalankan transpirasi dan gutasi,19020400,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.3.1,Mendefinisikan translokasi.,19030100,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.3.2,Mewajarkan keperluan translokasi dalam tumbuhan.,19030200,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.3.3,Memerihalkan laluan translokasi dalam tumbuhan.,19030300,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.4.1,Mendefinisikan fitoremediasi.,19040100,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.4.2,Menerangkan penggunaan fitoremediasi dalam kehidupan.,19040200,TRUE
+Biologi SM,BIO-SM,5,19.0 Pengangkutan Dalam Tumbuhan,19.4.3,Mengeksperimen untuk mengkaji keberkesanan tumbuhan fitoremediasi dalam pengawalan:(i) pencemaran air. pencemaran tanih.,19040300,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.1.1,Memerihalkan jenis gerak balas tumbuhan:(i) tropisme. nasti.,20010100,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.2.1,Memerihalkan fitohormon.,20020100,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.2.2,Menyatakan fungsi fitohormon; auksin.(ii) giberelin. sitokinin. asid absisik. etilena.,20020200,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.2.3,Membuat inferens tentang kesan auksin terhadap gerak balas pertumbuhan.,20020300,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.2.4,Menerangkan peranan auksin dalam gerak balas tumbuhan.(i) fototropisme. geotropisme.,20020400,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.3.1,Mewajarkan penggunaan fitohormon dalam pertanian.,20030100,TRUE
+Biologi SM,BIO-SM,5,20.0 Gerak Balas Dalam Tumbuhan,20.3.2,Mengeksperimen untuk membandingkan kesan pemasakan buah dengan kehadiran fitohormon.,20030200,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.1.1,Mengenal pasti struktur bunga.,21010100,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.1.2,Membanding dan membezakan struktur jantan dengan struktur betina dalam bunga.,21010200,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.2.1,Menghuraikan pembentukan debunga di dalam anter.,21020100,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.2.2,Menghuraikan pembentukan pundi embrio di dalam ovul.,21020200,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.3.1,Memerihalkan pendebungaan,21030100,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.3.2,Menghuraikan pembentukan tiub debunga dan pembentukan gamet jantan.,21030200,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.3.3,Menerangkan persenyawaan ganda dua dalam pembentukan zigot diploid dan pembentukan nukleus triploid,21030300,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.3.4,Mewajarkan kepentingan persenyawaan ganda dua dalam kemandirian tumbuhan berbunga.,21030400,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.4.1,Menghuraikan persenyawaan ganda dua dengan perkembangan biji benih dan buah.,21040100,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.4.2,Menghubung kait struktur biji benih dengan ovul.,21040200,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.4.3,Menghubung kait struktur buah dengan ovari.,21040300,TRUE
+Biologi SM,BIO-SM,5,21.0 Pembiakan Seks Dalam Tumbuhan Berbunga,21.5.1,Mewajarkan kepentingan biji benih untuk kemandirian tumbuhan.,21050100,TRUE
+Biologi SM,BIO-SM,5,22.0 Penyesuaian Tumbuhan Pada Habitat,22.1.1,Mengelaskan tumbuhan berdasarkan habitat.,22010100,TRUE
+Biologi SM,BIO-SM,5,22.0 Penyesuaian Tumbuhan Pada Habitat,22.1.2,"Menerangkan ciri penyesuaian hidrofit, halofit dan xerofit dari aspek:(i) pengambilan air dan garam mineral.(ii) pertukaran gas.(iii) sokongan.(iv) fotosintesis.",22010200,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.1.1,Menerangkan keperluan sistem pengelasan dan penamaan organisma.,23010100,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.1.2,Memerihalkan pengelasan organisma secara heirarki dalam enam alam:(i) Archaebacteria. Eubacteria.(iii) Protista.(iv) Fungi.(v) Plantae.(vi) Animalia.,23010200,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.1.3,Memerihalkan ciri utama organisma dalam setiap alam.,23010300,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.1.4,Memerihalkan penamaan organisma mengikut Sistem Penamaan Binomial.,23010400,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.1.5,Membina kekunci dikotomi untuk mengelaskan organisma.,23010500,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.2.1,Mensintesiskan konsep biodiversiti berdasarkan diversiti:(i) ekosistem. spesies. genetik.,23020100,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.2.2,Memerihalkan maksud pokok filogeni.,23020200,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.2.3,Mewajarkan kepentingan biodiversiti terhadap alam sekitar dan manusia.,23020300,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.3.1,Mengenal pasti ciri utama mikroorganisma dan virus:(i) bakteria. protozoa. alga.(iv) kulat.(v) virus.,23030100,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.3.2,Memerihalkan peranan mikroorganisma dalam kitar nitrogen,23030200,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.3.3,Memerihalkan peranan mikroorganisma sebagai:(i) pengeluar. pengurai. simbion. parasit.,23030300,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.3.4,Mendefinisikan istilah:(i) patogen.(ii) vektor.,23030400,TRUE
+Biologi SM,BIO-SM,5,23.0 Biodiversiti,23.3.5,Memerihalkan kesan patogen terhadap kesihatan manusia.,23030500,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.1,Mendefinisikan; spesies.(ii) populasi. komuniti. habitat. nic.(vi) ekosistem.,24010100,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.2,Mengenal pasti komponen biosis dan komponen abiosis dalam ekosistem.,24010200,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.3,Memerihalkan nutrisi autotrof dan nutrisi heterotrof.,24010300,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.4,Berkomunikasi tentang komponen biosis mengikut aras trof.,24010400,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.5,Memerihalkan pengaliran tenaga dalam rantai makanan.,24010500,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.6,Memerihalkan piramid ekologi:(i) piramid bilangan.(ii) piramid biojisim.(iii) piramid tenaga.,24010600,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.7,Mencerakinkan jenis interaksi antara komponen biosis:(i) parasitisme. komensalisme. mutualisme. saprofitisme. persaingan. pemangsaan.,24010700,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.1.9,Menerangkan ekosistem paya bakau dari aspek:(i) komponen biosis.(ii) komponen abiosis.(iii) penyesuaian pokok bakau.(iv) pengkolonian dan sesaran.(v) kepentingan ekosistem paya bakau.,24010900,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.2.1,Menghuraikan faktor yang mempengaruhi taburan populasi.,24020100,TRUE
+Biologi SM,BIO-SM,5,24.0 Ekosistem,24.2.2,Menganalisis data untuk menganggarkan saiz populasi organisma yang menggunakan:(i) teknik persampelan kuadrat. teknik tangkap-tanda-lepas-tangkap semula.,24020200,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.1.1,Menghuraikan maksud kelestarian alam sekitar.,25010100,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.1.2,Menganalisis ancaman alam sekitar:(i) perubahan iklim.(ii) penyahutanan.(iii) pencemaran.(iv) kehilangan biodiversiti.(v) ledakan pertumbuhan populasi manusia.(vi) pemanasan global.(vii) eutrofikasi.(viii) pemanasan global.,25010200,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.1.3,Mengeksperimen untuk membanding tahap keperluan oksigen biokimia(BOD) dalam sampel air yang berbeza,25010300,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.2.1,Mendefinisikan:(i) pemeliharaan ekosistem.(ii) pemuliharaan ekosistem. pemulihan ekosistem.,25020100,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.2.2,Mewajarkan keperluan:(i) pemeliharaan ekosistem.(ii) pemuliharaan ekosistem. pemulihan ekosistem.,25020200,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.3.1,Menjana idea berkaitan amalan yang menyumbang kepada kelestarian alam.,25030100,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.3.2,Membincangkan status sekuriti makanan di Malaysia.,25030200,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.4.1,Mendefinisikan teknologi hijau.,25040100,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.4.2,Mewajarkan penggunaan teknologi hijau dalam melestarikan alam.,25040200,TRUE
+Biologi SM,BIO-SM,5,25.0 Kelestarian Alam Sekitar,25.4.3,Berkomunikasi tentang aplikasi sains sosial untuk menyelesaikan masalah dan cabaran alam sekitar.,25040300,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.1,Menghuraikan maksud kacukan monohibrid.,26010100,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.2,Menerangkan kacukan monohibrid berdasarkan eksperimen Mendel.,26010200,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.3,Membezakan istilah yang berhubung dengan pewarisan:(i) gen dan alel.(ii) ciri dan trait.(iii) fenotip dan genotip.(iv) alel dominan dan alel resesif.(v) trait dominan dan trait resesif.(vi) homozigot dan heterozigot.(vii) baka tulen dan hibrid.(viii) generasi induk dan generasi filial.,26010300,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.4,Membina rajah kacukan pewarisan monohibrid.,26010400,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.5,Menentukan nisbah genotip dan nisbah fenotip bagi generasi filial dalam kacukan monohibrid.,26010500,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.1.6,Memerihalkan Hukum Mendel I.,26010600,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.2.1,Menghuraikan maksud pewarisan kacukan dihibrid.,26020100,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.2.2,Menerangkan kacukan dihibrid berdasarkan eksperimen Mendel.,26020200,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.2.3,Membina rajah kacukan pewarisan dihibrid.,26020300,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.2.4,Menentukan nisbah genotip dan nisbah fenotip bagi generasi filial dalam kacukan dihibrid.,26020400,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.2.5,Memerihalkan Hukum Mendel II.,26020500,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.3.1,Menghuraikan maksud lokus.,26030100,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.3.2,Menghubung kait alel dan lokus dengan gen pada kromosom.,26030200,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.1,Mengenal pasti jenis kromosom manusia:(i) autosom.(ii) kromosom seks.,26040100,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.2,Menganalisis dan menghuraikan kariotip manusia.,26040200,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.3,Memadankan kromosom paternal dan kromosom maternal dalam lukisan/ mikrograf kromosom manusia untuk membina kariotip lengkap seseorang individu.,26040300,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.4,Memerihalkan Hukum Mendel dengan pewarisan manusia.,26040400,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.5,Menganalisis pewarisan manusia dengan membina rajah kacukan pewarisan.,26040500,TRUE
+Biologi SM,BIO-SM,5,26.0 Pewarisan,26.4.6,Menganalisis pewarisan manusia dengan mengkaji pedigri keluarga.,26040600,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.1,Menghuraikan maksud variasi.,27010100,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.2,Mewajarkan keperluan variasi untuk kemandirian spesies.,27010200,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.3,Memerihalkan jenis variasi; variasi selanjar.(ii) variasi tak selanjar.,27010300,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.4,Membanding dan membezakan antara variasi selanjar dengan variasi tak selanjar.,27010400,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.5,"Menghubung kait punca variasi dengan jenis variasi:(i) faktor genetik-pindah silang,penyusunan bebas kromosom,- persenyawaan rawa,- mutasi. Menghubung kait punca variasi dengan jenis variasi:(ii) faktor persekitaran.suhu,cahaya,ph",27010500,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.1.6,Memerihalkan variasi yang berpunca daripada interaksi antara faktor genetik dengan faktor persekitaran.,27010600,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.2.1,Menghubung kait jenis variasi dengan pewarisan manusia.,27020100,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.2.2,Mengeksperimen untuk mengkaji variasi selanjar dan variasi tak selanjar dalam manusia dalam manusia.,27020200,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.3.1,Menghuraikan maksud; mutagen.(ii) mutasi. mutan.,27030100,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.3.2,Memerihalkan jenis mutagen:(i) agen fizikal.(ii) agen kimia. agen biologi.,27030200,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.3.3,Menghuraikan jenis mutasi dengan contoh:(i) mutasi gen.(ii) mutasi kromosom.,27030300,TRUE
+Biologi SM,BIO-SM,5,27.0 Variasi,27.3.4,Menghubung kait mutasi sel soma dan sel gamet dengan variasi.,27030400,TRUE
+Biologi SM,BIO-SM,5,28.0 Teknologi Genetik,28.1,1Menghuraikan maksud:(i) kejuruteraan genetik.(ii) organisma terubahsuai genetik (genetically modified organism- GMO).,28010000,TRUE
+Biologi SM,BIO-SM,5,28.0 Teknologi Genetik,28.1.2,Menerangkan aplikasi kejuruteraan genetik dalam penghasilan:(i) organisma terubahsuai genetik (GMO).(ii) makanan terubahsuai genetik (GMF).(iii) insulin.,28010200,TRUE
+Biologi SM,BIO-SM,5,28.0 Teknologi Genetik,28.2.1,Menghuraikan maksud bioteknologi.,28020100,TRUE
+Biologi SM,BIO-SM,5,28.0 Teknologi Genetik,28.2.2,Memerihalkan aplikasi bioteknologi dalam kehidupan.,28020200,TRUE
+Biologi SM,BIO-SM,5,28.0 Teknologi Genetik,28.2.3,Mewajarkan kepentingan bioteknologi dalam kehidupan.,28020300,TRUE

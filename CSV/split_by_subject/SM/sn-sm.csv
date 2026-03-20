@@ -1,0 +1,549 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.1,menghubungkaitkan aktiviti seharian dengan Sains,1010100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.2,mengitlak maksud Sains,1010200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.3,merumuskan kepentingan bidang Sains tersebut dalam kehidupan seharian.,1010300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.4,memerihalkan bidang Sains.,1010400,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.5,berkomunikasi mengenai kerjaya dalam bidang Sains,1010500,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.6,menghubungkait subjek yang perlu dipelajari dengan kerjaya bidang sains yang diminati,1010600,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.1.7,memerihalkan inovasi teknologi,1010700,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.2.1,mengenal pasti dan menyatakan fungsi radas,1020100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.2.2,mengenal pasti simbol dan contoh bahan berbahaya dalam makmal,1020200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.2.3,melukis dan melabel radas yang biasa digunakan dalam makmal dan mengelas berdasarkan kegunaannya,1020300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.2.4,mewajarkan peraturan dan langkah keselamatan dalam makmal,1020400,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.3.1,mengenal pasti dan menggunakan unit yang betul bagi kuantiti fizikal yang berbeza,1030100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.3.2,mengenal pasti maksud simbol dan nilai simbol bagi imbuhan yang digunakan dalam pengukuran,1030200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.3.3,"menukar unit kuantiti asas iaitu jisim, panjang dan masa seperti gram kepada kilogram, sentimeter kepada meter, saat kepada jam dan sebaliknya",1030300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.3.4,mewajarkan kepentingan penggunaan unit S.I dalam kehidupan harian,1030400,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.4.1,"menggunakan alat pengukur yang betul dan dengan cara yang betul, untuk mengukur dengan persis dan jitu kuantiti panjang, jisim, masa, suhu dan arus elektrik",1040100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.4.2,"menggunakan alat pengukuran yang lebih jitu bagi membandingkan kejituan, kepersisan dan kepekaan dalam pengukuran",1040200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.4.3,menerangkan bagaimana mengatasi ralat sistematik dan ralat rawak,1040300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.4.4,"menganggar panjang, luas, jisim atau isi padu sesuatu objek dengan membuat anggaran sebelum membuat pengukuran sebenar",1040400,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.4.5,menjelas dengan contoh inovasi dalam alat pengukuran melalui pelbagai jenis persembahan multimedia,1040500,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.1,menyusun mengikut urutan bahan berdasarkan ketumpatan,1050100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.2,meramalkan sama ada bahan akan terapung dan tenggelam berdasarkan ketumpatan,1050200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.3,mendefinisikan secara operasi maksud ketumpatan,1050300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.4,mengira ketumpatan menggunakan rumus (ketumpatan = jisim/isi padu) dan dengan kaedah sesaran air,1050400,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.5,menerangkan fenomena yang berkaitan dengan perbezaan ketumpatan dalam kehidupan seharian,1050500,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.5.6,"membuat inovasi objek, makanan atau minuman menggunakan konsep ketumpatan",1050600,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.6.1,membezakan setiap kemahiran proses sains,1060100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.6.2,membuat urutan langkah dalam menjalankan penyiasatan saintifik mengikut urutan yang betul,1060200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.6.3,menjalankan satu penyiasatan saintifik bagi menyelesaikan satu masalah yang mudah,1060300,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.7.1,menyokong sikap saintifik dan nilai murni yang diamalkan oleh ahli sains,1070100,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.7.2,mewajarkan keperluan mengamalkan sikap saintifik dan nilai murni dalam menjalankan penyiasatan,1070200,TRUE
+Sains SM,SN-SM,1,1. Pengenalan Kepada Penyiasatan Saintifik,1.7.3,mempraktikkan sikap saintifik dan nilai murni semasa menjalankan kaedah penyiasatan saintifik,1070300,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.1,menerangkan benda hidup dibina daripada sel yang menjalankan fungsi hidup dan mengalami pembahagian sel,2010100,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.2,menunjuk cara penyediaan slaid sel haiwan dan sel tumbuhan mengikut prosedur yang betul.,2010200,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.3,berkomunikasi mengenai fungsi setiap struktur dalam sel dan membanding dan membezakan sel haiwan dengan sel tumbuhan,2010300,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.4,menjelaskan dengan contoh ciri organisma unisel dan multisel bagi kedua-dua haiwan dan tumbuhan,2010400,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.5,membezakan jenis dan fungsi sel haiwan dan sel tumbuhan,2010500,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.6,mengkonsepsikan pembentukan tumbuhan dan haiwan mengikut urutan tahap organisasi sel tisuorgansistemorganisma.,2010600,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.2.1,berkomunikasi mengenai respirasi sel,2020100,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.2.2,berkomunikasi mengenai proses fotosintesis,2020200,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.2.3,membezakan antara proses respirasi sel dan fotosintesis,2020300,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.2.4,menerangkan bagaimana proses respirasi sel dan fotosintesis saling melengkapi,2020400,TRUE
+Sains SM,SN-SM,1,2. Sel Sebagai Unit Asas Hidupan,2.1.7,mengagumi dan menghargai kewujudan pelbagai organisma,2170000,TRUE
+Sains SM,SN-SM,1,3. Koordinasi Dan Gerakbalas,3.1.1,berkomunikasi maksud homeostasis,3010100,TRUE
+Sains SM,SN-SM,1,3. Koordinasi Dan Gerakbalas,3.1.2,menjelaskan dengan contoh sistem yang terlibat dengan homeostasis dalam manusia dan haiwan,3010200,TRUE
+Sains SM,SN-SM,1,3. Koordinasi Dan Gerakbalas,3.1.3,menjelaskan dengan contoh sistem yang terlibat dengan homeostasis dalam tumbuhan,3010300,TRUE
+Sains SM,SN-SM,1,3. Koordinasi Dan Gerakbalas,3.1.4,menghargai kepentingan homeostasis kepada manusia dan benda hidup,3010400,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.1.1,membanding dan membezakan pembiakan seks dan aseks bagi haiwan dan tumbuhan,4010100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.1.2,menaakul kepentingan pembiakan,4010200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.1.3,mensyukuri kebolehan membiak untuk menyambung zuriat sebagai kurniaan Tuhan,4010300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.2.1,mengenal pasti struktur dan fungsi sistem pembiakan lelaki dan perempuan,4020100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.2.2,berkomunikasi mengenai perubahan fizikal yang berlaku semasa akil baligh,4020200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.2.3,membanding dan membezakan gamet jantan dengan gamet betina dalam sistem pembiakan,4020300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.3.1,berkomunikasi mengenai kitar haid dan urutan perubahan pada dinding uterus semasa haid,4030100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.3.2,menghubungkaitkan waktu subur kitar haid dengan proses persenyawaan,4030200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.3.3,mewajarkan kepentingan mengurus kebersihan diri semasa haid,4030300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.4.1,berkomunikasi mengenai proses persenyawaan dan penempelan embrio,4040100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.4.2,mewajarkan kepentingan dan fungsi plasenta dan tali pusat,4040200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.4.3,memerihalkan perkembangan zigot kepada embrio dan seterusnya kepada fetus dalam tempoh kehamilan sehingga kelahiran,4040300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.5.1,menghubungkait kepentingan pengambilan makanan yang berkhasiat kepada kesihatan ibu dan fetus semasa kehamilan,4050100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.5.2,mewajarkan kepentingan mengelak daripada mengambil bahan yang boleh memudaratkan fetus,4050200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.5.3,mewajarkan kebaikan penyusuan susu ibu kepada perkembangan bayi berbanding susu formula,4050300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.5.4,menyedari bahawa setiap makhluk yang bernyawa mempunyai hak untuk hidup walaupun dalam kandungan,4050400,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.6.1,berkomunikasi mengenai kemandulan dan cara mengatasinya,4060100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.6.2,membezakan kaedah pencegahan kehamilan,4060200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.6.3,menyedari kepentingan mengamalkan pemeriksaan kesihatan dan mendapat rawatan segera apabila menghadapi masalah sistem pembiakan,4060300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.6.4,mengkritik penyalahgunaan pengetahuan tentang kaedah pencegahan kehamilan dan kesannya kepada masyarakat,4060400,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.7.1,berkomunikasi mengenai struktur dan fungsi setiap bahagian bunga.,4070100,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.7.2,mewajarkan proses pendebungaan,4070200,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.7.3,memerihalkan proses persenyawaan dan menerangkan pembentukan biji benih dan buah pada tumbuhan,4070300,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.7.4,memerihalkan proses percambahan biji benih,4070400,TRUE
+Sains SM,SN-SM,1,4. Pembiakan,4.7.5,menyelesaikan masalah apabila percambahan tidak berlaku,4070500,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.1.1,menyatakan bahawa hampir semua benda yang wujud dalam alam adalah jirim,5010100,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.1.2,membuktikan bahawa benda hidup dan bukan hidup mempunyai jisim dan memenuhi ruang,5010200,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.1.3,membezakan sifat fizik dan sifat kimia jirim,5010300,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.1.4,mengelaskan bahan dari pelbagai ciri,5010400,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.1,mengitlak bahawa jirim terdiri daripada zarah,5020100,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.2,membanding dan membezakan tiga keadaan jirim berdasarkan teori kinetik dari segi susunan dan pergerakan zarah-zarah,5020200,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.3,menggunakan perhubungan ruang dan masa bagi membezakan kadar resapan dalam tiga keadaan jirim,5020300,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.4,memerihalkan perubahan keadaan jirim dari segi pergerakan zarah-zarah akibat daripada penyerapan dan pembebasan haba berdasarkan teori kinetik,5020400,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.5,"merumuskan bahawa suhu kekal semasa pembekuan, peleburan dan pendidihan",5020500,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.6,merumuskan jisim kekal tidak berubah semasa perubahan fizik.,5020600,TRUE
+Sains SM,SN-SM,1,5. Jirim,5.2.7,menjelaskan dengan contoh perubahan keadaan jirim dalam kehidupan harian,5020700,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.1.1,merumuskan semua jirim terdiri daripada atom,6010100,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.1.2,membezakan antara atom dan molekul serta unsur dan sebatian,6010200,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.1.3,"mengenal pasti kedudukan logam, bukan logam dan gas nadir dalam jadual berkala",6010300,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.1.4,membezakan ciri-ciri logam dengan bukan logam,6010400,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.1.5,menghargai unsur yang wujud dalam alam bagi membolehkan manusia menyusun ketertiban ini dalam bentuk jadua,6010500,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.2.1,berkomunikasi mengenai contoh campuran dalam kehidupan harian,6020100,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.2.2,menyelesaikan masalah untuk mengasingkan campuran melalui aktiviti berdasarkan perbezaan ciri bahan dengan kaedah fizikal,6020200,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.1,berkomunikasi mengenai sebatian dalam kehidupan harian,6030100,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.2,menunjuk cara pembentukan sebatian daripada logam dengan bukan logam,6030200,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.3,merumuskan jisim diabadikan semasa perubahan kimia,6030300,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.4,mengasingkan sebatian melalui kaedah kimia,6030400,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.5,membezakan perubahan kimia dan perubahan fizik,6030500,TRUE
+Sains SM,SN-SM,1,6. Jadual Berkala,6.3.6,membezakan antara campuran dan sebatian,6030600,TRUE
+Sains SM,SN-SM,1,7. Udara,7.1.1,merancang dan merekodkan komposisi udara,7010100,TRUE
+Sains SM,SN-SM,1,7. Udara,7.1.2,mencerakinkan komposisi udara daripada carta pai,7010200,TRUE
+Sains SM,SN-SM,1,7. Udara,7.1.3,"mewajarkan kepentingan gas oksigen, karbon dioksida, nitrogen dan gas nadir dalam kehidupan harian",7010300,TRUE
+Sains SM,SN-SM,1,7. Udara,7.1.4,menghargai dan mengagumi kitar karbon dan kitar oksigen dalam mengekalkan kandungan gas dalam udara,7010400,TRUE
+Sains SM,SN-SM,1,7. Udara,7.1.5,menyelesaikan masalah apabila terdapat gangguan pada kitar oksigen atau kitar karbon di Bumi,7010500,TRUE
+Sains SM,SN-SM,1,7. Udara,7.2.1,merumuskan syarat untuk berlaku pembakaran,7020100,TRUE
+Sains SM,SN-SM,1,7. Udara,7.2.2,menghubungkaitkan antara syarat pembakaran dengan prinsip yang digunakan dalam pembuatan alat pemadam api,7020200,TRUE
+Sains SM,SN-SM,1,7. Udara,7.2.3,mengamalkan sikap berjaga-jaga bagi mengelakkan berlakunya kebakaran yang boleh mengakibatkan kemusnahan nyawa dan harta benda,7020300,TRUE
+Sains SM,SN-SM,1,7. Udara,7.3.1,mentakrifkan maksud pencemaran udara dan bahan pencemar udara,7030100,TRUE
+Sains SM,SN-SM,1,7. Udara,7.3.2,berkomunikasi mengenai bahan pencemar udara dan puncanya,7030200,TRUE
+Sains SM,SN-SM,1,7. Udara,7.3.3,mewajarkan langkah untuk mencegah dan mengawal pencemaran udara,7030300,TRUE
+Sains SM,SN-SM,1,7. Udara,7.3.4,menyelesaikan masalah kesan buruk akibat pencemaran udara,7030400,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.1,membezakan antara imej sahih dan imej maya,8010100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.2,"berkomunikasi mengenai ciri imej dalam cermin satah, cermin cekung dan cermin cembung",8010200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.3,menyatakan bahawa jarak objek adalah sama dengan jarak imej dalam cermin satah,8010300,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.4,menggunakan cermin satah untuk mengaplikasi konsep pantulan cahaya,8010400,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.5,mewajarkan aplikasi cermin cekung dan cermin cembung dalam kehidupan,8010500,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.6,membina alat optik dan menghargai penggunaan alat optik untuk meningkatkan keupayaan deria manusia,8010600,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.1.7,"menyelesaikan masalah dalam kehidupan harian dengan mengaplikasi cermin satah, cermin cekung dan cermin cembung",8010700,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.2.1,berkomunikasi mengenai sifat cahaya,8020100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.3.1,menyatakan ciri imej cermin satah,8030100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.3.2,berkomunikasi mengenai hukum pantulan,8030200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.3.3,melukis gambar rajah sinar pantulan cahaya,8030300,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.3.4,menyelesaikan masalah dalam kehidupan seharian dengan mengaplikasi konsep pantulan cahaya,8030400,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.4.1,mengitlak bahawa pembiasan cahaya berlaku apabila cahaya bergerak melalui medium yang berbeza ketumpatan,8040100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.4.2,melukis gambar rajah sinar pembiasan cahaya apabila cahaya melalui medium berbeza ketumpatan,8040200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.4.3,"merumuskan hubungan antara sudut tuju, i dan sudut biasan, r apabila cahaya bergerak dari medium kurang tumpat ke lebih tumpat",8040300,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.4.4,mewajarkan aplikasi pembiasan cahaya dalam kehidupan,8040400,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.5.1,berkomunikasi mengenai penyebaran cahaya,8050100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.5.2,menjelaskan dengan contoh penyebaran cahaya dalam kehidupan seharian,8050200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.6.1,berkomunikasi mengenai penyerakan cahaya,8060100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.6.2,menjelaskan dengan contoh penyerakan cahaya dalam kehidupan harian,8060200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.1,mengenal pasti warna primer,8070100,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.2,mengenal pasti penambahan warna-warna primer bagi membentuk warna sekunder,8070200,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.3,berkomunikasi mengenai penolakan cahaya,8070300,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.4,merekodkan warna yang terhasil pada skrin selepas cahaya melalui penapis warna,8070400,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.5,membezakan penambahan dan penolakan cahaya,8070500,TRUE
+Sains SM,SN-SM,1,8. Cahaya Dan Optik,8.7.6,menjelaskan dengan contoh penambahan dan penolakan cahaya dalam kehidupan harian,8070600,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.1.1,berkomunikasi mengenai sistem Bumi,9010100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.1.2,menjelaskan perbezaan antara lapisan bumi berdasarkan komposisi dan sifat fizik,9010200,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.1.3,menyedari bahawa keadaan fizik yang sesuai menampung kehidupan hanya wujud di Bumi.,9010300,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.2.1,menerangkan jenis dan ciri batuan,9020100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.2.2,berkomunikasi bagi membezakan proses pembentukan batuan,9020200,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.3.1,berkomunikasi mengenai proses eksogen dan endogen,9030100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.4.1,berkomunikasi mengenai geobencana,9040100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.4.2,menjana idea bagaimana sains dan teknologi digunakan untuk menghadapi geobencana,9040200,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.4.3,menyedari bahawa bencana alam memberi impak terhadap kehidupan alam sekitar,9040300,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.5.1,berkomunikasi mengenai skala masa geologi,9050100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.5.2,menerangkan kaedah penentuan usia bumi.,9050200,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.5.3,berkomunikasi mengenai fosil,9050300,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.5.4,menaakul kepentingan fosil kepada perkembangan sains kini,9050400,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.1,menerangkan mengenai air permukaan dan risikonya,9060100,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.2,menerangkan air bawah tanah dari segi kepentingan dan risikonya,9060200,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.3,berkomunikasi mengenai mineral ekonomi,9060300,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.4,menerangkan pembentukkan petroleum dan arang batu,9060400,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.5,berkomunikasi mengenai hidroterma,9060500,TRUE
+Sains SM,SN-SM,1,9. Bumi,9.6.6,menyelesaikan masalah kesan buruk daripada aktiviti manusia yang tidak dirancang dengan baik kepada semua hidupan dii Bumi,9060600,TRUE
+Sains SM,SN-SM,2,1.0 Biodiversiti,1.1.1,Menghuraikan dan berkomunikasi mengenai biodiversiti,1010100,TRUE
+Sains SM,SN-SM,2,1.0 Biodiversiti,1.1.2,Mewajarkan keperluan pengurusan biodiversiti yang berkesan.,1010200,TRUE
+Sains SM,SN-SM,2,1.0 Biodiversiti,1.2.1,Membezakan organisma dengan kekunci dikotomi berdasarkan ciri-ciri sepunya.,1020100,TRUE
+Sains SM,SN-SM,2,1.0 Biodiversiti,1.2.2,Mencirikan kumpulan taksonomi utama.,1020200,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.1.1,"Menerangkan dengan contoh pengeluar, pengguna dan pengurai.",2010100,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.1.2,Menginterpretasi rantai makanan dan siratan makanan.,2010200,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.2.1,Menghuraikan dan berkomunikasi mengenai peranan benda hidup dalam kitar oksigen dan kitar karbon dalam ekosistem,2020100,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.2.2,Mewajarkan peranan organisma dalam kitar air suatu ekosistem.,2020200,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.2.3,Menyelesaikan masalah apabila terdapat gangguan ke atas kitaran disebabkan aktiviti manusia.,2020300,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.3.1,Menjelaskan dengan contoh saling bersandaran antara benda hidup dan persekitaran untuk keseimbangan ekosistem.,2030100,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.3.2,Mewajarkan kepentingan penyesuaian hidupan terhadap alam sekitar.,2030200,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.3.3,Berkomunikasi mengenai contoh interaksi antara organisma hidup dan mengaplikasi interaksi tersebut dalam kehidupan harian.,2030300,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.3.4,Mencerakinkan faktor yang mempengaruhi saiz populasi dalam suatu ekosistem.,2030400,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.3.5,Meramalkan bagaimana perubahan dalam ekosistem mempengaruhi sumber yang ada dan keseimbangan antara populasi.,2030500,TRUE
+Sains SM,SN-SM,2,2.0 Ekositem,2.4.1,Mewajarkan dan berkomunikasi bahawa manusia memerlukan ekosistem yang stabil dan produktif demi kelestarian hidup.,2040100,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.1.1,Menghuraikan dan berkomunikasi mengenai kelas makanan.,3010100,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.1.2,"Menguji kehadiran kanji, glukosa, protein dan lemak dalam makanan.",3010200,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.2.1,Menghuraikan dan berkomunikasi mengenai gizi seimbang.,3020100,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.2.2,Menganggar kalori makanan yang diambil dalam setiap hidangan dan merancang satu gizi seimbang.,3020200,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.2.3,"Membuat kajian dan mewajarkan kepentingan gizi seimbang, senaman dan gaya hidup yang sihat dalam mengekalkan kesihatan badan.",3020300,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.3.1,Menghuraikan dan berkomunikasi mengenai pencernaan.,3030100,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.4.1,Menjalankan eksperimen bagi menerangkan proses penyerapan hasil pencernaan.,3040100,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.4.2,"Menghubungkaitkan fungsi sistem pencernaan, sistem peredaran darah dan sistem respirasi.",3040200,TRUE
+Sains SM,SN-SM,2,3.0 Nutrisi,3.4.3,Menghuraikan dan berkomunikasi mengenai penyahtinjaan,3040300,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.1.1,Membezakan dan berkomunikasi mengenai penyakit berjangkit dan penyakit tidak berjangkit,4010100,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.1.2,Menerangkan bagaimana penyakit berjangkit disebarkan.,4010200,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.1.3,Mencerakinkan penyebab dan penularan penyakit berjangkit.,4010300,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.1.4,Menjana idea mekanisme menghalang penularan penyakit berjangkit.,4010400,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.1,Menghuraikan dan berkomunikasi mengenai fungsi sistem pertahanan badan.,4020100,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.2,"Mendefinisikan antigen, antibodi dan keimunan badan.",4020200,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.3,Mewajarkan kepentingan imunisasi.,4020300,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.4,Membezakan keimunan pasif dan keimunan aktif.,4020400,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.5,Mewajarkan amalan yang baik ke arah keimunan yang mantap.,4020500,TRUE
+Sains SM,SN-SM,2,4.0 Kesihatan Manusia,4.2.6,"Mewajarkan dan berkomunikasi mengenai kepentingan imunisasi dan tahap kesihatan individu terhadap keluarga, sosial, ekonomi dan negara.",4020600,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.1.1,Menghuraikan dan berkomunikasi mengenai air.,5010100,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.1.2,Menjalankan eksperimen dan berkomunikasi mengenai proses penyejatan air dalam kehidupan harian.,5010200,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.2.1,"Menerangkan dengan contoh maksud larutan, keterlarutan.",5020100,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.2.2,Menjalankan eksperimen bagi menentukan faktor yang mempengaruhi kadar keterlarutan.,5020200,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.2.3,Menjelaskan dengan contoh maksud koloid dalam kehidupan harian.,5020300,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.2.4,Menghuraikan dan berkomunikasi mengenai kegunaan air sebagai pelarut universal dalam kehidupan harian dan industri pembuatan.,5020400,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.2.5,Menunjuk cara contoh pelarut bukan air dan kegunaannya dalam kehidupan.,5020500,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.3.1,Menunjuk cara kaedah pembersihan air.,5030100,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.3.2,Menyelesaikan masalah mendapatkan bekalan air untuk kegunaan harian.,5030200,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.3.3,Membina model dan berkomunikasi mengenai sistem pembekalan air.,5030300,TRUE
+Sains SM,SN-SM,2,5.0 Air Dan Larutan,5.3.4,Mewajarkan kelestarian air sebagai kunci kehidupan yang sihat.,5030400,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.1.1,Mendefinisikan secara operasi asid dan alkali.,6010100,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.1.2,Menerangkan dengan contoh bahan berasid dan beralkali.,6010200,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.1.3,Menunjuk cara menentukan kekuatan asid dan alkali berdasarkan nilai pH.,6010300,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.1.4,Mengenal pasti kegunaan asid dan alkali dalam kehidupan harian.,6010400,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.2.1,Menerangkan proses peneutralan.,6020100,TRUE
+Sains SM,SN-SM,2,6.0 Asid Dan Alkali,6.2.2,Menerangkan dengan contoh penggunaan proses peneutralan dalam kehidupan harian.,6020200,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.1,Menghuraikan dan berkomunikasi mengenai tenaga.,7010100,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.2,Menerangkan dan berkomunikasi mengenai kewujudan cas elektrostatik.,7010200,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.3,Menjelaskan dengan contoh elektrostatik dalam kehidupan seharian.,7010300,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.4,Merumuskan cas yang mengalir menghasilkan arus elektrik.,7010400,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.5,"Mencirikan arus, voltan dan rintangan serta unitnya.",7010500,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.1.6,"Merumuskan perkaitan antara arus, voltan dan rintangan.",7010600,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.2.1,Menghuraikan dan berkomunikasi mengenai pengaliran arus elektrik dalam litar bersiri dan litar selari.,7020100,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.3.1,Merumuskan ciri magnet.,7030100,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.3.2,Menghuraikan dan berkomunikasi mengenai elektromagnet.,7030200,TRUE
+Sains SM,SN-SM,2,7.0 Keelektrikan Dan Kemagnetan,7.3.3,Menjalankan eksperimen dan berkomunikasi mengenai kegunaan magnedan elektromagnet dalam kehidupan seharian.,7030300,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.1.1,Menghuraikan dan berkomunikasimengenai daya.,8010100,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.1.2,"Menerangkan daya mempunyai magnitud,arah dan titik aplikasi.",8010200,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.1.3,Mengukur daya dalam unit S.I.,8010300,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.1.4,Menjelaskan dengan contoh setiap daya tindakan terdapat daya tindak balas yang sama magnitud tetapi bertentangan arah.,8010400,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.1,Menghuraikan dan berkomunikasi mengenai kesan tindakan daya.,8020100,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.2,Menerangkan dan berkomunikasi mengenai perkaitan antara perbezaan ketumpatan dengan kesan keapungan dalam kehidupan harian.,8020200,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.3,"Mengelas dan menyelesaikan masalah tuas berdasarkan kedudukan fulkrum, beban dan daya.",8020300,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.4,Menerangkan dan berkomunikasi mengenai momen daya.,8020400,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.5,Menjalankan eksperimen dan berkomunikasi mengenai tekanan serta aplikasinya dalam kehidupan harian.,8020500,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.6,Menghuraikan dan berkomunikasi mengenai tekanan gas dengan merujuk kepada teori kinetik gas.,8020600,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.7,Menerangkan dan berkomunikasi mengenai kewujudan tekanan atmosfera dan kesan altitud kepada tekanan atmosfera.,8020700,TRUE
+Sains SM,SN-SM,2,8.0 Daya Dan Gerakan,8.2.8,Menerangkan kesan kedalaman terhadap tekanan cecair.,8020800,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.1.1,Membanding beza antara haba dengan suhu.,9010100,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.2.1,Menerangkan haba mengalir dari kawasan panas ke kawasan sejuk.,9020100,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.2.2,Menerangkan dan berkomunikasi mengenai pengaliran haba dalam fenomena alam.,9020200,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.2.3,Berkomunikasi mengenai konduktor haba dan penebat haba serta kegunaan konduktor dan penebat haba dalam kehidupan harian.,9020300,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.3.1,"Menerangkan bagaimana haba menyebabkan pengembangan dan pengecutan pepejal, cecair dan gas.",9030100,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.3.2,Berkomunikasi mengenai pelbagai kegunaan pengembangan dan pengecutan jirim dalam kehidupan harian.,9030200,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.4.1,Menunjuk cara bagaimana objek yang gelap dan kusam menyerap haba lebih baik daripada objek putih dan berkilat.,9040100,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.4.2,Menunjukcara bagaimana objek yang gelap dan kusam membebaskan haba lebih baik daripada objek putih dan berkilat.,9040200,TRUE
+Sains SM,SN-SM,2,9.0 Haba,9.4.3,Mengkonsepsikan dan mereka bentuk mengunakan konsep haba dalam kehidupan harian.,9040300,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.1.1,Berkomunikasi mengenai ciri asas gelombang bunyi.,10010100,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.2.1,Menerangkan frekuensi bunyi dan unitnya serta amplitud getaran.,10020100,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.2.2,Menghubungkaitkan frekuensi dengan kelangsingan.,10020200,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.2.3,Menghubungkaitkan amplitud dengan kenyaringan.,10020300,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.2.4,Menjelaskan menggunakan contoh kekuatan dan kelangsingan menggunakan alatan muzik.,10020400,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.3.1,Menjelaskan dengan contoh fenomena yang berkait dengan pantulan gelombang bunyi seperti gema dan kesan Doppler bunyi.,10030100,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.3.2,Menjelaskan dengan contoh aplikasi pantulan gelombang bunyi.,10030200,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.3.3,Menerangkan dan berkomunikasi mengenai had pendengaran bagi manusia dan haiwan.,10030300,TRUE
+Sains SM,SN-SM,2,10.0 Gelombang Bunyi,10.3.4,Menerangkan dengan contoh cara mengatasi had pendengaran manusia.,10030400,TRUE
+Sains SM,SN-SM,2,11.0 Bintang Dan Galaksi Dalam Alam Semesta,11.1.1,Berkomunikasi mengenai ciri objek angkasa.,11010100,TRUE
+Sains SM,SN-SM,2,11.0 Bintang Dan Galaksi Dalam Alam Semesta,11.1.2,Membanding dan membezakan bintang (termasuk matahari) berdasarkan ciri bintang dan hubungkaitkan dengan pemerhatian bintang di bumi.,11010200,TRUE
+Sains SM,SN-SM,2,12.0 Sistem Suria,12.1.1,Membandingkan jarak planet dalam sistem suria daripada matahari dengan menggunakan astronomical unit (a.u) dan tahun cahaya.,12010100,TRUE
+Sains SM,SN-SM,2,12.0 Sistem Suria,12.1.2,Membina jadual untuk membanding dan membezakan antara planet Sistem Suria dengan Bumi.,12010200,TRUE
+Sains SM,SN-SM,2,12.0 Sistem Suria,12.1.3,Meneroka hubungan yang mungkin berdasarkan ciri planet dan memberi penjelasan tentang hubungan tersebut termasuk anomali yang mungkin wujud.,12010300,TRUE
+Sains SM,SN-SM,2,12.0 Sistem Suria,12.1.4,Menaakul dan menganalogikan situasi hipotetikal berkaitan dengan Sistem Suria,12010400,TRUE
+Sains SM,SN-SM,2,12.0 Sistem Suria,12.1.5,Menjustifikasi Bumi merupakan planet yang paling sesuai untuk kehidupan berdasarkan data tentang Bumi.,12010500,TRUE
+Sains SM,SN-SM,2,"13.0 Meteoroid, Asteroid, Komet",13.1.1,"Berkomunikasi tentang jasad lain dalam sistem suria iaitu meteoroid, asteroid dan komet.",13010100,TRUE
+Sains SM,SN-SM,2,"13.0 Meteoroid, Asteroid, Komet",13.1.2,"Membincangkan pergerakan meteoroid,asteroid dan komet dan kesannya terhadap bumi berdasarkan data.",13010200,TRUE
+Sains SM,SN-SM,2,"13.0 Meteoroid, Asteroid, Komet",13.1.3,Menjana idea bagaimana mengurangkan atau mengelakkan kemungkinan berlakunya perlanggaran asteroid dengan Bumi.,13010300,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.1.1,memerihalkan dengan lakaran struktur dan fungsi sistem saraf manusia,1010100,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.1.2,membuat urutan aliran impuls dalam tindakan terkawal dan luar kawal,1010200,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.1.3,mewajarkan kepentingan rangkaian sistem saraf manusia dalam kehidupan,1010300,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.2.1,melakar stuktur organ deria dan menerangkan fungsi serta kepekaabbya terhadap rangsangan,1020100,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.2.2,menerangkan mekanisme pendengaran dan penglihatan dengan lakaran,1020200,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.2.3,menghubungkaitkan organ deria manusia dengan kepekaan terhadap pelbagai kpmbinasi rangsangan,1020300,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.2.4,"menjelaskan melalui contoh bagaimana had deria, kecacatan organ deria dan proses penuaan mempengaruhi pendengaran dan penglihatan manusia.",1020400,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.2.5,mewajarkan bagaimana inovasi dan teknologi boleh meningkatkan keupayaan organ deria,1020500,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.3.1,memerihalkan bahagian tumbuhan yang peka terhadap rangsangan.,1030100,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.3.2,mewajarkan bagaimana tumbuhan bergerak balas terhadap rangsangan untuk mendapatkan keadaan terbaik bagi tumbesaran.,1030200,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.3.3,menjalankan eksperimen mengkaji gerak balas tumbuhan terhadap pelbagai rangsangan.,1030300,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.4.1,Menjelaskan dengan contoh jenis penglihatan dan pendengaran haiwan,1040100,TRUE
+Sains SM,SN-SM,3,1.0 Rangsangan Dan Gerak Balas,1.4.2,Berkomunikasi mengenai bagaimana organ deria menjamin kesinambungan haiwan di Bumi,1040200,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.1.1,Melakar dan melabelkan struktur dalam sistem respirasi manusia serta memerihalkan mekanisme pernafasan.,2010100,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.1.2,Menjalankan eksperimen mengkaji perbezaan kandungan gas dalam udara sedutan dan udara hembusan,2010200,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.2.1,Memerihalkan pergerakan dan pertukaran gas oksigen dan karbon dioksida dalam badan manusia,2020100,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.2.3,Mewajarkan kepentingan adaptasi struktur alveolus untuk meningkatkan kecekapan pertukaran gas dalam badan manusia,2020300,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.3.1,Berkomunikasi mengenai bahan yang memudaratkan sistem respirasi beserta penyakit dan simptomnya,2030100,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.3.2,Menjalankan eksperimen untuk menunjukkan kesan merokok terhadap peparu.,2030200,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.4.1,Mewajarkan bagaimana sistem respirasi beradaptasi dalam situasi berbeza.,2040100,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.5.1,Menerangkan mekanisme pertukaran gas dalam tumbuhan,2050100,TRUE
+Sains SM,SN-SM,3,2.0 Respirasi,2.5.2,Berkomunikasi bagi mewajarkan kepentingan persekitaran yang tidak tercemar untuk tumbesaran dan kemandirian tumbuhan,2050200,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.1.1,Memerihalkan fungsi sistem pengangkutan dalam organisma kompleks dan organisma ringkas.,3010100,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.1.2,Membanding dan membezakan fungsi sistem pengangkutan dalam organisma kompleks dan organisma ringkas.,3010200,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.1.3,Mewajarkan kepentingan fungsi sistem pengangkutan dalam organisma.,3010300,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.2.1,Mengitlak maksud sistem peredaran darah haiwan.,3020100,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.2.2,Berkomunikasi untuk menerangkan struktur dan fungsi jantung serta salur darah dalam sistem peredaran darah manusia.,3020200,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.2.3,Menjalankan eksperimen untuk mengkaji faktor yang mempengaruhi kadar denyutan nadi.,3020300,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.2.4,Mewajarkan kepentingan mengekalkan jantung yang sihat.,3020400,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.3.1,Mencerakinkan komponen dan kandungan darah manusia.,3030100,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.3.2,Mengenal pasti kumpulan darah serta kesan menerima darah yang tidak sepadan.,3030200,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.3.3,Berkomunikasi mengenai kepentingan menderma darah dalam konteks kehidupan harian.,3030300,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.4.1,Memerihalkan transpirasi dalam tumbuhan,3040100,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.4.2,Menjalankan eksperimen untuk mengkaji faktor yang mempengaruhi kadar tranpirasi,3040200,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.4.3,Membezakan struktur dan fungsi komponen dalam berkas vaskular pada tumbuhan.,3040300,TRUE
+Sains SM,SN-SM,3,3.0 Pengangkutan,3.5.1,Membandingkan sistem peredaran darah dalam haiwan dengan sistem pengangkutan dalam tumbuhan.,3050100,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.1.1,Menjelaskan dengan contoh kepelbagaian bentuk mineral dalam kerak bumi.,4010100,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.1.2,Mengenal pasti unsur yang terdapat dalam sebatian semula jadi.,4010200,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.1.3,Menjelaskan dengan contoh ciri mineral semula jadi dengan kegunaan dalam kehidupan harian.,4010300,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.2.1,Membina siri kereaktifan logam berdasarkan tindak balas logam terhadap oksigen serta menulis persamaan perkataan bagi tindak balas tersebut.,4020100,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.2.2,Menentukan kedudukan karbon dan hidrogen dalam siri kereaktifan logam.,4020200,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.3.1,Berkomunikasi dengan melukis pengesktrakan logam daripada bijihnya.,4030100,TRUE
+Sains SM,SN-SM,3,4.0 Kereaktifan Logam,4.3.2,Menjana idea untuk menyelesaikan masalah kesan buruk daripada aktiviti perlombongan yang tidak dirancang dengan baik kepada semua hidupan di Bumi.,4030200,TRUE
+Sains SM,SN-SM,3,5.0 Termokimia,5.1.1,Mendefinisikan tindak balas endotermik dan tindak balas eksotermik,5010100,TRUE
+Sains SM,SN-SM,3,5.0 Termokimia,5.1.2,Menghubungkait haba yang diserap atau dibebaskan dalam tindak balas kimia kepada tindak balas endotermik dan tindak balas eksotermik.,5010200,TRUE
+Sains SM,SN-SM,3,5.0 Termokimia,5.1.3,Menjalankan eksperimen untuk membanding dan membeza tindak balas eksotermik dengan tindak balas endotermik.,5010300,TRUE
+Sains SM,SN-SM,3,5.0 Termokimia,5.1.4,Menjelaskan dengan contoh tindak balas eksotermik dan tindak balas endotermik,5010400,TRUE
+Sains SM,SN-SM,3,5.0 Termokimia,5.1.5,Mereka bentuk bahan yang menggunakan konsep tindak balas eksotermik dan endotermik bagi menyelesaikan masalah dalam kehidupan.,5010500,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.1.1,Memerihalkan sumber tenaga kepada tenaga boleh baharu dan tenaga tidak boleh baharu,6010100,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.1.2,Menerangkan dengan contoh proses penjanaan tenaga elektrik daripada pelbagai sumber tenaga.,6010200,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.1.3,Membezakan antara arus terus dan arus ulang alik.,6010300,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.1.4,Menyelesaikan masalah berkaitan bekalan tenaga elektrik dalam kehidupan.,6010400,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.2.1,Menjalankan eksperimen membina transformer injak naik dan injak turun.,6020100,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.2.2,Berkomunikasi mengenai transformer dan fungsi transformer dalam penggunaan peralatan elektrik di rumah,6020200,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.2.3,Menyelesaikan masalah berkaitan transformer menggunakan rumus.,6020300,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.3.1,Menerangkan fungsi komponen dalam sistem penghantaran dan pengagihan tenaga elektrik dengan lakaran visual.,6030100,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.3.2,Menerangkan dengan contoh pembekalan elektrik dan sistem pendawaian elektrik di rumah.,6030200,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.3.3,Membezakan komponen keselamatan dalam sistem pendawaian di rumah.,6030300,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.3.4,Berkomunikasi mengenai keselamatan dalam sistem penghantaran dan pengagihan tenaga elektrik dan penggunaan peralatan elektrik.,6030400,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.1,Mendefinisikan maksud kecekapan tenaga.,6040100,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.2,Menyenaraikan contoh teknologi yang berkonsepkan kecekapan tenaga,6040200,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.3,Menentukan jumlah penggunan tenaga elektrik dalam peralatan elektrik.,6040300,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.4,"Menghubungkaitkan pengeluaran tenaga elektrik,kuasa dan masa dengan mengira kos penggunaan tenaga elektrik peralatan elektrik",6040400,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.5,Membuat audit ros penggunaan tenaga elektrik rumah sebagai langkah penjimatan dalam penggunaan tenaga elektrik,6040500,TRUE
+Sains SM,SN-SM,3,6.0 Keelektrikan Dan Kemagnetan,6.4.6,Berkomunikasi mengenai kaedah penjimatan penggunaan tenaga elektrik,6040600,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.1.1,Mendefinisikan kerja dan menyelesaikan masalah berkaitan tenaga dalam kehidupan harian.,7010100,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.1.2,Menghubungkaitkan kuasa dengan kerja dan menyelesaikan masalah dalam kehidupan harian,7010200,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.2.1,Menerangkan dengan contoh tenaga keupayaan graviti dan menyelesaikan masalah dalam kehidupan harian.,7020100,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.2.2,Mengirakan tenaga keupayaan kenyal dalam kehidupan harian.,7020200,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.2.3,Menjelaskan dengan contoh tenaga kinetik dalam kehidupan harian,7020300,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.3.1,Menerangkan dengan contoh Prinsip Keabadian Tenaga.,7030100,TRUE
+Sains SM,SN-SM,3,7.0 Tenaga Dan Kuasa,7.3.2,Menyelesaikan masalah kualitatif dan kuantitatif yang melibatkan perubahan tenaga kinetik dan tenaga keupayaan bagi suatu sistem tertutup,7030200,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.1.1,Memerihalkan sejarah penemuan keradioaktifan.,8010100,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.1.2,"Menerangkan dengan contoh maksud bahan radioaktif, keradioaktifan dan konsep separuh hayat pereputan radioaktif",8010200,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.2.1,Melakar struktur atom yang menunjukkan keadaan stabil.,8020100,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.2.2,Menerangkan pembentukan ion positif dan ion negatif.,8020200,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.3.1,Memerihalkan sinaran mengion dan sinaran tidak mengion.,8030100,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.3.2,Membezakan tiga jenis sinaran mengion dalam reputan radioaktif.,8030200,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.3.3,Menjelaskan dengan contoh sumber sinaran mengion dalam alam sekitar iaitu sumber semula jadi dan sumber buatan manusia.,8030300,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.3.4,Membincang cara mengurus risiko terdedah kepada sinaran mengion semula jadi dan buatan manusia,8030400,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.4.1,Berkomunikasi tentang kegunaan sinaran radioaktif untuk kesejahteraan hidup manusia.,8040100,TRUE
+Sains SM,SN-SM,3,8.0 Keradioaktifan,8.4.2,Mewajarkan kepentingan mengendalikan bahan radioaktif dan sisa bahan radioaktif dengan sempurna,8040200,TRUE
+Sains SM,SN-SM,3,9.0 Cuaca Angkasa Lepas,9.1.1,Menerangkan dengan lakaran mengenai struktur dan fenomena yang berlaku di permukaan matahari.,9010100,TRUE
+Sains SM,SN-SM,3,9.0 Cuaca Angkasa Lepas,9.1.2,Mewajarkan kepentingan magnetosfera Bumi.,9010200,TRUE
+Sains SM,SN-SM,3,9.0 Cuaca Angkasa Lepas,9.2.1,Berkomunikasi mengenai cuaca angkasa lepas dan kesannya terhadap Bumi.,9020100,TRUE
+Sains SM,SN-SM,3,10.0 Penerokaan Angkasa Lepas,10.1.1,Menerangkan dengan lakaran mengenai perkembangan sejarah model Sistem Suria,10010100,TRUE
+Sains SM,SN-SM,3,10.0 Penerokaan Angkasa Lepas,10.2.1,Berkomunikasi mengenai kepentingan perkembangan teknologi dan aplikasinya dalam penerokaan angkasa lepas.,10020100,TRUE
+Sains SM,SN-SM,3,10.0 Penerokaan Angkasa Lepas,10.2.2,Mewajarkan keperluan meneruskan penerokaan angkasa lepas.,10020200,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.1.1,Menjelaskan dengan contoh peralatan perlindungan diri serta fungsinya.,1010100,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.2.1,Menjelaskan dengan contoh bahan yang boleh dibuang ke dalam sinki.,1020100,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.2.2,Mencirikan bahan yang tidak boleh dibuang ke dalam sinki.,1020200,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.2.3,Mengurus bahan sisa biologi.,1020300,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.2.4,Berkomunikasi mengenai langkah mengurus kemalangan dalam makmal,1020400,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.3.1,Berkomunikasi mengenai jenis pemadam kebakaran.,1030100,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.3.2,Menerangkan kaedah penggunaan pemadam kebakaran.,1030200,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.3.3,Menjalankan audit alat pemadam kebakaran di sekolah.,1030300,TRUE
+Sains SM,SN-SM,4,1.0 Langkah Keselamatan Dalam Makmal,1.3.4,Mencipta alat pemadam kebakaran ringkas.,1030400,TRUE
+Sains SM,SN-SM,4,2.0 Bantuan Kecemasan,2.1.1,Menyatakan apakah itu CPR dan situasi yang memerlukan CPR.,2010100,TRUE
+Sains SM,SN-SM,4,2.0 Bantuan Kecemasan,2.1.2,Mendemonstrasi kaedah CPR,2010200,TRUE
+Sains SM,SN-SM,4,2.0 Bantuan Kecemasan,2.1.3,Menerangkan kepentingan CPR.,2010300,TRUE
+Sains SM,SN-SM,4,2.0 Bantuan Kecemasan,2.2.1,Menerangkan Heimlich Maneuver dan kepentingannya.,2020100,TRUE
+Sains SM,SN-SM,4,2.0 Bantuan Kecemasan,2.2.2,Membuat demonstrasi Heimlich Maneuver,2020200,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.1.1,Mengukur suhu badan menggunakan teknik yang betul.,3010100,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.1.2,Menginterpretasi suhu badan.,3010200,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.2.1,Mengenal pasti titik nadi pada badan,3020100,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.2.2,Menjalankan eksperimen bagi menentukan kadar denyutan nadi manusia,3020200,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.3.1,Mengenal pasti alat mengukur tekanan darah.,3030100,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.3.2,Mengukur dan merekod tekanan darah.,3030200,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.3.3,Menginterpretasi data daripada bacaan tekanan darah,3030300,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.4.1,Mengira dan menentukan Indeks Jisim Badan.,3040100,TRUE
+Sains SM,SN-SM,4,3.0 Teknik Mengukur Parameter Kesihatan Badan,3.4.2,Menginterpretasi Indeks Jisim Badan dan membuat keputusan mengenai tindakan yang perlu diambil,3040200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.1.1,Mendefinisikan dan mewajarkan Teknologi Hijau dalam kehidupan.,4010100,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.1.2,Menghubung kait kecekapan tenaga dengan teknologi hijau.,4010200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.1.3,Mengenal pasti sektor dalam Teknologi Hijau.,4010300,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.2.1,Memerihalkan isu sosiosaintifik,4020100,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.2.2,Menerangkan isu sosiosaintifik dalam sektor tenaga,4020200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.2.3,Mewajarkan aplikasi Teknologi Hijau dalam menangani isu sosiosaintifik sektor tenaga.,4020300,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.3.1,Menerangkan isu sosiosaintifik dalam sektor pengurusan sisa dan air sisa.,4030100,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.3.2,Mewajarkan aplikasi teknologi hijau dalam menangani isu sosiosaintifk sektor pengurusan sisa dan air sisa.,4030200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.4.1,Menerangkan isu sosiosaintifik dalam sektor pertanian dan perhutanan.,4040100,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.4.2,Mewajarkan aplikasi teknologi hijau dalam menangani isu sosiosaintifk sektor pertanian dan perhutanan,4040200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.5.1,Menerangkan isu sosiosaintifik dalam sektor pengangkutan,4050100,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.5.2,Mewajarkan aplikasi teknologi hijau dalam menangani isu sosiosaintifk sektor pengangkutan,4050200,TRUE
+Sains SM,SN-SM,4,4.0 Teknologi Hijau Dalam Melestarikan Alam,4.6.1,Mewajarkan peranan setiap individu dalam menangani fenomena pemanasan global dan perubahan iklim dalam mengurangkan jejak kaki karbon.,4060100,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.1.1,"Menerangkan gen,asid deoksiribonukleik (Deoxyribonucleic acid, DNA) dan kromosom dalam nukleus.",5010100,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.1.2,Membanding dan membezakan mitosis dan meiosis.,5010200,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.1.3,Mewajarkan kepentingan mitosis dan meiosis.,5010300,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.2.1,Menerangkan pewarisan dalam manusia,5020100,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.2.2,Berkomunikasi tentang mekanisme perwarisan,5020200,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.3.1,Menjelaskan maksud mutasi dan jenis mutasi,5030100,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.3.2,Menerangkan dengan contoh faktor yang menyebabkan mutasi gen dan mutasi kromosom.,5030200,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.3.3,Menerangkan dengan contoh penyakit gangguan gen dengan ciricirinya dan kaedah mengesan penyakit tersebut,5030300,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.3.4,Membincangkan aplikasi penyelidikan genetik dalam meningkatkan kualiti kehidupan.,5030400,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.3.5,Membahaskan kesan penyelidikan genetik terhadap kehidupan manusia,5030500,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.4.1,Mewajarkan teknologi kejuruteraan genetik,5040100,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.4.2,Membahaskan kesan teknologi kejuruteraan genetik dalam kehidupan,5040200,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.4.3,Mewajarkan etika dalam teknologi kejuruteraan genetik.,5040300,TRUE
+Sains SM,SN-SM,4,5.0 Genetik,5.5.1,Berkomunikasi mengenai variasi selanjar dan variasi tak selanjar,5050100,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.1,Menjelaskan dengan contoh jenis sokongan pada haiwan,6010100,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.2,Menghubungkaitkan saiz rangka luar dengan pertumbuhan,6010200,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.3,Menghubungkaitkan rangka hidrostatik dengan pergerakan.,6010300,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.4,Menghuraikan fungsi rangka dalam bagi haiwan,6010400,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.5,Mencerakinkan sistem rangka manusia,6010500,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.6,Menjalankan eksperimen untuk membandingkan kekuatan tulang yang padat dan tulang yang berongga,6010600,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.1.7,Menghubungkait sistem sokongan dengan faktor kestabilan haiwan,6010700,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.2.1,Menerangkan fungsi sendi dan otot dalam dalam pergerakan,6020100,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.2.2,Menjanakan idea yang masalah berkaitan sendi dan otot dalam kehidupan harian,6020200,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.2.3,Menerangkan pola pertumbuhan manusia,6020300,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.2.4,Membanding dan membezakan pola pertumbuhan antara lelaki dan perempuan,6020400,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.3.1,Menerangkan sistem sokongan tumbuhan daratan dan akuatik,6030100,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.3.2,Menentukan usia tumbuhan berkayu,6030200,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.3.3,Menghubungkait sistem sokongan dan kestabilan dalam tumbuhan,6030300,TRUE
+Sains SM,SN-SM,4,"6.0 Sokongan, Pergerakan Dan Pertumbuhan",6.3.4,Menjalankan eksperimen untuk mendapatkan pola pertumbuhan tumbuhan,6030400,TRUE
+Sains SM,SN-SM,4,7.0 Koordinasi Badan,7.1.1,Menerangkan sistem endokrin dan fungsinya,7010100,TRUE
+Sains SM,SN-SM,4,7.0 Koordinasi Badan,7.1.2,Menjelaskan dengan contoh punca dan kesan ketidakseimbangan hormon ke atas kesihatan,7010200,TRUE
+Sains SM,SN-SM,4,7.0 Koordinasi Badan,7.2.1,Menerangkan dengan contoh jenis dadah,7020100,TRUE
+Sains SM,SN-SM,4,7.0 Koordinasi Badan,7.2.2,Menaakul mengenai kesan penyalahgunaan dadah dan alkohol ke atas koordinasi badan dan kesihatan mental.,7020200,TRUE
+Sains SM,SN-SM,4,7.0 Koordinasi Badan,7.3.1,Mewajarkan keperluan masyarakat yang mempunyai minda yang sihat.,7030100,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.1.1,"Menerangkan dengan contoh bahan atom, bahan molekul dan bahan ion",8010100,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.1.2,Menjelaskan kewujudan unsur dalam pelbagai bentuk,8010200,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.2.1,Mencerakinkan Jadual Berkala Unsur Moden.,8020100,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.2.2,Mendeduksikan prinsip susunan unsur dalam Jadual Berkala Unsur Moden.,8020200,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.2.3,Melakar dan menulis susunan elektron unsur dalam kumpulan.,8020300,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.2.4,Menjelaskan pembentukan ion positif dan ion negatif.,8020400,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.2.5,Mewajarkan pendermaan dan penerimaan elektron untuk mencapai susunan elektron stabil,8020500,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.3.1,Menerangkan isotop dengan contoh,8030100,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.3.2,"Menentukan bilangan proton, bilangan neutron dan nombor nukleon dalam isotop",8030200,TRUE
+Sains SM,SN-SM,4,8.0 Unsur Dan Bahan,8.3.3,Berkomunikasi mengenai kegunaan isotop dalam pelbagai bidang.,8030300,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.1.1,Mentakrif dan memberi contoh aloi berdasarkan komposisi unsur dalam aloi,9010100,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.1.2,Menjalankan eksperimen untuk membanding ciri aloi dengan logam tulennya,9010200,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.1.3,Mewajarkan kegunaan aloi dalam kehidupan harian.,9010300,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.2.1,Memerihalkan komponen kaca dan seramik,9020100,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.2.2,Menerangkan dengan contoh aplikasi kaca dan seramik,9020200,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.2.3,Mewajarkan kesesuaian penggunaan kaca dan seramik dalam kehidupan harian,9020300,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.3.1,Menerangkan polimer semula jadi dan polimer sintetik,9030100,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.3.2,Menerangkan proses pempolimeran penambahan,9030200,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.3.3,Berkomunikasi mengenai ciri dan proses pemvulkanan getah,9030300,TRUE
+Sains SM,SN-SM,4,9.0 Kimia Industri,9.3.4,Menjana idea tentang teknologi terkini berasaskan getah.,9030400,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.1.1,"Menerangkan ciri perubatan tradisional, moden dan komplementari",10010100,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.1.2,"Menerangkan ubat-ubatan yang digunakan dalam perubatan tradisional, moden dan komplementari",10010200,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.1.3,"Mewajarkan penggunaan perubatan tradisional, moden dan komplementari",10010300,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.1.4,Menaakul mengenai penggunaan ubatan dari sumber semula jadi dan buatan manusia dalam perawatan dan penjagaan kesihatan,10010400,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.1.5,Merumuskan kesan penyalahgunaan ubat-ubatan.,10010500,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.2.1,Mendefinisikan radikal bebas,10020100,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.2.2,Menaakul mengenai kesan radikel bebas terhadap kesihatan manusia,10020200,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.3.1,Memerihalkan bahan antioksida,10030100,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.3.2,Menerangkan tindakan bahan antioksida ke atas radikal bebas,10030200,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.3.3,Menjalankan eksperimen untuk mengkaji faktor-faktor yang mempengaruhi pengoksidaan makanan,10030300,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.4.1,Menerangkan maksud bahan aktif dalam produk kesihatan,10040100,TRUE
+Sains SM,SN-SM,4,10.0 Kimia Dalam Perubatan Dan Kesihatan,10.4.2,Mewajarkan penggunaan produk kesihatan yang terdapat dalam pasaran,10040200,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.1.1,Menerangkan perbezaan antara jarak dan sesaran serta unit ukuran dalam kehidupan harian,11010100,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.1.2,"Menjelaskan dengan contoh maksud laju, laju purata, halaju dan pecutan serta unit ukurannya dalam kehidupan harian",11010200,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.1.3,"Menyelesaikan masalah yang melibatkan laju, laju purata, halaju dan pecutan dalam kehidupan harian",11010300,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.1.4,Membezakan jenis gerakan linear,11010400,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.2.1,"Mentafsir jenis gerakan dari graf gerakan linear untuk menentukan jarak, sesaran, halaju, halaju purata dan pecutan",11020100,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.3.1,"Menjalankan eksperimen untuk menentukan nilai pecutan graviti bumi, g.",11030100,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.3.2,Mentafsir graf gerakan untuk objek yang mengalami keadaan jatuh bebas.,11030200,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.3.3,Menjalankan eksperimen mengkaji keadaan jatuh bebas dan bukan jatuh bebas,11030300,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.4.1,Menerangkan jisim,11040100,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.4.2,Menerangkan dengan contoh maksud inersia.,11040200,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.4.3,Menjalankan eksperimen untuk mengkaji hubungan antara jisim dan inersia,11040300,TRUE
+Sains SM,SN-SM,4,11.0 Daya Dan Gerakan,11.4.4,Berkomunikasi tentang kesan inersia dalam kehidupan harian,11040400,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.1.1,Mewajarkan penggunaan tenaga nuklear bagi negara yang telah dikenal pasti,12010100,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.2.1,Memerihalkan penghasilan tenaga nuklear melalui pembelahan nukleus dan pelakuran nukleus,12020100,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.2.2,Memerihalkan penjanaan tenaga elektrik daripada tenaga nuklear,12020200,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.2.3,Mewajarkan penggunaan tenaga nuklear bagi negara yang menggunakannya,12020300,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.3.1,Menceritakan impak penggunaan senjata nuklear kepada hidupan dan persekitaran,12030100,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.3.2,Merumuskan impak ujian nuklear ke atas persekitaran,12030200,TRUE
+Sains SM,SN-SM,4,12.0 Tenaga Nuklear,12.4.1,Mewajarkan pembinaan stesen janakuasa nuklear di Malaysia,12410000,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.1.1,Berkomunikasi mengenai mikroorganisma.,1010100,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.1.2,Menjalankan eksperimen bagi menunjukkan kewujudan mikroorganisma.,1010200,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.1.3,Menjalankan eksperimen untuk mengkaji faktor yang mempengaruhi pertumbuhan mikroorganisma.,1010300,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.2.1,Mewajarkan aplikasi mikroorganisma berfaedah dalam kehidupan.,1020100,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.2.2,Menjana idea potensi kegunaan mikroorganisma dalam bioteknologi dan kelestarian alam sekitar.,1020200,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.3.1,Menjelaskan konsep ‘mencegah lebih baik daripada merawat’ penyakit yang dibawa oleh mikroorganisma.,1030100,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.3.2,Menerangkan teknik aseptik dalam pengawalan penyebaran mikroorganisma.,1030200,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.3.3,Menjalankan eksperimen mengkaji kesan antibiotik terhadap pertumbuhan bakteria.,1030300,TRUE
+Sains SM,SN-SM,5,1.0 Mikroorganisma,1.3.4,Berkomunikasi tentang kaedah rawatan penyakit berjangkit.,1030400,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.1.1,Memerihalkan gizi seimbang.,2010100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.1.2,Menjalankan eksperimen untuk menganggarkan nilai kalori dalam sampel makanan.,2010200,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.1.3,Mewajarkan kesan pengambilan jumlah kalori yang tidak menepati keperluan individu.,2010300,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.2.1,Menjelaskan dengan contoh fungsi makronutrien dan mikronutrien kepada tumbuhan.,2020100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.2.2,Menjalankan eksperimen untuk mengkaji kesan kekurangan makronutrien kepada tumbuhan.,2020200,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.3.1,Berkomunikasi mengenai Kitar Nitrogen dan kepentingannya.,2030100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.4.1,"Berkomunikasi mengenai cara meningkatkan sumber, kualiti makanan dan kuantiti pengeluaran makanan.",2040100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.4.2,Menilai penggunaan racun serangga dan kawalan biologi dalam meningkatkan kualiti dan kuantiti pengeluaran makanan.,2040200,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.5.1,Berkomunikasi mengenai teknologi pemprosesan makanan.,2050100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.6.1,Berkomunikasi mengenai isu berkaitan makanan kesihatan dan suplemen kesihatan.,2060100,TRUE
+Sains SM,SN-SM,5,2.0 Nutrisi Dan Teknologi Makanan,2.6.2,Berkomunikasi mengenai isu berkaitan Status Halal makanan.,2060200,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.1.1,Menjelaskan maksud jejak karbon (carbon footprint).,3010100,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.1.2,Mencerakinkan produk yang digunakan dalam satu hari kehidupan seorang individu.,3010200,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.1.3,Mewajarkan tindakan yang perlu diambil iaitu langkah tapak tangan karbon (carbon handprint) bagi mengurangkan pembebasan gas rumah hijau dalam satu hari kehidupan individu.,3010300,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.1.4,Berkomunikasi mengenai kitar hayat satu produk.,3010400,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.1.5,Menjana idea pengurusan yang cekap bagi sisa plastik ke arah kelestarian alam sekitar.,3010500,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.2.1,Menerangkan jenis dan punca pencemaran alam sekitar.,3020100,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.2.2,Mengkaji tahap pencemaran air daripada sisa domestik.,3020200,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.2.3,Mereka cipta kaedah pembersihan air yang tercemar menggunakan teknologi hijau.,3020300,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.3.1,Menjustifikasi peranan setiap individu dalam mengurus sumber semula jadi untuk mengekalkan keseimbangan alam sekitar.,3030100,TRUE
+Sains SM,SN-SM,5,3.0 Kelestarian Alam Sekitar,3.3.2,Membahaskan peranan Pertubuhan Bangsa-Bangsa Bersatu (PBB) dalam menangani isu alam sekitar pada peringkat global.,3030200,TRUE
+Sains SM,SN-SM,5,4.0 Kadar Tindak Balas,4.1.1,Menjelaskan melalui contoh tindak balas cepat dan tindak balas perlahan dalam kehidupan harian.,4010100,TRUE
+Sains SM,SN-SM,5,4.0 Kadar Tindak Balas,4.1.2,Mentakrif kadar tindak balas.,4010200,TRUE
+Sains SM,SN-SM,5,4.0 Kadar Tindak Balas,4.1.3,Menentukan kadar tindak balas.,4010300,TRUE
+Sains SM,SN-SM,5,4.0 Kadar Tindak Balas,4.2.1,Menjalankan eksperimen untuk mengkaji faktor yang mempengaruhi kadar tindak balas.,4020100,TRUE
+Sains SM,SN-SM,5,4.0 Kadar Tindak Balas,4.3.1,Berkomunikasi mengenai aplikasi kadar tindak balas dalam kehidupan harian dan industri.,4030100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.1.1,Mengenal pasti sebatian karbon dalam alam.,5010100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.1.2,Menjelaskan kepentingan Kitar Karbon.,5010200,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.2.1,Memerihalkan sebatian hidrokarbon dan menerangkan bagaimana sebatian hidrokarbon diperoleh daripada sumber semula jadi.,5020100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.2.2,Menamakan ahli kumpulan homolog alkana dan alkena dari karbon 1 hingga karbon 6.,5020200,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.2.3,Berkomunikasi tentang sumber tenaga alternatif dan tenaga boleh baharu dalam kehidupan harian.,5020300,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.3.1,Memerihal proses penyediaan alkohol.,5030100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.3.2,Mengenal pasti sifat fizik dan sifat kimia alkohol.,5030200,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.3.3,Berkomunikasi tentang kegunaan alkohol dalam kehidupan harian.,5030300,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.3.4,Berkomunikasi tentang kesan pengambilan alkohol secara berlebihan.,5030400,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.4.1,Menyatakan kandungan lemak serta sumbernya.,5040100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.4.2,Membanding beza antara lemak tepu dan lemak tak tepu.,5040200,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.4.3,Menjelaskan dengan contoh kesan pengambilan makanan yang mengandungi lemak berlebihan terhadap kesihatan.,5040300,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.1,Memerihalkan struktur buah kelapa sawit.,5050100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.2,Mengenal pasti aspek kuantiti minyak daripada sabut dan isirung.,5050200,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.3,Menerangkan urutan proses pengestrakan minyak sawit secara industri.,5050300,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.4,Memerihalkan komponen dalam minyak sawit.,5050400,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.5,Membanding dan membezakan komposisi minyak sawit dengan minyak sayuran lain.,5050500,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.6,Menyatakan sifat kimia bagi minyak sawit.,5050600,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.7,Menerangkan proses pengemulsian bagi minyak sawit.,5050700,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.8,Menyenaraikan kandungan nutrisi dalam minyak sawit.,5050800,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.9,Mewajarkan penggunaan minyak sawit dalam bidang penjagaan kesihatan dan makanan.,5050900,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.10,Menjalankan eksperimen menghasilkan sabun melalui proses saponifikasi.,5051000,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.11,Berkomunikasi mengenai tindakan pencucian sabun.,5051100,TRUE
+Sains SM,SN-SM,5,5.0 Sebatian Karbon,5.5.12,Menjana idea pengurusan yang lestari dan kepentingannya dalam industri kelapa sawit.,5051200,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.1.1,Memahami elektrolisis.,6010100,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.1.2,Menjalankan eksperimen untuk mengkaji proses elektrolisis bagi sebatian ion dalam pelbagai keadaan.,6010200,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.1.3,Menjalankan eksperimen bagi mengkaji faktor yang mempengaruhi hasil elektrolisis.,6010300,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.1.4,Berkomunikasi mengenai aplikasi elektrolisis dalam industri.,6010400,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.2.1,Menerangkan perubahan tenaga dalam sel kimia ringkas.,6020100,TRUE
+Sains SM,SN-SM,5,6.0 Elektrokimia,6.2.2,Menjana idea tentang aplikasi konsep sel kimia dalam menghasilkan tenaga elektrik daripada pelbagai sumber.,6020200,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.1.1,Memerihalkan kanta cembung sebagai kanta penumpu dan kanta cekung sebagai kanta pencapah.,7010100,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.1.2,Menentukan panjang fokus bagi suatu kanta cembung menggunakan objek jauh.,7010200,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.1.3,Menentukan ciri imej melalui gambarajah sinar untuk imej yang dibentuk oleh kanta cembung dan kanta cekung.,7010300,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.2.1,Memerihalkan pembentukan imej akhir oleh teleskop dan mikroskop.,7020100,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.2.2,Mereka bentuk dan membina teleskop ringkas.,7020200,TRUE
+Sains SM,SN-SM,5,7.0 Cahaya Dan Optik,7.2.3,Berkomunikasi tentang aplikasi kanta dalam peralatan optik.,7020300,TRUE
+Sains SM,SN-SM,5,8.0 Daya Dan Tekanan,8.1.1,Menjelaskan konsep tekanan dalam bendalir dalam suatu sistem yang tertutup.,8010100,TRUE
+Sains SM,SN-SM,5,8.0 Daya Dan Tekanan,8.1.2,Berkomunikasi mengenai aplikasi prinsip Pascal dalam kehidupan harian.,8010200,TRUE
+Sains SM,SN-SM,5,8.0 Daya Dan Tekanan,8.1.3,Menjelaskan perkaitan halaju bendalir dengan tekanan.,8010300,TRUE
+Sains SM,SN-SM,5,8.0 Daya Dan Tekanan,8.1.4,Berkomunikasi mengenai aplikasi Prinsip Bernoulli dalam kehidupan harian.,8010400,TRUE
+Sains SM,SN-SM,5,8.0 Daya Dan Tekanan,8.1.5,Mereka bentuk alat menggunakan prinsip tekanan dalam bendalir.,8010500,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.1,Menerangkan jenis-jenis orbit satelit.,9010100,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.2,Menjelaskan dengan menggunakan gambar rajah kedudukan apogi (apogee) dan perigi (perigee) satu satelit dalam orbit elips.,9010200,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.3,Membuat perkaitan hubungan antara ketinggian orbit dengan halaju satelit.,9010300,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.4,Menerangkan bagaimana satelit dilancarkan dan ditempatkan dalam orbit.,9010400,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.5,Menerangkan fungsi stesen angkasa.,9010500,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.6,Berkomunikasi mengenai kaedah menjejaki stesen angkasa.,9010600,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.1.7,Menghuraikan kesan perkembangan pesat dalam teknologi angkasa lepas.,9010700,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.2.1,"Menjelaskan tentang Sistem Penentu Sejagat (Global Positioning System, GPS)",9020100,TRUE
+Sains SM,SN-SM,5,9.0 Teknologi Angkasa Lepas,9.2.2,Mengaplikasikan sistem koordinat GPS untuk tujuan navigasi,9020200,TRUE

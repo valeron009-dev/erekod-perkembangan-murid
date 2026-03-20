@@ -2,8 +2,8 @@ import os
 import re
 import pandas as pd
 
-INPUT_FILE = "rbt.xlsx"
-OUTPUT_FILE = "clean_output_rbt.xlsx"
+INPUT_FILE = "input-bm.xlsx"
+OUTPUT_FILE = "clean_output_bm.xlsx"
 
 # Support:
 # 1.1

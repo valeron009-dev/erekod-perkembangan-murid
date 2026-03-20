@@ -25,6 +25,14 @@ const YEAR_OPTIONS = [
   { label: "6", value: "6" },
 ];
 
+const SCHOOL_TYPE_OPTIONS = [
+  { label: "Semua", value: "Semua" },
+  { label: "SK", value: "SK" },
+  { label: "SJKC", value: "SJKC" },
+  { label: "SJKT", value: "SJKT" },
+  { label: "SM", value: "SM" },
+];
+
 export const CreateClassModal = ({ 
   isOpen, 
   onClose, 
@@ -34,10 +42,36 @@ export const CreateClassModal = ({
 }: CreateClassModalProps) => {
   const [year, setYear] = useState("1");
   const [classLabel, setClassLabel] = useState("");
+  const [schoolType, setSchoolType] = useState("Semua");
   const [subjects, setSubjects] = useState<any[]>([]);
   const [selectedSubject, setSelectedSubject] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+
+  const filteredSubjects = React.useMemo(() => {
+    if (schoolType === "Semua") return subjects;
+    return subjects.filter((s: any) => s.subjectCode.endsWith(`-${schoolType}`));
+  }, [subjects, schoolType]);
+
+  useEffect(() => {
+    if (filteredSubjects.length > 0) {
+      const isStillValid = filteredSubjects.some(s => s.subjectCode === selectedSubject);
+      if (!isStillValid) {
+        setSelectedSubject(filteredSubjects[0].subjectCode);
+      }
+    } else {
+      setSelectedSubject("");
+    }
+  }, [filteredSubjects, selectedSubject]);
+
+  useEffect(() => {
+    if (!isOpen) {
+      setYear("1");
+      setClassLabel("");
+      setSchoolType("Semua");
+      setError(null);
+    }
+  }, [isOpen]);
 
   useEffect(() => {
     const loadSubjects = async () => {
@@ -95,12 +129,6 @@ export const CreateClassModal = ({
 
       onSuccess();
       onClose();
-      // Reset form
-      setYear("1");
-      setClassLabel("");
-      if (subjects.length > 0) {
-        setSelectedSubject(subjects[0].subjectCode);
-      }
     } catch (err: any) {
       setError(err.message || "Gagal menambah kelas.");
     } finally {
@@ -149,8 +177,17 @@ export const CreateClassModal = ({
             />
 
             <Select
+              label="Jenis Sekolah"
+              options={SCHOOL_TYPE_OPTIONS}
+              value={schoolType}
+              onChange={(e) => setSchoolType(e.target.value)}
+              required
+              className="h-12 sm:h-10"
+            />
+
+            <Select
               label="Subjek"
-              options={subjects.map((s: any) => ({ label: `${s.subjectCode} - ${s.subjectName}`, value: s.subjectCode }))}
+              options={filteredSubjects.map((s: any) => ({ label: `${s.subjectCode} - ${s.subjectName}`, value: s.subjectCode }))}
               value={selectedSubject}
               onChange={(e) => setSelectedSubject(e.target.value)}
               required

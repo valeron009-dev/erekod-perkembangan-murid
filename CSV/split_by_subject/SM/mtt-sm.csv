@@ -1,0 +1,172 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.1.1,Menerangkan fungsi menggunakan perwakilan grafik dan tatatanda.,1010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.1.2,Menentukan domain dan julat bagi suatu fungsi,1010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.1.3,Menentukan imej suatu fungsi apabila objek diberi dan sebaliknya.,1010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.2.1,Memerihalkan hasil gubahan dua fungsi.,1020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.2.2,Menentukan fungsi gubahan,1020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.2.3,Menentukan imej suatu fungsi gubahan apabila objek diberi dan sebaliknya.,1020300,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.2.4,Menentukan suatu fungsi berkaitan apabila fungsi gubahan dan salah satu fungsinya diberi.,1020400,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.2.5,Menyelesaikan masalah yang melibatkan fungsi gubahan.,1020500,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.3.1,Memerihalkan songsangan suatu fungsi.,1030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.3.2,Membuat dan mengesahkan konjektur berkaitan sifat-sifat fungsi songsang.,1030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,1.0 Fungsi,1.3.3,Menentukan fungsi songsang.,1030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.1.1,Menyelesaikan persamaan kuadratik menggunakan kaedah penyempurnaan kuasa dua dan rumus.,2010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.1.2,Membentuk persamaan kuadratik daripada punca-punca yang diberi.,2010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.1.3,Menyelesaikan ketaksamaan kuadratik.,2010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.2.1,Membuat perkaitan antara jenis-jenis punca persamaan kuadratik dan nilai pembezalayan.,2020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.2.2,Menyelesaikan masalah yang melibatkan jenis-jenis punca dalam persamaan kuadratik.,2020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.1,"Menganalisis dan membuat generalisasi tentang kesan perubahan a,b dan c dalam f(x)= ax²+ bx+ c terhadap bentuk dan kedudukan graf.",2030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.2,Menghubungkaitkan kedudukan graf fungsi kuadratik dengan jenis punca.,2030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.3,"Membuat perkaitan antara bentuk verteks fungsi kuadratik, f(x)= a(x - h)²+ k dengan bentuk fungsi kuadratik yang lain.",2030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.4,"Menganalisis dan membuat generalisasi tentang kesan perubahan a,h dan k dalam fungsi kuadratik f (x)= a(x - h)²+ k terhadap bentuk dan kedudukan graf.",2030400,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.5,Melakar graf fungsi kuadratik.,2030500,TRUE
+Matematik Tambahan SM,MTT-SM,4,2.0 Fungsi Kuadratik,2.3.6,Menyelesaikan masalah yang melibatkan fungsi kuadratik.,2030600,TRUE
+Matematik Tambahan SM,MTT-SM,4,3.0 Sistem Persamaan,3.1.1,Memerihalkan sistem persamaan linear dalam tiga pemboleh ubah.,3010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,3.0 Sistem Persamaan,3.1.2,Menyelesaikan sistem persamaan linear dalam tiga pembolehubah.,3010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,3.0 Sistem Persamaan,3.1.3,Menyelesaikan masalah yang melibatkan sistem persamaan linear dalam tiga pemboleh ubah.,3010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,3.0 Sistem Persamaan,3.2.1,Menyelesaikan persamaan serentak yang melibatkan satu persamaan linear dan satu persamaan tak linear.,3020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,3.0 Sistem Persamaan,3.2.2,Menyelesaikan masalah yang melibatkan persamaan serentak; satu persamaan linear dan satu persamaan tak linear.,3020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.1.1,Mempermudahkan ungkapan algebra yang melibatkan indeks dengan menggunakan hukum indeks.,4010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.1.2,Menyelesaikan masalah yang melibatkan indeks.,4010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.2.1,"Membanding beza nombor nisbah dan nombor tak nisbah, dan seterusnya menghubungkaitkan surd dengan nombor tak nisbah.",4020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.2.2,Membuat dan mengesahkan konjektur tentang; √a x √b; √a ÷ √b dan seterusnya membuat generalisasi.,4020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.2.3,Mempermudahkan ungkapan yang melibatkan surd.,4020300,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.2.4,Mempermudahkan ungkapan yang melibatkan surd dengan menisbahkan penyebut.,4020400,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.2.5,Menyelesaikan masalah yang melibatkan surd.,4020500,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.3.1,"Menghubungkaitkan persamaan dalam bentuk indeks dengan bentuk logaritma, dan seterusnya menentukan nilai logaritma sesuatu nombor.",4030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.3.2,Membuktikan hukum logaritma.,4030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.3.3,Mempermudah ungkapan algebra dengan menggunakan hukum logaritma.,4030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.3.4,Membuktikan logₐb= logᵤb/logᵤa dan menggunakan hubungan tersebut untuk menentukan logaritma suatu nombor.,4030400,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.3.5,Menyelesaikan masalah yang melibatkan hukum logaritma.,4030500,TRUE
+Matematik Tambahan SM,MTT-SM,4,"4.0 Indeks, Surd Dan Logaritma",4.4.1,"Menyelesaikan masalah yang melibatkan indeks, surd dan logaritma.",4040100,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.1.1,Mengenal pasti suatu jujukan ialah janjang aritmetik dan memberi justifikasi.,5010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.1.2,"Menerbitkan rumus sebutan ke-n, Tn, bagi janjang aritmetik, dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.",5010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.1.3,"Menerbitkan rumus hasil tambah n sebutan pertama, Sn, bagi janjang aritmetik, dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.",5010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.1.4,Menyelesaikan masalah yang melibatkan janjang aritmetik.,5010400,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.2.1,Mengenal pasti suatu jujukan ialah janjang geometri dan memberi justifikasi.,5020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.2.2,"Menerbitkan rumus sebutan ke-n, Tn, bagi janjang geometri, dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.",5020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.2.3,"Menerbitkan rumus hasil tambah n sebutan pertama, Sn, bagi janjang geometri, dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.",5020300,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.2.4,"Menentukan hasil tambah hingga ketakterhinggaan bagi janjang geometri, S∞ dan seterusnya menggunakan rumus hasil tambah ketakterhinggaan dalam pelbagai situasi.",5020400,TRUE
+Matematik Tambahan SM,MTT-SM,4,5.0 Janjang,5.2.5,Menyelesaikan masalah yang melibatkan janjang geometri.,5020500,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.1.1,Membezakan hubungan linear dan tak linear berdasarkan jadual data dan graf.,6010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.1.2,Melukis garis lurus penyuaian terbaik bagi graf hubungan linear tanpa dan dengan menggunakan teknologi digital.,6010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.1.3,Membentuk persamaan bagi garis lurus penyuaian terbaik.,6010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.1.4,Mentafsir maklumat berdasarkan garis lurus penyuaian terbaik.,6010400,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.2.1,Mengaplikasikan hukum linear kepada hubungan tak linear.,6020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,6.0 Hukum Linear,6.3.1,Menyelesaikan masalah yang melibatkan hukum linear.,6030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.1.1,Membuat perkaitan antara kedudukan titik yang membahagikan sesuatu tembereng garis dengan nisbah yang berkaitan.,7010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.1.2,Menerbitkan rumus pembahagi tembereng garis pada satah Cartes dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.,7010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.1.3,Menyelesaikan masalah yang melibatkan pembahagi tembereng garis.,7010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.2.1,"Membuat dan mengesahkan konjektur tentang kecerunan bagi; garis lurus selari, garis lurus serenjang dan seterusnya membuat generalisasi.",7020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.2.2,Menyelesaikan masalah yang melibatkan persamaan garis lurus selari dan persamaan garis lurus serenjang.,7020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.3.1,Menerbitkan rumus luas segi tiga apabila koordinat setiap bucu diketahui.,7030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.3.2,Menentukan luas segi tiga dengan menggunakan rumus.,7030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.3.3,Menentukan luas sisi empat dengan menggunakan rumus.,7030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.3.4,Membuat generalisasi tentang rumus luas poligon apabila koordinat setiap bucu diketahui dan seterusnya menggunakan rumus tersebut untuk menentukan luas poligon.,7030400,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.3.5,Menyelesaikan masalah yang melibatkan luas poligon.,7030500,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.4.1,"Mewakilkan secara grafik, lokus yang memenuhi syarat; jarak titik yang bergerak dari suatu titik tetap adalah malar, nisbah jarak titik yang bergerak dari dua titik tetap adalah malar, dan seterusnya menentukan persamaan lokus tersebut.",7040100,TRUE
+Matematik Tambahan SM,MTT-SM,4,7.0 Geometri Koordinat,7.4.2,Menyelesaikan masalah yang melibatkan persamaan lokus.,7040200,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.1.1,"Membanding beza antara vektor dan skalar, dan seterusnya mengenal pasti sama ada suatu kuantiti ialah kuantiti vektor atau skalar dengan memberikan justifikasi.",8010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.1.2,Mewakilkan vektor menggunakan tembereng garis berarah dan tata tanda vektor serta menentukan magnitud dan arah vektor.,8010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.1.3,Membuat dan mengesahkan konjektur tentang sifat-sifat pendaraban vektor dengan skalar.,8010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.1.4,Membuat dan mengesahkan konjektur tentang vektor selari.,8010400,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.2.1,Membuat penambahan dan penolakan yang melibatkan dua atau lebih vektor bagi menghasilkan vektor paduan.,8020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.2.2,Menyelesaikan masalah yang melibatkan vektor.,8020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.3.1,Mewakilkan vektor dan menentukan magnitud vektor dalam satah Cartes.,8030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.3.2,Memerihal dan menentukan vektor unit dalam arah suatu vektor.,8030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.3.3,Melaksanakan operasi aritmetik ke atas dua atau lebih vektor.,8030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,8.0 Vektor,8.3.4,Menyelesaikan masalah yang melibatkan vektor.,8030400,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.1.1,"Membuat dan mengesahkan konjektur tentang hubungan antara nisbah panjang sisi-sisi suatu segi tiga dengan sinus sudut-sudut yang bertentangan, dan seterusnya mentakrifkan petua sinus.",9010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.1.2,Menyelesaikan segi tiga yang melibatkan petua sinus.,9010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.1.3,Menentukan kewujudan kes berambiguiti suatu segi tiga dan seterusnya mengenal pasti syarat-syarat kewujudan kes tersebut.,9010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.1.4,Menyelesaikan segi tiga yang melibatkan kes berambiguiti.,9010400,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.1.5,Menyelesaikan masalah berkaitan segi tiga menggunakan petua sinus.,9010500,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.2.1,Mentahkikkan petua kosinus.,9020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.2.2,Menyelesaikan segi tiga yang melibatkan petua kosinus.,9020200,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.2.3,Menyelesaikan masalah yang melibatkan petua kosinus.,9020300,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.3.1,"Menerbitkan rumus luas segi tiga, dan seterusnya menentukan luas segi tiga.",9030100,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.3.2,Menentukan luas segi tiga menggunakan rumus Heron.,9030200,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.3.3,Menyelesaikan masalah yang melibatkan luas segi tiga.,9030300,TRUE
+Matematik Tambahan SM,MTT-SM,4,9.0 Penyelesaian Segi Tiga,9.4.1,Menyelesaikan masalah yang melibatkan segi tiga.,9040100,TRUE
+Matematik Tambahan SM,MTT-SM,4,10.0 Nombor Indeks,10.1.1,Mentakrifkan nombor indeks dan memerihalkan kegunaannya.,10010100,TRUE
+Matematik Tambahan SM,MTT-SM,4,10.0 Nombor Indeks,10.1.2,Menentukan dan mentafsir nombor indeks.,10010200,TRUE
+Matematik Tambahan SM,MTT-SM,4,10.0 Nombor Indeks,10.1.3,Menyelesaikan masalah yang melibatkan nombor indeks.,10010300,TRUE
+Matematik Tambahan SM,MTT-SM,4,10.0 Nombor Indeks,10.2.1,Menentukan dan mentafsir indeks gubahan tanpa pemberat dan dengan pemberat.,10020100,TRUE
+Matematik Tambahan SM,MTT-SM,4,10.0 Nombor Indeks,10.2.2,Menyelesaikan masalah yang melibatkan nombor indeks dan indeks gubahan.,10020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.1.1,Membuat perkaitan antara ukuran sudut dalam radian dengan darjah.,1010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.2.1,"Menentukan; panjang lengkok, jejari, dan; sudut tercangkum di pusat bulatan.",1020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.2.2,Menentukan perimeter tembereng suatu bulatan.,1020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.2.3,Menyelesaikan masalah yang melibatkan panjang lengkok.,1020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.3.1,"Menentukan; luas sektor, jejari, dan; sudut tercangkum di pusat bulatan.",1030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.3.2,Menentukan luas tembereng suatu bulatan.,1030200,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.3.3,Menyelesaikan masalah yang melibatkan luas sektor.,1030300,TRUE
+Matematik Tambahan SM,MTT-SM,5,1.0 Sukatan Membulat,1.4.1,Menyelesaikan masalah yang melibatkan sukatan membulat.,1040100,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.1.1,Menyiasat dan menentukan nilai had suatu fungsi apabila pemboleh ubah menghampiri sifar.,2010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.1.2,Menentukan terbitan pertama suatu fungsi f(x) melalui pembezaan dengan prinsip pertama.,2010200,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.2.1,"Menerbitkan rumus terbitan pertama secara induktif bagi fungsi y = axⁿ, a pemalar dan n integer.",2020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.2.2,Menentukan terbitan pertama bagi suatu fungsi algebra.,2020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.2.3,Menentukan terbitan pertama fungsi gubahan,2020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.2.4,Menentukan terbitan pertama bagi suatu fungsi yang melibatkan hasil darab dan hasil bahagi ungkapan algebra.,2020400,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.3.1,Menentukan terbitan kedua bagi fungsi algebra.,2030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.1,Mentafsir kecerunan tangen kepada satu lengkung pada titik-titik yang berlainan.,2040100,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.2,Menentukan persamaan tangen dan normal kepada satu lengkung pada suatu titik.,2040200,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.3,Menyelesaikan masalah yang melibatkan tangen dan normal.,2040300,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.4,Menentukan titik pusingan dan menghuraikan sifat titik pusingan tersebut.,2040400,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.5,Menyelesaikan masalah yang melibatkan nilai maksimum dan nilai minimum serta mentafsir penyelesaian tersebut.,2040500,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.6,Mentafsir dan menentukan kadar perubahan bagi kuantiti yang terhubung.,2040600,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.7,Menyelesaikan masalah yang melibatkan kadar perubahan bagi kuantiti yang terhubung dan mentafsir penyelesaian tersebut.,2040700,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.8,Mentafsir dan menentukan perubahan kecil dan penghampiran suatu kuantiti.,2040800,TRUE
+Matematik Tambahan SM,MTT-SM,5,2.0 Pembezaan,2.4.9,Menyelesaikan masalah yang melibatkan perubahan kecil dan penghampiran suatu kuantiti.,2040900,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.1.1,Menjelaskan perkaitan antara pembezaan dan pengamiran,3010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.2.1,Menerbitkan rumus kamiran tak tentu secara induktif.,3020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.2.2,Menentukan kamiran tak tentu bagi fungsi algebra.,3020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.2.3,"Menentukan kamiran tak tentu bagi fungsi berbentuk (ax+b)ⁿ, dengan keadaan a dan b ialah pemalar, n integer dan n ≠ –1.",3020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.2.4,Menentukan persamaan lengkung daripada fungsi kecerunan.,3020400,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.3.1,Menentukan nilai kamiran tentu bagi fungsi algebra.,3030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.3.2,Menyiasat dan menerangkan perkaitan antara had bagi hasil tambah luas segi empat tepat dengan luas di bawah suatu lengkung.,3030200,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.3.3,Menentukan luas suatu rantau.,3030300,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.3.4,Menyiasat dan menerangkan perkaitan antara had bagi hasil tambah isi padu silinder dengan isi padu janaan daripada kisaran suatu rantau.,3030400,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.3.5,Menentukan isi padu janaan bagi suatu rantau yang dikisarkan pada paksi-x atau paksi-y.,3030500,TRUE
+Matematik Tambahan SM,MTT-SM,5,3.0 Pengamiran,3.4.2,Menyelesaikan masalah yang melibatkan pengamiran.,3040200,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.1.1,Menyiasat dan membuat generalisasi tentang petua pendaraban.,4010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.1.2,Menentukan bilangan pilih atur bagi; n objek yang berbeza. n objek yang berbeza diambil r objek pada satu masa. n objek yang melibatkan objek secaman.,4010200,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.1.3,Menyelesaikan masalah yang melibatkan pilih atur dengan syarat tertentu.,4010300,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.2.1,Membanding beza pilih atur dan gabungan.,4020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.2.2,Menentukan bilangan gabungan r objek dipilih daripada n objek yang berbeza pada satu mas,4020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,4.0 Pilih Atur Dan Gabungan,4.2.3,Menyelesaikan masalah yang melibatkan gabungan dengan syarat tertentu.,4020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.1.1,Menjelaskan maksud pemboleh ubah rawak.,5010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.1.2,Membanding dan membeza pemboleh ubah rawak diskret dan pemboleh ubah rawak selanjar.,5010200,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.1.3,Menerangkan maksud taburan kebarangkalian pemboleh ubah rawak diskret.,5010300,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.1.4,Membina jadual dan melukis graf taburan kebarangkalian pemboleh ubah rawak diskret.,5010400,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.2.1,Menerangkan maksud taburan binomia,5020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.2.2,Menentukan kebarangkalian suatu peristiwa bagi taburan binomial.,5020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.2.3,"Mentafsir maklumat, membina jadual dan melukis graf taburan binomial.",5020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.2.4,"Menentukan dan menerangkan nilai min, varians dan sisihan piawai bagi suatu taburan binomial.",5020400,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.2.5,Menyelesaikan masalah yang melibatkan taburan binomial.,5020500,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.3.1,Menyiasat dan menerangkan ciri-ciri graf taburan normal.,5030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.3.2,Menerangkan maksud taburan normal piawai.,5030200,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.3.3,"Menentukan dan mentafsir skor piawai, Z.",5030300,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.3.4,Menentukan kebarangkalian suatu peristiwa bagi taburan normal.,5030400,TRUE
+Matematik Tambahan SM,MTT-SM,5,5.0 Taburan Kebarangkalian,5.3.5,Menyelesaikan masalah yang melibatkan taburan normal.,5030500,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.1.1,Mewakilkan sudut positif dan sudut negatif dalam satah Cartes.,6010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.2.1,"Membuat perkaitan antara sekan, kosekan dan kotangen dengan sinus, kosinus dan tangen bagi sebarang sudut dalam satah Cartes.",6020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.2.2,Menentukan nilai nisbah trigonometri bagi sebarang sudut.,6020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.3.1,"Melukis dan melakar graf fungsi trigonometri; y = a sin bx + c; y = a kos bx + c; y = a tan bx + c dengan a, b dan c ialah pemalar dan b > 0.",6030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.3.2,Menyelesaikan persamaan trigonometri dengan kaedah graf.,6030200,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.4.1,Menerbitkan identiti asas; sin² A + kos² A = 1; 1 + tan² A = sek² A; 1 + kot² A = kosek² A,6040100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.4.2,Membuktikan identiti trigonometri menggunakan identiti asas,6040200,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.5.1,"Membuktikan identiti trigonometri dengan menggunakan rumus sudut majmuk bagi sin (A ± B), kos (A ±; dan tan (A ± B).",6050100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.5.2,"Menerbitkan rumus sudut berganda bagi sin 2A, kos 2A dan tan 2A",6050200,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.5.3,Membuktikan identiti trigonometri dengan menggunakan rumus sudut berganda.,6050300,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.6.1,Menyelesaikan persamaan trigonometri.,6060100,TRUE
+Matematik Tambahan SM,MTT-SM,5,6.0 Fungsi Trigonometri,6.6.2,Menyelesaikan masalah yang melibatkan fungsi trigonometri.,6060200,TRUE
+Matematik Tambahan SM,MTT-SM,5,7.0 Pengaturcaraan Linear,7.1.1,Membentuk model matematik bagi suatu situasi berdasarkan kekangan yang diberi dan seterusnya mewakilkan model tersebut secara grafik,7010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,7.0 Pengaturcaraan Linear,7.2.1,Menyelesaikan masalah yang melibatkan pengaturcaraan linear secara graf.,7020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.1.1,"Memerihalkan dan menentukan sesaran seketika, halaju seketika dan pecutan seketika suatu zarah.",8010100,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.1.2,Menentukan jumlah jarak yang dilalui oleh suatu zarah dalam suatu tempoh masa tertentu.,8010200,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.2.1,"Menghubung kait antara fungsi sesaran, fungsi halaju dan fungsi pecutan.",8020100,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.2.2,Menentukan dan mentafsir halaju seketika suatu zarah daripada fungsi sesaran.,8020200,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.2.3,Menentukan dan mentafsir pecutan seketika suatu zarah daripada fungsi halaju dan fungsi sesaran.,8020300,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.3.1,Menentukan dan mentafsir halaju seketika suatu zarah daripada fungsi pecutan.,8030100,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.3.2,Menentukan dan mentafsir sesaran seketika suatu zarah daripada fungsi halaju dan fungsi pecutan.,8030200,TRUE
+Matematik Tambahan SM,MTT-SM,5,8.0 Kinematik Gerakan Linear,8.4.1,Menyelesaikan masalah kinematik gerakan linear yang melibatkan pembezaan dan pengamiran.,8040100,TRUE

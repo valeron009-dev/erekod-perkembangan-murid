@@ -1,0 +1,206 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.1.1,Menerangkan tentang fizik.,1010100,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.1.2,Menerangkan dengan contoh kuantiti asas dan kuantiti terbitan.,1010200,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.1.3,Memerihalkan kuantiti terbitan dalam sebutan kuantiti asas dan unit asas S.I.,1010300,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.1.4,Menerangkan dengan contoh kuantiti skalar dan kuantiti vektor.,1010400,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.2.1,Mentafsir bentuk-bentuk graf untuk menentukan hubungan antara dua kuantiti fizik.,1020100,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.2.2,Menganalisis graf untuk mendapatkan rumusan siasatan.,1020200,TRUE
+Fizik SM,FZ-SM,4,1.0 Pengukuran,1.2.3,Menjalankan penyiasatan saintifik dan menulis laporan lengkap melalui eksperimen bandul ringkas.,1020300,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.1.1,"Menghuraikan jenis gerakan linear bagi objek pegun, halaju seragam dan halaju tidak seragam.",2010100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.1.2,"Menentukan jarak & sesaran, laju & halaju, pecutan & nyahpecutan",2010200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.1.3,Menyelesaikan masalah gerakan linear dengan menggunakan persamaan; v = u + at; s = 1/2 (u+v)t; s = ut + at2; v,2010300,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.2.1,"Mentafsir jenis gerakan dari graf s-t, v-t dan a-t",2020100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.2.2,"Menganalisis graf sesaran-masa untuk menentukan jarak, sesaran dan halaju.",2020200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.2.3,"Menganalisis graf halaju-masa untuk menentukan jarak, sesaran, halaju dan pecutan.",2020300,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.2.4,Menterjemah dan melakar graf s-t kepada v-t dan sebaliknya serta graf v-t kepada a-t dan sebaliknya.,2020400,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.2.5,Menyelesaikan masalah melibatkan graf gerakan linear,2020500,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.3.1,Menjelaskan gerakan jatuh bebas dan pecutan graviti melalui contoh,2030100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.3.2,Mengeksperimen untuk menentukan nilai pecutan graviti,2030200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.3.3,Menyelesaikan masalah yang melibatkan pecutan graviti bumi bagi objek yang jatuh bebas,2030300,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.4.1,Menerangkan konsep inersia melalui contoh,2040100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.4.2,Mengeksperimen untuk mengenal pasti hubungan antara inersia dan jisim,2040200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.4.3,Mewajarkan kesan inersia dalam kehidupan harian,2040300,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.5.1,"Menerangkan momentum, p sebagai hasil darab jisim, m dan halaju, v.",2050100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.5.2,Mengaplikasi Prinsip Keabadian Momentum dalam pelanggaran dan letupan,2050200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.6.1,Mendefinisikan daya sebagai kadar perubahan momentum.,2060100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.6.2,Menyelesaikan masalah melibatkan rumus F = ma,2060200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.7.1,Berkomunikasi untuk menerangkan impuls dan daya impuls,2070100,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.7.2,Menyelesaikan masalah melibatkan impulsdan daya impuls.,2070200,TRUE
+Fizik SM,FZ-SM,4,2.0 Daya Dan Gerakan 1,2.8.1,"Menyatakan berat sebagai daya graviti yang bertindak ke atas suatu objek, W = mg",2080100,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.1,Menerangkan Hukum Kegravitian Semesta Newton,3010100,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.2,Menyelesaikan masalah melibatkan Hukum Kegravitian Semesta Newton bagi; du jasad pegun di bumi; jasad atas permukaan bumi; Bumi dan satelit; Bumi dan matahari,3010200,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.3,"Menghubung kait pecutan graviti, g di permukaan Bumi dengan pemalar kegravitian semesta, G.",3010300,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.4,Mewajarkan kepentingan mengetahui nilai pecutan graviti planet-planet dalam Sistem Suria.,3010400,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.5,Memerihalkan daya memusat dalam system gerakan satelit dan planet.,3010500,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.1.6,Menentukan jisim Bumi dan Matahari menggunakan rumus Hukum Kegravitian Semesta Newton dan daya memusat.,3010600,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.2.1,"Menjelaskan Hukum Kepler I, II dan III.",3020100,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.2.2,Merumuskan Hukum Kepler III.,3020200,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.2.3,Menyelesaikan masalah menggunakan rumus Hukum Kepler III.,3020300,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.3.1,Menerangkan bagaimana orbit satu satelit dikekalkan pada ketinggian tertentu dengan menggunakan halaju satelit yang sesuai.,3030100,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.3.2,Berkomunikasi untuk menerangkan satelit geopegun dan bukan geopegun.,3030200,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.3.3,Mengkonsepsikan halaju lepas.,3030300,TRUE
+Fizik SM,FZ-SM,4,3.0 Kegravitian,3.3.4,"Menyelesaikan masalah yang melibatkan halaju lepas,v bagi roket dari permukaan Bumi, Bulan dan Marikh dan matahari.",3030400,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.1.1,Menjelaskan melalui contoh keseimbangan terma dalam kehidupan harian.,4010100,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.1.2,Menentu ukur sebuah termometer cecair dalam kaca menggunakan dua takat tetap.,4010200,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.2.1,"Menerangkan muatan haba, c.",4020100,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.2.2,"Mendefinisi muatan haba tentu bahan, c.",4020200,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.2.3,Mengeksperimen untuk menentukan; Muatan haba tentu air; Muatan haba tentu aluminium,4020300,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.2.4,"Berkomunikasi untuk menerangkan aplikasi muatan haba tentu dalam kehidupan harian, kejuruteraan bahan dan fenomena alam.",4020400,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.2.5,Menyelesaikan masalah yang melibatkan muatan haba tentu menggunakan rumus Q = mcѲ,4020500,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.3.1,Menerangkan haba pendam.,4030100,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.3.2,"Mendefinisi; haba pendam tentu, l; haba pendam tentu pelakuran",4030200,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.3.3,Mengeksperimen untuk menentukan; haba pendam tentu pelakuran ais; haba pendam tentu pengewapan air,4030300,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.3.4,Berkomunikasi untuk menerangkan aplikasi haba pendam tentu dalam kehidupan harian.,4030400,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.3.5,Menyelesaikan masalah yang melibatkan haba pendam.,4030500,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.4.1,"Menerangkan tekanan, suhu dan isi padu gas dari segi kelakuan molekul gas berdasarkan Teori Kinetik Gas.",4040100,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.4.2,Mengeksperimen untuk menentukan hubungan antara tekanan dan isi padu bagi suatu gas berjisim tetap pada suhu malar.,4040200,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.4.3,Mengeksperimen untuk menentukan hubungan antara isi padu dan suhu bagi suatu gas berjisim tetap pada tekanan malar.,4040300,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.4.4,Mengeksperimen untuk menentukan hubungan antara tekanan dan suhu bagi suatu gas berjisim tetap pada isi padu malar.,4040400,TRUE
+Fizik SM,FZ-SM,4,4.0 Haba,4.4.5,"Menyelesaikan masalah melibatkan tekanan, suhu dan isi padu suatu gas berjisim tetap dengan menggunakan rumus dari Hukum-hukum gas.",4040500,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.1,Memerihalkan gelombang.,5010100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.2,Menyatakan jenis gelombang.,5010200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.3,Membandingkan gelombang melintang dan gelombang membujur.,5010300,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.4,"Menerangkan ciri-ciri gelombang; Amplitud, A; Tempoh, T; Frekuensi, f; Panjang gelombang; Laju gelombang, v.",5010400,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.5,Melakar dan mentafsir graf gelombang; s-t; s-s,5010500,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.1.6,"Menentukan panjang gelombang, λ, frekuensi, f dan laju gelombang, v.",5010600,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.2.1,Memerihalkan pelembapan dan resonans bagi satu sistem ayunan/ getaran.,5020100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.2.2,Mewajarkan kesan resonans terhadap kehidupan.,5020200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.3.1,Menghuraikan pantulan gelombang dari aspek; sudut tuju; sudut pantulan; panjang gelombag; frekuensi; laju; arah perambatan.,5030100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.3.2,Melukis gambar rajah untuk menunjukkan pantulan gelombang air satah bagi pemantul satah.,5030200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.3.3,Mewajarkan aplikasi pantulan gelombang dalam kehidupan harian.,5030300,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.3.4,Menyelesaikan masalah melibatkan pantulan gelombang.,5030400,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.4.1,Menghuraikan pembiasan gelombang dari aspek:(i) sudut tuju; sudut pantulan; panjang gelombag; frekuensi; laju; arah perambatan.,5040100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.4.2,Melukis gambar rajah untuk menunjukkan pembiasan gelombang bagi dua kedalaman yang berbeza.,5040200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.4.3,Menjelaskan fenomena semula jadi akibat pembiasan gelombang dalam kehidupan harian.,5040300,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.4.4,Menyelesaikan masalah melibatkan pembiasan gelombang.,5040400,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.5.1,Menghuraikan pembelauan gelombang dari aspek; panjang gelombang; frekuensi; laju; amplitud; arah perambatan,5050100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.5.2,Menentukan faktor-faktor yang mempengaruhi pembelauan gelombang.,5050200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.5.3,Melukis gambar rajah untuk menunjukkan corak pembelauan gelombang air dan kesan pembelauan cahaya.,5050300,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.5.4,Menjelaskan aplikasi pembelauan gelombang dalam kehidupan harian.,5050400,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.6.1,Menghuraikan prinsip superposisi gelombang.,5060100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.6.2,Menghuraikan corak gelombang interferens; air; bunyi; cahaya,5060200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.6.3,"Menghubung kait λ, a, x dan D berdasarkan corak intereferens gelombang.",5060300,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.6.4,Menyelesaikan masalah yang melibatkan interferens gelombang.,5060400,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.6.5,Berkomunikasi untuk menerangkan aplikasi interferens gelombang dalam kehidupan harian.,5060500,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.7.1,Mencirikan gelombang elektromagnet.,5070100,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.7.2,Menyatakan komponen-komponen spektrum elektromagnet mengikut urutan dari segi panjang gelombang dan frekuensi.,5070200,TRUE
+Fizik SM,FZ-SM,4,5.0 Gelombang,5.7.3,Berkomunikasi untuk menerangkan aplikasi setiap komponen spektrum elektromagnet.,5070300,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.1,Memerihalkan fenomena pembiasan cahaya.,6010100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.2,"Menerangkan indeks biasan, n.",6010200,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.3,Mengkonsepsikan Hukum Snell.,6010300,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.4,"Mengeksperimen untuk menentukan indeks biasan, n bagi blok kaca atau perspeks.",6010400,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.5,Menerangkan dalam nyata dan dalam ketara.,6010500,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.6,Mengeksperimen untuk menentukan indeks biasan menggunakan dalam nyata dan dalam ketara.,6010600,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.1.7,Menyelesaikan masalah yang berkaitan dengan pembiasan cahaya.,6010700,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.2.1,Menerangkan sudut genting dan pantulan dalam penuh.,6020100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.2.2,"Menghubung kait sudut genting dengan indeks biasan, n = 1/sin c",6020200,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.2.3,Berkomunikasi untuk menerangkan fenomena semula jadi dan aplikasi pantulan dalam penuh dalam kehidupan harian.,6020300,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.2.4,Menyelesaikan masalah yang melibatkan pantulan dalam penuh.,6020400,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.3.1,Mengenal pasti kanta cembung sebagai kanta penumpu dan kanta cekung sebagai kanta pencapah.,6030100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.3.2,Mengganggar panjang fokus bagi suatu kanta cembung menggunakan objek jauh.,6030200,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.3.3,Menentukan kedudukan imej dan ciri-ciri imej yang dibentuk oleh; kantan cembung; kanta cekung,6030300,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.3.4,"Menyatakan pembesaran linear, m sebagai, m = v/u",6030400,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.4.1,"Mengeksperimen untuk; mengkaji hubungan antara jarak objek, u dan jarak imej, v bagi satu kanta cembung; menentukan panjang fokus kanta nipis dengan menggunakan Formula Kanta",6040100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.4.2,Menyelesaikan masalah yang melibatkan formula kanta nipis bagi kanta cembung dan kanta cekung,6040200,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.5.1,"Mewajarkan penggunaan kanta dalam peralatan optik iaitu kanta pembesar, mikroskop majmuk dan teleskop.",6050100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.5.2,Mereka bentuk dan membina mikroskop majmuk dan teleskop.,6050200,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.5.3,Berkomunikasi untuk menerangkan aplikasi kanta bersaiz kecil dalam teknologi peralatan optik.,6050300,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.6.1,Menentukan kedudukan imej dan ciri-ciri imej yang dibentuk oleh:,6060100,TRUE
+Fizik SM,FZ-SM,4,6.0 Cahaya Dan Optik,6.6.2,Berkomunikasi menerangkan aplikasi cermin cekung dan cermin cembung dalam kehidupan.,6060200,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.1.1,Menyatakan maksud daya paduan. Cadangan aktiviti:,1010100,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.1.2,Menentukan daya paduan.,1010200,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.1.3,"Berkomunikasi tentang daya paduan, F apabila objek berada dalam keadaan; pegun, F = 0 N; bergerak dengan halaju seragam, F = 0 N; bergerak dengan pecutan seragam, F≠ 0 N",1010300,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.1.4,"Menyelesaikan masalah yang melibatkan daya paduan, jisim dan pecutan suatu objek.",1010400,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.2.1,Memerihalkan leraian daya.,1020100,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.2.2,Menyelesaikan masalah melibatkan daya paduan dan leraian daya.,1020200,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.3.1,Menerangkan maksud daya yang berada dalam keseimbangan,1030100,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.3.2,Melakar segi tiga daya bagi tiga daya yang berada dalam keseimbangan,1030200,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.3.3,Menyelesaikan masalah melibatkan keseimbangan daya.,1030300,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.4.1,Memerihalkan kekenyalan.,1040100,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.4.2,"Mengeksperimen untuk mencari hubungan antara daya, F dan pemanjangan spring, x.",1040200,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.4.3,"Berkomunikasi tentang hukum yang berkaitan dengan daya, F dan pemanjangan spring, x.",1040300,TRUE
+Fizik SM,FZ-SM,5,1.0 Daya Dan Gerakan Ii,1.4.4,Menyelesaikan masalah melibatkan daya dan pemanjangan spring.,1040400,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.1.1,Berkomunikasi tentang konsep tekanan cecair P = hpg,2010100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.1.2,Mengeksperimen untuk mengkaji faktor yang mempengaruhi tekanan cecair.,2010200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.1.3,Menyelesaikan masalah yang melibatkan tekanan cecair.,2010300,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.1.4,Berkomunikasi tentang aplikasi tekanan cecair dalam kehidupan.,2010400,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.2.1,Memerihalkan tentang tekanan atmosfera.,2020100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.2.2,Berkomunikasi tentang nilai tekanan atmosfera.,2020200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.2.3,Menyelesaikan masalah dalam kehidupan harian yang melibatkan pelbagai unit tekanan.,2020300,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.2.4,Memerihalkan kesan tekanan atmosfera ke atas objek pada altitud tinggi dan aras kedalaman di bawah laut.,2020400,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.3.1,Menentukan tekanan gas dengan menggunakan manometer.,2030100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.3.2,Menyelesaikan masalah dalam kehidupan harian yang melibatkan tekanan gas.,2030200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.4.1,Memerihalkan prinsip pemindahan tekanan dalam suatu bendalir yang tertutup.,2040100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.4.2,Berkomunikasi mengenai sistem hidraulik sebagai satu sistem pengganda daya.,2040200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.4.3,Berkomunikasi tentang aplikasi prinsip Pascal.,2040300,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.4.4,Menyelesaikan masalah dalam kehidupan harian yang melibatkan prinsip Pascal.,2040400,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.5.1,Memerihalkan perkaitan antara daya apungan dengan perbezaan tekanan cecair pada aras kedalaman yang berbeza bagi objek yang terendam.,2050100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.5.2,Mengaitkan keseimbangan daya dengan keadaan keapungan suatu objek dalam bendalir.,2050200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.5.3,Berkomunikasi tentang aplikasi prinsip Archimedes dalam kehidupan.,2050300,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.5.4,Menyelesaikan masalah yang melibatkan prinsip Archimedes dan keapungan.,2050400,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.6.1,Memerihalkan kesan halaju bendalir kepada tekanan.,2060100,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.6.2,Menerangkan bahawa daya angkat terhasil akibat perbezaan tekanan disebabkan oleh halaju bendalir yang berbeza.,2060200,TRUE
+Fizik SM,FZ-SM,5,2.0 Tekanan,2.6.3,Berkomunikasi tentang aplikasi prinsip Bernoulli dalam kehidupan.,2060300,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.1.1,Menerangkan maksud medan elektrik. Cadangan aktiviti:,3010100,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.1.2,"Memerihalkan kekuatan medan elektrik, E",3010200,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.1.3,Menerangkan kelakuan zarah bercas di dalam suatu medan elektrik,3010300,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.1.4,Mendefinisi arus elektrik. Nota:,3010400,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.1.5,"Mendefinisi beza keupayaan, V",3010500,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.1,Membanding dan membeza konduktor Ohm dan konduktor bukan Ohm.,3020100,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.2,Menyelesaikan masalah bagi sambungan litar kombinasi bersiri dan selari.,3020200,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.3,"Menerangkan maksud kerintangan dawai,",3020300,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.4,"Memerihalkan faktor yang mempengaruhi rintangan dawai, melalui eksperimen dan merumuskan R = P / A",3020400,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.5,Berkomunikasi tentang aplikasi kerintangan dawai dalam kehidupan harian.,3020500,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.2.6,"Menyelesaikan masalah melibatkan rumus rintangan dawai, R = P/A",3020600,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.3.1,"Menerangkan daya gerak elektrik, Ɛ",3030100,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.3.2,"Menerangkan rintangan dalam, r",3030200,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.3.3,Mengeksperimen untuk menentukan d.g.e. dan rintangan dalam sel kering.,3030300,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.3.4,Menyelesaikan masalah melibatkan d.g.e. dan rintangan dalam sel kering.,3030400,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.4.1,"Merumuskan hubungan antara tenaga elektrik (E), voltan (V), arus; dan masa (t).",3040100,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.4.2,"Merumuskan hubungan antara kuasa (P), voltan; dan arus (I).",3040200,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.4.3,Menyelesaikan masalah dalam kehidupan harian yang melibatkan tenaga dan kuasa elektrik,3040300,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.4.4,Membandingkan kuasa dan kadar penggunaan tenaga pelbagai alatan elektrik.,3040400,TRUE
+Fizik SM,FZ-SM,5,3.0 Elektrik,3.4.5,Mencadangkan langkah penjimatan penggunaan tenaga elektrik di rumah.,3040500,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.1,Menghuraikan kesan suatu konduktor pembawa arus dalam suatu medan magnet.,4010100,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.2,Melukis corak medan magnet paduan (medan lastik) untuk menentukan arah tindakan daya pada konduktor pembawa arus dalam suatu medan magnet.,4010200,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.3,Menerangkan faktor yang mempengaruhi magnitud daya yang bertindak ke atas konduktor pembawa arus dalam suatu medan magnet.,4010300,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.4,Menghuraikan kesan gegelung pembawa arus dalam medan magnet.,4010400,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.5,Menghuraikan prinsip kerja motor arus terus.,4010500,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.1.6,Memerihalkan faktor yang mempengaruhi kelajuan putaran suatu motor elektrik.,4010600,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.2.1,Menghuraikan aruhan elektromagnet dalam suatu; dawai lurus; solenoid,4020100,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.2.2,Menerangkan faktor yang mempengaruhi magnitud d.g.e. aruhan.,4020200,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.2.3,Menentukan arah arus aruhan dalam; dawai lurus; solenoid,4020300,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.2.4,Mereka bentuk penjana arus terus dan penjana arus ulang-alik.,4020400,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.3.1,Menghuraikan prinsip kerja transformer ringkas.,4030100,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.3.2,Menghuraikan maksud transformer unggul.,4030200,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.3.3,Menghuraikan kehilangan tenaga dan cara untuk meningkatkan kecekapan transformer.,4030300,TRUE
+Fizik SM,FZ-SM,5,4.0 Keelektromagnetan,4.3.4,Berkomunikasi tentang kegunaan transformer dalam kehidupan harian.,4030400,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.1.1,Menerangkan pancaran termion dan sinar katod.,5010100,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.1.2,Menerangkan kesan sinar katod di bawah pengaruh medan elektrik dan medan magnet.,5010200,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.1.3,Menentukan halaju elektron dalam tiub sinar katod.,5010300,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.2.1,Menghuraikan fungsi diod semi konduktor.,5020100,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.2.2,Berkomunikasi tentang kegunaan diod semi konduktor dan kapasitor dalam rektifikasi arus ulang-alik.,5020200,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.3.1,Menghuraikan fungsi dan kegunaan transistor sebagai amplifier arus.,5030100,TRUE
+Fizik SM,FZ-SM,5,5.0 Elektronik,5.3.2,Menghuraikan litar yang mengandungi transistor sebagai suis automatik.,5030200,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.1.1,"Menjelaskan dengan contoh persamaan reputan bagi; reputan α, reputan β; reputan γ",6010100,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.1.2,Menjelaskan dengan contoh maksud separuh hayat.,6010200,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.1.3,Menentukan separuh hayat bahan sumber radioaktif daripada lengkung reputan.,6010300,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.1.4,Menyelesaikan masalah kehidupan harian yang melibatkan separuh hayat.,6010400,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.2.1,Berkomunikasi tentang tindak balas nuklear; pembelahan nukleus; pelakuran nukleus,6020100,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.2.2,Memerihalkan hubungan antara tenaga yang dibebaskan semasa tindak balas nuklear dengan cacat jisim: E = mc2,6020200,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.2.3,Menyelesaikan masalah yang melibatkan tenaga nuklear daripada reputan radioaktif dan tindak balas nuklear.,6020300,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.2.4,Memerihalkan penjanaan tenaga elektrik dalam reaktor nuklear.,6020400,TRUE
+Fizik SM,FZ-SM,5,6.0 Fizik Nuklear,6.2.5,Mewajarkan penggunaan tenaga nuklear sebagai tenaga alternatif untuk menjana tenaga elektrik.,6020500,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.1.1,Menjelaskan latar belakang pencetusan idea teori kuantum,7010100,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.1.2,Menyatakan maksud kuantum tenaga.,7010200,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.1.3,Menerangkan sifat kedualan gelombang- zarah,7010300,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.1.4,Menerangkan konsep foton,7010400,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.1.5,"Menyelesaikan masalah bagi (i) tenaga foton, E=hf (ii) kuasa, P=nhf; n ialah bilangan foton yang dipancarkan per saat.",7010500,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.2.1,Menerangkan kesan fotoelektrik.,7020100,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.2.2,Mengenal pasti empat ciri kesan fotoelektrik yang tidak dapat diterangkan menggunakan teori gelombang.,7020200,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.1,Menyatakan fungsi kerja minimum yang diperlukan oleh suatu logam bagi memancarkan elektron melalui persamaan Einstein. hf = W + 1/2 mv2,7030100,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.2,"Menerangkan frekuensi ambang, fo dan fungsi kerja, W",7030200,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.3,"Menentukan fungsi kerja logam berdasarkan rumus, W=hfo",7030300,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.4,Menyelesaikan masalah melibatkan persamaan Einstein untuk kesan fotoelektrik,7030400,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.5,Menerangkan penghasilan arus fotoelektrik dalam sebuah litar sel foto.,7030500,TRUE
+Fizik SM,FZ-SM,5,7.0 Fizik Kuantum,7.3.6,Menghuraikan aplikasi kesan fotoelektrik.,7030600,TRUE

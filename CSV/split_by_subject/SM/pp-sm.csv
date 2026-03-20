@@ -1,0 +1,298 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.1,Menyatakan maksud perakaunan.,1010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.2,Membandingkan fungsi simpan kira dan perakaunan.,1010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.3,Menyatakan maksud Kitaran Perakaunan.,1010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.4,Melakar kitaran perakaunan.,1010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.5,Menerangkan setiap peringkat dalam Kitaran Perakaunan,1010500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.6,Menerangkan sub bidang perakaunan; perakaunan kewangan; perakaunan pengurusan; pengauditan; percukaian.,1010600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.7,Menghubung kait fungsi perakaunan kewangan dengan pengauditan dan percukaian.,1010700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.8,Menyatakan maksud profesional,1010800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.9,Menyenaraikan profesion perakaunan yang boleh diceburi.,1010900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.10,Menyenaraikan ciri-ciri akauntan sebagai pemimpin.,1011000,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.11,Menyenaraikan kod etika profesion perakaunan,1011100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.12,Membincangkan syarat kelayakan untuk menjadi seorang akauntan bertauliah di Malaysia,1011200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.13,Mengkaji contoh kajian kes yang boleh dikaitkan dengan etika profesion perakaunan.,1011300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.14,Menerangkan latar belakang badan-badan profesional perakaunan di Malaysia.,1011400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.1.15,Menerangkan peranan utama Badan Kawal Selia; Institut Akauntan Malaysia; Badan Penggubal Piawaian; Lembaga Piawaian Perakaunan Malaysia; Badan Profesional,1011500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.2.1,Menerangkan sejarah perakaunan mengikut urutan bermula dari era Babylonia sehingga masa kini.,1020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.2.2,Menerangkan perkembangan proses perakaunan secara manual dan berkomputer.,1020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.2.3,Menerangkan perisian perakaunan berkomputer yang diguna pakai pada masa kini,1020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.2.4,Menerangkan kepentingan sistem maklumat perakaunan kepada entiti perniagaan,1020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.1,Menyenaraikan jenis penyata yang terdapat dalam Penyata Kewangan.,1030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.2,Menerangkan secara ringkas ciri kualitatif maklumat perakaunan; ciri kualitatif asas; kerelevanan; perwakilan benar; ciri kualitatif tertingkat; keboleh bandingan; keboleh fahaman; keboleh sahan; pemasaan,1030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.3,Mencari Penyata Kewangan dari pelbagai sumber dan membanding beza item-item dalam komponen serta kegunaannya.,1030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.4,Menamakan pihak yang menyediakan Penyata Kewangan.,1030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.5,Menamakan pihak yang bertanggung jawab ke atas Penyata Kewangan yang disediakan.,1030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.3.6,Menyenaraikan pengguna Penyata Kewangan.,1030600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.4.1,Menerangkan Andaian dalam perakaunan; Entiti Berasingan; Usaha Berterusan; Tempoh Perakaunan; Wang Sebagai Ukuran,1040100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.4.2,Menerangkan Prinsip dalam perakaunan; Ketekalan; Prinsip Kos; Pengiktirafan Hasil dan Belanja,1040200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.4.3,Menerangkan Batasan dalam perakaunan; Kos Manfaat,1040300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.4.4,"Menjelaskan Andaian, Prinsip dan Batasan dalam perakaunan yang dapat dikaitkan dengan sesuatu kes",1040400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.5.1,"Menyenaraikan ciri-ciri perniagaan Milikan Tunggal, Perkongsian, Syarikat Berhad dan Koperasi.",1050100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,1.0 Pengenalan Kepada Perakaunan,1.5.2,"Membanding beza ciri-ciri setiap entiti perniagaan dari segi milikan, sumber modal dan liabiliti.",1050200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.1.1,Mengenal pasti komponen dalam Penyata Pendapatan.,2010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.1.2,Mengenal pasti komponen dalam Penyata Kedudukan Kewangan,2010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.1,"Menyatakankan maksud hasil, belanja, aset, liabiliti dan ekuiti pemilik",2020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.2,Membezakan hasil operasi dan hasil bukan operasi.,2020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.3,Mengklasifikasikan hasil kepada hasil operasi dan hasil bukan operasi.,2020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.4,Membezakan belanja operasi dan belanja bukan operasi.,2020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.5,Mengklasifikasikan belanja kepada belanja operasi dan belanja bukan operasi.,2020500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.6,"Membezakan hasil operasi, hasil bukan operasi, belanja operasi dan belanja bukan operasi antara perniagaan yang berorientasikan barang dan perkhidmatan.",2020600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.7,Menjelaskan ciri-ciri Aset Semasa dan Aset Bukan Semasa.,2020700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.8,Mengklasifikasikan aset kepada Aset Semasa dan Aset Bukan Semasa.,2020800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.9,Menjelaskan sebab sesuatu Aset Bukan Semasa boleh dikategorikan sebagai Aset Semasa dalam perniagaan yang berbeza.,2020900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.10,Menjelaskan ciri-ciri Liabiliti Semasa dan Liabiliti Bukan Semasa.,2021000,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.11,Mengklasifikasikan liabiliti kepada Liabiliti Semasa dan Liabiliti Bukan Semasa.,2021100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.12,Menjelaskan sebab sesuatu Liabiliti Bukan Semasa boleh dikategorikan sebagai Liabiliti Semasa dalam perniagaan yang sama dan berbeza.,2021200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.2.13,Menyenaraikan item dalam komponen Ekuiti Pemilik.,2021300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.1,Menulis rumus Persamaan Perakaunan tanpa hasil dan belanja.,2030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.2,"Menghitung nilai aset, liabiliti atau ekuiti pemilik tanpa hasil dan belanja, menggunakan rumus Persamaan Perakaunan.",2030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.3,Menunjukkan kesan setiap urus niaga terhadap Persamaan Perakaunan tanpa hasil dan belanja.,2030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.4,Menulis rumus Persamaan Perakaunan dengan hasil dan belanja.,2030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.5,"Menghitung nilai aset, liabiliti dan ekuiti pemilik yang melibatkan hasil dan belanja menggunakan rumus Persamaan Perakaunan",2030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.6,Menunjukkan kesan setiap urus niaga terhadap Persamaan Perakaunan dengan mengambil kira hasil dan belanja.,2030600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.3.7,Menunjukkan kesan ambilan barang niaga dan ambilan aset oleh pemilik terhadap Persamaan Perakaunan.,2030700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.1,Menyatakan maksud Catatan Kontra.,2040100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.2,Menyenaraikan akaun yang boleh dikontrakan dengan akaun yang lain.,2040200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.3,Menerangkan dan menunjukkan kesan Catatan Kontra terhadap akaun yang berkaitan.,2040300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.4,Menerangkan kesan sekiranya tidak dibuat Catatan Kontra tersebut terhadap akaun yang berkaitan.,2040400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.5,Menjelaskan definisi Carta Akaun.,2040500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.6,Menjelaskan fungsi dan kegunaan Carta Akaun dalam perisian perakaunan.,2040600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,2.0 Klasifikasi Akaun Dan Persamaan Perakaunan,2.4.7,Menyediakan jadual Carta Akaun.,2040700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.1.1,Menyatakan maksud dan kepentingan dokumen perniagaan.,3010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.1.2,Membezakan dokumen sumber dan dokumen bukan sumber dalam perniagaan.,3010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.1.3,Menyediakan carta aliran dokumen antara pembeli dengan penjual mengikut urutan yang betul.,3010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.1.4,Menghubung kaitkan aliran dokumen perniagaan bagi urus niaga secara tunai dan secara kredit.,3010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.2.1,Menerangkan fungsi dokumen sumber perniagaan berikut: Bil Tunai; Resit; Keratan Cek; Baucar Pembayaran; Baucar Tunai Runcit; Slip Daftar Tunai; Slip Bank/ Slip Deposit Cek; Slip Pindahan Wang; Slip transaksi perbankan elektronik; Makluman Debit; Maklumat Kredit; Memo; Invois; Nota Debit; Nota Kredit; Bil Bayaran (Kadar Bayaran); Folio Pelanggan,3020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.2.2,Memadankan dokumen sumber perniagaan dengan setiap urus niaga yang berkaitan.,3020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.2.3,Melengkapkan maklumat penting dalam dokumen sumber perniagaan termasuk diskaun niaga dan diskaun tunai.,3020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.2.4,Menerangkan fungsi dan menghitung diskaun niaga dan diskaun tunai,3020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.3.1,Menerangkan maksud dokumen bukan sumber perniagaan berikut: Penyata Akaun; Penyata Bank,3030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,3.0 Dokumen Perniagaan Sebagai Sumber Maklumat,3.3.2,Menerangkan secara ringkas fungsi dokumen bukan sumber perniagaan.,3030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.1.1,Menjelaskan maksud Buku Catatan Pertama.,4010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.1.2,Menyenaraikan jenis-jenis Buku Catatan Pertama.,4010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.1.3,Menerangkan kegunaan Buku Catatan Pertama.,4010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.2.1,Menjelaskan tujuan penyediaan Jurnal Am.,4020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.2.2,Melakar dan menerangkan format Jurnal Am termasuk lajur folio.,4020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.2.3,"Mengenal pasti urus niaga catatan pembukaan, belian dan jualan aset bukan semasa secara kredit, ambilan barang niaga, modal tambahan selain tunai dan bank serta catatan penutup.",4020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.2.4,Merekod urus niaga secara manual atau menggunakan aplikasi TMK berdasarkan penyataan urus niaga dan dokumen sumber: catatan pembukaan; belian dan jualan aset bukan semasa secara kredit; ambilan barang niaga dan aset bukan semasa; modal tambahan selain tunai dan bank; catatan penutup; catatan pelarasan; pembetulan kesilapan; realisasi,4020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.3.1,Menjelaskan tujuan penyediaan Jurnal Khas.,4030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.3.2,Melakar dan menerangkan format Jurnal Khas termasuk lajur folio.,4030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.3.3,Menjelaskan fungsi setiap jenis Jurnal Khas berikut: Jurnal Belian; Jurnal Pulangan Belian; Jurnal Jualan; Jurnal Pulangan Jualan; Jurnal Penerimaan Tunai; Jurnal Pembayaran Tunai,4030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.3.4,Merekod urus niaga berdasarkan maklumat pernyataan urus niaga dan dokumen sumber ke Jurnal Khas secara manual atau menggunakan aplikasi TMK.,4030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.3.5,Menutup Jurnal Khas.,4030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.4.1,Menjelaskan tujuan penyediaan Buku Tunai.,4040100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.4.2,Melakar dan menerangkan format Buku Tunai tiga lajur termasuk lajur folio.,4040200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.4.3,Merekod urus niaga berdasarkan pernyataan urus niaga dan dokumen sumber secara manual atau menggunakan aplikasi TMK.,4040300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.4.4,Mengimbangkan Buku Tunai dan menyatakan kedudukan baki Tunai dan baki Bank.,4040400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.4.5,Menjumlah lajur-lajur diskaun.,4040500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.1,Menerangkan tujuan penyediaan Buku Tunai Runcit.,4050100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.2,Menjelaskan sistem panjar.,4050200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.3,Melakar dan menerangkan format Buku Tunai Runcit termasuk lajur folio.,4050300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.4,Merekod perbelanjaan runcit berdasarkan pernyataan urus niaga secara manual atau menggunakan aplikasi TMK.,4050400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.5,"Menjumlah lajur analisis, mengimbang Buku Tunai Runcit dan merekod rekupmen.",4050500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,4.0 Buku Catatan Pertama,4.5.6,Menganalisis dokumen sumber dan mengklasifkasikannya untuk menentukan perbelanjaan runcit berasaskan sistem panjar.,4050600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.1.1,Menerangkan tujuan penyediaan lejar.,5010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.1.2,Menerangkan fungsi setiap lejar: Lejar Am; Lejar Khas (Subsidiari),5010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.1.3,Menerangkan format lejar dalam bentuk ’T’ dan berlajur.,5010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.1.4,Mengklasifikasi akaun-akaun mengikut kumpulan akaun: Akaun Nyata; Akaun Nominal,5010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.1,Menerangkan maksud Sistem Catatan Bergu.,5020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.2,Menunjukkan bahagian debit dan kredit pada akaun lejar.,5020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.3,Menerangkan peraturan merekod dengan contoh urus niaga.,5020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.4,Mengenal pasti akaun-akaun yang terlibat bagi sesuatu urus niaga.,5020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.5,Merekod urus niaga berdasarkan penyataan urus niaga.,5020500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.6,Mengimbangkan akaun-akaun dalam lejar.,5020600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.7,"Menyatakan baki normal bagi aset, liabiliti, ekuiti pemilik, hasil dan belanja.",5020700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.8,Memindahkan catatan dari Buku Catatan Pertama ke akaun akaun dalam lejar am dan lejar khas secara manual atau dengan menggunakan aplikasi TMK.,5020800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.2.9,Membincangkan kesan dan akibat sekiranya Sistem Catatan Bergu tidak digunakan dalam merekod urus niaga perniagaan.,5020900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.1,Menerangkan tujuan penyediaan: Akaun Kawalan Belum Terima; Akaun Kawalan Belum Bayar,5030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.2,Mengenalpasti Buku Catatan Pertama sebagai sumber maklumat kepada penyediaan Akaun Kawalan.,5030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.3,Menyediakan Akaun Kawalan secara manual atau menggunakan aplikasi TMK berdasarkan: belian kredit dan jualan kredit; penerimaan dan pembayaran; diskaun tunai; pulangan; hutang lapuk; cek tak laku dan diskaun dibatalkan; faedah atas akaun lewat bayar; catatan kontra; angkutan; baki awal dan baki akhir akaun kawalan yang melibatkan baki normal dan baki minoriti,5030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.4,Menerangkan sebab-sebab Akaun Kawalan Belum Terima dan Akaun Kawalan Belum Bayar boleh berbaki minoriti.,5030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.5,Menerangkan dengan contoh situasi di mana seorang penghutang juga merupakan seorang pemiutang bagi entiti perniagaan dan dihubung kaitkan dengan Catatan Kontra.,5030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,5.0 Lejar,5.3.6,Menerangkan implikasi sekiranya Akaun Kawalan tidak disediakan dengan menggunakan contoh berkaitan.,5030600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.1.1,Menerangkan fungsi Imbangan Duga.,6010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.1.2,"Menyediakan Imbangan Duga dengan memindahkan baki debit dan baki kredit dari Buku Tunai, Buku Tunai Runcit serta lejar secara manual atau menggunakan aplikasi TMK.",6010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.1.3,Menyediakan Imbangan Duga mengikut proses Kitaran Perakaunan bermula daripada Dokumen Sumber.,6010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.1.4,Membincangkan situasi di mana Imbangan Duga masih boleh seimbang walaupun terdapat kesilapan.,6010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.1,Menerangkan maksud inventori.,6020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.2,Menerangkan maksud sistem inventori berkala dan sistem inventori berterusan.,6020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.3,Menerangkan keperluan menentukan nilai inventori akhir untuk penyediaan Penyata Pendapatan.,6020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.4,Menyediakan kad inventori dan mengira inventori akhir.,6020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.5,Menentukan inventori akhir.,6020500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.6,Merekod inventori akhir dalam jurnal am dan lejar.,6020600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,6.0 Imbangan Duga,6.2.7,Merumuskan hubungan Imbangan Duga dan inventori akhir (sistem inventori berkala) dalam penyediaan Penyata Pendapatan dan Penyata Kedudukan Kewangan.,6020700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.1,Menerangkan tujuan penyediaan Akaun Perdagangan dan Akaun Untung Rugi.,7010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.2,Menyediakan Akaun Perdagangan.,7010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.3,Memindahkan Untung Kasar atau Rugi Kasar ke Akaun Untung Rugi.,7010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.4,Menyediakan Akaun Untung Rugi.,7010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.5,Memindahkan Untung Bersih atau Rugi Bersih ke dalam akaun modal.,7010500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.1.6,Menyediakan Akaun Perdagangan dan Untung Rugi berdasarkan maklumat daripada Imbangan Duga secara manual atau menggunakan aplikasi TMK.,7010600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.2.1,Menerangkan tujuan penyediaan Penyata Kedudukan Kewangan.,7020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.2.2,Menyediakan Penyata Kedudukan Kewangan dalam bentuk ’T’ dan format penyata berdasarkan maklumat daripada Imbangan Duga.,7020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.2.3,Menyediakan Akaun Modal dengan mengambil kira ambilan dan untung bersih atau rugi bersih.,7020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.2.4,Menyediakan bahagian ekuiti pemilik berdasarkan akaun modal yang telah disediakan.,7020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.2.5,Menyediakan Penyata Kedudukan Kewangan dalam bentuk penyata berdasarkan maklumat daripada Imbangan Duga menggunakan aplikasi TMK.,7020500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.1,Menerangkan keperluan penutupan akaun hasil dan akaun belanja dalam proses kitaran perakaunan.,7030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.2,Menerangkan tatacara menutup akaun yang berkaitan dengan betul.,7030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.3,Menutup akaun hasil dan akaun belanja yang berkaitan untuk memindahkan ke Akaun Perdagangan.,7030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.4,Menutup akaun inventori dengan menghubung kaitkan sistem catatan bergu pada akhir tempoh kewangan.,7030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.5,Menutup akaun hasil dan belanja berkaitan untuk memindahkan ke Akaun Untung Rugi.,7030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,7.0 Penyata Kewangan Milikan Tunggal Tanpa Pelarasan,7.3.6,Menerangkan sebab akaun nyata tidak ditutup pada akhir tempoh kewangan.,7030600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.1.1,Menerangkan pengertian perakaunan asas tunai dan asas akruan.,8010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.1.2,Menerangkan maksud pelarasan.,8010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.1.3,Menyenaraikan jenis pelarasan pada tarikh imbangan.,8010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.1.4,Menerangkan keperluan mengambil kira pelarasan dalam penyediaan Penyata Kewangan.,8010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.1,Menerangkan maksud item pelarasan: Belum Terperoleh; Belum Terima; Prabayar; Belum Bayar,8020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.2,Menyenaraikan contoh-contoh item pelarasan untuk Akaun Nominal.,8020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.3,Merekod item pelarasan ke dalam Jurnal Am dan lejar.,8020300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.4,Merekod hasil dan belanja yang terselaras ke dalam Akaun Untung Rugi.,8020400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.5,"Merekod item Belum Terperoleh, Belum Terima, Prabayar dan Belum Bayar ke dalam Penyata Kedudukan Kewangan.",8020500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.2.6,Menerangkan kesan terhadap Penyata Kewangan sekiranya konsep akruan tidak diaplikasikan.,8020600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.1,"Menerangkan maksud Hutang Lapuk, Hutang Lapuk Terpulih dan Peruntukan Hutang Ragu.",8030100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.2,Menyenaraikan sebab berlakunya Hutang Lapuk dan Hutang Lapuk Terpulih.,8030200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.3,Menerangkan keperluan mewujudkan Peruntukan Hutang Ragu.,8030300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.4,Menghitung Peruntukan Hutang Ragu berdasarkan nilai Akaun Belum Terima bersih dalam situasi mewujudkan atau menyelaraskan Peruntukan Hutang Ragu.,8030400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.5,"Merekod Akaun Belum Terima, Hutang Lapuk, Hutang Lapuk Terpulih, Hutang Ragu dan Peruntukan Hutang Ragu, dalam Jurnal Am dan lejar.",8030500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.6,"Merekod Hutang Ragu, Hutang Lapuk dan Hutang Lapuk Terpulih dalam Akaun Untung Rugi.",8030600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.7,Menunjukkan Peruntukan Hutang Ragu dalam Penyata Kedudukan Kewangan.,8030700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.8,Menerangkan kesan sekiranya Peruntukan Hutang Ragu tidak diwujudkan walaupun terdapat urus niaga jualan kredit.,8030800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.3.9,Menerangkan kesan ke atas Peruntukan Hutang Ragu sedia ada sekiranya tiada baki dalam Akaun Belum Terima,8030900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.1,Menyatakan maksud Susut nilai dan Susut nilai Terkumpul.,8040100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.2,Menerangkan sebab berlakunya Susut nilai terhadap Aset Bukan Semasa.,8040200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.3,Menyenaraikan dan menerangkan kaedah pengiraan Susut nilai,8040300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.4,"Menghitung Susut nilai berdasarkan kaedah garis lurus, baki berkurangan dan penilaian semula",8040400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.5,Merekod Susut nilai dan Susut nilai Terkumpul ke Jurnal Am dan lejar.,8040500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.6,Merekod Susut nilai dalam Akaun Untung Rugi.,8040600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.7,Menunjukkan Susut nilai Terkumpul dalam Penyata Kedudukan Kewangan.,8040700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.8,Menyatakan faktor yang perlu dipertimbangkan dalam pemilihan kaedah Susut nilai.,8040800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.4.9,Menerangkan kesan penggunaan kaedah penentuan Susut nilai yang berlainan terhadap Penyata Kewangan dengan menunjukkan contoh berkaitan.,8040900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.1,Menerangkan maksud pelupusan Aset Bukan Semasa.,8050100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.2,Menerangkan sebab pelupusan Aset Bukan Semasa.,8050200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.3,Menerangkan pelupusan aset melalui penjualan secara tunai.,8050300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.4,Menghitung untung atau rugi atas pelupusan Aset Bukan Semasa.,8050400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.5,Merekod pelupusan Aset Bukan Semasa dalam Jurnal Am.,8050500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.6,Menyediakan Akaun Pelupusan Aset Bukan Semasa.,8050600,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.7,Merekod untung atau rugi atas pelupusan Aset Bukan Semasa ke Akaun Untung Rugi.,8050700,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.8,Merekod pelupusan Aset Bukan Semasa dalam akaun lejar yang berkaitan.,8050800,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.5.9,Menunjukkan kesan pelupusan Aset Bukan Semasa kepada Penyata Kewangan.,8050900,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.6.1,Menerangkan maksud Imbangan Duga Terselaras.,8060100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.6.2,Menerangkan keperluan menyediakan Imbangan Duga Terselaras.,8060200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.6.3,Menyediakan Imbangan Duga Terselaras.,8060300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,8.0 Pelarasan Pada Tarikh Imbangan Dan Penyediaan Penyata Kewangan Milikan Tunggal,8.7.1,Menyediakan Penyata Kewangan dalam bentuk ’T’ dan format penyata berdasarkan Imbangan Duga Terselaras secara manual atau menggunakan aplikasi TMK.,8070100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.1.1,Menerangkan maksud Kesilapan Ketara dan Kesilapan Tidak Ketara.,9010100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.1.2,Menyenaraikan beberapa contoh Kesilapan Ketara.,9010200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.1.3,Menerangkan kaedah membetulkan Kesilapan Ketara beserta contoh.,9010300,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.1.4,Menunjukkan contoh Kesilapan Tidak Ketara dan tata cara membetulkannya dalam Jurnal Am dan lejar selepas Imbangan Duga disediakan: kesilapan ketinggalan satu urus niaga (kesilapan ketinggalan); kesilapan merekod amaun yang betul ke dalam akaun; yang salah (kesilapan komisen); kesilapan merekod ke dalam jenis akaun yang salah. (kesilapan prinsip); kesilapan amaun (kesilapan daripada sumber maklumat asal); kesilapan terbalik atau songsang; kesilapan saling mengimbangi,9010400,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.1.5,Menyediakan Imbangan Duga Terselaras selepas Kesilapan Tidak Ketara dibetulkan.,9010500,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.2.1,Menyatakan kesan kepada Penyata Kewangan bagi tahun kewangan semasa terhadap kesilapan pada item yang ditemui.,9020100,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.2.2,Menyediakan Penyata Kewangan selepas mengambil kira pembetulan terhadap akaun-akaun yang berkaitan.,9020200,TRUE
+Prinsip Perakaunan SM,PP-SM,4,9.0 Pembetulan Kesilapan,9.2.3,Menerangkan kesan terhadap untung atau rugi bagi tahun kewangan semasa sekiranya pembetulan kesilapan tidak diambil kira dalam tahun kewangan sebelumnya.,9020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.1,Menerangkan tujuan Analisis Penyata Kewangan; Menerangkan jenis nisbah dalam Analisis Penyata Kewangan.,10010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.2,Mengira dan mentafsir Nisbah Keberuntungan Peratus Untung Kasar atas Kos Jualan (Tokokan); Mengira dan mentafsir Nisbah Keberuntungan Peratus Untung Kasar atas Jualan / Margin Untung Kasar; Mengira dan mentafsir Nisbah Keberuntungan Peratus Untung Bersih atas Jualan / Margin Untung Bersih; Mengira dan mentafsir Nisbah Keberuntungan Pulangan atas Modal,10010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.3,Mengira dan mentafsir Nisbah Kecairan Nisbah Semasa; Mengira dan mentafsir Nisbah Kecairan Nisbah Ujian Asid,10010300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.4,Mengira dan mentafsir Nisbah Kecekapan Kadar Pusing Ganti Stok; Mengira dan mentafsir Nisbah Kecekapan Tempoh Kutipan Hutang; Mengira dan mentafsir Nisbah Kecekapan Tempoh Pembayaran Hutang,10010400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.5,Mengira dan mentafsir setiap nisbah dengan menghubung kait prestasi yang hendak diukur berdasarkan kes.,10010500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.6,Membanding prestasi perniagaan bagi tahun perakaunan semasa dan antara tempoh perakaunan. Membanding prestasi antara perniagaan dalam industri yang sama,10010600,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.7,Merumuskan dapatan analisis dan mencadangkan cara meningkatkan prestasi perniagaan berdasarkan pencapaian tahun perakaunan semasa dan antara tempoh perakaunan.,10010700,TRUE
+Prinsip Perakaunan SM,PP-SM,5,10.0 Analisis Dan Tafsiran Penyata Kewangan Untuk Membuat Keputusan,10.1.8,Merumuskan dapatan analisis dan memilih perniagaan berdasarkan prestasi,10010800,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.1.1,Menerangkan maksud Rekod Tak Lengkap; Menerangkan sebab rekod perniagaan tidak lengkap; Menerangkan kaedah yang boleh digunakan untuk menentukan untung atau rugi perniagaan,11010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.1.2,Menjelaskan implikasi Rekod Tak Lengkap terhadap maklumat perakaunan perniagaan.,11010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.2.1,Menerangkan Kaedah Perbandingan.,11020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.2.2,Mengklasifikasi maklumat yang perlu untuk menentukan untung atau rugi perniagaan.,11020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.2.3,Menganalisis aset dan liabiliti pada awal tahun dan akhir tahun.,11020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.2.4,Menghasilkan Penyata Mengira Modal Awal dan Modal Akhir.,11020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.2.5,Menghasilkan Penyata Mengira Untung atau Rugi dan Penyata Kedudukan Kewangan.,11020500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.3.1,Menerangkan Kaedah Analisis.,11030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.3.2,Mengklasifikasi maklumat yang perlu untuk menentukan untung atau rugi perniagaan.,11030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.3.3,Menganalisis maklumat Buku Tunai berkaitan item Penyata Pendapatan dan Penyata Kedudukan Kewangan.,11030300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.3.4,Mentaksir jumlah jualan dan jumlah belian. Mentaksir belanja dan hasil dengan mengambil kira pelarasan.,11030400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,11.0 Rekod Tak Lengkap,11.3.5,Menghasilkan Penyata Pendapatan dan Penyata Kedudukan Kewangan.,11030500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.1.1,Menerangkan tujuan kawalan tunai. Menerangkan kaedah kawalan tunai.,12010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.2.1,Menerangkan fungsi Penyata Bank. Menerangkan tujuan penyediaan Penyata Penyesuaian Bank.,12020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.2.2,Menerangkan sebab perbezaan baki Akaun Bank dalam Buku Tunai dengan baki Penyata Bank. Menerangkan butiran yang terdapat dalam Buku Tunai tetapi tidak terdapat dalam Penyata Bank dan sebaliknya. Menerangkan Perbezaan antara angka dalam Penyata Bank dengan Buku Tunai pada suatu transaksi yang sama.,12020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.2.3,Menghasilkan Penyata Penyesuaian Bank dengan mengemas kini Buku Tunai.,12020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.2.4,Menghasilkan Penyata Penyesuaian Bank tanpa mengemas kini Buku Tunai.,12020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.3.1,Menerangkan kepentingan Belanjawan Tunai.,12030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.3.2,Menerangkan maksud Penerimaan dan Pembayaran; Menerangkan maksud Lebihan dan Kurangan; Menerangkan maksud penerimaan sebenar melebihi penerimaan yang dijangka dan sebaliknya. Menerangkan maksud pembayaran sebenar melebihi pembayaran yang dijangka dan sebaliknya,12030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.3.3,Melakar format Belanjawan Tunai.,12030300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.3.4,Mengenal pasti butiran penerimaan dan pembayaran.,12030400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,12.0 Perakaunan Untuk Kawalan Dalaman,12.3.5,Menghasilkan Belanjawan Tunai secara manual dan menggunakan aplikasi TMK.,12030500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.1,Menyatakan tujuan penubuhan perniagaan perkongsian.,13010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.2,Membandingkan jenis pemilikan perniagaan daripada aspek perakaunan bagi perniagaan perkongsian dan milikan tunggal.,13010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.3,Menjelaskan kelebihan perubahan entiti milikan tunggal kepada perniagaan perkongsian. Menjelaskan kandungan Seksyen 26 Akta Perkongsian 1961 yang berkaitan dengan aspek perakaunan.,13010300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.4,Menerangkan tujuan memeterai Ikatan Perkongsian.,13010400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.5,Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Jumlah modal yang disumbangkan oleh pekongsi; Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Faedah atas modal; Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Faedah atas ambilan; Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Faedah atas pinjaman pekongsi; Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Gaji / Elaun / Bonus pekongsi; Menerangkan kandungan Ikatan Perkongsian berkaitan aspek perakaunan Kongsi untung atau Kongsi rugi,13010500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.1.6,Menjelaskan implikasi jika tiada Ikatan Perkongsian.,13010600,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.2.1,Menerangkan tujuan penyediaan Akaun Pengasingan Untung Rugi.,13020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.2.2,Menerangkan format Akaun Pengasingan Untung Rugi.,13020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.2.3,"Mengira Faedah atas ambilan; Mengira Faedah atas modal; Mengira Gaji / Elaun / Bonus pekongsi; Mengira Faedah atas pinjaman pekongsi; Mengira Kongsi Untung atau Kongsi Rugi berdasarkan pembahagian sama rata, nisbah baki modal awal atau nisbah tetap",13020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.2.4,Menghasilkan Akaun Pengasingan Untung Rugi dalam bentuk ’T’ dan format penyata.,13020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.3.1,Menyediakan Akaun Modal menggunakan Kaedah Modal Berubah; Menyediakan Akaun Modal dan Akaun Semasa menggunakan Kaedah Modal Tetap,13030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.3.2,Merekod faedah atas pinjaman pekongsi dalam Akaun Semasa.,13030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.3.3,Menghasilkan Penyata Kewangan Perkongsian berdasarkan maklumat yang berkaitan dalam bentuk ’T’ dan format penyata.,13030300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.3.4,Merumuskan perbezaan Ekuiti Pemilik antara perniagaan perkongsian dan milikan tunggal.,13030400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.4.1,Menerangkan sebab pembubaran perkongsian.,13040100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.4.2,Menerangkan tatacara pembubaran perkongsian.,13040200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.4.3,Merekod pembubaran perkongsian dalam Jurnal Am,13040300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.4.4,"Menyediakan Akaun Realisasi, Akaun Bank, Akaun Modal pekongsi dan akaun-akaun yang berkaitan.",13040400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,13.0 Perakaunan Untuk Perkongsian,13.4.5,Membincangkan penyelesaian apabila Akaun Modal pekongsi berbaki debit di akhir proses pembubaran.,13040500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.1.1,Menerangkan tatacara penubuhan Syarikat Berhad Menurut Syer mengikut Akta Syarikat 2016.,14010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.1.2,Menyatakan kandungan Perlembangan Syarikat Berhad Menurut Syer.,14010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.1.3,Membandingkan ciri Syarikat Persendirian dan Syarikat Awam.,14010300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.1.4,Memberikan contoh Syarikat Persendirian; Memberikan contoh Syarikat Awam yang tersenarai dalam Bursa Malaysia,14010400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.2.1,Menerangkan jenis modal syer; Menerangkan ciri Syer Biasa dan Syer Keutamaan bersifat kumulatif,14020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.2.2,Mengira modal diterbitkan dan berbayar penuh,14020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.2.3,Merekod terbitan syer dalam Jurnal Am.,14020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.2.4,Memindahkan catatan daripada Jurnal Am ke lejar.,14020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.2.5,Mengusulkan tindakan sekiranya modal diterbitkan tidak habis dilanggan atau terlebih langganan dalam tempoh yang ditetapkan.,14020500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.3.1,Menunjukkan komponen Ekuiti Pemilik dalam Penyata Kedudukan Kewangan.,14030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.3.2,"Membezakan komponen Ekuiti Pemilik bagi Syarikat Berhad Menurut Syer, Pekongsian dan Milikan Tunggal",14030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.4.1,Menerangkan maksud dividen tunai.,14040100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.4.2,Menjelaskan jenis dividen tunai.,14040200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.4.3,Mengira dividen interim dan dividen akhir; Mengira dividen syer keutamaan dan syer biasa bagi beberapa tahun kewangan,14040300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.4.4,Membincangkan sebab berlakunya dividen tertunggak.,14040400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,14.0 Perakaunan Untuk Syarikat Berhad Menurut Syer,14.4.5,Merumuskan hak pemegang syer keutamaan bersifat kumulatif terhadap dividen tertunggak.,14040500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.1.1,Menerangkantakrif Kelab dan Persatuan di bawah Akta Pertubuhan 1966; Menerangkan tatacara dan matlamat penubuhan sesebuah Kelab dan Persatuan berbanding entiti yang berorientasikan keuntungan; Menerangkan sumber utama kewangan Kelab dan Persatuan.,15010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.1.2,Membanding akaun-akaun Kelab dan Persatuan dengan akaun-akaun entiti yang berorientasikan keuntungan.,15010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.1.3,Menganalisis sama ada aktiviti mencari keuntungan bagi sesebuah Kelab dan Persatuan bertentangan dengan motif utama penubuhannya.,15010300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.2.1,Menerangkan tujuan penyediaan Akaun Penerimaan dan Pembayaran.,15020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.2.2,Memberi contoh item penerimaan dan pembayaran.,15020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.2.3,Menyediakan Akaun Penerimaan dan Pembayaran dalam bentuk ’T’ dan format penyata.,15020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.2.4,Membezakan Akaun Penerimaan dan Pembayaran dengan Buku Tunai bagi entiti yang berorientasikan keuntungan,15020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.3.1,Menerangkan maksud Yuran,15030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.3.2,"Menerangkan maksud Yuran Semasa, Yuran Lapuk, Yuran Belum Terperoleh dan Yuran Belum Terima.",15030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.3.3,Menyediakan Akaun Yuran Ahli.,15030300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.1,Menerangkan tujuan penyediaan Akaun Pendapatan dan Perbelanjaan.,15040100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.2,Menerangkan maksud lebihan dan kurangan pendapatan.,15040200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.3,Memberi contoh hasil dan belanja bagi Kelab dan Persatuan.,15040300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.4,"Mentafsir Pendapatan Hasil, Pendapatan Modal, Perbelanjaan Hasil dan Perbelanjaan Modal",15040400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.5,Menyediakan Akaun Perdagangan dalam bentuk ’T’ dan format penyata.,15040500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.6,Mentaksir untung atau rugi aktiviti berkala bagi Kelab dan Persatuan.,15040600,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.7,Menghasilkan Akaun Pendapatan dan Perbelanjaan dalam bentuk ’T’ dan format penyata.,15040700,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.8,Memberi alasan item yang terdapat dalam Akaun Penerimaan dan Pembayaran tidak direkodkan dalam Akaun Pendapatan dan Perbelanjaan.,15040800,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.4.9,Membahas sebab nilai item yang direkodkan dalam Akaun Penerimaan dan Pembayaran tidak sama dengan nilai item yang direkodkan dalam Akaun Pendapatan dan Perbelanjaan.,15040900,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.5.1,Menerangkan maksud Dana Terkumpul.,15050100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.5.2,Mengira Dana Terkumpul.,15050200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.5.3,Menghasilkan Penyata Kedudukan Kewangan dalam bentuk ’T’ dan format penyata.,15050300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,15.0 Perakaunan Untuk Kelab Dan Persatuan,15.5.4,Merumuskan perbezaan komponen Dana Terkumpul Kelab dan Persatuan dengan komponen Ekuiti Pemilik entiti yang berorientasikan keuntungan dalam Penyata Kedudukan Kewangan.,15050400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.1.1,Menyatakan konsep kos dan jenis kos.,16010100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.1.2,Menyenaraikan komponen kos pengeluaran.,16010200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.1.3,Mengira Kos Bahan Langsung. Mengira Kos Buruh Langsung. Mengira Kos Belanja Langsung. Mengira Kos Prima. Mengira Kos Overhed.,16010300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.1.4,Menerangkan maksud Kerja Dalam Proses Awal dan Kerja Dalam Proses Akhir.,16010400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.1.5,Mengira setiap komponen kos pengeluaran dengan mengambilkira Kerja Dalam Proses.,16010500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.2.1,Menyatakan tujuan penyediaan Akaun Pengeluaran,16020100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.2.2,Menyediakan Akaun Pengeluaran tanpa mengambil kira Kerja Dalam Proses Awal dan Kerja Dalam Proses Akhir dalam bentuk ’T’ dan format penyata.,16020200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.2.3,Menghasilkan Akaun Pengeluaran dengan mengambilkira Kerja Dalam Proses Awal dan Kerja Dalam Proses Akhir dalam bentuk ’T’ dan format penyata.,16020300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.2.4,Memindahkan Kos Pengeluaran daripada Akaun Pengeluaran ke Akaun Perdagangan.,16020400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.2.5,Merumuskan justifikasi pengagihan sebahagian daripada kos ke Penyata Kos Pengeluaran dan Penyata Pendapatan.,16020500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.1,"Menerangkan maksud Analisis Titik Pulang Modal; Menerangkan maksud Kos Tetap, Kos Berubah dan Margin Caruman",16030100,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.2,Mengira Kos Tetap; Mengira Kos Berubah; Mengira Jumlah kos; Mengira Jumlah hasil; Mengira Margin Caruman Seunit. Mengira Titik Pulang Modal menggunakan Kaedah Margin Caruman.,16030200,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.3,Menganalisis Titik Pulang Modal dengan mengambil kira perubahan pada salah satu komponen kos dan harga jualan.,16030300,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.4,Menentukan keuntungan berdasarkan kuantiti yang disasarkan dengan menggunakan Kaedah Margin Caruman.,16030400,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.5,Menjana kuantiti yang perlu dikeluarkan untuk mencapai untung sasaran yang ditetapkan berdasarkan sesuatu situasi,16030500,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.6,Menyelesaikan masalah pulangan modal yang dihadapi oleh sesebuah firma dengan menggunakan analisis Titik Pulang Modal,16030600,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.7,Melakar graf Titik Pulang Modal,16030700,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.8,Menentukan Titik Pulang Modal dengan menggunakan Kaedah Graf,16030800,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.9,Menganalisis Titik Pulang Modal menggunakan kaedah graf.,16030900,TRUE
+Prinsip Perakaunan SM,PP-SM,5,16.0 Perakaunan Kos,16.3.10,Menjana keuntungan berdasarkan kuantiti yang disasarkan dengan menggunakan Kaedah Graf,16031000,TRUE

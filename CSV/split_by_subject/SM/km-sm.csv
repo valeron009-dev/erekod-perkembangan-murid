@@ -1,0 +1,179 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.1.1,Menyatakan maksud kimia.,1010100,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.1.2,Memberikan contoh bahan kimia yang lazim digunakan dalam kehidupan harian.,1010200,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.1.3,Menjana idea tentang perkembangan bidang kimia dan sumbangan teknologi kimia kepada manusia,1010300,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.1.4,Memberikan contoh kerjaya yang berkaitan dengan bidang kimia,1010400,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.2.1,Mereka bentuk eksperimen untuk menguji hipotesis.,1020100,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.2.2,Mengeksperimen kesan suhu terhadap keterlarutan garam dalam air dengan menggunakan kaedah saintifik.,1020200,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.3.3,Berkomunikasi tentang langkah pengurusan kemalangan dalam makmal,1030000,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.3.1,Menerangkan tentang jenis dan fungsi alat pelindung diri serta keselamatan dalam makmal.,1030100,TRUE
+Kimia SM,KIM-SM,4,1.0 Pengenalan Kepada Kimia,1.3.2,Menunjuk cara kaedah pengurusan dan pengendalian radas serta bahan kimia,1030200,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.1.1,Memerihal jirim.,2010100,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.1.2,Menerangkan perubahan keadaan jirim.,2010200,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.1.3,Menentukan takat lebur dan takat beku naftalena,2010300,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.2.1,Menyatakan zarah subatom dalam pelbagai atom unsur.,2020100,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.2.2,"Membanding dan membezakan jisim relatif dan cas relatif proton, elektron dan neutron.",2020200,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.2.3,"Membuat urutan model struktur atom berdasarkan Model Atom Dalton, Thomson, Rutherford, Bohr dan Chadwick.",2020300,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.3.1,Mendefinisi nombor proton dan nombor nukleon.,2030100,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.3.2,"Menentukan nombor nukleon, nombor proton dan bilangan elektron dalam sesuatu atom.",2030200,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.3.3,Menulis perwakilan piawai bagi atom,2030300,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.3.4,Membina rajah struktur atom dan susunan elektron.,2030400,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.4.1,Mendeduksi maksud isotop.,2040100,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.4.2,Menghitung jisim atom relatif bagi isotop.,2040200,TRUE
+Kimia SM,KIM-SM,4,2.0 Jirim Dan Struktur Atom,2.4.3,Mewajarkan penggunaan isotop dalam pelbagai bidang.,2040300,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.1.1,Mengkonsepsi jisim atom relatif dan jisim molekul relatif berdasarkan skala. karbon-12,3010100,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.1.2,Menghitung jisim molekul relatif dan jisim formula relatif,3010200,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.1,Mentakrifkan mol.,3020100,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.2,"Menghubung kait pemalar Avogadro, NA, bilangan zarah dan bilangan mol",3020200,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.3,Menyatakan maksud jisim molar,3020300,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.4,"Menghubung kait jisim molar, jisim dan bilangan mol.",3020400,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.5,Menyatakan maksud isi padu molar.,3020500,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.6,"Menghubung kait isi padu molar, isi padu gas dan bilangan mol.",3020600,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.2.7,"Menyelesaikan masalah numerikal yang melibatkan bilangan zarah, bilangan mol, jisim bahan dan isi padu gas",3020700,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.3.1,"Menyatakan maksud formula kimia, formula empirik dan formula molekul.",3030100,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.3.2,Menentukan formula empirik magnesium oksida (MgO) melalui aktiviti.,3030200,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.3.3,Menentukan formula empirik kuprum(II) oksida (CuO) melalui aktivit,3030300,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.3.4,Menyelesaikan masalah numerikal yang berkaitan dengan formula empirik dan formula molekul,3030400,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.3.5,Membina formula kimia sebatian,3030500,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.4.1,Menulis persamaan kimia yang seimbang.,3040100,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.4.2,Mentafsir persamaan kimia secara kualitatif dan kuantitatif.,3040200,TRUE
+Kimia SM,KIM-SM,4,"3.0 Konsep Mol, Formula Dan Persamaan Kimia",3.4.3,Menyelesaikan masalah numerikal stoikiometri,3040300,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.1.1,Menghuraikan sejarah perkembangan Jadual Berkala Unsur.,4010100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.1.2,Mendeduksi prinsip asas penyusunan unsur dalam Jadual Berkala Unsur,4010200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.2.1,Memerihalkan Jadual Berkala Unsur moden.,4020100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.2.2,Merumuskan hubungan di antara nombor proton dengan kedudukan unsur dalam Jadual Berkala Unsur,4020200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.3.1,Menghubungkaitkan sifat lengai unsur Kumpulan 18 dengan kestabilannya.,4030100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.3.2,Mengitlak perubahan sifat fizik unsur apabila menuruni Kumpulan 18.,4030200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.3.3,Memerihalkan kegunaan unsur Kumpulan 18 dalam kehidupan harian.,4030300,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.4.1,Mengitlak perubahan sifat fizik unsur apabila menuruni Kumpulan 1,4040100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.4.2,Mengkaji sifat kimia melalui eksperimen bagi tindak balas antara unsur Kumpulan 1 dan: air; gas oksigen; klorin.,4040200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.4.3,Mengitlak perubahan kereaktifan unsur apabila menuruni Kumpulan 1.,4040300,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.4.4,Menaakul sifat fizik dan sifat kimia unsur lain dalam Kumpulan 1.,4040400,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.5.1,Mengitlak perubahan sifat fizik unsur apabila menuruni Kumpulan 17.,4050100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.5.2,Merumus sifat kimia unsur Kumpulan 17.,4050200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.5.3,Mengitlak perubahan kereaktifan unsur apabila menuruni Kumpulan 17.,4050300,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.5.4,Menaakul sifat fizik dan sifat kimia unsur lain dalam Kumpulan 17.,4050400,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.6.1,Menghuraikan tren perubahan sifat fizik unsur merentasi Kala 3.,4060100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.6.2,Mengeksperimen untuk melihat perubahan sifat kimia oksida unsur apabila merentasi Kala 3.,4060200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.6.3,Memerihalkan kegunaan unsur separa logam,4060300,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.7.1,Mengenal pasti kedudukan unsur peralihan dalam Jadual Berkala Unsur,4070100,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.7.2,Menjelaskan dengan contoh ciri-ciri istimewa bagi beberapa unsur peralihan,4070200,TRUE
+Kimia SM,KIM-SM,4,4.0 Jadual Berkala Unsur,4.7.3,Menyenaraikan kegunaan unsur peralihan dalam industri,4070300,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.1.1,Menerangkan asas pembentukan sebatian,5010100,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.2.1,Menjelaskan dengan contoh pembentukan ikatan ion.,5020100,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.2.2,Menjelaskan dengan contoh pembentukan ikatan kovalen.,5020200,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.3.2,Membandingkan ikatan ion dan ikatan kovalen,5030200,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.4.3,Menjelaskan dengan contoh pembentukan ikatan hidrogen.,5040300,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.4.4,Menerangkan kesan ikatan hidrogen ke atas sifat fizik bahan,5040400,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.5.1,Menjelaskan dengan contoh pembentukan ikatan datif.,5050100,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.6.1,Menerangkan pembentukan ikatan logam,5060100,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.6.2,Menaakul sifat kekonduksian elektrik logam.,5060200,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.7.1,Mengeksperimen untuk mengkaji perbezaan sifat sebatian kovalen dan sebatian,5070100,TRUE
+Kimia SM,KIM-SM,4,5.0   Ikatan Kimia,5.7.2,Menjelaskan dengan contoh kegunaan sebatian ion dan sebatian kovalen dalam kehidupan harian.,5070200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.1.1,Mendefinisikan asid dan alkali,6010100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.1.2,Menyatakan maksud kebesan asid,6010200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.1.3,Mengeksperimen untuk mengkaji peranan air dalam menunjukkan sifat asid dan alkali,6010300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.2.1,Menyatakan maksud pH dan kegunaannya,6020100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.2.2,Menghitung nilai pH asid dan alkali.,6020200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.2.3,Mengeksperimen untuk mengkaji hubungan nilai pH dengan kepekatan ion hidrogen dan kepekatan ion hidroksida,6020300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.3.1,"Mendefinisi asid kuat, asid lemah, alkali kuat dan alkali lemah",6030100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.3.2,Menerangkan kekuatan asid dan alkali berdasarkan darjah penceraian dalam air.,6030200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.4.1,Merumuskan sifat kimia asid dengan menjalankan eksperimen tindak balas antara: Asid dan bes; Asid dan logam reaktif; Asid dan karbonat logam,6040100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.4.2,Merumuskan sifat kimia alkali dengan menjalankan eksperimen tindak balas antara: Alkali dan asid; Alkali dan ion logam; Alkali dan garam ammonium,6040200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.5.1,Menyatakan maksud kepekatan larutan akueus,6050100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.5.2,Menyelesaikan masalah numerikal berkaitan dengan kepekatan larutan,6050200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.6.1,Menyatakan maksud larutan piawai.,6060100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.6.2,Menghuraikan penyediaan larutan piawai dengan menjalankan aktiviti penyediaan larutan piawai: daripada bahan pepejal; melalui pencairan larutan akueus,6060200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.6.3,Menyelesaikan masalah penghitungan yang melibatkan penyediaan larutan piawai dan pencairan,6060300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.7.1,Menyatakan maksud peneutralan.,6070100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.7.2,Menentukan kepekatan larutan yang tidak diketahui dengan menjalankan aktiviti pentitratan.,6070200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.7.3,Menyelesaikan masalah numerikal yang melibatkan peneutralan.,6070300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.8.1,Menyatakan maksud garam.,6080100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.8.2,Mencirikan sifat fizikal hablur garam.,6080200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.8.3,Memberi contoh garam serta kegunaannya dalam kehidupan harian,6080300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.9.1,Mengeksperimen untuk menguji keterlarutan garam dalam air dan mengelaskannya kepada garam terlarutkan atau garam tak terlarutkan.,6090100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.9.2,Menghuraikan penyediaan garam terlarutkan berdasarkan aktiviti yang dijalankan.,6090200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.9.3,Menghuraikan penyediaan garam tak terlarutkan berdasarkan aktiviti yang dijalankan,6090300,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.9.4,Mengeksperimen untuk membina persamaan ion melalui kaedah perubahan berterusan,6090400,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.10.1,Memerihalkan ujian untuk mengenal pasti gas.,6100100,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.10.2,Mengeksperimen untuk mengkaji kesan haba ke atas garam,6100200,TRUE
+Kimia SM,KIM-SM,4,"6.0 Asid, Bes Dan Garam",6.11.1,Mengeksperimen untuk mengenal pasti kation dan anion yang hadir dalam garam.,6110100,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,6.11.2,Menghuraikan ujian pengesahan bagi mengenal pasti kation dan anion,6110200,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.1.1,Mengelaskan tindak balas cepat dan tindak balas perlahan yang berlaku dalam kehidupan harian,7010100,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.1.2,Menerangkan maksud kadar tindak balas,7010200,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.1.3,Mengenal pasti perubahan yang berlaku dalam tindak balas yang boleh diperhatikan dan diukur melalui aktiviti,7010300,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.1.4,Menentukan; kadar tindak balas purata dan; kadar tindak balas pada masa tertentu,7010400,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.1.5,Menyelesaikan masalah numerikal berkaitan dengan kadar tindak balas purata dan pada masa tertentu,7010500,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.2.1,Mengeksperimen untuk mengkaji faktorfaktor yang mempengaruhi kadar tindak balas; saiz bahan tindak balas; kepekatan; suhu dan; kehadiran mangkin,7020100,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.3.1,Menjelas dengan contoh aplikasi pengetahuan tentang faktor yang mempengaruhi kadar tindak balas dalam kehidupan.,7030100,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.4.1,Menghuraikan teori perlanggaran.,7040100,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.4.2,Menjelaskan dengan contoh tenaga pengaktifan.,7040200,TRUE
+Kimia SM,KIM-SM,4,7.0 Kadar Tindak Balas,7.4.3,Mentafsir gambar rajah profil tenaga bagi tindak balas eksotermik dan endotermik,7040300,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.1.1,Memerihalkan dengan contoh aloi.,8010100,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.1.2,Mengeksperimen untuk membandingkan sifat aloi dengan logam tulennya.,8010200,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.1.3,Mewajarkan penggunaan aloi berdasarkan komposisi dan sifatnya.,8010300,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.2.1,"Memerihalkan dengan contoh jenis kaca, komposisi, sifat dan kegunaannya",8020100,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.3.1,"Memerihalkan dengan contoh bahan seramik, sifat dan kegunaannya.",8030100,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.3.2,Mengaplikasikan penggunaan seramik.,8030200,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.4.1,Menyatakan maksud bahan komposit dan sifatnya.,8040100,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.4.2,Menghuraikan dengan contoh bahan komposit dan kegunaannya.,8040200,TRUE
+Kimia SM,KIM-SM,4,8.0 Bahan Buatan Dalam Industri,8.4.3,Membanding dan membezakan sifat bahan komposit dengan komponen asalnya.,8040300,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.1.1,Memerihalkan tindak balas redoks melalui aktiviti,9010100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.1.2,Menerangkan tindak balas redoks berdasarkan perubahan nombor pengoksidaan melalui aktiviti,9010200,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.1.3,Mengkaji tindak balas penyesaran sebagai satu tindak balas redoks melalui aktiviti.,9010300,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.2.1,Memerihal keupayaan elektrod piawai,9020100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.2.2,Menentukan agen pengoksidaan dan agen penurunan berdasarkan nilai keupayaan elektrod piawai,9020200,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.3.1,Menerangkan tindak balas redoks dalam sel kimia melalui eksperimen,9030100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.4.1,Menghurai elektrolisis,9040100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.4.2,Menghuraikan elektrolisis sebatian lebur melalui aktiviti,9040200,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.4.3,Menerangkan faktor-faktor yang mempengaruhi elektrolisis larutan akueus melalui aktiviti,9040300,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.4.4,Membandingkan sel kimia dan sel elektrolisis,9040400,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.4.5,Menghuraikan penyaduran dan penulenan logam secara elektrolisis melalui aktiviti,9040500,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.5.1,Menjelaskan pengekstrakan logam daripada bijihnya melalui proses elektrolisis,9050100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.5.2,Menjelaskan pengekstrakan logam daripada bijihnya melalui proses penurunan oleh karbon,9050200,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.6.1,Menghuraikan proses kakisan logam sebagai tindak balas redoks melalui aktiviti,9060100,TRUE
+Kimia SM,KIM-SM,5,9.0 Keseimbangan Redoks,9.6.2,Mengeksperimen pencegahan pengaratan besi,9060200,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.1.1,Memahami sebatian karbon,10010100,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.1.2,Menerangkan sumber hidrokarbon,10010200,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.2.1,Menerangkan siri homolog,10020100,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.2.2,Membina formula molekul dan formula struktur dan menamakan ahli siri homolog,10020200,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.2.3,Menghuraikan sifat fizik untuk sebatian dalam sesuatu siri homolog,10020300,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.3.1,Menghuraikan sifat kimia setiap siri homolog melalui aktiviti,10030100,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.3.2,Memahami ester melalui aktiviti,10030200,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.4.1,Memerihalkan keisomeran struktur,10040100,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.4.2,Membina struktur isomer,10040200,TRUE
+Kimia SM,KIM-SM,5,10.0 Sebatian Karbon,10.4.3,Menjelaskan dengan contoh kegunaan setiap siri homolog dalam kehidupan harian,10040300,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.1.1,Mendeduksikan tindak balas eksotermik dan endotermik,11010100,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.1.2,Mentafsir gambar rajah aras tenaga.,11010200,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.2.1,Menentukan haba pemendakan melalui aktiviti,11020100,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.2.2,Menentukan haba penyesaran melalui aktiviti,11020200,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.2.3,"Membandingkan haba peneutralan bagi tindak balas antara berikut melalui eksperimen:(a) asid kuat dan alkali kuat,(b) asid lemah dan alkali kuat,(c) asid kuat dan alkali lemah,(d) asid lemah dan alkali lemah",11020300,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.2.4,Membandingkan haba pembakaran bagi beberapa jenis alkohol melalui eksperimen,11020400,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.3.1,Menyatakan beberapa contoh aplikasi tindak balas eksotermik dan endotermik dalam kehidupan harian,11030100,TRUE
+Kimia SM,KIM-SM,5,11.0 Termokimia,11.3.2,Menganalisis nilai bahan api.,11030200,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.1.1,Menerangkan polimer,12010100,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.1.2,Menjelaskan tindak balas pempolimeran,12010200,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.1.3,Mewajarkan kegunaan polimer dalam kehidupan harian,12010300,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.2.1,"Menerangkan getah asli dari segi penamaan, formula struktur dan sifatnya",12020100,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.2.2,Mengeksperimen penggumpalan lateks.,12020200,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.2.3,Menerangkan proses pemvulkanan getah dengan menggunakan sulfur melalui aktiviti,12020300,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.2.4,Mengkaji sifat kekenyalan getah tervulkan dan getah tak tervulkan melalui eksperimen,12020400,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.3.1,Menerangkan getah sintetik.,12030100,TRUE
+Kimia SM,KIM-SM,5,12.0 Polimer,12.3.2,Mewajarkan kegunaan getah asli dan getah sintetik,12030200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.1.1,Membanding beza minyak dan lemak.,13010100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.1.2,Menerangkan proses penukaran lemak tak tepu kepada lemak tepu,13010200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.1.3,Mewajarkan penggunaan minyak dan lemak dalam kehidupan harian,13010300,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.2.1,Memerihalkan sabun dan detergen,13020100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.2.2,Menghuraikan proses penyediaan sabun melalui aktiviti,13020200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.2.3,Membandingkan tindakan pencucian sabun dan detergen melalui eksperimen.,13020300,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.3.1,Menghuraikan dengan contoh jenis bahan tambah makanan dan fungsinya.,13030100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.3.2,Mewajarkan penggunaan bahan tambah makanan,13030200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.4.1,"Menjelaskan dengan contoh jenis ubat, fungsi dan kesan sampingannya",13040100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.4.2,Mewajarkan penggunaan ubat.,13040200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.4.3,Menjelaskan dengan contoh bahan kosmetik.,13040300,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.4.4,Mewajarkan penggunaan bahan kosmetik,13040400,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.5.1,Menerangkan maksud nanoteknologi,13050100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.5.2,Menghuraikan nanoteknologi dengan contoh dan aplikasi dalam kehidupan harian,13050200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.6.1,Menerangkan dengan contoh teknologi hijau.,13060100,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.6.2,Menghuraikan aplikasi Teknologi Hijau dalam sektor pengurusan sisa dan air sisa industri.,13060200,TRUE
+Kimia SM,KIM-SM,5,13.0 Kimia Konsumer Dan Industri,13.6.3,Mewajarkan aplikasi Teknologi Hijau dalam kehidupan.,13060300,TRUE

@@ -1,0 +1,241 @@
+﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.1.1,Mengenal pasti lapan arah mata angin.,1010100,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.1.2,Menggunakan matahari sebagai panduan untuk menentukan arah mata angin.,1010200,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.1.3,Menggunakan kompas untuk menentukan arah mata angin.,1010300,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.1.4,Mengukur bearing sudutan pada peta dengan menggunakan jangka sudut.,1010400,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.2.1,Membincangkan kedudukan relatif sesuatu tempat berdasarkan peta.,1020100,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.2.2,Mengaplikasikan latitud dan longitud untuk mengenal pasti kedudukan sesuatu tempat.,1020200,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.3.1,Menggunakan peta lakar yang tepat dengan ciri-ciri peta.,1030100,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.3.2,Menggunakan simbol yang tepat dalam peta lakar.,1030200,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.3.3,Membezakan pandang darat fizikal dan pandang darat budaya berdasarkan simbol dalam peta lakar.,1030300,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.3.4,Menghasilkan peta lakar yang lengkap berdasarkan pandang darat setempat.,1030400,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.4.1,Menentukan kedudukan negeri-negeri dan Wilayah Persekutuan di Malaysia berdasarkan peta.,1040100,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.4.2,"Menentukan kedudukan ibu negeri, ibu negara Malaysia dan pusat pentadbiran kerajaan persekutuan di Malaysia berdasarkan peta.",1040200,TRUE
+Geografi SM,GEO-SM,1,Kemahiran Geografi,1.4.3,Melakar peta Malaysia yang lengkap dengan berpandukan peta sebenar.,1040300,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.1.1,Menjelaskan empat sistem fizikal bumi.,2010100,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.1.2,Menjelaskan struktur bumi.,2010200,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.1.3,"Mengenal pasti benua, lautan, laut utama dan selat.",2010300,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.1.4,Membincangkan kesan pergerakan kerak bumi.,2010400,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.2.1,Membincangkan pelbagai bentuk muka bumi di Malaysia.,2020100,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.2.2,Menentukan lokasi pelbagai bentuk muka bumi di Malaysia.,2020200,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.2.3,Membandingkan kepentingan pelbagai bentuk muka bumi di Malaysia.,2020300,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.3.1,Membincangkan pandang darat fizikal di setiap peringkat aliran sungai.,2030100,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.3.2,Mengenal pasti nama sungai dan tasik utama di atas peta Malaysia.,2030200,TRUE
+Geografi SM,GEO-SM,1,Bentuk Muka Bumi Dan Saliran,2.3.3,Membandingkan kepentingan sungai dan tasik utama di Malaysia.,2030300,TRUE
+Geografi SM,GEO-SM,1,Penduduk Dan Petempatan,3.1.1,Menjelaskan dengan contoh taburan penduduk di Malaysia.,3010100,TRUE
+Geografi SM,GEO-SM,1,Penduduk Dan Petempatan,3.1.2,Membincangkan faktor-faktor yang mempengaruhi taburan penduduk di Malaysia.,3010200,TRUE
+Geografi SM,GEO-SM,1,Penduduk Dan Petempatan,3.2.1,Membincangkan jenis petempatan yang terdapat di Malaysia.,3020100,TRUE
+Geografi SM,GEO-SM,1,Penduduk Dan Petempatan,3.2.2,Menjelaskan dengan contoh empat pola penempatan di Malaysia.,3020200,TRUE
+Geografi SM,GEO-SM,1,Penduduk Dan Petempatan,3.2.3,Membezakan fungsi petempatan bandar dan luar bandar di Malaysia.,3020300,TRUE
+Geografi SM,GEO-SM,1,Asia Tenggara,4.1.1,Melengkapkan peta Asia Tenggara dengan nama negara.,4010100,TRUE
+Geografi SM,GEO-SM,1,Asia Tenggara,4.1.2,Menjelaskan dengan contoh bentuk muka bumi di Asia Tenggara.,4010200,TRUE
+Geografi SM,GEO-SM,1,Asia Tenggara,4.1.3,Menjelaskan dengan contoh sungai dan tasik utama di Asia Tenggara.,4010300,TRUE
+Geografi SM,GEO-SM,1,Asia Tenggara,4.2.1,Membincangkan taburan penduduk di Asia Tenggara.,4020100,TRUE
+Geografi SM,GEO-SM,1,Asia Tenggara,4.2.2,Menilai fungsi petempatan bandar utama di Asia Tenggara.,4020200,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.1.1,Mengenal pasti jenis sumber air.,5010100,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.1.2,Menjelaskan dengan contoh punca krisis air di Malaysia.,5010200,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.1.3,Membincangkan kesan krisis air di Malaysia.,5010300,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.1.4,Menerangkan langkah-langkah mengurangkan kesan krisis air.,5010400,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.2.1,Mengenal pasti jenis sisa domestik.,5020100,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.2.2,Menjelaskan dengan contoh sisa domestik di Malaysia.,5020200,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.2.3,Membincangkan kesan pembuangan sisa domestik di Malaysia.,5020300,TRUE
+Geografi SM,GEO-SM,1,Isu Dan Pengurusan Alam Sekitar,5.2.4,Menerangkan langkah-langkah mengurangkan kesan pembuangan sisa domestik.,5020400,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.1.1,"Menyatakan jarak mutlak, jarak relatif, skala penyata, skala lurus dan pecahan wakilan.",1010100,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.1.2,"Menerangkan jarak mutlak, jarak relatif, skala penyata, skala lurus dan pecahan wakilan.",1010200,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.1.3,"Menggunakan skala penyata, skala lurus dan pecahan wakilan untuk menentukan jarak sebenar.",1010300,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.1.4,Menentukan jarak sebenar berpandukan skala pada peta.,1010400,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.1,Menyatakan maksud peta topografi.,1020100,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.2,Mengenal pasti garisan timuran dan garisan utaraan dalam peta topografi.,1020200,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.3,Menyatakan rujukan grid.,1020300,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.4,Menerangkan perbezaan kegunaan rujukan grid 4 angka dan 6 angka.,1020400,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.5,Menunjuk cara membaca rujukan grid 4 angka dan 6 angka untuk menentukan kedudukan dalam peta topografi.,1020500,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.6,Menganalisis hubung kait ciri pandang darat fizikal dan ciri pandang darat budaya dalam peta topografi.,1020600,TRUE
+Geografi SM,GEO-SM,2,Kemahiran Geografi,1.2.7,Mentafsir peta topografi secara keseluruhan.,1020700,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.1.1,Mengenal pasti dua cara pergerakan bumi.,2010100,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.1.2,Menerangkan tentang putaran bumi dan peredaran bumi.,2010200,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.1.3,Menunjukkan kesan putaran bumi.,2010300,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.1.4,Menunjukkan kesan peredaran bumi.,2010400,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.1.5,Membahaskan kesan pergerakan bumi terhadap cuaca dan iklim.,2010500,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.2.1,Mengenal pasti jenis dan ciri iklim di Malaysia.,2020100,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.2.2,Menjelaskan ciri iklim khatulistiwa di Malaysia.,2020200,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.2.3,Menghuraikan pengaruh cuaca dan iklim terhadap kegiatan manusia di Malaysia.,2020300,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.2.4,Menilai kesan kegiatan manusia terhadap cuaca dan iklim di Malaysia.,2020400,TRUE
+Geografi SM,GEO-SM,2,Cuaca Dan Iklim,2.2.5,Merumuskan perubahan cuaca dan iklim di Malaysia.,2020500,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.1,Mengenal pasti jaringan jalan raya dan jaringan landasan kereta api di Malaysia.,3010100,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.2,Mengenal pasti lapangan terbang antarabangsa dan pelabuhan utama di Malaysia.,3010200,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.3,Memberi contoh pengangkutan awam di Malaysia.,3010300,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.4,Menghuraikan faktor-faktor yang mempengaruhi jaringan pengangkutan di Malaysia.,3010400,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.5,"Membezakan kepentingan pengangkutan darat, udara dan air di Malaysia.",3010500,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.6,Menilai kepentingan pengangkutan awam di Malaysia.,3010600,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.1.7,Mencadangkan amalan pengangkutan dan perjalanan lestari.,3010700,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.2.1,Mengenal pasti alat telekomunikasi di Malaysia.,3020100,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.2.2,Menerangkan kemajuan alat telekomunikasi di Malaysia.,3020200,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.2.3,Membahaskan kepentingan telekomunikasi di Malaysia.,3020300,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.2.4,Menilai kesan telekomunikasi terhadap pembangunan negara di Malaysia.,3020400,TRUE
+Geografi SM,GEO-SM,2,Pengangkutan Dan Telekomunikasi,3.2.5,Menentukan penggunaan alat telekomunikasi secara beretika.,3020500,TRUE
+Geografi SM,GEO-SM,2,Asia,4.1.1,Mengenal pasti kepelbagaian iklim di Asia.,4010100,TRUE
+Geografi SM,GEO-SM,2,Asia,4.1.2,"Menerangkan ciri iklim di zon iklim panas, zon iklim panas sederhana, zon iklim sejuk dan zon iklim sejuk sederhana di Asia.",4010200,TRUE
+Geografi SM,GEO-SM,2,Asia,4.1.3,"Menunjukkan negara di Asia yang mengalami iklim di zon iklim panas, zon iklim panas sederhana, zon iklim sejuk dan zon iklim sejuk sederhana.",4010300,TRUE
+Geografi SM,GEO-SM,2,Asia,4.1.4,Membandingkan pengaruh iklim terhadap kegiatan manusia di Asia.,4010400,TRUE
+Geografi SM,GEO-SM,2,Asia,4.2.1,"Mengenal pasti jaringan landasan kereta api, lapangan terbang antarabangsa dan pelabuhan utama di Asia.",4020100,TRUE
+Geografi SM,GEO-SM,2,Asia,4.2.2,Menghuraikan kemajuan pengangkutan di Asia.,4020200,TRUE
+Geografi SM,GEO-SM,2,Asia,4.2.3,"Menilai kesan pengangkutan terhadap masyarakat, ekonomi dan alam sekitar di Asia.",4020300,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.1,Menyatakan konsep pemanasan global.,5010100,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.2,Memberi contoh faktor yang menyebabkan pemanasan global.,5010200,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.3,Menghuraikan aktiviti manusia yang menyebabkan pemanasan global.,5010300,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.4,Menghuraikan faktor semula jadi yang menyebabkan pemanasan global.,5010400,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.5,Menilai kesan pemanasan global.,5010500,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.1.6,Membahaskan langkah-langkah mengurangkan pemanasan global.,5010600,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.2.1,Menyatakan konsep teknologi hijau.,5020100,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.2.2,Menerangkan ciri-ciri produk teknologi hijau.,5020200,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.2.3,Menunjukkan contoh produk teknologi hijau.,5020300,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.2.4,Membahaskan kepentingan teknologi hijau.,5020400,TRUE
+Geografi SM,GEO-SM,2,Isu Dan Pengurusan Alam Sekitar,5.2.5,Mencadangkan amalan berkonsepkan teknologi hijau.,5020500,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.1.1,Menerangkan ciri serta kegunaan jadual dan graf.,1010100,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.1.2,"Menjelaskan dengan contoh graf bar mudah, graf garisan mudah dan graf gabungan.",1010200,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.1.3,Membina jadual berdasarkan maklumat yang diperoleh.,1010300,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.1.4,"Membina graf bar mudah, graf garisan mudah dan graf gabungan berdasarkan jadual.",1010400,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.1.5,"Mentafsir jadual, graf bar mudah, graf garisan mudah dan graf gabungan.",1010500,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.2.1,Menerangkan ciri dan kegunaan carta pai.,1020100,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.2.2,Membina carta pai berdasarkan jadual.,1020200,TRUE
+Geografi SM,GEO-SM,3,Kemahiran Geografi,1.2.3,Mentafsir carta pai.,1020300,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.1.1,Mengenal pasti faktor persekitaran fizikal yang mempengaruhi kepelbagaian tumbuh- tumbuhan semula jadi dan hidupan liar.,2010100,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.1.2,"Menghuraikan faktor bentuk muka bumi, saliran, tanih dan iklim yang mempengaruhi kepelbagaian tumbuh- tumbuhan semula jadi dan hidupan liar.",2010200,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.1.3,"Menganalisis pengaruh bentuk muka bumi, saliran dan tanih terhadap jenis tumbuh- tumbuhan semula jadi dan hidupan liar.",2010300,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.1.4,Menganalisis pengaruh iklim terhadap jenis tumbuh-tumbuhan semula jadi dan hidupan liar.,2010400,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.2.1,Mengenal pasti jenis dan taburan tumbuh- tumbuhan semula jadi di Malaysia.,2020100,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.2.2,Menghuraikan faktor yang mempengaruhi jenis dan taburan tumbuh-tumbuhan semula jadi di Malaysia.,2020200,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.2.3,Menjelaskan melalui contoh kepentingan tumbuh-tumbuhan semula jadi di Malaysia.,2020300,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.2.4,Merumuskan kesan kegiatan manusia terhadap tumbuh- tumbuhan semula jadi di Malaysia.,2020400,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.3.1,Mengenal pasti hidupan liar di Malaysia.,2030100,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.3.2,Menghuraikan kepentingan hidupan liar di Malaysia.,2030200,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.3.3,Membahaskan kegiatan manusia yang mengancam hidupan liar di Malaysia.,2030300,TRUE
+Geografi SM,GEO-SM,3,Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar,2.3.4,Menjelaskan melalui contoh usaha pemeliharaan dan pemuliharaan hidupan liar di Malaysia.,2030400,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.1.1,Menamakan sumber semula jadi di Malaysia.,3010100,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.1.2,Mengenal pasti taburan sumber boleh baharu dan sumber tidak boleh baharu di Malaysia.,3010200,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.1.3,Menghuraikan sumber boleh baharu dan sumber tidak boleh baharu di Malaysia.,3010300,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.1.4,Merumuskan kepentingan sumber semula jadi dalam pembangunan ekonomi di Malaysia.,3010400,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.2.1,"Menjelaskan jenis kegiatan ekonomi primer, sekunder dan tertier di Malaysia.",3020100,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.2.2,Menjelaskan dengan contoh taburan kegiatan ekonomi utama di Malaysia.,3020200,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.2.3,Menghuraikan faktor yang mempengaruhi kegiatan ekonomi di Malaysia.,3020300,TRUE
+Geografi SM,GEO-SM,3,Sumber Semula Jadi Dan Kegiatan Ekonomi,3.2.4,Membahaskan kepentingan kegiatan ekonomi di Malaysia.,3020400,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.1.1,"Mengenal pasti tumbuh-tumbuhan semula jadi dan hidupan liar di Gurun Panas, Hutan Monsun Tropika, Hutan Daun Luruh Sederhana dan Hutan Konifer.",4010100,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.1.2,"Menjelaskan melalui contoh ciri tumbuh-tumbuhan semula jadi dan hidupan liar di Gurun Panas, Hutan Monsun Tropika, Hutan Daun Luruh Sederhana dan Hutan Konifer.",4010200,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.1.3,"Merumuskan kepentingan tumbuh- tumbuhan semula jadi dan hidupan liar di Gurun Panas, Hutan Monsun Tropika, Hutan Daun Luruh Sederhana dan Hutan Konifer.",4010300,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.2.1,Mengenal pasti sumber semula jadi utama di dunia.,4020100,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.2.2,Menjelaskan taburan sumber semula jadi utama di dunia.,4020200,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.2.3,Menghuraikan krisis sumber semula jadi di dunia.,4020300,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.2.4,Menjelaskan melalui contoh kerjasama ekonomi antarabangsa berkaitan sumber semula jadi.,4020400,TRUE
+Geografi SM,GEO-SM,3,Dunia,4.2.5,Merumuskan kepentingan kerjasama ekonomi antarabangsa.,4020500,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.1.1,Menjelaskan sumber hutan.,5010100,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.1.2,Menghuraikan kepentingan pengurusan sumber hutan.,5010200,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.1.3,Menjelaskan melalui contoh usaha pemeliharaan dan pemuliharaan sumber hutan.,5010300,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.1.4,Membezakan peranan agensi yang berkaitan dengan pengurusan hutan di Malaysia.,5010400,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.2.1,"Menerangkan elemen kitar semula (3R- Reduce, Reuse dan Recycle).",5020100,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.2.2,Menghuraikan kepentingan amalan kitar semula.,5020200,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.2.3,Menjelaskan melalui contoh aktiviti kitar semula.,5020300,TRUE
+Geografi SM,GEO-SM,3,Isu Dan Pengurusan Alam Sekitar,5.2.4,Membandingkan amalan kitar semula di negara lain.,5020400,TRUE
+Geografi SM,GEO-SM,4,Arah Dan Kedudukan Dalam Peta Topografi,1.1.1,Mengenal pasti lapan arah mata angin utama,1010100,TRUE
+Geografi SM,GEO-SM,4,Arah Dan Kedudukan Dalam Peta Topografi,1.1.2,Menentukan arah sesuatu lokasi dalam peta topografi.,1010200,TRUE
+Geografi SM,GEO-SM,4,Arah Dan Kedudukan Dalam Peta Topografi,1.1.3,Menggunakan rujukan grid 4 angka dan 6 angka untuk menentukan kedudukan dalam peta topografi.,1010300,TRUE
+Geografi SM,GEO-SM,4,Arah Dan Kedudukan Dalam Peta Topografi,1.1.4,Mengukur bearing grid sesuatu lokasi dalam peta topografi.,1010400,TRUE
+Geografi SM,GEO-SM,4,"Skala, Jarak Dan Luas Dalam Peta Topografi",1.2.1,Menerangkan jenis skala dalam peta topografi.,1020100,TRUE
+Geografi SM,GEO-SM,4,"Skala, Jarak Dan Luas Dalam Peta Topografi",1.2.2,"Membezakan skala penyata, skala lurus dan pecahan wakilan",1020200,TRUE
+Geografi SM,GEO-SM,4,"Skala, Jarak Dan Luas Dalam Peta Topografi",1.2.3,Menunjuk cara mengukur jarak berdasarkan skala dalam peta topografi.,1020300,TRUE
+Geografi SM,GEO-SM,4,"Skala, Jarak Dan Luas Dalam Peta Topografi",1.2.4,Menunjuk cara mengira keluasan berdasarkan skala dalam peta topografi.,1020400,TRUE
+Geografi SM,GEO-SM,4,Ketinggian Dan Keratan Rentas Dalam Peta Topografi,1.3.1,Mengenal pasti ketinggian berdasarkan simbol dalam peta topografi.,1030100,TRUE
+Geografi SM,GEO-SM,4,Ketinggian Dan Keratan Rentas Dalam Peta Topografi,1.3.2,Melukis keratan rentas berdasarkan garisan kontur.,1030200,TRUE
+Geografi SM,GEO-SM,4,Ketinggian Dan Keratan Rentas Dalam Peta Topografi,1.3.3,Membezakan bentuk muka bumi berdasarkan keratan rentas.,1030300,TRUE
+Geografi SM,GEO-SM,4,Pandang Darat Fizikal Dan Pandang Darat Budaya Dalam Peta Topografi,1.4.1,Mengenal pasti ciri pandang darat fizikal dan ciri padang darat budaya.,1040100,TRUE
+Geografi SM,GEO-SM,4,Pandang Darat Fizikal Dan Pandang Darat Budaya Dalam Peta Topografi,1.4.2,Menghuraikan ciri pandang darat fizikal dan ciri pandang darat budaya berdasarkan simbol dalam peta topografi.,1040200,TRUE
+Geografi SM,GEO-SM,4,Pandang Darat Fizikal Dan Pandang Darat Budaya Dalam Peta Topografi,1.4.3,Menganalisis hubung kait ciri pandang darat fizikal dengan ciri pandang darat budaya dalam peta topografi.,1040300,TRUE
+Geografi SM,GEO-SM,4,Pergerakan Plat Tektonik,2.1.1,"Menjelaskan kerak bumi, mantel dan teras bumi dalam struktur bumi.",2010100,TRUE
+Geografi SM,GEO-SM,4,Pergerakan Plat Tektonik,2.1.2,Menerangkan sempadan plat tektonik dunia.,2010200,TRUE
+Geografi SM,GEO-SM,4,Pergerakan Plat Tektonik,2.1.3,Menghuraikan kesan pergerakan plat tektonik.,2010300,TRUE
+Geografi SM,GEO-SM,4,Pergerakan Plat Tektonik,2.1.4,"Menganalisis kesan tsunami, gempa bumi dan letusan gunung berapi terhadap manusia dan alam sekitar.",2010400,TRUE
+Geografi SM,GEO-SM,4,Pergerakan Plat Tektonik,2.1.5,"Menghuraikan langkah- langkah yang dilaksanakan bagi mengurangkan risiko bencana tsunami, gempa bumi dan letusan gunung berapi.",2010500,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kepentingan Batuan,2.2.1,"Mengenal pasti batuan igneus, batuan enapan dan batuan metamorfosis.",2020100,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kepentingan Batuan,2.2.2,"Menjelaskan pembentukan batuan igneus, batuan enapan dan batuan metamorfosis.",2020200,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kepentingan Batuan,2.2.3,"Menerangkan taburan batuan igneus, batuan enapan dan batuan metamorfosis di Malaysia.",2020300,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kepentingan Batuan,2.2.4,"Membuat justifikasi kepentingan batuan igneus, batuan enapan dan batuan metamorfosis.",2020400,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Luluh Hawa,2.3.1,Menjelaskan konsep dan jenis luluhawa.,2030100,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Luluh Hawa,2.3.2,Menghuraikan faktor yang mempengaruhi luluhawa.,2030200,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Luluh Hawa,2.3.3,"Menghuraikan proses luluhawa fizikal, luluhawa kimia dan luluhawa biologi.",2030300,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Luluh Hawa,2.3.4,Menjelaskan melalui contoh kesan luluhawa terhadap pandang darat di kawasan Gurun Panas dan kawasan Tropika Lembap.,2030400,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Gerakan Jisim,2.4.1,Menjelaskan konsep dan jenis gerakan jisim.,2040100,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Gerakan Jisim,2.4.2,Menghuraikan faktor yang mempengaruhi gerakan jisim.,2040200,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Gerakan Jisim,2.4.3,"Menghuraikan proses kesotan tanih, aliran lumpur dan tanah runtuh.",2040300,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Gerakan Jisim,2.4.4,Menjelaskan melalui contoh kesan aliran lumpur dan tanah runtuh yang berlaku di kawasan Asia Tenggara.,2040400,TRUE
+Geografi SM,GEO-SM,4,Proses Dan Kesan Gerakan Jisim,2.4.5,Membahaskan langkah- langkah bagi mengurangkan risiko berlakunya gerakan jisim.,2040500,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kelestarian Sungai,2.5.1,Menjelaskan pembentukan sungai.,2050100,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kelestarian Sungai,2.5.2,"Menghuraikan tindakan air sungai melalui hakisan, pengangkutan dan pemendapan.",2050200,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kelestarian Sungai,2.5.3,"Membezakan bentuk muka bumi akibat tindakan air sungai di peringkat hulu, tengah dan hilir.",2050300,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kelestarian Sungai,2.5.4,Menghuraikan punca kemerosotan kualiti air sungai.,2050400,TRUE
+Geografi SM,GEO-SM,4,Pembentukan Dan Kelestarian Sungai,2.5.5,Menjelaskan melalui contoh usaha-usaha yang boleh dilaksanakan untuk melestarikan sungai.,2050500,TRUE
+Geografi SM,GEO-SM,4,Tindakan Ombak Di Pinggir Pantai,2.6.1,Mengenal pasti ombak pembina dan ombak pembinasa.,2060100,TRUE
+Geografi SM,GEO-SM,4,Tindakan Ombak Di Pinggir Pantai,2.6.2,"Menghuraikan tindakan ombak melalui hakisan, pengangkutan dan pemendapan.",2060200,TRUE
+Geografi SM,GEO-SM,4,Tindakan Ombak Di Pinggir Pantai,2.6.3,Membezakan bentuk muka bumi akibat tindakan ombak di pinggir pantai.,2060300,TRUE
+Geografi SM,GEO-SM,4,Tindakan Ombak Di Pinggir Pantai,2.6.4,Menghuraikan kesan kegiatan manusia di kawasan pinggir pantai.,2060400,TRUE
+Geografi SM,GEO-SM,4,Tindakan Ombak Di Pinggir Pantai,2.6.5,Menjelaskan melalui contoh usaha-usaha yang boleh dilaksanakan untuk memelihara dan memulihara kawasan di pinggir pantai.,2060500,TRUE
+Geografi SM,GEO-SM,4,Taburan Penduduk Dunia,3.1.1,Menjelaskan konsep taburan penduduk.,3010100,TRUE
+Geografi SM,GEO-SM,4,Taburan Penduduk Dunia,3.1.2,"Mengenal pasti taburan penduduk padat, sederhana dan jarang di dunia.",3010200,TRUE
+Geografi SM,GEO-SM,4,Taburan Penduduk Dunia,3.1.3,Menganalisis faktor- faktor yang mempengaruhi taburan penduduk di dunia.,3010300,TRUE
+Geografi SM,GEO-SM,4,Taburan Penduduk Dunia,3.1.4,Menghuraikan kesan taburan penduduk padat dan jarang di dunia.,3010400,TRUE
+Geografi SM,GEO-SM,4,Pertumbuhan Penduduk Dunia,3.2.1,Menjelaskan konsep pertumbuhan penduduk.,3020100,TRUE
+Geografi SM,GEO-SM,4,Pertumbuhan Penduduk Dunia,3.2.2,Menentukan kadar pertumbuhan penduduk.,3020200,TRUE
+Geografi SM,GEO-SM,4,Pertumbuhan Penduduk Dunia,3.2.3,Menghuraikan faktor- faktor yang mempengaruhi pertumbuhan penduduk.,3020300,TRUE
+Geografi SM,GEO-SM,4,Pertumbuhan Penduduk Dunia,3.2.4,Mentafsir struktur dan komposisi penduduk berdasarkan piramid penduduk.,3020400,TRUE
+Geografi SM,GEO-SM,4,Pertumbuhan Penduduk Dunia,3.2.5,Merumuskan kesan struktur dan komposisi penduduk kepada pembangunan negara.,3020500,TRUE
+Geografi SM,GEO-SM,4,Migrasi Penduduk,3.3.1,Menjelaskan konsep migrasi penduduk.,3030100,TRUE
+Geografi SM,GEO-SM,4,Migrasi Penduduk,3.3.2,Membezakan migrasi dalaman dengan migrasi antarabangsa.,3030200,TRUE
+Geografi SM,GEO-SM,4,Migrasi Penduduk,3.3.3,Menghuraikan faktor- faktor yang mempengaruhi migrasi dalaman dan migrasi antarabangsa.,3030300,TRUE
+Geografi SM,GEO-SM,4,Migrasi Penduduk,3.3.4,Menilai kesan migrasi terhadap sesebuah negara.,3030400,TRUE
+Geografi SM,GEO-SM,4,Migrasi Penduduk,3.3.5,Membahaskan langkah-langkah untuk mengurangkan kesan migrasi di sesebuah negara.,3030500,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.1,Menjelaskan jenis petempatan.,3040100,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.2,Menghuraikan hierarki petempatan.,3040200,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.3,Menjelaskan dengan contoh pola petempatan.,3040300,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.4,Menghuraikan faktor- faktor yang mempengaruhi pola petempatan.,3040400,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.5,Menjelaskan melalui contoh fungsi petempatan bandar dan petempatan luar bandar.,3040500,TRUE
+Geografi SM,GEO-SM,4,Petempatan,3.4.6,Membahaskan saling bergantung antara petempatan bandar dan petempatan luar bandar.,3040600,TRUE
+Geografi SM,GEO-SM,4,Urbanisasi,3.5.1,Menjelaskan konsep dan proses urbanisasi.,3050100,TRUE
+Geografi SM,GEO-SM,4,Urbanisasi,3.5.2,Menghuraikan faktor- faktor yang mempengaruhi proses urbanisasi.,3050200,TRUE
+Geografi SM,GEO-SM,4,Urbanisasi,3.5.3,Membahaskan kesan urbanisasi.,3050300,TRUE
+Geografi SM,GEO-SM,4,Urbanisasi,3.5.4,Mencadangkan langkah-langkah mengurangkan masalah urbanisasi.,3050400,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.1.1,"Mengenal pasti graf bar berganda, graf garisan berganda dan carta pai.",1010100,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.1.2,"Menghuraikan kegunaan graf bar berganda, graf garisan berganda dan carta pai.",1010200,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.1.3,"Menghasilkan graf bar berganda, graf garisan berganda dan carta pai.",1010300,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.1.4,"Menganalisis graf bar berganda, graf garisan berganda dan carta pai.",1010400,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.2.1,"Mengenal pasti foto aras bumi, foto udara dan foto satelit.",1020100,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.2.2,Menghuraikan kepentingan foto.,1020200,TRUE
+Geografi SM,GEO-SM,5,1.0  Kemahiran Geografi,1.2.3,Menganalisis maklumat pandang darat fizikal dan pandang darat budaya yang terdapat dalam foto.,1020300,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.1.1,Menerangkan konsep cuaca dan iklim.,2010100,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.1.2,Menjelaskan unsur cuaca dan iklim.,2010200,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.1.3,Menjelaskan melalui contoh fenomena cuaca dan iklim di dunia.,2010300,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.1.4,Menghuraikan persediaan menghadapi fenomena cuaca dan iklim.,2010400,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.2.1,Menjelaskan zon iklim dunia.,2020100,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.2.2,Membandingkan ciri iklim Khatulistiwa dengan ciri iklim Sejuk Sederhana Pantai Barat.,2020200,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.2.3,Menjelaskan melalui contoh pengaruh cuaca dan iklim terhadap kegiatan manusia di kawasan iklim Khatulistiwa dan iklim Sejuk Sederhana Pantai Barat.,2020300,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.2.4,Menjelaskan melalui contoh pengaruh kegiatan manusia terhadap cuaca dan iklim.,2020400,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.3.1,Mengenal pasti jenis dan taburan tumbuh-tumbuhan semula jadi di dunia.,2030100,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.3.2,Menerangkan jenis hidupan liar di zon iklim panas dan zon iklim sejuk.,2030200,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.3.3,Menghuraikan ciri tumbuh-tumbuhan semula jadi di Hutan Hujan Tropika dan Hutan Monsun Tropika.,2030300,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.3.4,Merumuskan kepentingan tumbuh-tumbuhan semula jadi dan hidupan liar terhadap keseimbangan ekosistem.,2030400,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.4.1,Menerangkan konsep pemeliharaan dan pemuliharaan.,2040100,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.4.2,Menghuraikan kegiatan manusia yang menyebabkan kepupusan tumbuh- tumbuhan semula jadi dan hidupan liar.,2040200,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.4.3,Menghuraikan kepentingan pemeliharaan dan pemuliharaan tumbuh- tumbuhan semula jadi dan hidupan liar.,2040300,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.4.4,Menjelaskan melalui contoh usaha pemeliharaan tumbuh- tumbuhan semula jadi dan hidupan liar di dunia.,2040400,TRUE
+Geografi SM,GEO-SM,5,"2.0  Cuaca, Iklim, Tumbuh-Tumbuhan Semula Jadi Dan Hidupan Liar",2.4.5,Menjelaskan melalui contoh usaha pemuliharaan tumbuh- tumbuhan semula jadi dan hidupan liar di dunia.,2040500,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.1.1,Menerangkan sumber tenaga tidak boleh baharu dan sumber tenaga boleh baharu.,3010100,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.1.2,Menjelaskan melalui contoh sumber tenaga tidak boleh baharu dan sumber tenaga boleh baharu di dunia.,3010200,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.1.3,Menghuraikan kepentingan sumber tenaga.,3010300,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.2.1,Menghuraikan kesan penerokaan sumber tenaga terhadap alam sekitar.,3020100,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.2.2,Menghuraikan kepentingan pengurusan sumber tenaga terhadap alam sekitar.,3020200,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.2.3,Membahaskan usaha pengurusan sumber tenaga di dunia.,3020300,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.3.1,Menjelaskan jenis kegiatan ekonomi utama.,3030100,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.3.2,Menghuraikan faktor yang mempengaruhi kegiatan ekonomi.,3030200,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.3.3,Menjelaskan melalui contoh kegiatan ekonomi utama di dunia.,3030300,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.3.4,Menghuraikan kepentingan kegiatan ekonomi utama di dunia.,3030400,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.3.5,Membahaskan kepentingan kerjasama ekonomi antarabangsa.,3030500,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.4.1,Mengenal pasti kesan kegiatan ekonomi terhadap alam sekitar.,3040100,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.4.2,Menghuraikan kesan kegiatan ekonomi terhadap alam sekitar.,3040200,TRUE
+Geografi SM,GEO-SM,5,3.0 Sumber Tenaga Dan Kegiatan Ekonomi,3.4.3,Membahaskan usaha mengurangkan kesan kegiatan ekonomi terhadap alam sekitar.,3040300,TRUE
