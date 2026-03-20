@@ -109,7 +109,27 @@ export default function AdminStandardsPage() {
         return;
       }
 
-      const headers = lines[0].split(",").map((h: string) => h.trim().toLowerCase());
+      // Robust CSV line parser to handle quotes and commas
+      const parseCSVLine = (line: string) => {
+        const result = [];
+        let current = "";
+        let inQuotes = false;
+        for (let i = 0; i < line.length; i++) {
+          const char = line[i];
+          if (char === '"') {
+            inQuotes = !inQuotes;
+          } else if (char === "," && !inQuotes) {
+            result.push(current.trim());
+            current = "";
+          } else {
+            current += char;
+          }
+        }
+        result.push(current.trim());
+        return result;
+      };
+
+      const headers = parseCSVLine(lines[0]).map((h: string) => h.toLowerCase());
       const required = ["subjectid", "year", "groupname", "spcode", "spdescription", "sortorder", "isactive"];
       const missing = required.filter((r: string) => headers.indexOf(r) === -1);
 
@@ -119,7 +139,7 @@ export default function AdminStandardsPage() {
       }
 
       const preview = lines.slice(1).map((line: string) => {
-        const cols = line.split(",");
+        const cols = parseCSVLine(line);
         
         const yearRaw = String(cols[headers.indexOf("year")] ?? "").trim();
         const yearParsed = parseInt(yearRaw, 10);
@@ -129,12 +149,16 @@ export default function AdminStandardsPage() {
         
         const isActiveRaw = String(cols[headers.indexOf("isactive")] ?? "").trim().toLowerCase();
 
+        // Mapping correction: 
+        // Based on user feedback, spCode and spDescription were swapped in the data.
+        // We swap the mapping here so that spCode gets the actual code and spDescription gets the text.
+        
         return {
           subjectId: cols[headers.indexOf("subjectid")]?.trim().toUpperCase(),
           year: isNaN(yearParsed) ? null : yearParsed,
           groupName: cols[headers.indexOf("groupname")]?.trim(),
-          spCode: cols[headers.indexOf("spcode")]?.trim(),
-          spDescription: cols[headers.indexOf("spdescription")]?.trim(),
+          spCode: cols[headers.indexOf("spdescription")]?.trim(), // Swapped to fix mapping
+          spDescription: cols[headers.indexOf("spcode")]?.trim(), // Swapped to fix mapping
           sortOrder: isNaN(sortOrderParsed) ? null : sortOrderParsed,
           isActive: isActiveRaw === "true"
         };
