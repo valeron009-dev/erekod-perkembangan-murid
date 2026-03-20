@@ -116,10 +116,17 @@ export default function AdminStandardsPage() {
         const result = [];
         let current = "";
         let inQuotes = false;
+        
         for (let i = 0; i < line.length; i++) {
           const char = line[i];
           if (char === '"') {
-            inQuotes = !inQuotes;
+            // Handle escaped quotes ""
+            if (inQuotes && i + 1 < line.length && line[i + 1] === '"') {
+              current += '"';
+              i++; // Skip next quote
+            } else {
+              inQuotes = !inQuotes;
+            }
           } else if (char === "," && !inQuotes) {
             result.push(current.trim());
             current = "";
@@ -128,7 +135,19 @@ export default function AdminStandardsPage() {
           }
         }
         result.push(current.trim());
-        return result;
+        
+        // Final cleanup to remove surrounding quotes and trim
+        return result.map(val => {
+          let s = val.trim();
+          if (s.startsWith('"') && s.endsWith('"')) {
+            s = s.substring(1, s.length - 1);
+          } else if (s.startsWith('"')) {
+            s = s.substring(1);
+          } else if (s.endsWith('"')) {
+            s = s.substring(0, s.length - 1);
+          }
+          return s.trim();
+        });
       };
 
       const headers = parseCSVLine(lines[0]).map((h: string) => h.toLowerCase());
@@ -333,7 +352,7 @@ export default function AdminStandardsPage() {
   };
 
   const handleFixData = async () => {
-    if (!confirm("Adakah anda pasti mahu membetulkan data yang terbalik?")) return;
+    if (!confirm("Adakah anda pasti mahu membetulkan data yang terbalik atau mempunyai simbol petikan yang salah?")) return;
     setLoading(true);
     try {
       const lsRef = collection(db, "learningStandards");
@@ -345,21 +364,41 @@ export default function AdminStandardsPage() {
       
       docs.forEach((d: any) => {
         const data = d.data();
-        const { spCode, spDescription } = data;
+        let { spCode, spDescription } = data;
+        let needsFix = false;
+        let updateData: any = {};
         
         if (!spCode || !spDescription) return;
 
+        // 1. Fix reversed data
         const isCode = (str: string) => /^\d+(\.\d+)*$/.test(str.trim());
-        
         const spCodeIsCode = isCode(spCode);
         const spDescriptionIsCode = isCode(spDescription);
 
         if (!spCodeIsCode && spDescriptionIsCode) {
-          batch.update(d.ref, {
-            spCode: spDescription,
-            spDescription: spCode,
-            updatedAt: serverTimestamp()
-          });
+          const temp = spCode;
+          spCode = spDescription;
+          spDescription = temp;
+          needsFix = true;
+        }
+
+        // 2. Fix stray quotes
+        const cleanQuotes = (str: string) => {
+          let s = str.trim();
+          let changed = false;
+          if (s.startsWith('"')) { s = s.substring(1); changed = true; }
+          if (s.endsWith('"')) { s = s.substring(0, s.length - 1); changed = true; }
+          return { value: s.trim(), changed };
+        };
+
+        const cleanedCode = cleanQuotes(spCode);
+        const cleanedDesc = cleanQuotes(spDescription);
+
+        if (cleanedCode.changed || cleanedDesc.changed || needsFix) {
+          updateData.spCode = cleanedCode.value;
+          updateData.spDescription = cleanedDesc.value;
+          updateData.updatedAt = serverTimestamp();
+          batch.update(d.ref, updateData);
           fixCount++;
         }
       });
@@ -369,7 +408,7 @@ export default function AdminStandardsPage() {
         alert(`Berjaya membetulkan ${fixCount} rekod.`);
         loadData(true);
       } else {
-        alert("Tiada rekod terbalik dijumpai.");
+        alert("Tiada rekod yang memerlukan pembetulan dijumpai.");
       }
     } catch (error) {
       console.error("Error fixing data:", error);
