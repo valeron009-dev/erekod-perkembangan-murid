@@ -24,7 +24,7 @@ import {
   ChevronsUpDown
 } from "lucide-react";
 import { getLearningStandards, saveLearningStandard, getSubjects, db } from "@/lib/firestore-helpers";
-import { doc, writeBatch, collection, getDocs, deleteDoc } from "firebase/firestore";
+import { doc, writeBatch, collection, getDocs, deleteDoc, query, where } from "firebase/firestore";
 import { Card, CardContent, CardHeader } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
@@ -39,6 +39,7 @@ export default function AdminStandardsPage() {
   const [yearFilter, setYearFilter] = useState("all");
   const [isCsvModalOpen, setIsCsvModalOpen] = useState(false);
   const [isDeleteAllModalOpen, setIsDeleteAllModalOpen] = useState(false);
+  const [isDeleteFilteredModalOpen, setIsDeleteFilteredModalOpen] = useState(false);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [bulkLoading, setBulkLoading] = useState(false);
   const [deleteLoading, setDeleteLoading] = useState(false);
@@ -256,6 +257,44 @@ export default function AdminStandardsPage() {
     }
   };
 
+  const handleDeleteFiltered = async () => {
+    if (subjectFilter === "all") return;
+    
+    setDeleteLoading(true);
+    try {
+      const lsRef = collection(db, "learningStandards");
+      let q = query(lsRef, where("subjectId", "==", subjectFilter));
+      
+      if (yearFilter !== "all") {
+        q = query(q, where("year", "==", parseInt(yearFilter)));
+      }
+      
+      const snap = await getDocs(q);
+      const docs = snap.docs;
+      
+      if (docs.length > 0) {
+        const chunks = [];
+        for (let i = 0; i < docs.length; i += 500) {
+          chunks.push(docs.slice(i, i + 500));
+        }
+
+        for (const chunk of chunks) {
+          const batch = writeBatch(db);
+          chunk.forEach((d: any) => batch.delete(d.ref));
+          await batch.commit();
+        }
+      }
+
+      setIsDeleteFilteredModalOpen(false);
+      setSelectedIds([]);
+      await loadData(true);
+    } catch (error) {
+      console.error("Error deleting filtered standards:", error);
+    } finally {
+      setDeleteLoading(false);
+    }
+  };
+
   const filteredStandards = standards.filter((s: any) => {
     const matchesSearch = s.spCode.toLowerCase().includes(searchTerm.toLowerCase()) || 
                          s.spDescription.toLowerCase().includes(searchTerm.toLowerCase());
@@ -336,6 +375,15 @@ export default function AdminStandardsPage() {
           <p className="text-slate-500 mt-1">Urus data induk Standard Pembelajaran (SP) mengikut subjek dan tahun.</p>
         </div>
         <div className="flex items-center gap-3">
+          <Button 
+            variant="outline" 
+            className="gap-2 h-11 px-6 border-orange-200 text-orange-600 hover:bg-orange-50"
+            onClick={() => setIsDeleteFilteredModalOpen(true)}
+            disabled={subjectFilter === "all"}
+          >
+            <Filter size={18} />
+            Padam Ditapis
+          </Button>
           <Button 
             variant="outline" 
             className="gap-2 h-11 px-6 border-red-200 text-red-600 hover:bg-red-50"
@@ -540,6 +588,45 @@ export default function AdminStandardsPage() {
                 Batal
               </button>
             </div>
+          </Card>
+        </div>
+      )}
+
+      {/* Delete Filtered Modal */}
+      {isDeleteFilteredModalOpen && (
+        <div className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm animate-in fade-in duration-200">
+          <Card className="w-full max-w-md border-none shadow-2xl animate-in zoom-in-95 duration-200">
+            <CardHeader className="border-b border-slate-100 p-6">
+              <h2 className="text-xl font-bold text-slate-900">Padam Standard Ditapis?</h2>
+            </CardHeader>
+            <CardContent className="p-6 space-y-6">
+              <div className="bg-orange-50 border border-orange-100 p-4 rounded-xl flex items-start gap-3">
+                <AlertCircle size={24} className="text-orange-600 shrink-0" />
+                <div className="text-sm text-orange-900">
+                  <p className="font-bold mb-1">Pengesahan Padam</p>
+                  <p>
+                    Padam semua SP bagi subjek <strong>{subjectFilter}</strong>
+                    {yearFilter !== "all" ? ` ${subjectFilter.includes("-SM") ? "Tingkatan" : "Tahun"} ${yearFilter}` : ""}?
+                  </p>
+                  <p className="mt-2 text-xs opacity-80 italic">Tindakan ini tidak boleh dikembalikan.</p>
+                </div>
+              </div>
+
+              <div className="flex gap-3">
+                <Button variant="outline" className="flex-1" onClick={() => setIsDeleteFilteredModalOpen(false)} disabled={deleteLoading}>
+                  Batal
+                </Button>
+                <Button 
+                  variant="primary" 
+                  className="flex-1 bg-orange-600 hover:bg-orange-700 text-white gap-2" 
+                  onClick={handleDeleteFiltered}
+                  disabled={deleteLoading}
+                >
+                  {deleteLoading ? <Loader2 size={18} className="animate-spin" /> : <Trash2 size={18} />}
+                  Ya, Padam Ditapis
+                </Button>
+              </div>
+            </CardContent>
           </Card>
         </div>
       )}
