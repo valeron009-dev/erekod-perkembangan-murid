@@ -360,9 +360,9 @@ const updateClassStudentCount = async (uid: string, classId: string) => {
 };
 
 // Learning Standards
-export const getLearningStandardsBySubject = async (subjectId: string, year: number) => {
+export const getLearningStandardsBySubject = async (subjectId: string, year: number, forceRefresh = false) => {
   const cacheKey = `ls_${subjectId}_${year}`;
-  if (cache[cacheKey]) return cache[cacheKey];
+  if (!forceRefresh && cache[cacheKey]) return cache[cacheKey];
 
   const lsRef = collection(db, "learningStandards");
   const q = query(

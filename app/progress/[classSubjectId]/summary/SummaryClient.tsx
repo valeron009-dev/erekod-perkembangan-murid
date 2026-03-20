@@ -45,7 +45,7 @@ export default function SummaryClient() {
   const [classData, setClassData] = useState<any>(null);
   const [students, setStudents] = useState<any[]>([]);
   const [standards, setStandards] = useState<any[]>([]);
-  const [records, setRecords] = useState<Record<string, any[]>>({});
+  const [records, setRecords] = useState<Record<string, any>>({});
   const [loading, setLoading] = useState(true);
   const [recordsLoading, setRecordsLoading] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
@@ -73,7 +73,7 @@ export default function SummaryClient() {
       // Load remaining data in parallel
       const [studentList, lsList, classInfo] = await Promise.all([
         getStudentsByClass(uid, csData.classId),
-        getLearningStandardsBySubject(csData.subjectId, csData.year),
+        getLearningStandardsBySubject(csData.subjectId, csData.year, true),
         getClassById(uid, csData.classId)
       ]);
 
@@ -87,11 +87,9 @@ export default function SummaryClient() {
       // STAGE 2: Load heavy progress records in the background
       setRecordsLoading(true);
       getProgressRecordsByClassSubject(uid, classSubjectId).then(recordList => {
-        const recordsMap: Record<string, any[]> = {};
+        const recordsMap: Record<string, any> = {};
         recordList.forEach((r: any) => {
-          const key = `${r.studentId}_${r.groupName}`;
-          if (!recordsMap[key]) recordsMap[key] = [];
-          recordsMap[key].push(r);
+          recordsMap[`${r.studentId}_${r.learningStandardId}`] = r;
         });
         setRecords(recordsMap);
         setRecordsLoading(false);
@@ -146,8 +144,11 @@ export default function SummaryClient() {
       let totalCount = 0;
 
       groupNames.forEach(group => {
-        const groupRecords = records[`${student.id}_${group}`] || [];
-        const tpNumbers = groupRecords.map(r => tpToNumber(r.tp)).filter(n => n > 0);
+        const groupStandards = standards.filter(s => s.groupName === group);
+        const tpNumbers = groupStandards.map(s => {
+          const record = records[`${student.id}_${s.id}`];
+          return tpToNumber(record?.tp || "");
+        }).filter(n => n > 0);
         
         if (tpNumbers.length > 0) {
           const sum = tpNumbers.reduce((a, b) => a + b, 0);
@@ -171,7 +172,7 @@ export default function SummaryClient() {
         overallTp: numberToTp(overallAvg)
       };
     });
-  }, [students, records, groupNames]);
+  }, [students, records, groupNames, standards]);
 
   const filteredData = useMemo(() => {
     return summaryData.filter(s => 

@@ -121,7 +121,7 @@ export default function ProgressClient() {
       // STAGE 1: Load standards and class info in parallel
       // (Students will be loaded via real-time listener)
       const [lsList, classInfo] = await Promise.all([
-        getLearningStandardsBySubject(csData.subjectId, csData.year),
+        getLearningStandardsBySubject(csData.subjectId, csData.year, true),
         getClassById(uid, csData.classId)
       ]);
 
