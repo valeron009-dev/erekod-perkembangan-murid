@@ -21,10 +21,11 @@ import {
   Trash2,
   ChevronUp,
   ChevronDown,
-  ChevronsUpDown
+  ChevronsUpDown,
+  RefreshCw
 } from "lucide-react";
 import { getLearningStandards, saveLearningStandard, getSubjects, db } from "@/lib/firestore-helpers";
-import { doc, writeBatch, collection, getDocs, deleteDoc, query, where } from "firebase/firestore";
+import { doc, writeBatch, collection, getDocs, deleteDoc, query, where, serverTimestamp } from "firebase/firestore";
 import { Card, CardContent, CardHeader } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
@@ -150,16 +151,12 @@ export default function AdminStandardsPage() {
         
         const isActiveRaw = String(cols[headers.indexOf("isactive")] ?? "").trim().toLowerCase();
 
-        // Mapping correction: 
-        // Based on user feedback, spCode and spDescription were swapped in the data.
-        // We swap the mapping here so that spCode gets the actual code and spDescription gets the text.
-        
         return {
           subjectId: cols[headers.indexOf("subjectid")]?.trim().toUpperCase(),
           year: isNaN(yearParsed) ? null : yearParsed,
           groupName: cols[headers.indexOf("groupname")]?.trim(),
-          spCode: cols[headers.indexOf("spdescription")]?.trim(), // Swapped to fix mapping
-          spDescription: cols[headers.indexOf("spcode")]?.trim(), // Swapped to fix mapping
+          spCode: cols[headers.indexOf("spcode")]?.trim(),
+          spDescription: cols[headers.indexOf("spdescription")]?.trim(),
           sortOrder: isNaN(sortOrderParsed) ? null : sortOrderParsed,
           isActive: isActiveRaw === "true"
         };
@@ -335,6 +332,53 @@ export default function AdminStandardsPage() {
     }));
   };
 
+  const handleFixData = async () => {
+    if (!confirm("Adakah anda pasti mahu membetulkan data yang terbalik?")) return;
+    setLoading(true);
+    try {
+      const lsRef = collection(db, "learningStandards");
+      const snap = await getDocs(lsRef);
+      const docs = snap.docs;
+      
+      let fixCount = 0;
+      const batch = writeBatch(db);
+      
+      docs.forEach((d: any) => {
+        const data = d.data();
+        const { spCode, spDescription } = data;
+        
+        if (!spCode || !spDescription) return;
+
+        const isCode = (str: string) => /^\d+(\.\d+)*$/.test(str.trim());
+        
+        const spCodeIsCode = isCode(spCode);
+        const spDescriptionIsCode = isCode(spDescription);
+
+        if (!spCodeIsCode && spDescriptionIsCode) {
+          batch.update(d.ref, {
+            spCode: spDescription,
+            spDescription: spCode,
+            updatedAt: serverTimestamp()
+          });
+          fixCount++;
+        }
+      });
+
+      if (fixCount > 0) {
+        await batch.commit();
+        alert(`Berjaya membetulkan ${fixCount} rekod.`);
+        loadData(true);
+      } else {
+        alert("Tiada rekod terbalik dijumpai.");
+      }
+    } catch (error) {
+      console.error("Error fixing data:", error);
+      alert("Ralat membetulkan data.");
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const SortButton = ({ columnKey, label }: { columnKey: string; label: string }) => {
     const isActive = sortConfig.key === columnKey;
     return (
@@ -374,7 +418,16 @@ export default function AdminStandardsPage() {
           <h1 className="text-3xl font-bold text-slate-900">Standard Pembelajaran</h1>
           <p className="text-slate-500 mt-1">Urus data induk Standard Pembelajaran (SP) mengikut subjek dan tahun.</p>
         </div>
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-3">
+          <Button 
+            variant="outline" 
+            className="gap-2 h-11 px-6 border-slate-200 text-slate-600 hover:bg-slate-50"
+            onClick={handleFixData}
+            disabled={loading}
+          >
+            <RefreshCw size={18} className={loading ? "animate-spin" : ""} />
+            Betulkan Data Terbalik
+          </Button>
           <Button 
             variant="outline" 
             className="gap-2 h-11 px-6 border-orange-200 text-orange-600 hover:bg-orange-50"

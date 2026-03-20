@@ -1,595 +1,593 @@
 ﻿subjectName,subjectId,year,groupName,spCode,spDescription,sortOrder,isActive
-ENGLISH SK,BI-SK,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-ENGLISH SK,BI-SK,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,True
-ENGLISH SK,BI-SK,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,True
-ENGLISH SK,BI-SK,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,True
-ENGLISH SK,BI-SK,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,True
-ENGLISH SK,BI-SK,1,Listening,1.2.5,Understand short supported questions,1020500,True
-ENGLISH SK,BI-SK,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,True
-ENGLISH SK,BI-SK,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,True
-ENGLISH SK,BI-SK,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,True
-ENGLISH SK,BI-SK,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,True
-ENGLISH SK,BI-SK,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,True
-ENGLISH SK,BI-SK,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,True
-ENGLISH SK,BI-SK,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,True
-ENGLISH SK,BI-SK,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,True
-ENGLISH SK,BI-SK,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,True
-ENGLISH SK,BI-SK,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,True
-ENGLISH SK,BI-SK,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,True
-ENGLISH SK,BI-SK,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,True
-ENGLISH SK,BI-SK,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,True
-ENGLISH SK,BI-SK,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,True
-ENGLISH SK,BI-SK,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,True
-ENGLISH SK,BI-SK,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,True
-ENGLISH SK,BI-SK,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level; Create simple non-linear and linear texts using a variety of media with guidance.,3030100,True
-ENGLISH SK,BI-SK,1,Writing,4.1.1,Demonstrate fine motor control of hands and fingers by using pen or pencil correctly. Demonstrate correct posture and pen hold grip. Develop hand-eye coordination through drawing lines and patterns,4010100,True
-ENGLISH SK,BI-SK,1,Writing,4.1.2,Form upper and lower case letters of regular size and shape** **preliterate children only; write letters and words in a straight line from left to right with regular spaces between words and spaces* *all children; copy letters and familiar high frequency words and phrases correctly* *all children,4010200,True
-ENGLISH SK,BI-SK,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,True
-ENGLISH SK,BI-SK,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,True
-ENGLISH SK,BI-SK,1,Writing,4.2.3,Express basic likes and dislikes,4020300,True
-ENGLISH SK,BI-SK,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,True
-ENGLISH SK,BI-SK,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,True
-ENGLISH SK,BI-SK,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,True
-ENGLISH SK,BI-SK,1,Writing,4.3.2,Spell familiar high frequency words accurate,4030200,True
-ENGLISH SK,BI-SK,1,Writing,4.3.3,"Plan, and write words and phrases",4030300,True
-ENGLISH SK,BI-SK,1,Writing,4.4.1,"Plan, produce and present creative works: ii. rhymes with guidance",4040100,True
-ENGLISH SK,BI-SK,1,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs,5010100,True
-ENGLISH SK,BI-SK,1,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs,5010200,True
-ENGLISH SK,BI-SK,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,True
-ENGLISH SK,BI-SK,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products other imaginative responses as appropriate.,5030100,True
-ENGLISH SK,BI-SK,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-ENGLISH SK,BI-SK,2,Listening,1.2.1,Understand with support the main idea of simple sentences,1020100,True
-ENGLISH SK,BI-SK,2,Listening,1.2.2,Understand with support specific information and details of simple sentences,1020200,True
-ENGLISH SK,BI-SK,2,Listening,1.2.3,Understand with support very short simple narratives,1020300,True
-ENGLISH SK,BI-SK,2,Listening,1.2.4,Understand an increased range of short basic supported classroom instructions,1020400,True
-ENGLISH SK,BI-SK,2,Listening,1.2.5,Understand an increased range of short supported questions,1020500,True
-ENGLISH SK,BI-SK,2,Listening,1.3.1,Understand the message the teacher or classmate is communicating by using visual clues when they are speaking,1030100,True
-ENGLISH SK,BI-SK,2,Speaking,2.1.1,Give simple personal information using basic statements,2010100,True
-ENGLISH SK,BI-SK,2,Speaking,2.1.2,Find out about personal information by asking basic questions,2010200,True
-ENGLISH SK,BI-SK,2,Speaking,2.1.3,Give a short sequence of basic instructions,2010300,True
-ENGLISH SK,BI-SK,2,Speaking,2.1.4,Ask about and express ability,2010400,True
-ENGLISH SK,BI-SK,2,Speaking,2.1.5,Describe objects using suitable words and phrases,2010500,True
-ENGLISH SK,BI-SK,2,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable non-verbal responses,2020100,True
-ENGLISH SK,BI-SK,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable statements and questions,2020200,True
-ENGLISH SK,BI-SK,2,Speaking,2.3,1Introduce self and others to an audience using fixed phrases,2030000,True
-ENGLISH SK,BI-SK,2,Reading,3.1.1,"Identify, recognise and name the letters of the alphabet",3010100,True
-ENGLISH SK,BI-SK,2,Reading,3.1.2,"Recognise and sound out with some support beginning, medial and final sounds in a word",3010200,True
-ENGLISH SK,BI-SK,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC, CVCV, CCV)",3010300,True
-ENGLISH SK,BI-SK,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC, CVCV, CCV)",3010400,True
-ENGLISH SK,BI-SK,2,Reading,3.2.1,Understand the main idea of simple sentences,3020100,True
-ENGLISH SK,BI-SK,2,Reading,3.2.2,Understand specific information and details of simple sentences,3020200,True
-ENGLISH SK,BI-SK,2,Reading,3.2.3,"Reread a word, phrase or sentence to understand meaning; Ignore unknown words in order to understand a phrase or sentence",3020300,True
-ENGLISH SK,BI-SK,2,Reading,3.2.4,"Use a picture dictionary to find, list and categorise words from Year 2 topics and theme",3020400,True
-ENGLISH SK,BI-SK,2,Reading,3.3.1,Read and enjoy simple print and digital games at sentence level,3030100,True
-ENGLISH SK,BI-SK,2,Writing,4.2.1,Ask for and give basic personal information using basic questions and statements,4020100,True
-ENGLISH SK,BI-SK,2,Writing,4.2.2,Express simple ability,4020200,True
-ENGLISH SK,BI-SK,2,Writing,4.2.3,Write short familiar instructions,4020300,True
-ENGLISH SK,BI-SK,2,Writing,4.2.4,Describe objects using suitable words and phrases,4020400,True
-ENGLISH SK,BI-SK,2,Writing,4.2.5,Connect words and phrases using basic coordinating conjunctions,4020500,True
-ENGLISH SK,BI-SK,2,Writing,4.3.1,Use capital letters and full stops appropriately in guided writing at sentence level,4030100,True
-ENGLISH SK,BI-SK,2,Writing,4.3.2,Spell a narrow range of familiar high frequency words accurately in guided writing,4030200,True
-ENGLISH SK,BI-SK,2,Writing,4.3.3,"Plan, draft and write simple sentences",4030300,True
-ENGLISH SK,BI-SK,2,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs,5010100,True
-ENGLISH SK,BI-SK,2,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs,5010200,True
-ENGLISH SK,BI-SK,2,Language Arts,5.2.1,"Name people, things, actions, or places of interest in texts",5020100,True
-ENGLISH SK,BI-SK,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple short chants or raps Other imaginative responses as appropriate,5030100,True
-ENGLISH SK,BI-SK,3,Listening,1.1,1Recognise and reproduce with support a range of target language phonemes.,1010000,True
-ENGLISH SK,BI-SK,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,True
-ENGLISH SK,BI-SK,3,Listening,1.2.1,Understand with support the main idea of short simple texts,1020100,True
-ENGLISH SK,BI-SK,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,True
-ENGLISH SK,BI-SK,3,Listening,1.2.3,Understand with support short simple narratives,1020300,True
-ENGLISH SK,BI-SK,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,True
-ENGLISH SK,BI-SK,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,True
-ENGLISH SK,BI-SK,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,True
-ENGLISH SK,BI-SK,3,Speaking,2.1.1,Explain and give reasons for basic opinions,2010100,True
-ENGLISH SK,BI-SK,3,Speaking,2.1.2,Find out about and describe basic everyday routines,2010200,True
-ENGLISH SK,BI-SK,3,Speaking,2.1.3,Give a longer sequence of basic instructions or directions,2010300,True
-ENGLISH SK,BI-SK,3,Speaking,2.1.4,Give reasons for simple predictions,2010400,True
-ENGLISH SK,BI-SK,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,True
-ENGLISH SK,BI-SK,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,True
-ENGLISH SK,BI-SK,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,True
-ENGLISH SK,BI-SK,3,Speaking,2.3.1,Narrate short basic stories,2030100,True
-ENGLISH SK,BI-SK,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,True
-ENGLISH SK,BI-SK,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,True
-ENGLISH SK,BI-SK,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,True
-ENGLISH SK,BI-SK,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,True
-ENGLISH SK,BI-SK,3,Reading,3.3.1,Read and enjoy A1 fiction/nonfiction print and digital texts of interest,3030100,True
-ENGLISH SK,BI-SK,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work* *all children,4010200,True
-ENGLISH SK,BI-SK,3,Writing,4.2.1,Express simple opinions,4020100,True
-ENGLISH SK,BI-SK,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,True
-ENGLISH SK,BI-SK,3,Writing,4.2.3,Give simple directions,4020300,True
-ENGLISH SK,BI-SK,3,Writing,4.2.4,Describe people and objects using suitable words and phrases,4020400,True
-ENGLISH SK,BI-SK,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,True
-ENGLISH SK,BI-SK,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,True
-ENGLISH SK,BI-SK,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,True
-ENGLISH SK,BI-SK,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences.",4030300,True
-ENGLISH SK,BI-SK,3,Language Arts,5.1.1,In addition to Year 2 text types: simple poems,5010100,True
-ENGLISH SK,BI-SK,3,Language Arts,5.1.2,In addition to Year 2 text types: simple poems,5010200,True
-ENGLISH SK,BI-SK,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,True
-ENGLISH SK,BI-SK,3,Language Arts,5.3.1,"Respond imaginatively and intelligibly hrough creating simple picture stories, simple poems and cartoon stories other imaginative responses as appropriate.",5030100,True
-ENGLISH SK,BI-SK,4,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,True
-ENGLISH SK,BI-SK,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,True
-ENGLISH SK,BI-SK,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,True
-ENGLISH SK,BI-SK,4,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,True
-ENGLISH SK,BI-SK,4,Listening,1.2.5,Understand longer supported questions.,1020500,True
-ENGLISH SK,BI-SK,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,True
-ENGLISH SK,BI-SK,4,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,True
-ENGLISH SK,BI-SK,4,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,True
-ENGLISH SK,BI-SK,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,True
-ENGLISH SK,BI-SK,4,Speaking,2.1.4,Give reasons for simple predictions.,2010400,True
-ENGLISH SK,BI-SK,4,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,True
-ENGLISH SK,BI-SK,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,True
-ENGLISH SK,BI-SK,4,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,True
-ENGLISH SK,BI-SK,4,Speaking,2.3.1,Narrate short basic stories.,2030100,True
-ENGLISH SK,BI-SK,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,True
-ENGLISH SK,BI-SK,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,True
-ENGLISH SK,BI-SK,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,True
-ENGLISH SK,BI-SK,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,True
-ENGLISH SK,BI-SK,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest.,3030100,True
-ENGLISH SK,BI-SK,4,Writing,4.1.2,Use cursive writing in written work.,4010200,True
-ENGLISH SK,BI-SK,4,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,True
-ENGLISH SK,BI-SK,4,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,True
-ENGLISH SK,BI-SK,4,Writing,4.2.3,Describe basic every day routines.,4020300,True
-ENGLISH SK,BI-SK,4,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,True
-ENGLISH SK,BI-SK,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,True
-ENGLISH SK,BI-SK,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,True
-ENGLISH SK,BI-SK,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,True
-ENGLISH SK,BI-SK,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-ENGLISH SK,BI-SK,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel.,5020100,True
-ENGLISH SK,BI-SK,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate.",5030100,True
-ENGLISH SK,BI-SK,5,Listening,1.1.1,Recognise and reproduce with little or no support a wide range of target language phonemes,1010100,True
-ENGLISH SK,BI-SK,5,Listening,1.2,2Understand with support specific information and details of longer simple texts on a range of familiar topics,1020000,True
-ENGLISH SK,BI-SK,5,Listening,1.2.1,Understand with support the main idea of longer simple texts on a range of familiar topics,1020100,True
-ENGLISH SK,BI-SK,5,Listening,1.2.3,Understand with support longer simple narratives on a range of familiar topics.,1020300,True
-ENGLISH SK,BI-SK,5,Listening,1.2.4,Understand q sequence of supported classroom instructions.,1020400,True
-ENGLISH SK,BI-SK,5,Listening,1.2.5,Understand a sequence of supported questions.,1020500,True
-ENGLISH SK,BI-SK,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words.,1030100,True
-ENGLISH SK,BI-SK,5,Speaking,2.1.1,Give detailed information about themselves.,2010100,True
-ENGLISH SK,BI-SK,5,Speaking,2.1.2,Find out about and describe experiences up to now.,2010200,True
-ENGLISH SK,BI-SK,5,Speaking,2.1.3,"Ask for,give and respond to simple advice.",2010300,True
-ENGLISH SK,BI-SK,5,Speaking,2.1.4,Ask about and describe future plans.,2010400,True
-ENGLISH SK,BI-SK,5,Speaking,2.1.5,"Describe people,place and objects using suitable statements.",2010500,True
-ENGLISH SK,BI-SK,5,Speaking,2.2.1,Keep interaction going in short exchanges by asking questions.,2020100,True
-ENGLISH SK,BI-SK,5,Speaking,2.2.2,Agree a set of basic steps needed to complete short classroom tasks.,2020200,True
-ENGLISH SK,BI-SK,5,Speaking,2.3.1,Narrate short basic stories and events.,2030100,True
-ENGLISH SK,BI-SK,5,Reading,3.2.1,Understand the main idea of simple texts of two paragraphs or more.,3020100,True
-ENGLISH SK,BI-SK,5,Reading,3.2.2,Understand specific information and details of two paragraphs or more.,3020200,True
-ENGLISH SK,BI-SK,5,Reading,3.2.3,"Guess the meaning of unfamiar words from clues provided by title,topic and other known words.",3020300,True
-ENGLISH SK,BI-SK,5,Reading,3.2.4,Use with support familiar print and digital resources to check meaning.,3020400,True
-ENGLISH SK,BI-SK,5,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest.,3030100,True
-ENGLISH SK,BI-SK,5,Writing,4.2.1,Give detailed information about themselves.,4020100,True
-ENGLISH SK,BI-SK,5,Writing,4.2.2,"Ask for,give and respond to simple advice.",4020200,True
-ENGLISH SK,BI-SK,5,Writing,4.2.3,Narrate factual events and experiences of interest.,4020300,True
-ENGLISH SK,BI-SK,5,Writing,4.2.4,"Describe people,places and objects using suitable statements.",4020400,True
-ENGLISH SK,BI-SK,5,Writing,4.2.5,Connect sentences into one or two coherent paragraphs using basic coordinating conjunctions and reference pronouns.,4020500,True
-ENGLISH SK,BI-SK,5,Writing,4.3.1,"Use capital letters,full stops,commas in lists and question marks appropriately in independent writing at discourse level.",4030100,True
-ENGLISH SK,BI-SK,5,Writing,4.3.2,Spell a range of high frequency words accurately in independent writing.,4030200,True
-ENGLISH SK,BI-SK,5,Writing,4.3.3,Produce a plan or draft of one or two paragraphs for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-ENGLISH SK,BI-SK,5,Language Arts,5.2.1,"Express in simple language why they like or dislike an event, description or character in a text.",5020100,True
-ENGLISH SK,BI-SK,5,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple role-plays and simple poems and other imaginative responses as appropriate.,5030100,True
-ENGLISH SK,BI-SK,6,Listening,1.1.1,Recognise and reproduce independently a wide range of target language phonemes.,1010100,True
-ENGLISH SK,BI-SK,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics.,1020100,True
-ENGLISH SK,BI-SK,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of longer simple texts on a range of familiar topics.,1020200,True
-ENGLISH SK,BI-SK,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics.,1020300,True
-ENGLISH SK,BI-SK,6,Listening,1.2.4,Understand longer sequences of supported classroom instructions.,1020400,True
-ENGLISH SK,BI-SK,6,Listening,1.2.5,Understand more complex supported questions.,1020500,True
-ENGLISH SK,BI-SK,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics.,1030100,True
-ENGLISH SK,BI-SK,6,Speaking,2.1.1,Give detailed information about themselves and others.,2010100,True
-ENGLISH SK,BI-SK,6,Speaking,2.1.2,Ask about and express rules and obligations.,2010200,True
-ENGLISH SK,BI-SK,6,Speaking,2.1.3,Explain and give reasons for simple advice.,2010300,True
-ENGLISH SK,BI-SK,6,Speaking,2.1.4,Ask about and describe future plans or events.,2010400,True
-ENGLISH SK,BI-SK,6,Speaking,2.1.5,Ask about and describe personality.,2010500,True
-ENGLISH SK,BI-SK,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying.,2020100,True
-ENGLISH SK,BI-SK,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks.,2020200,True
-ENGLISH SK,BI-SK,6,Speaking,2.3.1,"Narrate short stories,events and experiences.",2030100,True
-ENGLISH SK,BI-SK,6,Reading,3.2.1,Understand the main idea of simple longer texts.,3020100,True
-ENGLISH SK,BI-SK,6,Reading,3.2.2,Understand specific information and details of simple longer texts.,3020200,True
-ENGLISH SK,BI-SK,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context.,3020300,True
-ENGLISH SK,BI-SK,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning.,3020400,True
-ENGLISH SK,BI-SK,6,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest.,3030100,True
-ENGLISH SK,BI-SK,6,Writing,4.2.1,Give detailed information about themselves and others.,4020100,True
-ENGLISH SK,BI-SK,6,Writing,4.2.2,Describe future plans or events.,4020200,True
-ENGLISH SK,BI-SK,6,Writing,4.2.3,Narrate factual and imagined events and experiences.,4020300,True
-ENGLISH SK,BI-SK,6,Writing,4.2.4,Describe personality.,4020400,True
-ENGLISH SK,BI-SK,6,Writing,4.2.5,Connect sentences to two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns.,4020500,True
-ENGLISH SK,BI-SK,6,Writing,4.3.1,"Use capital letters,full stops,commas in lists,question marks and speech marks appropriately at discourse level.",4030100,True
-ENGLISH SK,BI-SK,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing.,4030200,True
-ENGLISH SK,BI-SK,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-ENGLISH SK,BI-SK,6,Language Arts,5.2.1,Describe in simple language a character's actions or feelings and explain the reasons for them.,5020100,True
-ENGLISH SK,BI-SK,6,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate.,5030100,True
-English SJKC,BI-SJKC,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-English SJKC,BI-SJKC,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,True
-English SJKC,BI-SJKC,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,True
-English SJKC,BI-SJKC,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,True
-English SJKC,BI-SJKC,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,True
-English SJKC,BI-SJKC,1,Listening,1.2.5,Understand short supported questions,1020500,True
-English SJKC,BI-SJKC,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,True
-English SJKC,BI-SJKC,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,True
-English SJKC,BI-SJKC,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,True
-English SJKC,BI-SJKC,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,True
-English SJKC,BI-SJKC,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,True
-English SJKC,BI-SJKC,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,True
-English SJKC,BI-SJKC,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,True
-English SJKC,BI-SJKC,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,True
-English SJKC,BI-SJKC,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,True
-English SJKC,BI-SJKC,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,True
-English SJKC,BI-SJKC,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,True
-English SJKC,BI-SJKC,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,True
-English SJKC,BI-SJKC,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,True
-English SJKC,BI-SJKC,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,True
-English SJKC,BI-SJKC,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,True
-English SJKC,BI-SJKC,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,True
-English SJKC,BI-SJKC,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level; Create simple non-linear and linear texts using a variety of media with guidance.,3030100,True
-English SJKC,BI-SJKC,1,Writing,4.1.1,Demonstrate fine motor control of hands and fingers by using pen or pencil correctly. Demonstrate correct posture and pen hold grip. Develop hand-eye coordination through drawing lines and patterns,4010100,True
-English SJKC,BI-SJKC,1,Writing,4.1.2,Form upper and lower case letters of regular size and shape** **preliterate children only; write letters and words in a straight line from left to right with regular spaces between words and spaces* *all children; copy letters and familiar high frequency words and phrases correctly* *all children,4010200,True
-English SJKC,BI-SJKC,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,True
-English SJKC,BI-SJKC,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,True
-English SJKC,BI-SJKC,1,Writing,4.2.3,Express basic likes and dislikes,4020300,True
-English SJKC,BI-SJKC,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,True
-English SJKC,BI-SJKC,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,True
-English SJKC,BI-SJKC,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,True
-English SJKC,BI-SJKC,1,Writing,4.3.2,Spell familiar high frequency words accurate,4030200,True
-English SJKC,BI-SJKC,1,Writing,4.3.3,"Plan, and write words and phrases",4030300,True
-English SJKC,BI-SJKC,1,Writing,4.4.1,"Plan, produce and present creative works: ii. rhymes with guidance",4040100,True
-English SJKC,BI-SJKC,1,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs,5010100,True
-English SJKC,BI-SJKC,1,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs,5010200,True
-English SJKC,BI-SJKC,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,True
-English SJKC,BI-SJKC,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products other imaginative responses as appropriate.,5030100,True
-English SJKC,BI-SJKC,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-English SJKC,BI-SJKC,2,Listening,1.2.1,Understand with support the main idea of simple sentences,1020100,True
-English SJKC,BI-SJKC,2,Listening,1.2.2,Understand with support specific information and details of simple sentences,1020200,True
-English SJKC,BI-SJKC,2,Listening,1.2.3,Understand with support very short simple narratives,1020300,True
-English SJKC,BI-SJKC,2,Listening,1.2.4,Understand an increased range of short basic supported classroom instructions,1020400,True
-English SJKC,BI-SJKC,2,Listening,1.2.5,Understand an increased range of short supported questions,1020500,True
-English SJKC,BI-SJKC,2,Listening,1.3.1,Understand the message the teacher or classmate is communicating by using visual clues when they are speaking,1030100,True
-English SJKC,BI-SJKC,2,Speaking,2.1.1,Give simple personal information using basic statements,2010100,True
-English SJKC,BI-SJKC,2,Speaking,2.1.2,Find out about personal information by asking basic questions,2010200,True
-English SJKC,BI-SJKC,2,Speaking,2.1.3,Give a short sequence of basic instructions,2010300,True
-English SJKC,BI-SJKC,2,Speaking,2.1.4,Ask about and express ability,2010400,True
-English SJKC,BI-SJKC,2,Speaking,2.1.5,Describe objects using suitable words and phrases,2010500,True
-English SJKC,BI-SJKC,2,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable non-verbal responses,2020100,True
-English SJKC,BI-SJKC,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable statements and questions,2020200,True
-English SJKC,BI-SJKC,2,Speaking,2.3,1Introduce self and others to an audience using fixed phrases,2030000,True
-English SJKC,BI-SJKC,2,Reading,3.1.1,"Identify, recognise and name the letters of the alphabet",3010100,True
-English SJKC,BI-SJKC,2,Reading,3.1.2,"Recognise and sound out with some support beginning, medial and final sounds in a word",3010200,True
-English SJKC,BI-SJKC,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC, CVCV, CCV)",3010300,True
-English SJKC,BI-SJKC,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC, CVCV, CCV)",3010400,True
-English SJKC,BI-SJKC,2,Reading,3.2.1,Understand the main idea of simple sentences,3020100,True
-English SJKC,BI-SJKC,2,Reading,3.2.2,Understand specific information and details of simple sentences,3020200,True
-English SJKC,BI-SJKC,2,Reading,3.2.3,"Reread a word, phrase or sentence to understand meaning; Ignore unknown words in order to understand a phrase or sentence",3020300,True
-English SJKC,BI-SJKC,2,Reading,3.2.4,"Use a picture dictionary to find, list and categorise words from Year 2 topics and theme",3020400,True
-English SJKC,BI-SJKC,2,Reading,3.3.1,Read and enjoy simple print and digital games at sentence level,3030100,True
-English SJKC,BI-SJKC,2,Writing,4.2.1,Ask for and give basic personal information using basic questions and statements,4020100,True
-English SJKC,BI-SJKC,2,Writing,4.2.2,Express simple ability,4020200,True
-English SJKC,BI-SJKC,2,Writing,4.2.3,Write short familiar instructions,4020300,True
-English SJKC,BI-SJKC,2,Writing,4.2.4,Describe objects using suitable words and phrases,4020400,True
-English SJKC,BI-SJKC,2,Writing,4.2.5,Connect words and phrases using basic coordinating conjunctions,4020500,True
-English SJKC,BI-SJKC,2,Writing,4.3.1,Use capital letters and full stops appropriately in guided writing at sentence level,4030100,True
-English SJKC,BI-SJKC,2,Writing,4.3.2,Spell a narrow range of familiar high frequency words accurately in guided writing,4030200,True
-English SJKC,BI-SJKC,2,Writing,4.3.3,"Plan, draft and write simple sentences",4030300,True
-English SJKC,BI-SJKC,2,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs,5010100,True
-English SJKC,BI-SJKC,2,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs,5010200,True
-English SJKC,BI-SJKC,2,Language Arts,5.2.1,"Name people, things, actions, or places of interest in texts",5020100,True
-English SJKC,BI-SJKC,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple short chants or raps Other imaginative responses as appropriate,5030100,True
-English SJKC,BI-SJKC,3,Listening,1.1,1Recognise and reproduce with support a range of target language phonemes.,1010000,True
-English SJKC,BI-SJKC,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,True
-English SJKC,BI-SJKC,3,Listening,1.2.1,Understand with support the main idea of short simple texts,1020100,True
-English SJKC,BI-SJKC,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,True
-English SJKC,BI-SJKC,3,Listening,1.2.3,Understand with support short simple narratives,1020300,True
-English SJKC,BI-SJKC,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,True
-English SJKC,BI-SJKC,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,True
-English SJKC,BI-SJKC,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,True
-English SJKC,BI-SJKC,3,Speaking,2.1.1,Ask about and express basic opinions,2010100,True
-English SJKC,BI-SJKC,3,Speaking,2.1.2,Find out about and describe basic everyday routines,2010200,True
-English SJKC,BI-SJKC,3,Speaking,2.1.3,Give a short sequence of basic directions,2010300,True
-English SJKC,BI-SJKC,3,Speaking,2.1.4,"Ask about, make and respond to simple predictions",2010400,True
-English SJKC,BI-SJKC,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,True
-English SJKC,BI-SJKC,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,True
-English SJKC,BI-SJKC,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,True
-English SJKC,BI-SJKC,3,Speaking,2.3.1,Narrate very short basic stories and events,2030100,True
-English SJKC,BI-SJKC,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,True
-English SJKC,BI-SJKC,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,True
-English SJKC,BI-SJKC,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,True
-English SJKC,BI-SJKC,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,True
-English SJKC,BI-SJKC,3,Reading,3.3.1,Read and enjoy A1 fiction or non-fiction print and digital texts of interest,3030100,True
-English SJKC,BI-SJKC,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work* *all children,4010200,True
-English SJKC,BI-SJKC,3,Writing,4.2.1,Express simple opinions,4020100,True
-English SJKC,BI-SJKC,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,True
-English SJKC,BI-SJKC,3,Writing,4.2.3,Give simple directions,4020300,True
-English SJKC,BI-SJKC,3,Writing,4.2.4,Describe people and objects using suitable words and phrases,4020400,True
-English SJKC,BI-SJKC,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,True
-English SJKC,BI-SJKC,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,True
-English SJKC,BI-SJKC,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,True
-English SJKC,BI-SJKC,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences",4030300,True
-English SJKC,BI-SJKC,3,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs; simple poems,5010100,True
-English SJKC,BI-SJKC,3,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs; simple poems,5010200,True
-English SJKC,BI-SJKC,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,True
-English SJKC,BI-SJKC,3,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple action songs on familiar topics Other imaginative responses as appropriate,5030100,True
-English SJKC,BI-SJKC,4,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,True
-English SJKC,BI-SJKC,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,True
-English SJKC,BI-SJKC,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,True
-English SJKC,BI-SJKC,4,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,True
-English SJKC,BI-SJKC,4,Listening,1.2.5,Understand longer supported questions.,1020500,True
-English SJKC,BI-SJKC,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,True
-English SJKC,BI-SJKC,4,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,True
-English SJKC,BI-SJKC,4,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,True
-English SJKC,BI-SJKC,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,True
-English SJKC,BI-SJKC,4,Speaking,2.1.4,Give reasons for simple predictions.,2010400,True
-English SJKC,BI-SJKC,4,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,True
-English SJKC,BI-SJKC,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,True
-English SJKC,BI-SJKC,4,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,True
-English SJKC,BI-SJKC,4,Speaking,2.3.1,Narrate short basic stories.,2030100,True
-English SJKC,BI-SJKC,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,True
-English SJKC,BI-SJKC,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,True
-English SJKC,BI-SJKC,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,True
-English SJKC,BI-SJKC,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,True
-English SJKC,BI-SJKC,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest.,3030100,True
-English SJKC,BI-SJKC,4,Writing,4.1.2,Use cursive writing in written work.,4010200,True
-English SJKC,BI-SJKC,4,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,True
-English SJKC,BI-SJKC,4,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,True
-English SJKC,BI-SJKC,4,Writing,4.2.3,Describe basic every day routines.,4020300,True
-English SJKC,BI-SJKC,4,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,True
-English SJKC,BI-SJKC,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,True
-English SJKC,BI-SJKC,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,True
-English SJKC,BI-SJKC,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,True
-English SJKC,BI-SJKC,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-English SJKC,BI-SJKC,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel.,5020100,True
-English SJKC,BI-SJKC,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate.",5030100,True
-English SJKC,BI-SJKC,5,Listening,1.1.1,Recognise and reproduce with little or no support a wide range of target language phonemes,1010100,True
-English SJKC,BI-SJKC,5,Listening,1.2.1,Understand with support the main idea of longer simple texts on a range of familiar topics,1020100,True
-English SJKC,BI-SJKC,5,Listening,1.2.2,Understand with support specific information and details of longer simple texts on a range of familiar topics,1020200,True
-English SJKC,BI-SJKC,5,Listening,1.2.3,Understand with support longer simple narratives on a range of familiar topics,1020300,True
-English SJKC,BI-SJKC,5,Listening,1.2.4,Understand a sequence of supported classroom instructions,1020400,True
-English SJKC,BI-SJKC,5,Listening,1.2.5,Understand a sequence of supported questions,1020500,True
-English SJKC,BI-SJKC,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words,1030100,True
-English SJKC,BI-SJKC,5,Speaking,2.1.1,Give detailed information about themselves,2010100,True
-English SJKC,BI-SJKC,5,Speaking,2.1.2,Find out about and describe experiences up to now,2010200,True
-English SJKC,BI-SJKC,5,Speaking,2.1.3,"Ask for, give and respond to simple advice",2010300,True
-English SJKC,BI-SJKC,5,Speaking,2.1.4,Ask about and describe future plans,2010400,True
-English SJKC,BI-SJKC,5,Speaking,2.1.5,"Describe people, places and objects using suitable statements",2010500,True
-English SJKC,BI-SJKC,5,Speaking,2.2.1,Keep interaction going in short exchanges by asking suitable questions,2020100,True
-English SJKC,BI-SJKC,5,Speaking,2.2.2,Agree a set of basic steps needed to complete short classroom tasks,2020200,True
-English SJKC,BI-SJKC,5,Speaking,2.3.1,Narrate short basic stories and events,2030100,True
-English SJKC,BI-SJKC,5,Reading,3.2.1,Understand the main idea of simple texts of two paragraphs or more,3020100,True
-English SJKC,BI-SJKC,5,Reading,3.2.2,Understand specific information and details of two paragraphs or more,3020200,True
-English SJKC,BI-SJKC,5,Reading,3.2.3,"Guess the meaning of unfamiliar words from clues provided by title, topic and other known words",3020300,True
-English SJKC,BI-SJKC,5,Reading,3.2.4,Use with support familiar print and digital resources to check meaning,3020400,True
-English SJKC,BI-SJKC,5,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,True
-English SJKC,BI-SJKC,5,Writing,4.2.1,Give detailed information about themselves,4020100,True
-English SJKC,BI-SJKC,5,Writing,4.2.2,"Ask for, give and respond to simple advice",4020200,True
-English SJKC,BI-SJKC,5,Writing,4.2.3,Narrate factual events and experiences of interest,4020300,True
-English SJKC,BI-SJKC,5,Writing,4.2.4,"Describe people, places and objects using suitable statements",4020400,True
-English SJKC,BI-SJKC,5,Writing,4.2.5,Connect sentences into one or two coherent paragraphs using basic coordinating conjunctions and reference pronouns,4020500,True
-English SJKC,BI-SJKC,5,Writing,4.3.1,"Use capital letters, full stops, commas in lists and question marks appropriately in independent writing at discourse level",4030100,True
-English SJKC,BI-SJKC,5,Writing,4.3.2,Spell a range of high frequency words accurately in independent writing,4030200,True
-English SJKC,BI-SJKC,5,Writing,4.3.3,Produce a plan or draft of one or two paragraphs for a familiar topic and modify this appropriately in response to feedback,4030300,True
-English SJKC,BI-SJKC,5,Language Arts,5.2.1,"Explain in simple language why they like or dislike an event, description or character in a text",5020100,True
-English SJKC,BI-SJKC,5,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple role-plays and simple poems,5030100,True
-English SJKC,BI-SJKC,6,Listening,1.1,1通过比较讲述数量。,1010000,True
-English SJKC,BI-SJKC,6,Listening,1.1.1,Recognise and reproduce with independently a wide range of target language phonemes,1010100,True
-English SJKC,BI-SJKC,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics,1020100,True
-English SJKC,BI-SJKC,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of familiar topics,1020200,True
-English SJKC,BI-SJKC,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics,1020300,True
-English SJKC,BI-SJKC,6,Listening,1.2.4,Understand longer sequences of supported classroom instructions,1020400,True
-English SJKC,BI-SJKC,6,Listening,1.2.5,Understand more complex supported questions,1020500,True
-English SJKC,BI-SJKC,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics,1030100,True
-English SJKC,BI-SJKC,6,Speaking,2.1.1,Give detailed information about themselves and others,2010100,True
-English SJKC,BI-SJKC,6,Speaking,2.1.2,Ask about and express rules and obligations,2010200,True
-English SJKC,BI-SJKC,6,Speaking,2.1.3,Explain and give reasons for simple advice,2010300,True
-English SJKC,BI-SJKC,6,Speaking,2.1.4,Ask about and describe future plans or events,2010400,True
-English SJKC,BI-SJKC,6,Speaking,2.1.5,Ask about and describe personality,2010500,True
-English SJKC,BI-SJKC,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying,2020100,True
-English SJKC,BI-SJKC,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks,2020200,True
-English SJKC,BI-SJKC,6,Speaking,2.3.1,"Narrate short basic stories, events and experiences",2030100,True
-English SJKC,BI-SJKC,6,Reading,3.2.1,Understand the main idea of simple longer texts,3020100,True
-English SJKC,BI-SJKC,6,Reading,3.2.2,Understand specific information and details of simple longer texts,3020200,True
-English SJKC,BI-SJKC,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context,3020300,True
-English SJKC,BI-SJKC,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning,3020400,True
-English SJKC,BI-SJKC,6,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,True
-English SJKC,BI-SJKC,6,Writing,4.2.1,Give detailed information about themselves and others,4020100,True
-English SJKC,BI-SJKC,6,Writing,4.2.2,Describe future plans or events,4020200,True
-English SJKC,BI-SJKC,6,Writing,4.2.3,Narrate factual and imagined events and experiences,4020300,True
-English SJKC,BI-SJKC,6,Writing,4.2.4,Describe personality,4020400,True
-English SJKC,BI-SJKC,6,Writing,4.2.5,Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns,4020500,True
-English SJKC,BI-SJKC,6,Writing,4.3.1,"Use capital letters, full stops, commas in lists, question marks and speech marks appropriately at discourse level",4030100,True
-English SJKC,BI-SJKC,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing,4030200,True
-English SJKC,BI-SJKC,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback,4030300,True
-English SJKC,BI-SJKC,6,Language Arts,5.2.1,Describe in simple language a character’s actions or feelings and explain the reasons for them,5020100,True
-English SJKC,BI-SJKC,6,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate,5030100,True
-English SJKT,BI-SJKT,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-English SJKT,BI-SJKT,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,True
-English SJKT,BI-SJKT,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,True
-English SJKT,BI-SJKT,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,True
-English SJKT,BI-SJKT,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,True
-English SJKT,BI-SJKT,1,Listening,1.2.5,Understand short supported questions,1020500,True
-English SJKT,BI-SJKT,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,True
-English SJKT,BI-SJKT,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,True
-English SJKT,BI-SJKT,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,True
-English SJKT,BI-SJKT,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,True
-English SJKT,BI-SJKT,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,True
-English SJKT,BI-SJKT,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,True
-English SJKT,BI-SJKT,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,True
-English SJKT,BI-SJKT,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,True
-English SJKT,BI-SJKT,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,True
-English SJKT,BI-SJKT,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,True
-English SJKT,BI-SJKT,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,True
-English SJKT,BI-SJKT,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,True
-English SJKT,BI-SJKT,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,True
-English SJKT,BI-SJKT,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,True
-English SJKT,BI-SJKT,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,True
-English SJKT,BI-SJKT,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,True
-English SJKT,BI-SJKT,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level,3030100,True
-English SJKT,BI-SJKT,1,Writing,4.1.2,write letters and words in a straight line from left to right with regular spaces between words and spaces*; Form upper and lower case letters of regular size and shape**; copy letters and familiar high frequency words and phrases correctly*,4010200,True
-English SJKT,BI-SJKT,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,True
-English SJKT,BI-SJKT,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,True
-English SJKT,BI-SJKT,1,Writing,4.2.3,Express basic likes and dislikes,4020300,True
-English SJKT,BI-SJKT,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,True
-English SJKT,BI-SJKT,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,True
-English SJKT,BI-SJKT,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,True
-English SJKT,BI-SJKT,1,Writing,4.3.2,Spell familiar high frequency words accurately,4030200,True
-English SJKT,BI-SJKT,1,Writing,4.3.3,Plan and write words and phrases on a narrow range of familiar topics,4030300,True
-English SJKT,BI-SJKT,1,Language Arts,5.1.1,Demonstrate appreciation through non-verbal responses to; simple chants and raps; simple rhymes; simple action songs,5010100,True
-English SJKT,BI-SJKT,1,Language Arts,5.1.2,"Say the words in simple texts, and sing simple songs with intelligible pronunciation, rhythm and intonation; simple chants and raps; simple rhymes; simple action songs",5010200,True
-English SJKT,BI-SJKT,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,True
-English SJKT,BI-SJKT,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products,5030100,True
-English SJKT,BI-SJKT,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,True
-English SJKT,BI-SJKT,2,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,True
-English SJKT,BI-SJKT,2,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,True
-English SJKT,BI-SJKT,2,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,True
-English SJKT,BI-SJKT,2,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,True
-English SJKT,BI-SJKT,2,Listening,1.2.5,Understand short supported questions,1020500,True
-English SJKT,BI-SJKT,2,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,True
-English SJKT,BI-SJKT,2,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,True
-English SJKT,BI-SJKT,2,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,True
-English SJKT,BI-SJKT,2,Speaking,2.1.3,Express basic likes and dislikes,2010300,True
-English SJKT,BI-SJKT,2,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,True
-English SJKT,BI-SJKT,2,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,True
-English SJKT,BI-SJKT,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,True
-English SJKT,BI-SJKT,2,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,True
-English SJKT,BI-SJKT,2,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,True
-English SJKT,BI-SJKT,2,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,True
-English SJKT,BI-SJKT,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,True
-English SJKT,BI-SJKT,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,True
-English SJKT,BI-SJKT,2,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,True
-English SJKT,BI-SJKT,2,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,True
-English SJKT,BI-SJKT,2,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,True
-English SJKT,BI-SJKT,2,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,True
-English SJKT,BI-SJKT,2,Reading,3.3.1,Read and enjoy simple print and digital games at word level,3030100,True
-English SJKT,BI-SJKT,2,Writing,4.1.2,write letters and words in a straight line from left to right with regular spaces between words and spaces*; Form upper and lower case letters of regular size and shape**; copy letters and familiar high frequency words and phrases correctly*,4010200,True
-English SJKT,BI-SJKT,2,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,True
-English SJKT,BI-SJKT,2,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,True
-English SJKT,BI-SJKT,2,Writing,4.2.3,Express basic likes and dislikes,4020300,True
-English SJKT,BI-SJKT,2,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,True
-English SJKT,BI-SJKT,2,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,True
-English SJKT,BI-SJKT,2,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,True
-English SJKT,BI-SJKT,2,Writing,4.3.2,Spell familiar high frequency words accurately,4030200,True
-English SJKT,BI-SJKT,2,Writing,4.3.3,Plan and write words and phrases on a narrow range of familiar topics,4030300,True
-English SJKT,BI-SJKT,2,Language Arts,5.1.1,Demonstrate appreciation through non-verbal responses to; simple chants and raps; simple rhymes; simple action songs,5010100,True
-English SJKT,BI-SJKT,2,Language Arts,5.1.2,"Say the words in simple texts, and sing simple songs with intelligible pronunciation, rhythm and intonation; simple chants and raps; simple rhymes; simple action songs",5010200,True
-English SJKT,BI-SJKT,2,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,True
-English SJKT,BI-SJKT,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products,5030100,True
-English SJKT,BI-SJKT,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,True
-English SJKT,BI-SJKT,3,Listening,1.2.1,Understand with support the main idea of short simple texts; Understand with support the main idea of short,1020100,True
-English SJKT,BI-SJKT,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,True
-English SJKT,BI-SJKT,3,Listening,1.2.3,Understand with support short simple narratives,1020300,True
-English SJKT,BI-SJKT,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,True
-English SJKT,BI-SJKT,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,True
-English SJKT,BI-SJKT,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,True
-English SJKT,BI-SJKT,3,Speaking,2.1.1,Ask about and express basic opinions,2010100,True
-English SJKT,BI-SJKT,3,Speaking,2.1.2,Find out about and describe basic everyday routines; Find out about and describe everyday routines,2010200,True
-English SJKT,BI-SJKT,3,Speaking,2.1.3,Give a short sequence of basic directions,2010300,True
-English SJKT,BI-SJKT,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,True
-English SJKT,BI-SJKT,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,True
-English SJKT,BI-SJKT,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,True
-English SJKT,BI-SJKT,3,Speaking,2.3.1,Narrate very short basic stories and events,2030100,True
-English SJKT,BI-SJKT,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,True
-English SJKT,BI-SJKT,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,True
-English SJKT,BI-SJKT,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,True
-English SJKT,BI-SJKT,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,True
-English SJKT,BI-SJKT,3,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest,3030100,True
-English SJKT,BI-SJKT,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work*; Begin to use cursive handwriting in a limited range of written work,4010200,True
-English SJKT,BI-SJKT,3,Writing,4.2.1,Express simple opinions,4020100,True
-English SJKT,BI-SJKT,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,True
-English SJKT,BI-SJKT,3,Writing,4.2.3,Give simple directions,4020300,True
-English SJKT,BI-SJKT,3,Writing,4.2.4,Describe people and objects using suitable words and phrases; Describe people and objects using suitable words,4020400,True
-English SJKT,BI-SJKT,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,True
-English SJKT,BI-SJKT,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,True
-English SJKT,BI-SJKT,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,True
-English SJKT,BI-SJKT,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences",4030300,True
-English SJKT,BI-SJKT,3,Language Arts,5.1.1,"Enjoy and appreciate rhymes, poems and songs",5010100,True
-English SJKT,BI-SJKT,3,Language Arts,5.1.2,In addition to Year 2 text types: simple poems.,5010200,True
-English SJKT,BI-SJKT,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,True
-English SJKT,BI-SJKT,3,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple action songs on familiar topics; Respond imaginatively and intelligibly through creating simple action songs on familiar topics. Other imaginative responses as appropriate. Respond imaginatively and intelligibly through creating simple action songs on familiar topics. Other imaginative responses as appropriate; Respond imaginatively and intelligibly through creating simple action songs on familiar topics Other imaginative responses as appropriate,5030100,True
-English SJKT,BI-SJKT,4,Listening,1.1.1,Recognise and reproduce with support a wide range of target language phonemes,1010100,True
-English SJKT,BI-SJKT,4,Listening,1.2.1,Understand with support the main idea of longer simple texts,1020100,True
-English SJKT,BI-SJKT,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts,1020200,True
-English SJKT,BI-SJKT,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics,1020300,True
-English SJKT,BI-SJKT,4,Listening,1.2.4,Understand longer supported classroom instructions,1020400,True
-English SJKT,BI-SJKT,4,Listening,1.2.5,Understand longer supported questions,1020500,True
-English SJKT,BI-SJKT,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic,1030100,True
-English SJKT,BI-SJKT,4,Speaking,2.1.1,Explain and give reasons for basic opinions,2010100,True
-English SJKT,BI-SJKT,4,Speaking,2.1.2,Find out about and describe experiences in the past,2010200,True
-English SJKT,BI-SJKT,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions,2010300,True
-English SJKT,BI-SJKT,4,Speaking,2.1.4,Give reasons for simple predictions,2010400,True
-English SJKT,BI-SJKT,4,Speaking,2.1.5,"Describe people, and objects using suitable statements",2010500,True
-English SJKT,BI-SJKT,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,True
-English SJKT,BI-SJKT,4,Speaking,2.2.2,Check steps needed to complete short classroom tasks,2020200,True
-English SJKT,BI-SJKT,4,Speaking,2.3.1,Narrate short basic stories,2030100,True
-English SJKT,BI-SJKT,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs,3020100,True
-English SJKT,BI-SJKT,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs,3020200,True
-English SJKT,BI-SJKT,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic,3020300,True
-English SJKT,BI-SJKT,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary,3020400,True
-English SJKT,BI-SJKT,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest,3030100,True
-English SJKT,BI-SJKT,4,Writing,4.1.2,Use cursive writing in written work* *all children,4010200,True
-English SJKT,BI-SJKT,4,Writing,4.2.1,Explain and give reasons for simple opinions,4020100,True
-English SJKT,BI-SJKT,4,Writing,4.2.2,Make and respond to simple offers and invitations,4020200,True
-English SJKT,BI-SJKT,4,Writing,4.2.3,Describe basic everyday routines,4020300,True
-English SJKT,BI-SJKT,4,Writing,4.2.4,Describe people and objects using suitable statements,4020400,True
-English SJKT,BI-SJKT,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns,4020500,True
-English SJKT,BI-SJKT,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level",4030100,True
-English SJKT,BI-SJKT,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing,4030200,True
-English SJKT,BI-SJKT,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback,4030300,True
-English SJKT,BI-SJKT,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel,5020100,True
-English SJKT,BI-SJKT,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories, simple poems and cartoon stories Other imaginative responses as appropriate",5030100,True
-English SJKT,BI-SJKT,5,Listening,1.1,1Recognise and reproduce with support a range of target language phonemes. 1Recognise and reproduce with support a range of target language phonemes. teacher To select appropriate skill,1010000,True
-English SJKT,BI-SJKT,5,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,True
-English SJKT,BI-SJKT,5,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,True
-English SJKT,BI-SJKT,5,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,True
-English SJKT,BI-SJKT,5,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,True
-English SJKT,BI-SJKT,5,Listening,1.2.5,Understand longer supported questions.,1020500,True
-English SJKT,BI-SJKT,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,True
-English SJKT,BI-SJKT,5,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,True
-English SJKT,BI-SJKT,5,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,True
-English SJKT,BI-SJKT,5,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,True
-English SJKT,BI-SJKT,5,Speaking,2.1.4,Give reasons for simple predictions.,2010400,True
-English SJKT,BI-SJKT,5,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,True
-English SJKT,BI-SJKT,5,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,True
-English SJKT,BI-SJKT,5,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,True
-English SJKT,BI-SJKT,5,Speaking,2.3.1,Narrate short basic stories.,2030100,True
-English SJKT,BI-SJKT,5,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,True
-English SJKT,BI-SJKT,5,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,True
-English SJKT,BI-SJKT,5,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,True
-English SJKT,BI-SJKT,5,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,True
-English SJKT,BI-SJKT,5,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest. teacher To select appropriate skill,3030100,True
-English SJKT,BI-SJKT,5,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,True
-English SJKT,BI-SJKT,5,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,True
-English SJKT,BI-SJKT,5,Writing,4.2.3,Describe basic every day routines.,4020300,True
-English SJKT,BI-SJKT,5,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,True
-English SJKT,BI-SJKT,5,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns. teacher To select appropriate skill,4020500,True
-English SJKT,BI-SJKT,5,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,True
-English SJKT,BI-SJKT,5,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,True
-English SJKT,BI-SJKT,5,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-English SJKT,BI-SJKT,5,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel. teacher To select appropriate skill,5020100,True
-English SJKT,BI-SJKT,5,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate. teacher To select appropriate skill",5030100,True
-English SJKT,BI-SJKT,6,Listening,1.1,1Recognise and reproduce with support a range of target language phonemes. Understand longer supported questions.,1010000,True
-English SJKT,BI-SJKT,6,Listening,1.1.1,Recognise and reproduce independently a wide range of target language phonemes,1010100,True
-English SJKT,BI-SJKT,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics,1020100,True
-English SJKT,BI-SJKT,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of familiar topicss. Understand with little or no support specific information and details of longer simple texts on a range of familiar topics; Understand with support specific information and details of longer simple texts.,1020200,True
-English SJKT,BI-SJKT,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics,1020300,True
-English SJKT,BI-SJKT,6,Listening,1.2.4,Understand longer sequences of supported classroom instructionsl,1020400,True
-English SJKT,BI-SJKT,6,Listening,1.2.5,Understand more complex supported questions,1020500,True
-English SJKT,BI-SJKT,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics,1030100,True
-English SJKT,BI-SJKT,6,Speaking,2.1.1,Give detailed information about themselves and others; Explain and give reasons for basics opinions.,2010100,True
-English SJKT,BI-SJKT,6,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,True
-English SJKT,BI-SJKT,6,Speaking,2.1.3,Explain and give reasons for simple advice; Give a longer sequence of basic instructions or directions.,2010300,True
-English SJKT,BI-SJKT,6,Speaking,2.1.4,Ask about and describe future plans or events. Ask about and describe future plans or events,2010400,True
-English SJKT,BI-SJKT,6,Speaking,2.1.5,"Describe people, and objects using suitable statements. Ask about and describe personality. Ask about and describe personality",2010500,True
-English SJKT,BI-SJKT,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying,2020100,True
-English SJKT,BI-SJKT,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks,2020200,True
-English SJKT,BI-SJKT,6,Speaking,2.3.1,"Narrate short stories, events and experiences",2030100,True
-English SJKT,BI-SJKT,6,Reading,3.2.1,Understand the main idea of simple longer texts,3020100,True
-English SJKT,BI-SJKT,6,Reading,3.2.2,Understand specific information and details of simple longer texts; Understand specific information and details of simple longer texts. Understand specific information and details of simple texts of one or two paragraphs.,3020200,True
-English SJKT,BI-SJKT,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context,3020300,True
-English SJKT,BI-SJKT,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning; Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,True
-English SJKT,BI-SJKT,6,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest. Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,True
-English SJKT,BI-SJKT,6,Writing,4.2.1,Give detailed information about themselves and others,4020100,True
-English SJKT,BI-SJKT,6,Writing,4.2.2,Describe future plans or events; Make and respond to simple offers and invitations.,4020200,True
-English SJKT,BI-SJKT,6,Writing,4.2.3,Narrate factual and imagined events and experiences. Narrate factual and imagined events and experiences,4020300,True
-English SJKT,BI-SJKT,6,Writing,4.2.4,Describe people and objects using suitable statements. Describe personality,4020400,True
-English SJKT,BI-SJKT,6,Writing,4.2.5,Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns. Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns; Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,True
-English SJKT,BI-SJKT,6,Writing,4.3.1,"Use capital letters, full stops, commas in lists, question marks and speech marks appropriately at discourse level; Use capital letters, full stops, commas in lists, question marks, and speech marks appropriately at discourse level",4030100,True
-English SJKT,BI-SJKT,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing; Spell most high frequency words accurately in guided writing.,4030200,True
-English SJKT,BI-SJKT,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback; Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,True
-English SJKT,BI-SJKT,6,Language Arts,5.2.1,Describe in simple language a character’s actions or feelings and explain the reasons for them; Say in simple words and phrases how a text makes them feel.,5020100,True
-English SJKT,BI-SJKT,6,Language Arts,5.3,Express an imaginative response to literary texts. Spell most high frequency words accurately in independent writing.,5030000,True
-English SJKT,BI-SJKT,6,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple stories and simple poems (Other imaginative responses as appropriate); Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate; Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate. Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate.",5030100,True
+ENGLISH SK,BI-SK,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.2.5,Understand short supported questions,1020500,TRUE
+ENGLISH SK,BI-SK,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,TRUE
+ENGLISH SK,BI-SK,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,TRUE
+ENGLISH SK,BI-SK,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level; Create simple non-linear and linear texts using a variety of media with guidance.,3030100,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.1.1,Demonstrate fine motor control of hands and fingers by using pen or pencil correctly. Demonstrate correct posture and pen hold grip. Develop hand-eye coordination through drawing lines and patterns,4010100,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.1.2,Form upper and lower case letters of regular size and shape** **preliterate children only; write letters and words in a straight line from left to right with regular spaces between words and spaces* *all children; copy letters and familiar high frequency words and phrases correctly* *all children,4010200,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.2.3,Express basic likes and dislikes,4020300,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.3.2,Spell familiar high frequency words accurate,4030200,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.3.3,"Plan, and write words and phrases",4030300,TRUE
+ENGLISH SK,BI-SK,1,Writing,4.4.1,"Plan, produce and present creative works: ii. rhymes with guidance",4040100,TRUE
+ENGLISH SK,BI-SK,1,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs,5010100,TRUE
+ENGLISH SK,BI-SK,1,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs,5010200,TRUE
+ENGLISH SK,BI-SK,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,TRUE
+ENGLISH SK,BI-SK,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products other imaginative responses as appropriate.,5030100,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.2.1,Understand with support the main idea of simple sentences,1020100,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.2.2,Understand with support specific information and details of simple sentences,1020200,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.2.3,Understand with support very short simple narratives,1020300,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.2.4,Understand an increased range of short basic supported classroom instructions,1020400,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.2.5,Understand an increased range of short supported questions,1020500,TRUE
+ENGLISH SK,BI-SK,2,Listening,1.3.1,Understand the message the teacher or classmate is communicating by using visual clues when they are speaking,1030100,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.1.1,Give simple personal information using basic statements,2010100,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.1.2,Find out about personal information by asking basic questions,2010200,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.1.3,Give a short sequence of basic instructions,2010300,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.1.4,Ask about and express ability,2010400,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.1.5,Describe objects using suitable words and phrases,2010500,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable non-verbal responses,2020100,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable statements and questions,2020200,TRUE
+ENGLISH SK,BI-SK,2,Speaking,2.3.1,Introduce self and others to an audience using fixed phrases,2030000,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.1.1,"Identify, recognise and name the letters of the alphabet",3010100,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.1.2,"Recognise and sound out with some support beginning, medial and final sounds in a word",3010200,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC, CVCV, CCV)",3010300,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC, CVCV, CCV)",3010400,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.2.1,Understand the main idea of simple sentences,3020100,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.2.2,Understand specific information and details of simple sentences,3020200,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.2.3,"Reread a word, phrase or sentence to understand meaning; Ignore unknown words in order to understand a phrase or sentence",3020300,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.2.4,"Use a picture dictionary to find, list and categorise words from Year 2 topics and theme",3020400,TRUE
+ENGLISH SK,BI-SK,2,Reading,3.3.1,Read and enjoy simple print and digital games at sentence level,3030100,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.2.1,Ask for and give basic personal information using basic questions and statements,4020100,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.2.2,Express simple ability,4020200,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.2.3,Write short familiar instructions,4020300,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.2.4,Describe objects using suitable words and phrases,4020400,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.2.5,Connect words and phrases using basic coordinating conjunctions,4020500,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.3.1,Use capital letters and full stops appropriately in guided writing at sentence level,4030100,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.3.2,Spell a narrow range of familiar high frequency words accurately in guided writing,4030200,TRUE
+ENGLISH SK,BI-SK,2,Writing,4.3.3,"Plan, draft and write simple sentences",4030300,TRUE
+ENGLISH SK,BI-SK,2,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs,5010100,TRUE
+ENGLISH SK,BI-SK,2,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs,5010200,TRUE
+ENGLISH SK,BI-SK,2,Language Arts,5.2.1,"Name people, things, actions, or places of interest in texts",5020100,TRUE
+ENGLISH SK,BI-SK,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple short chants or raps Other imaginative responses as appropriate,5030100,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes.,1010000,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.2.1,Understand with support the main idea of short simple texts,1020100,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.2.3,Understand with support short simple narratives,1020300,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,TRUE
+ENGLISH SK,BI-SK,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.1.1,Explain and give reasons for basic opinions,2010100,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.1.2,Find out about and describe basic everyday routines,2010200,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.1.3,Give a longer sequence of basic instructions or directions,2010300,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.1.4,Give reasons for simple predictions,2010400,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,TRUE
+ENGLISH SK,BI-SK,3,Speaking,2.3.1,Narrate short basic stories,2030100,TRUE
+ENGLISH SK,BI-SK,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,TRUE
+ENGLISH SK,BI-SK,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,TRUE
+ENGLISH SK,BI-SK,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,TRUE
+ENGLISH SK,BI-SK,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,TRUE
+ENGLISH SK,BI-SK,3,Reading,3.3.1,Read and enjoy A1 fiction/nonfiction print and digital texts of interest,3030100,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work* *all children,4010200,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.2.1,Express simple opinions,4020100,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.2.3,Give simple directions,4020300,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.2.4,Describe people and objects using suitable words and phrases,4020400,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,TRUE
+ENGLISH SK,BI-SK,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences.",4030300,TRUE
+ENGLISH SK,BI-SK,3,Language Arts,5.1.1,In addition to Year 2 text types: simple poems,5010100,TRUE
+ENGLISH SK,BI-SK,3,Language Arts,5.1.2,In addition to Year 2 text types: simple poems,5010200,TRUE
+ENGLISH SK,BI-SK,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,TRUE
+ENGLISH SK,BI-SK,3,Language Arts,5.3.1,"Respond imaginatively and intelligibly hrough creating simple picture stories, simple poems and cartoon stories other imaginative responses as appropriate.",5030100,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.2.5,Understand longer supported questions.,1020500,TRUE
+ENGLISH SK,BI-SK,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.1.4,Give reasons for simple predictions.,2010400,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,TRUE
+ENGLISH SK,BI-SK,4,Speaking,2.3.1,Narrate short basic stories.,2030100,TRUE
+ENGLISH SK,BI-SK,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,TRUE
+ENGLISH SK,BI-SK,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,TRUE
+ENGLISH SK,BI-SK,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,TRUE
+ENGLISH SK,BI-SK,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,TRUE
+ENGLISH SK,BI-SK,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest.,3030100,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.1.2,Use cursive writing in written work.,4010200,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.2.3,Describe basic every day routines.,4020300,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,TRUE
+ENGLISH SK,BI-SK,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+ENGLISH SK,BI-SK,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel.,5020100,TRUE
+ENGLISH SK,BI-SK,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate.",5030100,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.1.1,Recognise and reproduce with little or no support a wide range of target language phonemes,1010100,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.2.2,Understand with support specific information and details of longer simple texts on a range of familiar topics,1020000,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.2.1,Understand with support the main idea of longer simple texts on a range of familiar topics,1020100,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.2.3,Understand with support longer simple narratives on a range of familiar topics.,1020300,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.2.4,Understand q sequence of supported classroom instructions.,1020400,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.2.5,Understand a sequence of supported questions.,1020500,TRUE
+ENGLISH SK,BI-SK,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words.,1030100,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.1.1,Give detailed information about themselves.,2010100,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.1.2,Find out about and describe experiences up to now.,2010200,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.1.3,"Ask for,give and respond to simple advice.",2010300,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.1.4,Ask about and describe future plans.,2010400,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.1.5,"Describe people,place and objects using suitable statements.",2010500,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.2.1,Keep interaction going in short exchanges by asking questions.,2020100,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.2.2,Agree a set of basic steps needed to complete short classroom tasks.,2020200,TRUE
+ENGLISH SK,BI-SK,5,Speaking,2.3.1,Narrate short basic stories and events.,2030100,TRUE
+ENGLISH SK,BI-SK,5,Reading,3.2.1,Understand the main idea of simple texts of two paragraphs or more.,3020100,TRUE
+ENGLISH SK,BI-SK,5,Reading,3.2.2,Understand specific information and details of two paragraphs or more.,3020200,TRUE
+ENGLISH SK,BI-SK,5,Reading,3.2.3,"Guess the meaning of unfamiar words from clues provided by title,topic and other known words.",3020300,TRUE
+ENGLISH SK,BI-SK,5,Reading,3.2.4,Use with support familiar print and digital resources to check meaning.,3020400,TRUE
+ENGLISH SK,BI-SK,5,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest.,3030100,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.2.1,Give detailed information about themselves.,4020100,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.2.2,"Ask for,give and respond to simple advice.",4020200,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.2.3,Narrate factual events and experiences of interest.,4020300,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.2.4,"Describe people,places and objects using suitable statements.",4020400,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.2.5,Connect sentences into one or two coherent paragraphs using basic coordinating conjunctions and reference pronouns.,4020500,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.3.1,"Use capital letters,full stops,commas in lists and question marks appropriately in independent writing at discourse level.",4030100,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.3.2,Spell a range of high frequency words accurately in independent writing.,4030200,TRUE
+ENGLISH SK,BI-SK,5,Writing,4.3.3,Produce a plan or draft of one or two paragraphs for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+ENGLISH SK,BI-SK,5,Language Arts,5.2.1,"Express in simple language why they like or dislike an event, description or character in a text.",5020100,TRUE
+ENGLISH SK,BI-SK,5,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple role-plays and simple poems and other imaginative responses as appropriate.,5030100,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.1.1,Recognise and reproduce independently a wide range of target language phonemes.,1010100,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics.,1020100,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of longer simple texts on a range of familiar topics.,1020200,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics.,1020300,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.2.4,Understand longer sequences of supported classroom instructions.,1020400,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.2.5,Understand more complex supported questions.,1020500,TRUE
+ENGLISH SK,BI-SK,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics.,1030100,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.1.1,Give detailed information about themselves and others.,2010100,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.1.2,Ask about and express rules and obligations.,2010200,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.1.3,Explain and give reasons for simple advice.,2010300,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.1.4,Ask about and describe future plans or events.,2010400,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.1.5,Ask about and describe personality.,2010500,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying.,2020100,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks.,2020200,TRUE
+ENGLISH SK,BI-SK,6,Speaking,2.3.1,"Narrate short stories,events and experiences.",2030100,TRUE
+ENGLISH SK,BI-SK,6,Reading,3.2.1,Understand the main idea of simple longer texts.,3020100,TRUE
+ENGLISH SK,BI-SK,6,Reading,3.2.2,Understand specific information and details of simple longer texts.,3020200,TRUE
+ENGLISH SK,BI-SK,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context.,3020300,TRUE
+ENGLISH SK,BI-SK,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning.,3020400,TRUE
+ENGLISH SK,BI-SK,6,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest.,3030100,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.2.1,Give detailed information about themselves and others.,4020100,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.2.2,Describe future plans or events.,4020200,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.2.3,Narrate factual and imagined events and experiences.,4020300,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.2.4,Describe personality.,4020400,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.2.5,Connect sentences to two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns.,4020500,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.3.1,"Use capital letters,full stops,commas in lists,question marks and speech marks appropriately at discourse level.",4030100,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing.,4030200,TRUE
+ENGLISH SK,BI-SK,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+ENGLISH SK,BI-SK,6,Language Arts,5.2.1,Describe in simple language a character's actions or feelings and explain the reasons for them.,5020100,TRUE
+ENGLISH SK,BI-SK,6,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate.,5030100,TRUE
+English SJKC,BI-SJKC,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+English SJKC,BI-SJKC,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,TRUE
+English SJKC,BI-SJKC,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,TRUE
+English SJKC,BI-SJKC,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,TRUE
+English SJKC,BI-SJKC,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,TRUE
+English SJKC,BI-SJKC,1,Listening,1.2.5,Understand short supported questions,1020500,TRUE
+English SJKC,BI-SJKC,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,TRUE
+English SJKC,BI-SJKC,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,TRUE
+English SJKC,BI-SJKC,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,TRUE
+English SJKC,BI-SJKC,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,TRUE
+English SJKC,BI-SJKC,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,TRUE
+English SJKC,BI-SJKC,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,TRUE
+English SJKC,BI-SJKC,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,TRUE
+English SJKC,BI-SJKC,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,TRUE
+English SJKC,BI-SJKC,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,TRUE
+English SJKC,BI-SJKC,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,TRUE
+English SJKC,BI-SJKC,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level; Create simple non-linear and linear texts using a variety of media with guidance.,3030100,TRUE
+English SJKC,BI-SJKC,1,Writing,4.1.1,Demonstrate fine motor control of hands and fingers by using pen or pencil correctly. Demonstrate correct posture and pen hold grip. Develop hand-eye coordination through drawing lines and patterns,4010100,TRUE
+English SJKC,BI-SJKC,1,Writing,4.1.2,Form upper and lower case letters of regular size and shape** **preliterate children only; write letters and words in a straight line from left to right with regular spaces between words and spaces* *all children; copy letters and familiar high frequency words and phrases correctly* *all children,4010200,TRUE
+English SJKC,BI-SJKC,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,TRUE
+English SJKC,BI-SJKC,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,TRUE
+English SJKC,BI-SJKC,1,Writing,4.2.3,Express basic likes and dislikes,4020300,TRUE
+English SJKC,BI-SJKC,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,TRUE
+English SJKC,BI-SJKC,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,TRUE
+English SJKC,BI-SJKC,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,TRUE
+English SJKC,BI-SJKC,1,Writing,4.3.2,Spell familiar high frequency words accurate,4030200,TRUE
+English SJKC,BI-SJKC,1,Writing,4.3.3,"Plan, and write words and phrases",4030300,TRUE
+English SJKC,BI-SJKC,1,Writing,4.4.1,"Plan, produce and present creative works: ii. rhymes with guidance",4040100,TRUE
+English SJKC,BI-SJKC,1,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs,5010100,TRUE
+English SJKC,BI-SJKC,1,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs,5010200,TRUE
+English SJKC,BI-SJKC,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,TRUE
+English SJKC,BI-SJKC,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products other imaginative responses as appropriate.,5030100,TRUE
+English SJKC,BI-SJKC,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+English SJKC,BI-SJKC,2,Listening,1.2.1,Understand with support the main idea of simple sentences,1020100,TRUE
+English SJKC,BI-SJKC,2,Listening,1.2.2,Understand with support specific information and details of simple sentences,1020200,TRUE
+English SJKC,BI-SJKC,2,Listening,1.2.3,Understand with support very short simple narratives,1020300,TRUE
+English SJKC,BI-SJKC,2,Listening,1.2.4,Understand an increased range of short basic supported classroom instructions,1020400,TRUE
+English SJKC,BI-SJKC,2,Listening,1.2.5,Understand an increased range of short supported questions,1020500,TRUE
+English SJKC,BI-SJKC,2,Listening,1.3.1,Understand the message the teacher or classmate is communicating by using visual clues when they are speaking,1030100,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.1.1,Give simple personal information using basic statements,2010100,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.1.2,Find out about personal information by asking basic questions,2010200,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.1.3,Give a short sequence of basic instructions,2010300,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.1.4,Ask about and express ability,2010400,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.1.5,Describe objects using suitable words and phrases,2010500,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable non-verbal responses,2020100,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable statements and questions,2020200,TRUE
+English SJKC,BI-SJKC,2,Speaking,2.3.1,Introduce self and others to an audience using fixed phrases,2030000,TRUE
+English SJKC,BI-SJKC,2,Reading,3.1.1,"Identify, recognise and name the letters of the alphabet",3010100,TRUE
+English SJKC,BI-SJKC,2,Reading,3.1.2,"Recognise and sound out with some support beginning, medial and final sounds in a word",3010200,TRUE
+English SJKC,BI-SJKC,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC, CVCV, CCV)",3010300,TRUE
+English SJKC,BI-SJKC,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC, CVCV, CCV)",3010400,TRUE
+English SJKC,BI-SJKC,2,Reading,3.2.1,Understand the main idea of simple sentences,3020100,TRUE
+English SJKC,BI-SJKC,2,Reading,3.2.2,Understand specific information and details of simple sentences,3020200,TRUE
+English SJKC,BI-SJKC,2,Reading,3.2.3,"Reread a word, phrase or sentence to understand meaning; Ignore unknown words in order to understand a phrase or sentence",3020300,TRUE
+English SJKC,BI-SJKC,2,Reading,3.2.4,"Use a picture dictionary to find, list and categorise words from Year 2 topics and theme",3020400,TRUE
+English SJKC,BI-SJKC,2,Reading,3.3.1,Read and enjoy simple print and digital games at sentence level,3030100,TRUE
+English SJKC,BI-SJKC,2,Writing,4.2.1,Ask for and give basic personal information using basic questions and statements,4020100,TRUE
+English SJKC,BI-SJKC,2,Writing,4.2.2,Express simple ability,4020200,TRUE
+English SJKC,BI-SJKC,2,Writing,4.2.3,Write short familiar instructions,4020300,TRUE
+English SJKC,BI-SJKC,2,Writing,4.2.4,Describe objects using suitable words and phrases,4020400,TRUE
+English SJKC,BI-SJKC,2,Writing,4.2.5,Connect words and phrases using basic coordinating conjunctions,4020500,TRUE
+English SJKC,BI-SJKC,2,Writing,4.3.1,Use capital letters and full stops appropriately in guided writing at sentence level,4030100,TRUE
+English SJKC,BI-SJKC,2,Writing,4.3.2,Spell a narrow range of familiar high frequency words accurately in guided writing,4030200,TRUE
+English SJKC,BI-SJKC,2,Writing,4.3.3,"Plan, draft and write simple sentences",4030300,TRUE
+English SJKC,BI-SJKC,2,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs,5010100,TRUE
+English SJKC,BI-SJKC,2,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs,5010200,TRUE
+English SJKC,BI-SJKC,2,Language Arts,5.2.1,"Name people, things, actions, or places of interest in texts",5020100,TRUE
+English SJKC,BI-SJKC,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple short chants or raps Other imaginative responses as appropriate,5030100,TRUE
+English SJKC,BI-SJKC,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes.,1010000,TRUE
+English SJKC,BI-SJKC,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,TRUE
+English SJKC,BI-SJKC,3,Listening,1.2.1,Understand with support the main idea of short simple texts,1020100,TRUE
+English SJKC,BI-SJKC,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,TRUE
+English SJKC,BI-SJKC,3,Listening,1.2.3,Understand with support short simple narratives,1020300,TRUE
+English SJKC,BI-SJKC,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,TRUE
+English SJKC,BI-SJKC,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,TRUE
+English SJKC,BI-SJKC,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.1.1,Ask about and express basic opinions,2010100,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.1.2,Find out about and describe basic everyday routines,2010200,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.1.3,Give a short sequence of basic directions,2010300,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.1.4,"Ask about, make and respond to simple predictions",2010400,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,TRUE
+English SJKC,BI-SJKC,3,Speaking,2.3.1,Narrate very short basic stories and events,2030100,TRUE
+English SJKC,BI-SJKC,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,TRUE
+English SJKC,BI-SJKC,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,TRUE
+English SJKC,BI-SJKC,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,TRUE
+English SJKC,BI-SJKC,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,TRUE
+English SJKC,BI-SJKC,3,Reading,3.3.1,Read and enjoy A1 fiction or non-fiction print and digital texts of interest,3030100,TRUE
+English SJKC,BI-SJKC,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work* *all children,4010200,TRUE
+English SJKC,BI-SJKC,3,Writing,4.2.1,Express simple opinions,4020100,TRUE
+English SJKC,BI-SJKC,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,TRUE
+English SJKC,BI-SJKC,3,Writing,4.2.3,Give simple directions,4020300,TRUE
+English SJKC,BI-SJKC,3,Writing,4.2.4,Describe people and objects using suitable words and phrases,4020400,TRUE
+English SJKC,BI-SJKC,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,TRUE
+English SJKC,BI-SJKC,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,TRUE
+English SJKC,BI-SJKC,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,TRUE
+English SJKC,BI-SJKC,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences",4030300,TRUE
+English SJKC,BI-SJKC,3,Language Arts,5.1.1,simple chants and raps; simple rhymes; simple action songs; simple songs; simple poems,5010100,TRUE
+English SJKC,BI-SJKC,3,Language Arts,5.1.2,simple chants and raps; simple rhymes; simple action songs; simple songs; simple poems,5010200,TRUE
+English SJKC,BI-SJKC,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,TRUE
+English SJKC,BI-SJKC,3,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple action songs on familiar topics Other imaginative responses as appropriate,5030100,TRUE
+English SJKC,BI-SJKC,4,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,TRUE
+English SJKC,BI-SJKC,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,TRUE
+English SJKC,BI-SJKC,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,TRUE
+English SJKC,BI-SJKC,4,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,TRUE
+English SJKC,BI-SJKC,4,Listening,1.2.5,Understand longer supported questions.,1020500,TRUE
+English SJKC,BI-SJKC,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.1.4,Give reasons for simple predictions.,2010400,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,TRUE
+English SJKC,BI-SJKC,4,Speaking,2.3.1,Narrate short basic stories.,2030100,TRUE
+English SJKC,BI-SJKC,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,TRUE
+English SJKC,BI-SJKC,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,TRUE
+English SJKC,BI-SJKC,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,TRUE
+English SJKC,BI-SJKC,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,TRUE
+English SJKC,BI-SJKC,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest.,3030100,TRUE
+English SJKC,BI-SJKC,4,Writing,4.1.2,Use cursive writing in written work.,4010200,TRUE
+English SJKC,BI-SJKC,4,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,TRUE
+English SJKC,BI-SJKC,4,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,TRUE
+English SJKC,BI-SJKC,4,Writing,4.2.3,Describe basic every day routines.,4020300,TRUE
+English SJKC,BI-SJKC,4,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,TRUE
+English SJKC,BI-SJKC,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,TRUE
+English SJKC,BI-SJKC,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,TRUE
+English SJKC,BI-SJKC,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,TRUE
+English SJKC,BI-SJKC,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+English SJKC,BI-SJKC,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel.,5020100,TRUE
+English SJKC,BI-SJKC,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate.",5030100,TRUE
+English SJKC,BI-SJKC,5,Listening,1.1.1,Recognise and reproduce with little or no support a wide range of target language phonemes,1010100,TRUE
+English SJKC,BI-SJKC,5,Listening,1.2.1,Understand with support the main idea of longer simple texts on a range of familiar topics,1020100,TRUE
+English SJKC,BI-SJKC,5,Listening,1.2.2,Understand with support specific information and details of longer simple texts on a range of familiar topics,1020200,TRUE
+English SJKC,BI-SJKC,5,Listening,1.2.3,Understand with support longer simple narratives on a range of familiar topics,1020300,TRUE
+English SJKC,BI-SJKC,5,Listening,1.2.4,Understand a sequence of supported classroom instructions,1020400,TRUE
+English SJKC,BI-SJKC,5,Listening,1.2.5,Understand a sequence of supported questions,1020500,TRUE
+English SJKC,BI-SJKC,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words,1030100,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.1.1,Give detailed information about themselves,2010100,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.1.2,Find out about and describe experiences up to now,2010200,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.1.3,"Ask for, give and respond to simple advice",2010300,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.1.4,Ask about and describe future plans,2010400,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.1.5,"Describe people, places and objects using suitable statements",2010500,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.2.1,Keep interaction going in short exchanges by asking suitable questions,2020100,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.2.2,Agree a set of basic steps needed to complete short classroom tasks,2020200,TRUE
+English SJKC,BI-SJKC,5,Speaking,2.3.1,Narrate short basic stories and events,2030100,TRUE
+English SJKC,BI-SJKC,5,Reading,3.2.1,Understand the main idea of simple texts of two paragraphs or more,3020100,TRUE
+English SJKC,BI-SJKC,5,Reading,3.2.2,Understand specific information and details of two paragraphs or more,3020200,TRUE
+English SJKC,BI-SJKC,5,Reading,3.2.3,"Guess the meaning of unfamiliar words from clues provided by title, topic and other known words",3020300,TRUE
+English SJKC,BI-SJKC,5,Reading,3.2.4,Use with support familiar print and digital resources to check meaning,3020400,TRUE
+English SJKC,BI-SJKC,5,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,TRUE
+English SJKC,BI-SJKC,5,Writing,4.2.1,Give detailed information about themselves,4020100,TRUE
+English SJKC,BI-SJKC,5,Writing,4.2.2,"Ask for, give and respond to simple advice",4020200,TRUE
+English SJKC,BI-SJKC,5,Writing,4.2.3,Narrate factual events and experiences of interest,4020300,TRUE
+English SJKC,BI-SJKC,5,Writing,4.2.4,"Describe people, places and objects using suitable statements",4020400,TRUE
+English SJKC,BI-SJKC,5,Writing,4.2.5,Connect sentences into one or two coherent paragraphs using basic coordinating conjunctions and reference pronouns,4020500,TRUE
+English SJKC,BI-SJKC,5,Writing,4.3.1,"Use capital letters, full stops, commas in lists and question marks appropriately in independent writing at discourse level",4030100,TRUE
+English SJKC,BI-SJKC,5,Writing,4.3.2,Spell a range of high frequency words accurately in independent writing,4030200,TRUE
+English SJKC,BI-SJKC,5,Writing,4.3.3,Produce a plan or draft of one or two paragraphs for a familiar topic and modify this appropriately in response to feedback,4030300,TRUE
+English SJKC,BI-SJKC,5,Language Arts,5.2.1,"Explain in simple language why they like or dislike an event, description or character in a text",5020100,TRUE
+English SJKC,BI-SJKC,5,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple role-plays and simple poems,5030100,TRUE
+English SJKC,BI-SJKC,6,Listening,1.1.1,Recognise and reproduce with independently a wide range of target language phonemes,1010100,TRUE
+English SJKC,BI-SJKC,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics,1020100,TRUE
+English SJKC,BI-SJKC,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of familiar topics,1020200,TRUE
+English SJKC,BI-SJKC,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics,1020300,TRUE
+English SJKC,BI-SJKC,6,Listening,1.2.4,Understand longer sequences of supported classroom instructions,1020400,TRUE
+English SJKC,BI-SJKC,6,Listening,1.2.5,Understand more complex supported questions,1020500,TRUE
+English SJKC,BI-SJKC,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics,1030100,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.1.1,Give detailed information about themselves and others,2010100,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.1.2,Ask about and express rules and obligations,2010200,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.1.3,Explain and give reasons for simple advice,2010300,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.1.4,Ask about and describe future plans or events,2010400,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.1.5,Ask about and describe personality,2010500,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying,2020100,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks,2020200,TRUE
+English SJKC,BI-SJKC,6,Speaking,2.3.1,"Narrate short basic stories, events and experiences",2030100,TRUE
+English SJKC,BI-SJKC,6,Reading,3.2.1,Understand the main idea of simple longer texts,3020100,TRUE
+English SJKC,BI-SJKC,6,Reading,3.2.2,Understand specific information and details of simple longer texts,3020200,TRUE
+English SJKC,BI-SJKC,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context,3020300,TRUE
+English SJKC,BI-SJKC,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning,3020400,TRUE
+English SJKC,BI-SJKC,6,Reading,3.3.1,Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,TRUE
+English SJKC,BI-SJKC,6,Writing,4.2.1,Give detailed information about themselves and others,4020100,TRUE
+English SJKC,BI-SJKC,6,Writing,4.2.2,Describe future plans or events,4020200,TRUE
+English SJKC,BI-SJKC,6,Writing,4.2.3,Narrate factual and imagined events and experiences,4020300,TRUE
+English SJKC,BI-SJKC,6,Writing,4.2.4,Describe personality,4020400,TRUE
+English SJKC,BI-SJKC,6,Writing,4.2.5,Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns,4020500,TRUE
+English SJKC,BI-SJKC,6,Writing,4.3.1,"Use capital letters, full stops, commas in lists, question marks and speech marks appropriately at discourse level",4030100,TRUE
+English SJKC,BI-SJKC,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing,4030200,TRUE
+English SJKC,BI-SJKC,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback,4030300,TRUE
+English SJKC,BI-SJKC,6,Language Arts,5.2.1,Describe in simple language a character’s actions or feelings and explain the reasons for them,5020100,TRUE
+English SJKC,BI-SJKC,6,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate,5030100,TRUE
+English SJKT,BI-SJKT,1,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+English SJKT,BI-SJKT,1,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,TRUE
+English SJKT,BI-SJKT,1,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,TRUE
+English SJKT,BI-SJKT,1,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,TRUE
+English SJKT,BI-SJKT,1,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,TRUE
+English SJKT,BI-SJKT,1,Listening,1.2.5,Understand short supported questions,1020500,TRUE
+English SJKT,BI-SJKT,1,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.1.3,Express basic likes and dislikes,2010300,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,TRUE
+English SJKT,BI-SJKT,1,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,TRUE
+English SJKT,BI-SJKT,1,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,TRUE
+English SJKT,BI-SJKT,1,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,TRUE
+English SJKT,BI-SJKT,1,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,TRUE
+English SJKT,BI-SJKT,1,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,TRUE
+English SJKT,BI-SJKT,1,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,TRUE
+English SJKT,BI-SJKT,1,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,TRUE
+English SJKT,BI-SJKT,1,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,TRUE
+English SJKT,BI-SJKT,1,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,TRUE
+English SJKT,BI-SJKT,1,Reading,3.3.1,Read and enjoy simple print and digital games at word level,3030100,TRUE
+English SJKT,BI-SJKT,1,Writing,4.1.2,write letters and words in a straight line from left to right with regular spaces between words and spaces*; Form upper and lower case letters of regular size and shape**; copy letters and familiar high frequency words and phrases correctly*,4010200,TRUE
+English SJKT,BI-SJKT,1,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,TRUE
+English SJKT,BI-SJKT,1,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,TRUE
+English SJKT,BI-SJKT,1,Writing,4.2.3,Express basic likes and dislikes,4020300,TRUE
+English SJKT,BI-SJKT,1,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,TRUE
+English SJKT,BI-SJKT,1,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,TRUE
+English SJKT,BI-SJKT,1,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,TRUE
+English SJKT,BI-SJKT,1,Writing,4.3.2,Spell familiar high frequency words accurately,4030200,TRUE
+English SJKT,BI-SJKT,1,Writing,4.3.3,Plan and write words and phrases on a narrow range of familiar topics,4030300,TRUE
+English SJKT,BI-SJKT,1,Language Arts,5.1.1,Demonstrate appreciation through non-verbal responses to; simple chants and raps; simple rhymes; simple action songs,5010100,TRUE
+English SJKT,BI-SJKT,1,Language Arts,5.1.2,"Say the words in simple texts, and sing simple songs with intelligible pronunciation, rhythm and intonation; simple chants and raps; simple rhymes; simple action songs",5010200,TRUE
+English SJKT,BI-SJKT,1,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,TRUE
+English SJKT,BI-SJKT,1,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products,5030100,TRUE
+English SJKT,BI-SJKT,2,Listening,1.1.1,Recognise and reproduce with support a limited range of high frequency target language phonemes,1010100,TRUE
+English SJKT,BI-SJKT,2,Listening,1.2.1,Understand with support the main idea of very simple phrases and sentences,1020100,TRUE
+English SJKT,BI-SJKT,2,Listening,1.2.2,Understand with support specific information and details of very simple phrases and sentences,1020200,TRUE
+English SJKT,BI-SJKT,2,Listening,1.2.3,Understand with a high degree of support very short simple narratives,1020300,TRUE
+English SJKT,BI-SJKT,2,Listening,1.2.4,Understand short basic supported classroom instructions,1020400,TRUE
+English SJKT,BI-SJKT,2,Listening,1.2.5,Understand short supported questions,1020500,TRUE
+English SJKT,BI-SJKT,2,Listening,1.3.1,Predict words they will hear by using knowledge of a topic,1030100,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.1.1,Give very basic personal information using fixed phrases,2010100,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.1.2,Find out about very basic personal information using fixed phrases,2010200,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.1.3,Express basic likes and dislikes,2010300,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.1.4,"Greet, say goodbye, and express thanks using suitable fixed phrases",2010400,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.1.5,Name or describe objects using suitable words from word sets,2010500,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.2.2,Ask for attention or help from a teacher or classmate using one word or a fixed phrase,2020200,TRUE
+English SJKT,BI-SJKT,2,Speaking,2.3.1,Introduce self to an audience using fixed phrases,2030100,TRUE
+English SJKT,BI-SJKT,2,Reading,3.1.1,Identify and recognise the shapes of the letters in the alphabet,3010100,TRUE
+English SJKT,BI-SJKT,2,Reading,3.1.2,"Recognise and sound out with support beginning, medial and final sounds in a word",3010200,TRUE
+English SJKT,BI-SJKT,2,Reading,3.1.3,"Blend phonemes (CVC, CCVC)",3010300,TRUE
+English SJKT,BI-SJKT,2,Reading,3.1.4,"Segment phonemes (CVC, CCVC)",3010400,TRUE
+English SJKT,BI-SJKT,2,Reading,3.2.1,Understand the main idea of very simple phrases and sentences,3020100,TRUE
+English SJKT,BI-SJKT,2,Reading,3.2.2,Understand specific information and details of very simple phrases and sentences,3020200,TRUE
+English SJKT,BI-SJKT,2,Reading,3.2.3,Use visuals on the page to help understand a word or phrase; Identify and remember high frequency sound and letter patterns,3020300,TRUE
+English SJKT,BI-SJKT,2,Reading,3.2.4,"Use with support a simple picture dictionary to find, list and categorise words from Year 1 topics and themes",3020400,TRUE
+English SJKT,BI-SJKT,2,Reading,3.3.1,Read and enjoy simple print and digital games at word level,3030100,TRUE
+English SJKT,BI-SJKT,2,Writing,4.1.2,write letters and words in a straight line from left to right with regular spaces between words and spaces*; Form upper and lower case letters of regular size and shape**; copy letters and familiar high frequency words and phrases correctly*,4010200,TRUE
+English SJKT,BI-SJKT,2,Writing,4.2.1,Give very basic personal information using fixed phrases,4020100,TRUE
+English SJKT,BI-SJKT,2,Writing,4.2.2,"Greet, say goodbye, and express thanks using suitable fixed phrases",4020200,TRUE
+English SJKT,BI-SJKT,2,Writing,4.2.3,Express basic likes and dislikes,4020300,TRUE
+English SJKT,BI-SJKT,2,Writing,4.2.4,Name or describe objects using suitable words from word sets,4020400,TRUE
+English SJKT,BI-SJKT,2,Writing,4.2.5,Connect words and proper names using ‘and’,4020500,TRUE
+English SJKT,BI-SJKT,2,Writing,4.3.1,Use capital letters appropriately in personal and place names,4030100,TRUE
+English SJKT,BI-SJKT,2,Writing,4.3.2,Spell familiar high frequency words accurately,4030200,TRUE
+English SJKT,BI-SJKT,2,Writing,4.3.3,Plan and write words and phrases on a narrow range of familiar topics,4030300,TRUE
+English SJKT,BI-SJKT,2,Language Arts,5.1.1,Demonstrate appreciation through non-verbal responses to; simple chants and raps; simple rhymes; simple action songs,5010100,TRUE
+English SJKT,BI-SJKT,2,Language Arts,5.1.2,"Say the words in simple texts, and sing simple songs with intelligible pronunciation, rhythm and intonation; simple chants and raps; simple rhymes; simple action songs",5010200,TRUE
+English SJKT,BI-SJKT,2,Language Arts,5.2.1,"Name people, things or places of interest in illustrations accompanying texts",5020100,TRUE
+English SJKT,BI-SJKT,2,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple art and craft products,5030100,TRUE
+English SJKT,BI-SJKT,3,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes,1010100,TRUE
+English SJKT,BI-SJKT,3,Listening,1.2.1,Understand with support the main idea of short simple texts; Understand with support the main idea of short,1020100,TRUE
+English SJKT,BI-SJKT,3,Listening,1.2.2,Understand with support specific information and details of short simple texts,1020200,TRUE
+English SJKT,BI-SJKT,3,Listening,1.2.3,Understand with support short simple narratives,1020300,TRUE
+English SJKT,BI-SJKT,3,Listening,1.2.4,Understand a wide range of short basic supported classroom instructions,1020400,TRUE
+English SJKT,BI-SJKT,3,Listening,1.2.5,Understand a wide range of short supported questions,1020500,TRUE
+English SJKT,BI-SJKT,3,Listening,1.3.1,Guess the meaning of unfamiliar words by using visual clues when a teacher or classmate is speaking,1030100,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.1.1,Ask about and express basic opinions,2010100,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.1.2,Find out about and describe basic everyday routines; Find out about and describe everyday routines,2010200,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.1.3,Give a short sequence of basic directions,2010300,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.1.5,Describe people and objects using suitable words and phrases,2010500,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.2.1,Keep interaction going in short exchanges by repeating key words from the other speaker,2020100,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.2.2,Ask for attention or help from a teacher or classmate by using suitable questions,2020200,TRUE
+English SJKT,BI-SJKT,3,Speaking,2.3.1,Narrate very short basic stories and events,2030100,TRUE
+English SJKT,BI-SJKT,3,Reading,3.2.1,Understand the main idea of short simple texts,3020100,TRUE
+English SJKT,BI-SJKT,3,Reading,3.2.2,Understand specific information and details of short simple texts,3020200,TRUE
+English SJKT,BI-SJKT,3,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by visuals and the topic,3020300,TRUE
+English SJKT,BI-SJKT,3,Reading,3.2.4,Recognise and use with support key features of a simple monolingual dictionary,3020400,TRUE
+English SJKT,BI-SJKT,3,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest,3030100,TRUE
+English SJKT,BI-SJKT,3,Writing,4.1.2,Begin to use cursive handwriting in a limited range of written work*; Begin to use cursive handwriting in a limited range of written work,4010200,TRUE
+English SJKT,BI-SJKT,3,Writing,4.2.1,Express simple opinions,4020100,TRUE
+English SJKT,BI-SJKT,3,Writing,4.2.2,Make and give reasons for simple predictions,4020200,TRUE
+English SJKT,BI-SJKT,3,Writing,4.2.3,Give simple directions,4020300,TRUE
+English SJKT,BI-SJKT,3,Writing,4.2.4,Describe people and objects using suitable words and phrases; Describe people and objects using suitable words,4020400,TRUE
+English SJKT,BI-SJKT,3,Writing,4.2.5,Connect sentences using basic coordinating conjunctions,4020500,TRUE
+English SJKT,BI-SJKT,3,Writing,4.3.1,"Use capital letters, full stops and question marks appropriately in guided writing at sentence level",4030100,TRUE
+English SJKT,BI-SJKT,3,Writing,4.3.2,Spell an increased range of familiar high frequency words accurately in guided writing,4030200,TRUE
+English SJKT,BI-SJKT,3,Writing,4.3.3,"Plan, draft and write an increased range of simple sentences",4030300,TRUE
+English SJKT,BI-SJKT,3,Language Arts,5.1.1,"Enjoy and appreciate rhymes, poems and songs",5010100,TRUE
+English SJKT,BI-SJKT,3,Language Arts,5.1.2,In addition to Year 2 text types: simple poems.,5010200,TRUE
+English SJKT,BI-SJKT,3,Language Arts,5.2.1,"Ask and answer simple questions about characters, actions and events of interest in a text",5020100,TRUE
+English SJKT,BI-SJKT,3,Language Arts,5.3.1,Respond imaginatively and intelligibly through creating simple action songs on familiar topics; Respond imaginatively and intelligibly through creating simple action songs on familiar topics. Other imaginative responses as appropriate. Respond imaginatively and intelligibly through creating simple action songs on familiar topics. Other imaginative responses as appropriate; Respond imaginatively and intelligibly through creating simple action songs on familiar topics Other imaginative responses as appropriate,5030100,TRUE
+English SJKT,BI-SJKT,4,Listening,1.1.1,Recognise and reproduce with support a wide range of target language phonemes,1010100,TRUE
+English SJKT,BI-SJKT,4,Listening,1.2.1,Understand with support the main idea of longer simple texts,1020100,TRUE
+English SJKT,BI-SJKT,4,Listening,1.2.2,Understand with support specific information and details of longer simple texts,1020200,TRUE
+English SJKT,BI-SJKT,4,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics,1020300,TRUE
+English SJKT,BI-SJKT,4,Listening,1.2.4,Understand longer supported classroom instructions,1020400,TRUE
+English SJKT,BI-SJKT,4,Listening,1.2.5,Understand longer supported questions,1020500,TRUE
+English SJKT,BI-SJKT,4,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic,1030100,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.1.1,Explain and give reasons for basic opinions,2010100,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.1.2,Find out about and describe experiences in the past,2010200,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.1.3,Give a longer sequence of basic instructions or directions,2010300,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.1.4,Give reasons for simple predictions,2010400,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.1.5,"Describe people, and objects using suitable statements",2010500,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.2.2,Check steps needed to complete short classroom tasks,2020200,TRUE
+English SJKT,BI-SJKT,4,Speaking,2.3.1,Narrate short basic stories,2030100,TRUE
+English SJKT,BI-SJKT,4,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs,3020100,TRUE
+English SJKT,BI-SJKT,4,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs,3020200,TRUE
+English SJKT,BI-SJKT,4,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic,3020300,TRUE
+English SJKT,BI-SJKT,4,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary,3020400,TRUE
+English SJKT,BI-SJKT,4,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest,3030100,TRUE
+English SJKT,BI-SJKT,4,Writing,4.1.2,Use cursive writing in written work* *all children,4010200,TRUE
+English SJKT,BI-SJKT,4,Writing,4.2.1,Explain and give reasons for simple opinions,4020100,TRUE
+English SJKT,BI-SJKT,4,Writing,4.2.2,Make and respond to simple offers and invitations,4020200,TRUE
+English SJKT,BI-SJKT,4,Writing,4.2.3,Describe basic everyday routines,4020300,TRUE
+English SJKT,BI-SJKT,4,Writing,4.2.4,Describe people and objects using suitable statements,4020400,TRUE
+English SJKT,BI-SJKT,4,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns,4020500,TRUE
+English SJKT,BI-SJKT,4,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level",4030100,TRUE
+English SJKT,BI-SJKT,4,Writing,4.3.2,Spell most high frequency words accurately in guided writing,4030200,TRUE
+English SJKT,BI-SJKT,4,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback,4030300,TRUE
+English SJKT,BI-SJKT,4,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel,5020100,TRUE
+English SJKT,BI-SJKT,4,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories, simple poems and cartoon stories Other imaginative responses as appropriate",5030100,TRUE
+English SJKT,BI-SJKT,5,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes. 1Recognise and reproduce with support a range of target language phonemes. teacher To select appropriate skill,1010000,TRUE
+English SJKT,BI-SJKT,5,Listening,1.2.1,Understand with support the main idea of longer simple texts.,1020100,TRUE
+English SJKT,BI-SJKT,5,Listening,1.2.2,Understand with support specific information and details of longer simple texts.,1020200,TRUE
+English SJKT,BI-SJKT,5,Listening,1.2.3,Understand with support short simple narratives on a range of familiar topics.,1020300,TRUE
+English SJKT,BI-SJKT,5,Listening,1.2.4,Understand longer supported classroom instructions.,1020400,TRUE
+English SJKT,BI-SJKT,5,Listening,1.2.5,Understand longer supported questions.,1020500,TRUE
+English SJKT,BI-SJKT,5,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by knowledge of the topic.,1030100,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.1.1,Explain and give reasons for basics opinions.,2010100,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.1.3,Give a longer sequence of basic instructions or directions.,2010300,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.1.4,Give reasons for simple predictions.,2010400,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.1.5,"Describe people, and objects using suitable statements.",2010500,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.2.1,Keep interaction going in short exchanges by using suitable words; to show understanding; to ask for clarification,2020100,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.2.2,Check steps nedded to complete short classroom tasks.,2020200,TRUE
+English SJKT,BI-SJKT,5,Speaking,2.3.1,Narrate short basic stories.,2030100,TRUE
+English SJKT,BI-SJKT,5,Reading,3.2.1,Understand the main idea of simple texts of one or two paragraphs.,3020100,TRUE
+English SJKT,BI-SJKT,5,Reading,3.2.2,Understand specific information and details of simple texts of one or two paragraphs.,3020200,TRUE
+English SJKT,BI-SJKT,5,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by title and topic.,3020300,TRUE
+English SJKT,BI-SJKT,5,Reading,3.2.4,Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,TRUE
+English SJKT,BI-SJKT,5,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest. teacher To select appropriate skill,3030100,TRUE
+English SJKT,BI-SJKT,5,Writing,4.2.1,Explain and give reasons for simple opinions.,4020100,TRUE
+English SJKT,BI-SJKT,5,Writing,4.2.2,Make and respond to simple offers and invitations.,4020200,TRUE
+English SJKT,BI-SJKT,5,Writing,4.2.3,Describe basic every day routines.,4020300,TRUE
+English SJKT,BI-SJKT,5,Writing,4.2.4,Describe people and objects using suitable statements.,4020400,TRUE
+English SJKT,BI-SJKT,5,Writing,4.2.5,Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns. teacher To select appropriate skill,4020500,TRUE
+English SJKT,BI-SJKT,5,Writing,4.3.1,"Use capital letters, full stops, question marks and commas in lists appropriately in guided writing at discourse level.",4030100,TRUE
+English SJKT,BI-SJKT,5,Writing,4.3.2,Spell most high frequency words accurately in guided writing.,4030200,TRUE
+English SJKT,BI-SJKT,5,Writing,4.3.3,Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+English SJKT,BI-SJKT,5,Language Arts,5.2.1,Say in simple words and phrases how a text makes them feel. teacher To select appropriate skill,5020100,TRUE
+English SJKT,BI-SJKT,5,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate. teacher To select appropriate skill",5030100,TRUE
+English SJKT,BI-SJKT,6,Listening,1.1.1,Recognise and reproduce with support a range of target language phonemes. Understand longer supported questions.,1010000,TRUE
+English SJKT,BI-SJKT,6,Listening,1.1.1,Recognise and reproduce independently a wide range of target language phonemes,1010100,TRUE
+English SJKT,BI-SJKT,6,Listening,1.2.1,Understand with little or no support the main idea of longer simple texts on a range of familiar topics,1020100,TRUE
+English SJKT,BI-SJKT,6,Listening,1.2.2,Understand with little or no support specific information and details of longer simple texts on a range of familiar topicss. Understand with little or no support specific information and details of longer simple texts on a range of familiar topics; Understand with support specific information and details of longer simple texts.,1020200,TRUE
+English SJKT,BI-SJKT,6,Listening,1.2.3,Understand with little or no support longer simple narratives on a range of familiar topics,1020300,TRUE
+English SJKT,BI-SJKT,6,Listening,1.2.4,Understand longer sequences of supported classroom instructionsl,1020400,TRUE
+English SJKT,BI-SJKT,6,Listening,1.2.5,Understand more complex supported questions,1020500,TRUE
+English SJKT,BI-SJKT,6,Listening,1.3.1,Guess the meaning of unfamiliar words from clues provided by other known words and by context on familiar topics,1030100,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.1.1,Give detailed information about themselves and others; Explain and give reasons for basics opinions.,2010100,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.1.2,Find out about and describe experiences in the past.,2010200,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.1.3,Explain and give reasons for simple advice; Give a longer sequence of basic instructions or directions.,2010300,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.1.4,Ask about and describe future plans or events. Ask about and describe future plans or events,2010400,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.1.5,"Describe people, and objects using suitable statements. Ask about and describe personality. Ask about and describe personality",2010500,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.2.1,Keep interaction going in short exchanges by checking understanding of what a speaker is saying,2020100,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.2.2,Agree a set of basic steps needed to complete extended classroom tasks,2020200,TRUE
+English SJKT,BI-SJKT,6,Speaking,2.3.1,"Narrate short stories, events and experiences",2030100,TRUE
+English SJKT,BI-SJKT,6,Reading,3.2.1,Understand the main idea of simple longer texts,3020100,TRUE
+English SJKT,BI-SJKT,6,Reading,3.2.2,Understand specific information and details of simple longer texts; Understand specific information and details of simple longer texts. Understand specific information and details of simple texts of one or two paragraphs.,3020200,TRUE
+English SJKT,BI-SJKT,6,Reading,3.2.3,Guess the meaning of unfamiliar words from clues provided by other known words and by context,3020300,TRUE
+English SJKT,BI-SJKT,6,Reading,3.2.4,Use with some support familiar print and digital resources to check meaning; Recognise and use with little or no support key features of a simple monolingual dictionary.,3020400,TRUE
+English SJKT,BI-SJKT,6,Reading,3.3.1,Read and enjoy A1 fiction/non-fiction print and digital texts of interest. Read and enjoy A2 fiction/non-fiction print and digital texts of interest,3030100,TRUE
+English SJKT,BI-SJKT,6,Writing,4.2.1,Give detailed information about themselves and others,4020100,TRUE
+English SJKT,BI-SJKT,6,Writing,4.2.2,Describe future plans or events; Make and respond to simple offers and invitations.,4020200,TRUE
+English SJKT,BI-SJKT,6,Writing,4.2.3,Narrate factual and imagined events and experiences. Narrate factual and imagined events and experiences,4020300,TRUE
+English SJKT,BI-SJKT,6,Writing,4.2.4,Describe people and objects using suitable statements. Describe personality,4020400,TRUE
+English SJKT,BI-SJKT,6,Writing,4.2.5,Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns. Connect sentences into two coherent paragraphs or more using basic coordinating conjunctions and reference pronouns; Connect sentences into a coherent paragraph using basic coordinating conjunctions and reference pronouns.,4020500,TRUE
+English SJKT,BI-SJKT,6,Writing,4.3.1,"Use capital letters, full stops, commas in lists, question marks and speech marks appropriately at discourse level; Use capital letters, full stops, commas in lists, question marks, and speech marks appropriately at discourse level",4030100,TRUE
+English SJKT,BI-SJKT,6,Writing,4.3.2,Spell most high frequency words accurately in independent writing; Spell most high frequency words accurately in guided writing.,4030200,TRUE
+English SJKT,BI-SJKT,6,Writing,4.3.3,Produce a plan or draft of two paragraphs or more for a familiar topic and modify this appropriately in response to feedback; Produce a plan or draft of one paragraph for a familiar topic and modify this appropriately in response to feedback.,4030300,TRUE
+English SJKT,BI-SJKT,6,Language Arts,5.2.1,Describe in simple language a character’s actions or feelings and explain the reasons for them; Say in simple words and phrases how a text makes them feel.,5020100,TRUE
+English SJKT,BI-SJKT,6,Language Arts,5.3.1,"Respond imaginatively and intelligibly through creating simple stories and simple poems (Other imaginative responses as appropriate); Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate; Respond imaginatively and intelligibly through creating simple picture stories,simple poems and cartoon series or other imaginative responses as appropriate. Respond imaginatively and intelligibly through creating simple stories and simple poems. Other imaginative responses as appropriate.",5030100,TRUE
